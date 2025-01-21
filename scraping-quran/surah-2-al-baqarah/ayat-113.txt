@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+113
+
+surat :
+وَقَالَتِ الْيَهُوْدُ لَيْسَتِ النَّصٰرٰى عَلٰى شَيْءٍۖ وَّقَالَتِ النَّصٰرٰى لَيْسَتِ الْيَهُوْدُ عَلٰى شَيْءٍۙ وَّهُمْ يَتْلُوْنَ الْكِتٰبَۗ  كَذٰلِكَ قَالَ الَّذِيْنَ لَا يَعْلَمُوْنَ مِثْلَ قَوْلِهِمْ ۚ فَاللّٰهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيٰمَةِ
+
+latin :
+waqaalati alyahuudu laysati alnnashaaraa 'alaa syay-in waqaalati alnnashaaraa laysati alyahuudu 'alaa syay-in wahum yatluuna alkitaaba kadzaalika qaala alladziina laa ya'lamuuna mitsla qawlihim faallaahu yahkumu baynahum yawma alqiyaamati fiimaa kaanuu fiihi yakhtalifuuna
+
+terjemahan :
+Dan orang Yahudi berkata, “Orang Nasrani itu tidak memiliki sesuatu (pegangan),” dan orang-orang Nasrani (juga) berkata, “Orang-orang Yahudi tidak memiliki sesuatu (pegangan),” padahal mereka membaca Kitab. Demikian pula orang-orang yang tidak berilmu, berkata seperti ucapan mereka itu. Maka Allah akan mengadili mereka pada hari Kiamat, tentang apa yang mereka perselisihkan.
+

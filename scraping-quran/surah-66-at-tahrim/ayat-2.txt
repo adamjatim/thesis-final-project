@@ -1,0 +1,30 @@
+no surat :
+66
+
+nama surat :
+At-Tahrim
+
+nama surat arab :
+التحريم
+
+arti surat :
+Pengharaman
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hujuraat. Dinamai surat At Tahrim karena pada awal surat ini terdapat kata tuharrim yang kata asalnya adalah Attahrim yang berarti mengharamkan.
+
+ayat :
+2
+
+surat :
+قَدْ فَرَضَ اللّٰهُ لَكُمْ تَحِلَّةَ اَيْمَانِكُمْۚ وَاللّٰهُ مَوْلٰىكُمْۚ وَهُوَ الْعَلِيْمُ الْحَكِيْمُ 
+
+latin :
+qad faradha laahu lakum tahillata aymaanikum walaahu mawlaakum wahuwa l'aliimu lhakiim
+
+terjemahan :
+Sungguh, Allah telah mewajibkan kepadamu membebaskan diri dari sumpahmu; dan Allah adalah pelindungmu dan Dia Maha Mengetahui, Mahabijaksana. 
+

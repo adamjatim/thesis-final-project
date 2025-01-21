@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+43
+
+surat :
+وَنَزَعْنَا مَا فِيْ صُدُوْرِهِمْ مِّنْ غِلٍّ تَجْرِيْ مِنْ تَحْتِهِمُ الْانْهٰرُۚ وَقَالُوا الْحَمْدُ لِلّٰهِ الَّذِيْ هَدٰىنَا لِهٰذَاۗ وَمَا كُنَّا لِنَهْتَدِيَ لَوْلَآ اَنْ هَدٰىنَا اللّٰهُ ۚ لَقَدْ جَاۤءَتْ رُسُلُ رَبِّنَا بِالْحَقِّۗ وَنُوْدُوْٓا ا
+
+latin :
+wanaza'naa maa fii shuduurihim min ghillin tajrii min tahtihimu l-anhaaru waqaaluu lhamdu lillaahi ladzii hadaanaa lihaadzaa wamaa kunnaa linahtadiya lawlaa an hadaanaa laahu laqad jaa-at rusulu rabbinaa bilhaqqi wanuuduu an tilkumu ljannatu uuritstumuuhaa bimaa kuntum ta'maluun
+
+terjemahan :
+dan Kami mencabut rasa dendam dari dalam dada mereka, di bawahnya mengalir sungai-sungai. Mereka berkata, “Segala puji bagi Allah yang telah menunjukkan kami ke (surga) ini. Kami tidak akan mendapat petunjuk sekiranya Allah tidak menunjukkan kami. Sesungguhnya rasul-rasul Tuhan kami telah datang membawa kebenaran.” Diserukan kepada mereka, “Itulah surga yang telah diwariskan kepadamu, karena apa yang telah kamu kerjakan.”
+

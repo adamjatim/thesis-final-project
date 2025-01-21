@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+232
+
+surat :
+وَاِذَا طَلَّقْتُمُ النِّسَاۤءَ فَبَلَغْنَ اَجَلَهُنَّ فَلَا تَعْضُلُوْهُنَّ اَنْ يَّنْكِحْنَ اَزْوَاجَهُنَّ اِذَا تَرَاضَوْا بَيْنَهُمْ بِالْمَعْرُوْفِ ۗ ذٰلِكَ يُوْعَظُ بِهٖ مَنْ كَانَ مِنْكُمْ يُؤْمِنُ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِ ۗ ذٰلِكُمْ اَزْكٰى
+
+latin :
+wa-idzaa thallaqtumu nnisaa-a fabalaghna ajalahunna falaa ta'dhuluuhunna an yankihna azwaajahunna idzaa taraadaw baynahum bilma'ruufi dzaalika yuu'azhu bihi man kaana minkum yu/minu bilaahi walyawmi l-aakhiri dzaalikum azkaa lakum wa-athharu walaahu ya'lamu wa-antum laa ta'lamuun
+
+terjemahan :
+Dan apabila kamu menceraikan istri-istri (kamu), lalu sampai idahnya, maka jangan kamu halangi mereka menikah (lagi) dengan calon suaminya, apabila telah terjalin kecocokan di antara mereka dengan cara yang baik. Itulah yang dinasihatkan kepada orang-orang di antara kamu yang beriman kepada Allah dan hari akhir. Itu lebih suci bagimu dan lebih bersih. Dan Allah mengetahui, sedangkan kamu tidak mengetahui.
+

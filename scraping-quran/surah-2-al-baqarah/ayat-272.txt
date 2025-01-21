@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+272
+
+surat :
+۞ لَيْسَ عَلَيْكَ هُدٰىهُمْ وَلٰكِنَّ اللّٰهَ يَهْدِيْ مَنْ يَّشَاۤءُ ۗوَمَا تُنْفِقُوْا مِنْ خَيْرٍ فَلِاَنْفُسِكُمْ ۗوَمَا تُنْفِقُوْنَ اِلَّا ابْتِغَاۤءَ وَجْهِ اللّٰهِ ۗوَمَا تُنْفِقُوْا مِنْ خَيْرٍ يُّوَفَّ اِلَيْكُمْ وَاَنْتُمْ لَا تُظْلَمُوْنَ
+
+latin :
+laysa 'alayka hudaahum walaakinna laaha yahdii man yasyaau wamaa tunfiquu min khayrin fali-anfusikum wamaa tunfiquuna illaa ibtighaa-a wajhi laahi wamaa tunfiquu min khayrin yuwaffa ilaykum wa-antum laa tuzhlamuun
+
+terjemahan :
+Bukanlah kewajibanmu (Muhammad) menjadikan mereka mendapat petunjuk, tetapi Allah-lah yang memberi petunjuk kepada siapa yang Dia kehendaki. Apa pun harta yang kamu infakkan, maka (kebaikannya) untuk dirimu sendiri. Dan janganlah kamu berinfak melainkan karena mencari rida Allah. Dan apa pun harta yang kamu infakkan, niscaya kamu akan diberi (pahala) secara penuh dan kamu tidak akan dizalimi (dirugikan).
+

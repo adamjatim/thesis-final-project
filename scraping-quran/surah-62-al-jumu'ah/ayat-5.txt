@@ -1,0 +1,30 @@
+no surat :
+62
+
+nama surat :
+Al-Jumu'ah
+
+nama surat arab :
+الجمعة
+
+arti surat :
+Jumat
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Jumu'ah ini terdiri atas 11 ayat, termasuk golongan-golongan surat-surat Madaniyyah dan diturunkan sesudah surat Ash Shaf. Nama surat Al Jumu'ah diambil dari kata Al Jumu'ah yang terdapat pada ayat 9 surat ini yang artinya: hari Jum'at.
+
+ayat :
+5
+
+surat :
+مَثَلُ الَّذِيْنَ حُمِّلُوا التَّوْرٰىةَ ثُمَّ لَمْ يَحْمِلُوْهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ اَسْفَارًاۗ بِئْسَ مَثَلُ الْقَوْمِ الَّذِيْنَ كَذَّبُوْا بِاٰيٰتِ اللّٰهِ ۗوَاللّٰهُ لَا يَهْدِى الْقَوْمَ الظّٰلِمِيْنَ 
+
+latin :
+matsalu ladziina hummiluu ttawraata tsumma lam yahmiluuhaa kamatsali lhimaari yahmilu asfaaran bi/sa matsalu lqawmi ladziina kadzdzabuu bi-aayaati laahi walaahu laa yahdii lqawma zhzhaalimiin
+
+terjemahan :
+Perumpamaan orang-orang yang diberi tugas membawa Taurat, kemudian mereka tidak membawanya (tidak mengamalkannya) adalah seperti keledai yang membawa kitab-kitab yang tebal. Sangat buruk perumpamaan kaum yang mendustakan ayat-ayat Allah. Dan Allah tidak memberi petunjuk kepada orang-orang yang zalim. 
+

@@ -1,0 +1,30 @@
+no surat :
+48
+
+nama surat :
+Al-Fath
+
+nama surat arab :
+الفتح
+
+arti surat :
+Kemenangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Fath terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Jum'ah. Dinamakan Al Fath (kemenangan) diambil dari perkataan Fat-han yang terdapat pada ayat pertama surat ini. Sebagian besar dari ayat-ayat surat ini menerangkan hal-hal yang berhubungan dengan kemenangan yang dicapai Nabi Muhammad s.a.w. dalam peperangan-peperangannya. Nabi Muhammad s.a.w. sangat gembira dengan turunnya ayat pertama surat ini. Kegembiraan ini dinyatakan dalam sabda beliau yang diriwayatkan Bukhari; Sesungguhnya telah diturunkan kepadaku satu surat, yang surat itu benar-benar lebih aku cintai dari seluruh apa yang disinari matahari. Kegembiraan Nabi Muhammad s.a.w. itu ialah karena ayat-ayatnya menerangkan tentang kemenangan yang akan diperoleh Muhammad s.a.w. dalam perjuangannya dan tentang kesempurnaan nikmat Allah kepadanya.
+
+ayat :
+18
+
+surat :
+۞ لَقَدْ رَضِيَ اللّٰهُ عَنِ الْمُؤْمِنِيْنَ اِذْ يُبَايِعُوْنَكَ تَحْتَ الشَّجَرَةِ فَعَلِمَ مَا فِيْ قُلُوْبِهِمْ فَاَنْزَلَ السَّكِيْنَةَ عَلَيْهِمْ وَاَثَابَهُمْ فَتْحًا قَرِيْبًاۙ
+
+latin :
+laqad radhiya laahu 'ani lmu/miniina idz yubaayi'uunaka tahta sysyajarati fa'alima maa fii quluubihim fa-anzala sakiinata 'alayhim wa-atsaabahum fathan qariibaa
+
+terjemahan :
+Sungguh, Allah telah meridai orang-orang mukmin ketika mereka berjanji setia kepadamu (Muhammad) di bawah pohon, Dia mengetahui apa yang ada dalam hati mereka lalu Dia memberikan ketenangan atas mereka dan memberi balasan dengan kemenangan yang dekat,
+

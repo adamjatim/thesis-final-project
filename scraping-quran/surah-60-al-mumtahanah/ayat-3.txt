@@ -1,0 +1,30 @@
+no surat :
+60
+
+nama surat :
+Al-Mumtahanah
+
+nama surat arab :
+الممتحنة
+
+arti surat :
+Wanita Yang Diuji
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Mumtahanah terdiri atas 13 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Ahzab. Dinamai Al Mumtahanah (wanita yang diuji), diambil dari kata "Famtahinuuhunna" yang berarti maka ujilah mereka, yang terdapat pada ayat 10 surat ini.
+
+ayat :
+3
+
+surat :
+لَنْ تَنْفَعَكُمْ اَرْحَامُكُمْ وَلَآ اَوْلَادُكُمْ ۛيَوْمَ الْقِيٰمَةِ ۛيَفْصِلُ بَيْنَكُمْۗ وَاللّٰهُ بِمَا تَعْمَلُوْنَ بَصِيْرٌ 
+
+latin :
+lan tanfa'akum arhaamukum walaa awlaadukum yawma lqiyaamati yafshilu baynakum walaahu bimaa ta'maluuna bashiir
+
+terjemahan :
+Kaum kerabatmu dan anak-anakmu tidak akan bermanfaat bagimu pada hari Kiamat. Dia akan memisahkan antara kamu. Dan Allah Maha Melihat apa yang kamu kerjakan.
+

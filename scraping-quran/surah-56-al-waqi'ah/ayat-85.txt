@@ -1,0 +1,30 @@
+no surat :
+56
+
+nama surat :
+Al-Waqi'ah
+
+nama surat arab :
+الواقعة
+
+arti surat :
+Hari Kiamat
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Waaqi'ah terdiri atas 96 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Thaa Haa. 	Dinamai dengan Al Waaqi'ah (Hari Kiamat), diambil dari perkataan Al Waaqi'ah yang terdapat pada ayat pertama surat ini.
+
+ayat :
+85
+
+surat :
+وَنَحْنُ اَقْرَبُ اِلَيْهِ مِنْكُمْ وَلٰكِنْ لَّا تُبْصِرُوْنَ 
+
+latin :
+wanahnu aqrabu ilayhi minkum walaakin laa tubshiruun
+
+terjemahan :
+dan Kami lebih dekat kepadanya daripada kamu, tetapi kamu tidak melihat,
+

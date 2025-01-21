@@ -1,0 +1,30 @@
+no surat :
+100
+
+nama surat :
+Al-'Adiyat
+
+nama surat arab :
+العٰديٰت
+
+arti surat :
+Kuda Yang Berlari Kencang
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al'Ashr. Nama Al 'Aadiyaat diambil dari kata Al 'Aadiyaat yang terdapat pada ayat pertama surat ini, artinya yang berlari kencang.
+
+ayat :
+7
+
+surat :
+وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيْدٌۚ
+
+latin :
+wa-innahu 'alaa dzaalika lasyahiid
+
+terjemahan :
+dan sesungguhnya dia (manusia) menyaksikan (mengakui) keingkarannya,
+

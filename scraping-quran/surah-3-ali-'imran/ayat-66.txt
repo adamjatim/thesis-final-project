@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+66
+
+surat :
+هٰٓاَنْتُمْ هٰٓؤُلَاۤءِ حَاجَجْتُمْ فِيْمَا لَكُمْ بِهٖ عِلْمٌ فَلِمَ تُحَاۤجُّوْنَ فِيْمَا لَيْسَ لَكُمْ بِهٖ عِلْمٌ ۗ وَاللّٰهُ يَعْلَمُ واَنْتُمْ لَا تَعْلَمُوْنَ
+
+latin :
+haa antum haaulaa-i haajajtum fiimaa lakum bihi 'ilmun falima tuhaajjuuna fiimaa laysa lakum bihi 'ilmun walaahu ya'lamu wa-antum laa ta'lamuun
+
+terjemahan :
+Begitulah kamu! Kamu berbantah-bantahan tentang apa yang kamu ketahui, tetapi mengapa kamu berbantah-bantahan juga tentang apa yang tidak kamu ketahui? Allah mengetahui sedang kamu tidak mengetahui.
+

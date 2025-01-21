@@ -1,0 +1,30 @@
+no surat :
+23
+
+nama surat :
+Al-Mu'minun
+
+nama surat arab :
+المؤمنون
+
+arti surat :
+Orang-Orang Mukmin
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Mu'minuun terdiri atas 118 ayat, termasuk golongan surat-surat Makkiyyah. Dinamai Al Mu'minuun, karena permulaan ayat ini manerangkan bagaimana seharusnya sifat-sifat orang mukmin yang menyebabkan keberuntungan mereka di akhirat dan ketenteraman jiwa mereka di dunia. Demikian tingginya sifat-sifat itu, hingga ia telah menjadi akhlak bagi Nabi Muhammad s.a.w.
+
+ayat :
+68
+
+surat :
+اَفَلَمْ يَدَّبَّرُوا الْقَوْلَ اَمْ جَاۤءَهُمْ مَّا لَمْ يَأْتِ اٰبَاۤءَهُمُ الْاَوَّلِيْنَ ۖ
+
+latin :
+afalam yaddabbaruu lqawla am jaa-ahum maa lam ya/ti aabaa-ahumu l-awwaliin
+
+terjemahan :
+Maka tidakkah mereka menghayati firman (Allah), atau adakah telah datang kepada mereka apa yang tidak pernah datang kepada nenek moyang mereka terdahulu?
+

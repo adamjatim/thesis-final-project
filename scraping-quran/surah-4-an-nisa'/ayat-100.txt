@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+100
+
+surat :
+۞ وَمَنْ يُّهَاجِرْ فِيْ سَبِيْلِ اللّٰهِ يَجِدْ فِى الْاَرْضِ مُرَاغَمًا كَثِيْرًا وَّسَعَةً ۗوَمَنْ يَّخْرُجْ مِنْۢ بَيْتِهٖ مُهَاجِرًا اِلَى اللّٰهِ وَرَسُوْلِهٖ ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ اَجْرُهٗ عَلَى اللّٰهِ ۗوَكَانَ اللّٰهُ غَفُوْرًا
+
+latin :
+waman yuhaajir fii sabiili laahi yajid fii l-ardhi muraaghaman katsiiran wasa'atan waman yakhruj min baytihi muhaajiran ilaa laahi warasuulihi tsumma yudrik-hu lmawtu faqad waqa'a ajruhu 'alaa laahi wakaana laahu ghafuuran rahiimaa
+
+terjemahan :
+Dan barangsiapa berhijrah di jalan Allah, niscaya mereka akan mendapatkan di bumi ini tempat hijrah yang luas dan (rezeki) yang banyak. Barangsiapa keluar dari rumahnya dengan maksud berhijrah karena Allah dan Rasul-Nya, kemudian kematian menimpanya (sebelum sampai ke tempat yang dituju), maka sungguh, pahalanya telah ditetapkan di sisi Allah. Dan Allah Maha Pengampun, Maha Penyayang.
+

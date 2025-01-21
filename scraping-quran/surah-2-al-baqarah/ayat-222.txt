@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+222
+
+surat :
+وَيَسْـَٔلُوْنَكَ عَنِ الْمَحِيْضِ ۗ  قُلْ هُوَ اَذًىۙ فَاعْتَزِلُوا النِّسَاۤءَ فِى الْمَحِيْضِۙ وَلَا تَقْرَبُوْهُنَّ حَتّٰى يَطْهُرْنَ ۚ فَاِذَا تَطَهَّرْنَ فَأْتُوْهُنَّ مِنْ حَيْثُ اَمَرَكُمُ اللّٰهُ ۗ اِنَّ اللّٰهَ يُحِبُّ التَّوَّابِيْنَ وَيُحِبُّ 
+
+latin :
+wayas-aluunaka 'ani lmahiidhi qul huwa adzan fa'taziluu nnisaa-a fii lmahiidhi walaa taqrabuuhunna hattaa yathhurna fa-idzaa tathahharna fa/tuuhunna min haytsu amarakumu laahu inna laaha yuhibbu ttawwaabiina wayuhibbu lmutathahhiriin
+
+terjemahan :
+Dan mereka menanyakan kepadamu (Muhammad) tentang haid. Katakanlah, “Itu adalah sesuatu yang kotor.” Karena itu jauhilah istri pada waktu haid; dan jangan kamu dekati mereka sebelum mereka suci. Apabila mereka telah suci, campurilah mereka sesuai dengan (ketentuan) yang diperintahkan Allah kepadamu. Sungguh, Allah menyukai orang yang tobat dan menyukai orang yang menyucikan diri.
+

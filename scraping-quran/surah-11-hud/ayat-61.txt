@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+61
+
+surat :
+۞ وَاِلٰى ثَمُوْدَ اَخَاهُمْ صٰلِحًا ۘ قَالَ يٰقَوْمِ اعْبُدُوا اللّٰهَ مَا لَكُمْ مِّنْ اِلٰهٍ غَيْرُهٗ ۗهُوَ اَنْشَاَكُمْ مِّنَ الْاَرْضِ وَاسْتَعْمَرَكُمْ فِيْهَا فَاسْتَغْفِرُوْهُ ثُمَّ تُوْبُوْٓا اِلَيْهِ ۗاِنَّ رَبِّيْ قَرِيْبٌ مُّجِيْبٌ
+
+latin :
+wa-ilaa tsamuuda akhaahum shaalihan qaala yaa qawmi u'buduu laaha maa lakum min ilaahin ghayruhu huwa ansya-akum mina l-ardhi wasta'marakum fiihaa fastaghfiruuhu tsumma tuubuu ilayhi inna rabbii qariibun mujiib
+
+terjemahan :
+dan kepada kaum samud (Kami utus) saudara mereka, Saleh. Dia berkata, “Wahai kaumku! Sembahlah Allah, tidak ada tuhan bagimu selain Dia. Dia telah menciptakanmu dari bumi (tanah) dan menjadikanmu pemakmurnya, karena itu mohonlah ampunan kepada-Nya, kemudian bertobatlah kepada-Nya. Sesungguhnya Tuhanku sangat dekat (rahmat-Nya) dan memperkenankan (doa hamba-Nya).”
+

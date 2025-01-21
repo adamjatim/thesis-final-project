@@ -1,0 +1,30 @@
+no surat :
+45
+
+nama surat :
+Al-Jasiyah
+
+nama surat arab :
+الجاثية
+
+arti surat :
+Berlutut
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Jaatsiyah terdiri atas 37 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Ad Dukhaan. Dinamai dengan Al Jaatsiyah (yang berlutut) diambil dari perkataan Jaatsiyah yang terdapat pada ayat 28 surat ini. Ayat tersebut menerangkan tentang keadaan manusia pada hari kiamat, yaitu semua manusia dikumpulkan ke hadapan mahkamah Allah Yang Maha Tinggi yang memberikan keputusan terhadap perbuatan yang telah mereka lakukan di dunia. Pada hari itu semua manusia berlutut di hadapan Allah. Dinamai juga dengan Asy Syari'ah diambil dari perkataan Syari'ah (Syari'at) yang terdapat pada ayat 18 surat ini.
+
+ayat :
+23
+
+surat :
+اَفَرَءَيْتَ مَنِ اتَّخَذَ اِلٰهَهٗ هَوٰىهُ وَاَضَلَّهُ اللّٰهُ عَلٰى عِلْمٍ وَّخَتَمَ عَلٰى سَمْعِهٖ وَقَلْبِهٖ وَجَعَلَ عَلٰى بَصَرِهٖ غِشٰوَةًۗ فَمَنْ يَّهْدِيْهِ مِنْۢ بَعْدِ اللّٰهِ ۗ اَفَلَا تَذَكَّرُوْنَ
+
+latin :
+afara-ayta mani ittakhadza ilaahahu hawaahu wa-adhallahu laahu 'alaa 'ilmin wakhatama 'alaa sam'ihi waqalbihi waja'ala 'alaa basharihi ghisyaawatan faman yahdiihi min ba'di laahi afalaa tadzakkaruun
+
+terjemahan :
+Maka pernahkah kamu melihat orang yang menjadikan hawa nafsunya sebagai tuhannya dan Allah membiarkannya sesat dengan sepengetahuan-Nya, dan Allah telah mengunci pendengaran dan hatinya serta meletakkan tutup atas penglihatannya? Maka siapa yang mampu memberinya petunjuk setelah Allah (membiarkannya sesat?) Mengapa kamu tidak mengambil pelajaran?
+

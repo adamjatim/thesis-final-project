@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+195
+
+surat :
+فَاسْتَجَابَ لَهُمْ رَبُّهُمْ اَنِّيْ لَآ اُضِيْعُ عَمَلَ عَامِلٍ مِّنْكُمْ مِّنْ ذَكَرٍ اَوْ اُنْثٰى ۚ بَعْضُكُمْ مِّنْۢ بَعْضٍ ۚ فَالَّذِيْنَ هَاجَرُوْا وَاُخْرِجُوْا مِنْ دِيَارِهِمْ وَاُوْذُوْا فِيْ سَبِيْلِيْ وَقٰتَلُوْا وَقُتِلُوْا لَاُكَفِّرَنَّ ع
+
+latin :
+fastajaaba lahum rabbuhum annii laa udhii'u 'amala 'aamilin minkum min dzakarin aw untsaa ba'dhukum min ba'dhin falladziina haajaruu waukhrijuu min diyaarihim wauudzuu fii sabiilii waqaataluu waqutiluu laukaffiranna 'anhum sayyi-aatihim walaudkhilannahum jannaatin tajrii min tahtihaa l-anhaaru tsawaaban min 'indi laahi walaahu 'indahu husnu tstsawaab
+
+terjemahan :
+Maka Tuhan mereka memperkenankan permohonannya (dengan berfirman), “Sesungguhnya Aku tidak menyia-nyiakan amal orang yang beramal di antara kamu, baik laki-laki maupun perempuan, (karena) sebagian kamu adalah (keturunan) dari sebagian yang lain. Maka orang yang berhijrah, yang diusir dari kampung halamannya, yang disakiti pada jalan-Ku, yang berperang dan yang terbunuh, pasti akan Aku hapus kesalahan mereka dan pasti Aku masukkan mereka ke dalam surga-surga yang mengalir di bawahnya sungai-sungai, sebagai pahala dari Allah. Dan di sisi Allah ada pahala yang baik.”
+

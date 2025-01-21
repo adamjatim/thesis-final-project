@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+54
+
+surat :
+اِنَّ رَبَّكُمُ اللّٰهُ الَّذِيْ خَلَقَ السَّمٰوٰتِ وَالْاَرْضَ فِيْ سِتَّةِ اَيَّامٍ ثُمَّ اسْتَوٰى عَلَى الْعَرْشِۗ يُغْشِى الَّيْلَ النَّهَارَ يَطْلُبُهٗ حَثِيْثًاۙ وَّالشَّمْسَ وَالْقَمَرَ وَالنُّجُوْمَ مُسَخَّرٰتٍۢ بِاَمْرِهٖٓ  ۙاَلَا لَهُ الْخَلْقُ 
+
+latin :
+inna rabbakumu laahu ladzii khalaqa ssamaawaati wal-ardha fii sittati ayyaamin tsumma istawaa 'alaa l'arsyi yughsyii layla nnahaara yathlubuhu hatsiitsan wasysyamsa walqamara wannujuuma musakhkharaatin bi-amrihi laa lahu lkhalqu wal-amru tabaaraka laahu rabbu l'aalamiin
+
+terjemahan :
+Sungguh, Tuhanmu (adalah) Allah yang menciptakan langit dan bumi dalam enam masa, lalu Dia bersemayam di atas ‘Arsy. Dia menutupkan malam kepada siang yang mengikutinya dengan cepat. (Dia ciptakan) matahari, bulan dan bintang-bintang tunduk kepada perintah-Nya. Ingatlah! Segala penciptaan dan urusan menjadi hak-Nya. Mahasuci Allah, Tuhan seluruh alam.
+

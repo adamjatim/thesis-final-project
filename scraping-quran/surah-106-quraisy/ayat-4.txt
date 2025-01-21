@@ -1,0 +1,30 @@
+no surat :
+106
+
+nama surat :
+Quraisy
+
+nama surat arab :
+قريش
+
+arti surat :
+Quraisy
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat Makkiyyah dan diturunkan sesudah surat At Tiin. Nama Quraisy diambil dari kata Quraisy yang terdapat pada ayat pertama, artinya suku Quraisy. Suku Quraisy adalah suku yang mendapat  kehormatan untuk memelihara Ka'bah.
+
+ayat :
+4
+
+surat :
+الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ
+
+latin :
+ladzii ath'amahum min juu'in waaamanahum min khawf
+
+terjemahan :
+yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan.
+

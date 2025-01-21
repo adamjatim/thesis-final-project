@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+163
+
+surat :
+وَسْـَٔلْهُمْ عَنِ الْقَرْيَةِ الَّتِيْ كَانَتْ حَاضِرَةَ الْبَحْرِۘ اِذْ يَعْدُوْنَ فِى السَّبْتِ اِذْ تَأْتِيْهِمْ حِيْتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَّيَوْمَ لَا يَسْبِتُوْنَۙ لَا تَأْتِيْهِمْ ۛ كَذٰلِكَ ۛنَبْلُوْهُمْ بِمَا كَانُوْا يَفْسُقُوْنَ
+
+latin :
+was-alhum 'ani lqaryati latii kaanat hadirata lbahri idz ya'duuna fii ssabti idz ta/tiihim hiitaanuhum yawma sabtihim syurra'an wayawma laa yasbituuna laa ta/tiihim kadzaalika nabluuhum bimaa kaanuu yafsuquun
+
+terjemahan :
+Dan tanyakanlah kepada Bani Israil tentang negeri yang terletak di dekat laut ketika mereka melanggar aturan pada hari Sabtu, (yaitu) ketika datang kepada mereka ikan-ikan (yang berada di sekitar) mereka terapung-apung di permukaan air, padahal pada hari-hari yang bukan Sabat ikan-ikan itu tidak datang kepada mereka. Demikianlah Kami menguji mereka disebabkan mereka berlaku fasik.
+

@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+52
+
+surat :
+فَتَرَى الَّذِيْنَ فِيْ قُلُوْبِهِمْ مَّرَضٌ يُّسَارِعُوْنَ فِيْهِمْ يَقُوْلُوْنَ نَخْشٰٓى اَنْ تُصِيْبَنَا دَاۤىِٕرَةٌ  ۗفَعَسَى اللّٰهُ اَنْ يَّأْتِيَ بِالْفَتْحِ اَوْ اَمْرٍ مِّنْ عِنْدِهٖ فَيُصْبِحُوْا عَلٰى مَآ اَسَرُّوْا فِيْٓ اَنْفُسِهِمْ نٰدِمِيْ
+
+latin :
+fataraa ladziina fii quluubihim maradhun yusaari'uuna fiihim yaquuluuna nakhsyaa an tushiibanaa daa-iratun fa'asaa laahu an ya/tiya bilfathi aw amrin min 'indihi fayushbihuu 'alaa maa asarruu fii anfusihim naadimiin
+
+terjemahan :
+Maka kamu akan melihat orang-orang yang hatinya berpenyakit segera mendekati mereka (Yahudi dan Nasrani), seraya berkata, “Kami takut akan mendapat bencana.” Mudah-mudahan Allah akan mendatangkan kemenangan (kepada Rasul-Nya), atau suatu keputusan dari sisi-Nya, sehingga mereka menjadi menyesal terhadap apa yang mereka rahasiakan dalam diri mereka.
+

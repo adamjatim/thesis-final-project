@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+43
+
+surat :
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لَا تَقْرَبُوا الصَّلٰوةَ وَاَنْتُمْ سُكَارٰى حَتّٰى تَعْلَمُوْا مَا تَقُوْلُوْنَ وَلَا جُنُبًا اِلَّا عَابِرِيْ سَبِيْلٍ حَتّٰى تَغْتَسِلُوْا ۗوَاِنْ كُنْتُمْ مَّرْضٰٓى اَوْ عَلٰى سَفَرٍ اَوْ جَاۤءَ اَحَدٌ مِّنْكُمْ مِّنَ
+
+latin :
+yaa ayyuhaa ladziina aamanuu laa taqrabuu shshalaata wa-antum sukaaraa hattaa ta'lamuu maa taquuluuna walaa junuban illaa 'aabirii sabiilin hattaa taghtasiluu wa-in kuntum mardaa aw 'alaa safarin aw jaa-a ahadun minkum mina lghaa-ithi aw laamastumu nnisaa-a falam tajiduu maa-an fatayammamuu sha'iidan thayyiban famsahuu biwujuuhikum wa-aydiikum inna laaha kaana 'afuwwan ghafuuraa
+
+terjemahan :
+Wahai orang yang beriman! Janganlah kamu mendekati salat ketika kamu dalam keadaan mabuk, sampai kamu sadar apa yang kamu ucapkan, dan jangan pula (kamu hampiri masjid ketika kamu) dalam keadaan junub kecuali sekedar melewati jalan saja, sebelum kamu mandi (mandi junub). Adapun jika kamu sakit atau sedang dalam perjalanan atau sehabis buang air atau kamu telah menyentuh perempuan, sedangkan kamu tidak mendapat air, maka bertayamumlah kamu dengan debu yang baik (suci); usaplah wajahmu dan tanganmu dengan (debu) itu. Sungguh, Allah Maha Pemaaf, Maha Pengampun.
+

@@ -1,0 +1,30 @@
+no surat :
+42
+
+nama surat :
+Asy-Syura
+
+nama surat arab :
+الشورى
+
+arti surat :
+Musyawarah
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Asy Syuura terdiri atas 53 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Fushshilat. Dinamai dengan Asy Syuura (musyawarat) diambil dari perkataan Syuura yang terdapat pada ayat 38 surat ini. Dalam ayat tersebut diletakkan salah satu dari dasar-dasar pemerintahan Islam ialah musyawarat. Dinamai juga Haa Miim 'Ain Siin Qaaf karena surat ini dimulai dengan huruf-huruf hijaiyah itu.
+
+ayat :
+15
+
+surat :
+فَلِذٰلِكَ فَادْعُ ۚوَاسْتَقِمْ كَمَآ اُمِرْتَۚ وَلَا تَتَّبِعْ اَهْوَاۤءَهُمْۚ وَقُلْ اٰمَنْتُ بِمَآ اَنْزَلَ اللّٰهُ مِنْ كِتٰبٍۚ وَاُمِرْتُ لِاَعْدِلَ بَيْنَكُمْ ۗ اَللّٰهُ رَبُّنَا وَرَبُّكُمْ ۗ لَنَآ اَعْمَالُنَا وَلَكُمْ اَعْمَالُكُمْ ۗ لَاحُجَّة
+
+latin :
+falidzaalika fad'u wastaqim kamaa umirta walaa tattabi' ahwaa-ahum waqul aamantu bimaa anzala laahu min kitaabin waumirtu li-a'dila baynakum laahu rabbunaa warabbukum lanaa a'maalunaa walakum a'maalukum laa hujjata baynanaa wabaynakumu laahu yajma'u baynanaa wa-ilayhi lmashiir
+
+terjemahan :
+Karena itu, serulah (mereka beriman) dan tetaplah (beriman dan berdakwah) sebagaimana diperintahkan kepadamu (Muhammad) dan janganlah mengikuti keinginan mereka dan katakanlah, “Aku beriman kepada Kitab yang diturunkan Allah dan aku diperintahkan agar berlaku adil di antara kamu. Allah Tuhan kami dan Tuhan kamu. Bagi kami perbuatan kami dan bagi kamu perbuatan kamu. Tidak (perlu) ada pertengkaran antara kami dan kamu, Allah mengumpulkan antara kita dan kepada-Nyalah  (kita) kembali.”
+

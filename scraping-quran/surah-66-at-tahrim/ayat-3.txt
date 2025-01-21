@@ -1,0 +1,30 @@
+no surat :
+66
+
+nama surat :
+At-Tahrim
+
+nama surat arab :
+التحريم
+
+arti surat :
+Pengharaman
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hujuraat. Dinamai surat At Tahrim karena pada awal surat ini terdapat kata tuharrim yang kata asalnya adalah Attahrim yang berarti mengharamkan.
+
+ayat :
+3
+
+surat :
+وَاِذْ اَسَرَّ النَّبِيُّ اِلٰى بَعْضِ اَزْوَاجِهٖ حَدِيْثًاۚ فَلَمَّا نَبَّاَتْ بِهٖ وَاَظْهَرَهُ اللّٰهُ عَلَيْهِ عَرَّفَ بَعْضَهٗ وَاَعْرَضَ عَنْۢ بَعْضٍۚ فَلَمَّا نَبَّاَهَا بِهٖ قَالَتْ مَنْ اَنْۢبَاَكَ هٰذَاۗ قَالَ نَبَّاَنِيَ الْعَلِيْمُ الْخَبِيْر
+
+latin :
+wa-idz asarra nnabiyyu ilaa ba'dhi azwaajihi hadiitsan falammaa nabba-at bihi wa-azhharahu laahu 'alayhi 'arrafa ba'dhahu wa-a'radha 'an ba'dhin falammaa nabba-ahaa bihi qaalat man anba-aka haadzaa qaala nabba-aniya l'aliimu lkhabiir
+
+terjemahan :
+Dan ingatlah ketika secara rahasia Nabi membicarakan suatu peristiwa kepada salah seorang istrinya (Hafsah). Lalu dia menceritakan peristiwa itu (kepada Aisyah) dan Allah memberitahukan peristiwa itu kepadanya (Nabi), lalu (Nabi) memberitahukan (kepada Hafsah) sebagian dan menyembunyikan sebagian yang lain. Maka ketika dia (Nabi) memberitahukan pembicaraan itu kepadanya (Hafsah), dia bertanya, “Siapa yang telah memberitahukan hal ini kepadamu?” Nabi menjawab, “Yang memberitahukan kepadaku adalah Allah Yang Maha Mengetahui, Mahateliti.” 
+

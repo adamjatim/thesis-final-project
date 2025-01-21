@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+61
+
+surat :
+وَاِذْ قُلْتُمْ يٰمُوْسٰى لَنْ نَّصْبِرَ عَلٰى طَعَامٍ وَّاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْۢبِتُ الْاَرْضُ مِنْۢ بَقْلِهَا وَقِثَّاۤىِٕهَا وَفُوْمِهَا وَعَدَسِهَا وَبَصَلِهَا ۗ قَالَ اَتَسْتَبْدِلُوْنَ الَّذِيْ هُوَ اَدْنٰى بِالَّذِيْ
+
+latin :
+wa-idz qultum yaa muusaa lan nashbira 'alaa tha'aamin waahidin fad'u lanaa rabbaka yukhrij lanaa mimmaa tunbitu l-ardhu min baqlihaa waqitstsaa-ihaa wafuumihaa wa'adasihaa wabashalihaa qaala atastabdiluuna ladzii huwa adnaa billadzii huwa khayrun ihbithuu mishran fa-inna lakum maa sa-altum wadhuribat 'alayhimu dzdzillatu walmaskanatu wabaauu bighadhabin mina laahi dzaalika bi-annahum kaanuu yakfuruuna bi-aayaati laahi wayaqtuluuna nnabiyyiina bighayri lhaqqi dzaalika bimaa 'ashaw wakaanuu ya'taduun
+
+terjemahan :
+Dan (ingatlah), ketika kamu berkata, “Wahai Musa! Kami tidak tahan hanya (makan) dengan satu macam makanan saja, maka mohonkanlah kepada Tuhanmu untuk kami, agar Dia memberi kami apa yang ditumbuhkan bumi, seperti: sayur-mayur, mentimun, bawang putih, kacang adas dan bawang merah.” Dia (Musa) menjawab, “Apakah kamu meminta sesuatu yang buruk sebagai ganti dari sesuatu yang baik? Pergilah ke suatu kota, pasti kamu akan memperoleh apa yang kamu minta.” Kemudian mereka ditimpa kenistaan dan kemiskinan, dan mereka (kembali) mendapat kemurkaan dari Allah. Hal itu (terjadi) karena mereka mengingkari ayat-ayat Allah dan membunuh para nabi tanpa hak (alasan yang benar). Yang demikian itu karena mereka durhaka dan melampaui batas.
+

@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+176
+
+surat :
+يَسْتَفْتُوْنَكَۗ قُلِ اللّٰهُ يُفْتِيْكُمْ فِى الْكَلٰلَةِ ۗاِنِ امْرُؤٌا هَلَكَ لَيْسَ لَهٗ وَلَدٌ وَّلَهٗٓ اُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَۚ وَهُوَ يَرِثُهَآ اِنْ لَّمْ يَكُنْ لَّهَا وَلَدٌ ۚ فَاِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثٰنِ مِمَّا تَ
+
+latin :
+yastaftuunaka quli laahu yuftiikum fii lkalaalati ini imruun halaka laysa lahu waladun walahu ukhtun falahaa nishfu maa taraka wahuwa yaritsuhaa in lam yakun lahaa waladun fa-in kaanataa itsnatayni falahumaa tstsulutsaani mimmaa taraka wa-in kaanuu ikhwatan rijaalan wanisaa-an falidzdzakari mitslu hazhzhi luntsayayni yubayyinu laahu lakum an tadhilluu walaahu bikulli syay-in 'aliimyastaftuunaka quli laahu yuftiikum fii lkalaalati ini imruun halaka laysa lahu waladun walahu ukhtun falahaa nishfu maa taraka wahuwa yaritsuhaa in lam yakun lahaa waladun fa-in kaanataa itsnatayni falahumaa tstsulutsaani mimmaa taraka wa-in kaanuu ikhwatan rijaalan wanisaa-an falidzdzakari mitslu hazhzhi luntsayayni yubayyinu laahu lakum an tadhilluu walaahu bikulli syay-in 'aliim
+
+terjemahan :
+Mereka meminta fatwa kepadamu (tentang kalalah). Katakanlah, “Allah memberi fatwa kepadamu tentang kalalah (yaitu), jika seseorang mati dan dia tidak mempunyai anak tetapi mempunyai saudara perempuan, maka bagiannya (saudara perempuannya itu) seperdua dari harta yang ditinggalkannya, dan saudaranya yang laki-laki mewarisi (seluruh harta saudara perempuan), jika dia tidak mempunyai anak. Tetapi jika saudara perempuan itu dua orang, maka bagi keduanya dua pertiga dari harta yang ditinggalkan. Dan jika mereka (ahli waris itu terdiri dari) saudara-saudara laki-laki dan perempuan, maka bagian seorang saudara laki-laki sama dengan bagian dua saudara perempuan. Allah menerangkan (hukum ini) kepadamu, agar kamu tidak sesat. Allah Maha Mengetahui segala sesuatu.”
+

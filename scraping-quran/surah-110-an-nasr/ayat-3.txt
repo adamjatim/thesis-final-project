@@ -1,0 +1,30 @@
+no surat :
+110
+
+nama surat :
+An-Nasr
+
+nama surat arab :
+النصر
+
+arti surat :
+Pertolongan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nashr terdiri atas 3 ayat, termasuk golongan surat-surat  Madaniyyah yang diturunkan di Mekah sesudah surat At Taubah.  Dinamai An Nashr (pertolongan) diambil dari perkataan Nashr yang  terdapat pada ayat pertama surat ini.
+
+ayat :
+3
+
+surat :
+فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا ࣖ
+
+latin :
+fasabbih bihamdi rabbika wastaghfirhu innahu kaana tawwaabaa
+
+terjemahan :
+maka bertasbihlah dalam dengan Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat.
+

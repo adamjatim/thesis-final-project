@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+231
+
+surat :
+وَاِذَا طَلَّقْتُمُ النِّسَاۤءَ فَبَلَغْنَ اَجَلَهُنَّ فَاَمْسِكُوْهُنَّ بِمَعْرُوْفٍ اَوْ سَرِّحُوْهُنَّ بِمَعْرُوْفٍۗ وَلَا تُمْسِكُوْهُنَّ ضِرَارًا لِّتَعْتَدُوْا ۚ وَمَنْ يَّفْعَلْ ذٰلِكَ فَقَدْ ظَلَمَ نَفْسَهٗ ۗ وَلَا تَتَّخِذُوْٓا اٰيٰتِ اللّٰهِ هُز
+
+latin :
+wa-idzaa thallaqtumu nnisaa-a fabalaghna ajalahunna fa-amsikuuhunna bima'ruufin aw sarrihuuhunna bima'ruufin walaa tumsikuuhunna dhiraaran lita'taduu waman yaf'al dzaalika faqad zhalama nafsahu walaa tattakhidzuu aayaati laahi huzuwan wadzkuruu ni'mata laahi 'alaykum wamaa anzala 'alaykum mina lkitaabi walhikmati ya'izhukum bihi wattaquu laaha wa'lamuu anna laaha bikulli syay-in 'aliim
+
+terjemahan :
+Dan apabila kamu menceraikan istri-istri (kamu), lalu sampai (akhir) idahnya, maka tahanlah mereka dengan cara yang baik, atau ceraikanlah mereka dengan cara yang baik (pula). Dan janganlah kamu tahan mereka dengan maksud jahat untuk menzalimi mereka. Barangsiapa melakukan demikian, maka dia telah menzalimi dirinya sendiri. Dan janganlah kamu jadikan ayat-ayat Allah sebagai bahan ejekan. Ingatlah nikmat Allah kepada kamu, dan apa yang telah diturunkan Allah kepada kamu yaitu Kitab (Al-Qur'an) dan Hikmah (Sunnah), untuk memberi pengajaran kepadamu. Dan bertakwalah kepada Allah dan ketahuilah bahwa Allah Maha Mengetahui segala sesuatu.
+

@@ -1,0 +1,30 @@
+no surat :
+84
+
+nama surat :
+Al-Insyiqaq
+
+nama surat arab :
+الانشقاق
+
+arti surat :
+Terbelah
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Insyiqaaq, terdiri atas 25 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Infithaarr. Dinamai Al Insyiqaaq (terbelah), diambil dari perkataan Insyaqqat yang terdapat pada permulaan surat ini, yang pokok katanya ialah insyiqaaq.
+
+ayat :
+23
+
+surat :
+وَاللّٰهُ اَعْلَمُ بِمَا يُوْعُوْنَۖ 
+
+latin :
+walaahu a'lamu bimaa yuu'uun
+
+terjemahan :
+Dan Allah lebih mengetahui apa yang mereka sembunyikan (dalam hati mereka).
+

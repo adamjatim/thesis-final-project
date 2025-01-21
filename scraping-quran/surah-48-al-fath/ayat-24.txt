@@ -1,0 +1,30 @@
+no surat :
+48
+
+nama surat :
+Al-Fath
+
+nama surat arab :
+الفتح
+
+arti surat :
+Kemenangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Fath terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Jum'ah. Dinamakan Al Fath (kemenangan) diambil dari perkataan Fat-han yang terdapat pada ayat pertama surat ini. Sebagian besar dari ayat-ayat surat ini menerangkan hal-hal yang berhubungan dengan kemenangan yang dicapai Nabi Muhammad s.a.w. dalam peperangan-peperangannya. Nabi Muhammad s.a.w. sangat gembira dengan turunnya ayat pertama surat ini. Kegembiraan ini dinyatakan dalam sabda beliau yang diriwayatkan Bukhari; Sesungguhnya telah diturunkan kepadaku satu surat, yang surat itu benar-benar lebih aku cintai dari seluruh apa yang disinari matahari. Kegembiraan Nabi Muhammad s.a.w. itu ialah karena ayat-ayatnya menerangkan tentang kemenangan yang akan diperoleh Muhammad s.a.w. dalam perjuangannya dan tentang kesempurnaan nikmat Allah kepadanya.
+
+ayat :
+24
+
+surat :
+وَهُوَ الَّذِيْ كَفَّ اَيْدِيَهُمْ عَنْكُمْ وَاَيْدِيَكُمْ عَنْهُمْ بِبَطْنِ مَكَّةَ مِنْۢ بَعْدِ اَنْ اَظْفَرَكُمْ عَلَيْهِمْ ۗوَكَانَ اللّٰهُ بِمَا تَعْمَلُوْنَ بَصِيْرًا 
+
+latin :
+wahuwa ladzii kaffa aydiyahum 'ankum wa-aydiyakum 'anhum bibathni makkata min ba'di an azhfarakum 'alayhim wakaana laahu bimaa ta'maluuna bashiiraa
+
+terjemahan :
+Dan Dialah yang mencegah tangan mereka dari (membinasakan) kamu dan (mencegah) tangan kamu dari (membinasakan) mereka di tengah (kota) Mekah setelah Allah memenangkan kamu atas mereka. Dan Allah Maha Melihat apa yang kamu kerjakan. 
+

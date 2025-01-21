@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+178
+
+surat :
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِى الْقَتْلٰىۗ  اَلْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ وَالْاُنْثٰى بِالْاُنْثٰىۗ  فَمَنْ عُفِيَ لَهٗ مِنْ اَخِيْهِ شَيْءٌ فَاتِّبَاعٌ ۢبِالْمَعْرُوْفِ وَاَدَاۤءٌ اِلَيْهِ بِاِحْسَانٍ ۗ 
+
+latin :
+yaa ayyuhaa ladziina aamanuu kutiba 'alaykumu lqisasu fii lqatlaa lhurru bilhurri wal'abdu bil'abdi waluntsaa biluntsaa faman 'ufiya lahu min akhiihi syay-un fattibaa'un bilma'ruufi wa-adaaun ilayhi bi-ihsaanin dzaalika takhfiifun min rabbikum warahmatun famani i'tadaa ba'da dzaalika falahu 'adzaabun liim
+
+terjemahan :
+Wahai orang-orang yang beriman! Diwajibkan atas kamu (melaksanakan) qisas berkenaan dengan orang yang dibunuh. Orang merdeka dengan orang merdeka, hamba sahaya dengan hamba sahaya, perempuan dengan perempuan. Tetapi barangsiapa memperoleh maaf dari saudaranya, hendaklah dia mengikutinya dengan baik, dan membayar diat (tebusan) kepadanya dengan baik (pula). Yang demikian itu adalah keringanan dan rahmat dari Tuhanmu. Barangsiapa melampaui batas setelah itu, maka ia akan mendapat azab yang sangat pedih.
+

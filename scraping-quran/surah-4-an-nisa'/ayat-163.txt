@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+163
+
+surat :
+۞ اِنَّآ اَوْحَيْنَآ اِلَيْكَ كَمَآ اَوْحَيْنَآ اِلٰى نُوْحٍ وَّالنَّبِيّٖنَ مِنْۢ بَعْدِهٖۚ وَاَوْحَيْنَآ اِلٰٓى اِبْرٰهِيْمَ وَاِسْمٰعِيْلَ وَاِسْحٰقَ وَيَعْقُوْبَ وَالْاَسْبَاطِ وَعِيْسٰى وَاَيُّوْبَ وَيُوْنُسَ وَهٰرُوْنَ وَسُلَيْمٰنَ ۚوَاٰتَيْنَا
+
+latin :
+innaa awhaynaa ilayka kamaa awhaynaa ilaa nuuhin wannabiyyiina min ba'dihi wa-awhaynaa ilaa ibraahiima wa-ismaa'iila wa-ishaaqa waya'quuba wal-asbaathi wa'iisaa wa-ayyuuba wayuunusa wahaaruuna wasulaymaana waaataynaa daawuuda zabuuraa
+
+terjemahan :
+Sesungguhnya Kami mewahyukan kepadamu (Muhammad) sebagaimana Kami telah mewahyukan kepada Nuh dan nabi-nabi setelahnya, dan Kami telah mewahyukan (pula) kepada Ibrahim, Ismail, Ishak, Yakub dan anak cucunya; Isa, Ayyub, Yunus, Harun dan Sulaiman. Dan Kami telah memberikan Kitab Zabur kepada Dawud.
+

@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+1
+
+surat :
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْٓا اَوْفُوْا بِالْعُقُوْدِۗ  اُحِلَّتْ لَكُمْ بَهِيْمَةُ الْاَنْعَامِ اِلَّا مَا يُتْلٰى عَلَيْكُمْ غَيْرَ مُحِلِّى الصَّيْدِ وَاَنْتُمْ حُرُمٌۗ  اِنَّ اللّٰهَ يَحْكُمُ مَا يُرِيْدُ
+
+latin :
+yaa ayyuhaa ladziina aamanuu awfuu bil'uquudi uhillat lakum bahiimatu l-an'aami illaa maa yutlaa 'alaykum ghayra muhillii shshaydi wa-antum hurumun inna laaha yahkumu maa yuriid
+
+terjemahan :
+Wahai orang-orang yang beriman! Penuhilah janji-janji. Hewan ternak dihalalkan bagimu, kecuali yang akan disebutkan kepadamu, dengan tidak menghalalkan berburu ketika kamu sedang berihram (haji atau umrah). Sesungguhnya Allah menetapkan hukum sesuai dengan yang Dia kehendaki.
+

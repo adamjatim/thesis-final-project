@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+128
+
+surat :
+وَاِنِ امْرَاَةٌ خَافَتْ مِنْۢ بَعْلِهَا نُشُوْزًا اَوْ اِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَآ اَنْ يُّصْلِحَا بَيْنَهُمَا صُلْحًا ۗوَالصُّلْحُ خَيْرٌ ۗوَاُحْضِرَتِ الْاَنْفُسُ الشُّحَّۗ وَاِنْ تُحْسِنُوْا وَتَتَّقُوْا فَاِنَّ اللّٰهَ كَانَ بِمَا تَعْمَلُو
+
+latin :
+wa-ini imra-atun khaafat min ba'lihaa nusyuuzan aw i'raadan falaa junaaha 'alayhimaa an yushlihaa baynahumaa shulhan washshulhu khayrun wauhdirati l-anfusu sysyuhha wa-in tuhsinuu watattaquu fa-inna laaha kaana bimaa ta'maluuna khabiiraa
+
+terjemahan :
+Dan jika seorang perempuan khawatir suaminya akan nusyuz atau bersikap tidak acuh, maka keduanya dapat mengadakan perdamaian yang sebenarnya, dan perdamaian itu lebih baik (bagi mereka) walaupun manusia itu menurut tabiatnya kikir. Dan jika kamu memperbaiki (pergaulan dengan istrimu) dan memelihara dirimu (dari nusyuz dan sikap acuh tak acuh), maka sungguh, Allah Mahateliti terhadap apa yang kamu kerjakan.
+

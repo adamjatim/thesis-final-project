@@ -1,0 +1,30 @@
+no surat :
+58
+
+nama surat :
+Al-Mujadalah
+
+nama surat arab :
+المجادلة
+
+arti surat :
+Gugatan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Mujaadilah terdiri atas 22 ayat, termasuk golongan surat Madaniyyah, diturunkan sesudah surat Al Munaafiquun. Surat ini dinamai dengan Al Mujaadilah (wanita yang mengajukan gugatan) karena pada awal surat ini disebutkan bantahan seorang perempuan, menurut riwayat bernama Khaulah binti Tsa'labah terhadap sikap suaminya yang telah menzhiharnya. Hal ini diadukan kepada Rasulullah s.a.w. dan ia menuntut supaya beliau memberikan putusan yang adil dalam persoalan itu. Dinamai juga Al Mujaadalah yang berarti perbantahan.
+
+ayat :
+1
+
+surat :
+قَدْ سَمِعَ اللّٰهُ قَوْلَ الَّتِيْ تُجَادِلُكَ فِيْ زَوْجِهَا وَتَشْتَكِيْٓ اِلَى اللّٰهِ  ۖوَاللّٰهُ يَسْمَعُ تَحَاوُرَكُمَاۗ اِنَّ اللّٰهَ سَمِيْعٌۢ بَصِيْرٌ 
+
+latin :
+qad sami'a laahu qawla latii tujaadiluka fii zawjihaa watasytakii ilaa laahi walaahu yasma'u tahaawurakumaa inna laaha samii'un bashiir
+
+terjemahan :
+Sungguh, Allah telah mendengar ucapan perempuan yang mengajukan gugatan kepadamu (Muhammad) tentang suaminya, dan mengadukan (halnya) kepada Allah, dan Allah mendengar percakapan antara kamu berdua. Sesungguhnya Allah Maha Mendengar, Maha Melihat.
+

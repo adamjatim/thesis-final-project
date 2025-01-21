@@ -1,0 +1,30 @@
+no surat :
+68
+
+nama surat :
+Al-Qalam
+
+nama surat arab :
+القلم
+
+arti surat :
+Pena
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 52 ayat,termasuk golongan surat-surat Makkiyah,diturunkan sesudah surat Al Alaq. Nama Al Qalam diambil dari kata Al Qalam yang terdapat pada ayat pertama surat iniyang artinya pena. Surat ini dinamai pula dengan surat Nun (huruf nun).
+
+ayat :
+31
+
+surat :
+قَالُوْا يٰوَيْلَنَآ اِنَّا كُنَّا طٰغِيْنَ 
+
+latin :
+qaaluu yaa waylanaa innaa kunnaa thaaghiin
+
+terjemahan :
+Mereka berkata, “Celaka kita! Sesungguhnya kita orang-orang yang melampaui batas. 
+

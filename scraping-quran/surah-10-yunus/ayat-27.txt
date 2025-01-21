@@ -1,0 +1,30 @@
+no surat :
+10
+
+nama surat :
+Yunus
+
+nama surat arab :
+يونس
+
+arti surat :
+Yunus
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Yunus terdiri atas 109 ayat, termasuk golongan surat-surat Makkiyyah kecuali ayat 40, 94, 95, yang diturunkan pada masa Nabi Muhmmad s.a.w. berada di Madinah. Surat ini dinamai surat Yunus karena dalam surat ini terutama ditampilkan kisah Nabi Yunus a.s. dan pengikut-pengikutnya yang teguh imannya.
+
+ayat :
+27
+
+surat :
+وَالَّذِيْنَ كَسَبُوا السَّيِّاٰتِ جَزَاۤءُ سَيِّئَةٍ ۢبِمِثْلِهَاۙ وَتَرْهَقُهُمْ ذِلَّةٌ  ۗمَا لَهُمْ مِّنَ اللّٰهِ مِنْ عَاصِمٍۚ  كَاَنَّمَآ اُغْشِيَتْ وُجُوْهُهُمْ قِطَعًا مِّنَ الَّيْلِ مُظْلِمًاۗ اُولٰۤىِٕكَ اَصْحٰبُ النَّارِ ۚهُمْ فِيْهَا خٰلِدُوْ
+
+latin :
+walladziina kasabuu ssayyi-aati jazaau sayyi-atin bimitslihaa watarhaquhum dzillatun maa lahum mina laahi min 'aasimin ka-annamaa ughsyiyat wujuuhuhum qitha'an mina layli muzhliman ulaa-ika ash-haabu nnaari hum fiihaa khaaliduun
+
+terjemahan :
+Adapun orang-orang yang berbuat kejahatan (akan mendapat) balasan kejahatan yang setimpal dan mereka diselubungi kehinaan. Tidak ada bagi mereka seorang pelindung pun dari (azab) Allah, seakan-akan wajah mereka ditutupi dengan kepingan-kepingan malam yang gelap gulita. Mereka itulah penghuni neraka, mereka kekal di dalamnya.           
+

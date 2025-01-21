@@ -1,0 +1,30 @@
+no surat :
+36
+
+nama surat :
+Yasin
+
+nama surat arab :
+يٰسۤ
+
+arti surat :
+Yasin
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Yaasiin terdiri atas 83 ayat, termasuk golongan surat-surat Makkiyyah,  diturunkan sesudah surat Jin. Dinamai Yaasiin karena dimulai dengan huruf Yaasiin. Sebagaimana halnya arti huruf-huruf abjad yang terletak pada permulaan beberapa surat Al Quran, maka demikian pula arti Yaasiin yang terdapat pada ayat permulaan surat ini, yaitu Allah mengisyaratkan bahwa sesudah huruf tersebut akan dikemukakan hal-hal yang penting antara lain: Allah bersumpah dengan Al Quran bahwa Muhammad s.a.w. benar-benar seorang rasul yang diutus-Nya kepada kaum yang belum pernah diutus kepada mereka rasul-rasul.
+
+ayat :
+80
+
+surat :
+ ِۨالَّذِيْ جَعَلَ لَكُمْ مِّنَ الشَّجَرِ الْاَخْضَرِ نَارًاۙ فَاِذَآ اَنْتُمْ مِّنْهُ تُوْقِدُوْنَ 
+
+latin :
+ladzii ja'ala lakum mina sysyajari l-akhdhari naaran fa-idzaa antum minhu tuuqiduun
+
+terjemahan :
+yaitu (Allah) yang menjadikan api untukmu dari kayu yang hijau, maka seketika itu kamu nyalakan (api) dari kayu itu.”
+

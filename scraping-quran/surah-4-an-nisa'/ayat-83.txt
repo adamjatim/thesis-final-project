@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+83
+
+surat :
+وَاِذَا جَاۤءَهُمْ اَمْرٌ مِّنَ الْاَمْنِ اَوِ الْخَوْفِ اَذَاعُوْا بِهٖ ۗ وَلَوْ رَدُّوْهُ اِلَى الرَّسُوْلِ وَاِلٰٓى اُولِى الْاَمْرِ مِنْهُمْ لَعَلِمَهُ الَّذِيْنَ يَسْتَنْۢبِطُوْنَهٗ مِنْهُمْ ۗ وَلَوْلَا فَضْلُ اللّٰهِ عَلَيْكُمْ وَرَحْمَتُهٗ لَاتَّبَ
+
+latin :
+wa-idzaa jaa-ahum amrun mina l-amni awi lkhawfi adzaa'uu bihi walaw radduuhu ilaa rrasuuli wa-ilaa ulii l-amri minhum la'alimahu ladziina yastanbithuunahu minhum walawlaa fadhlu laahi 'alaykum warahmatuhu lattaba'tumu sysyaythaana illaa qaliilaa
+
+terjemahan :
+Dan apabila sampai kepada mereka suatu berita tentang keamanan ataupun ketakutan, mereka (langsung) menyiarkannya. (Padahal) apabila mereka menyerahkannya kepada Rasul dan Ulil Amri di antara mereka, tentulah orang-orang yang ingin mengetahui kebenarannya (akan dapat) mengetahuinya (secara resmi) dari mereka (Rasul dan Ulil Amri). Sekiranya bukan karena karunia dan rahmat Allah kepadamu, tentulah kamu mengikuti setan, kecuali sebagian kecil saja (di antara kamu).
+

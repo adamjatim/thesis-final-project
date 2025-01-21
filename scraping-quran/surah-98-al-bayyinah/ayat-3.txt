@@ -1,0 +1,30 @@
+no surat :
+98
+
+nama surat :
+Al-Bayyinah
+
+nama surat arab :
+البيّنة
+
+arti surat :
+Bukti Nyata
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Bayyinah terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Ath Thalaq. Dinamai Al Bayyinah (bukti yang nyata) diambil dari perkataan Al Bayyinah yang terdapat pada ayat pertama surat ini.
+
+ayat :
+3
+
+surat :
+فِيْهَا كُتُبٌ قَيِّمَةٌ  ۗ
+
+latin :
+fiihaa kutubun qayyima
+
+terjemahan :
+di dalamnya terdapat (isi) kitab-kitab yang lurus (benar).
+

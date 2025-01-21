@@ -1,0 +1,30 @@
+no surat :
+24
+
+nama surat :
+An-Nur
+
+nama surat arab :
+النّور
+
+arti surat :
+Cahaya
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nuur terdiri atas 64 ayat, dan termasuk golongan surat-surat Madaniyah. Dinamai An Nuur yang berarti Cahaya, diambil dari kata An Nuur yang terdapat pada ayat ke 35. Dalam ayat ini, Allah s.w.t. menjelaskan tentang Nuur Ilahi, yakni Al Quran yang mengandung petunjuk-petunjuk. Petunjuk-petunjuk Allah itu, merupakan cahaya yang terang benderang menerangi alam semesta. Surat ini sebagian besar isinya memuat petunjuk- petunjuk Allah yang berhubungan dengan soal kemasyarakatan dan rumah tangga.
+
+ayat :
+54
+
+surat :
+قُلْ اَطِيْعُوا اللّٰهَ وَاَطِيْعُوا الرَّسُوْلَۚ فَاِنْ تَوَلَّوْا فَاِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُمْ مَّا حُمِّلْتُمْۗ وَاِنْ تُطِيْعُوْهُ تَهْتَدُوْاۗ وَمَا عَلَى الرَّسُوْلِ اِلَّا الْبَلٰغُ الْمُبِيْنُ 
+
+latin :
+qul athii'uu laaha wa-athii'uu rrasuula fa-in tawallaw fa-innamaa 'alayhi maa hummila wa'alaykum maa hummiltum wa-in tuthii'uuhu tahtaduu wamaa 'alaa rrasuuli illaa lbalaaghu lmubiin
+
+terjemahan :
+Katakanlah, “Taatlah kepada Allah dan taatlah kepada Rasul; jika kamu berpaling, maka sesungguhnya kewajiban Rasul (Muhammad) itu hanyalah apa yang dibebankan kepadanya, dan kewajiban kamu hanyalah apa yang dibebankan kepadamu. Jika kamu taat kepadanya, niscaya kamu mendapat petunjuk. Kewajiban Rasul hanyalah menyampaikan (amanat Allah) dengan jelas.”
+

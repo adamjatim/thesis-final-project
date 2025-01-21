@@ -1,0 +1,30 @@
+no surat :
+72
+
+nama surat :
+Al-Jinn
+
+nama surat arab :
+الجن
+
+arti surat :
+Jin
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Jin terdiri atas 28 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al A'raaf. Dinamai Al Jin diambil dari perkataan Al Jin yang terdapat  pada ayat pertama surat ini. Pada ayat tersebut dan ayat-ayat berikutnya  diterangkan bahwa Jin sebagai makhluk halus telah mendengar pembacaan  Al Quran dan mereka mengikuti ajaran Al Quran tersebut.
+
+ayat :
+1
+
+surat :
+قُلْ اُوْحِيَ اِلَيَّ اَنَّهُ اسْتَمَعَ نَفَرٌ مِّنَ الْجِنِّ فَقَالُوْٓا اِنَّا سَمِعْنَا قُرْاٰنًا عَجَبًاۙ
+
+latin :
+qul uuhiya ilayya annahu istama'a nafarun mina ljinni faqaaluu innaa sami'naa qur-aanan 'ajabaa
+
+terjemahan :
+Katakanlah (Muhammad), “Telah diwahyukan kepadaku bahwa sekumpulan jin telah mendengarkan (bacaan),” lalu mereka berkata, “Kami telah mendengarkan bacaan yang menakjubkan (Al-Qur'an),
+

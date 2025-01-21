@@ -1,0 +1,30 @@
+no surat :
+14
+
+nama surat :
+Ibrahim
+
+nama surat arab :
+ابرٰهيم
+
+arti surat :
+Ibrahim
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Ibrahim ini terdiri atas 52 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum Hijrah. Dinamakan Ibrahim, karena surat ini mengandung doa Nabi Ibrahim a.s. yaitu ayat 35 sampai dengan 41. Do'a ini isinya antara lain: permohonan agar keturunannya mendirikan shalat, dijauhkan dari menyembah berhala-berhala dan agar Mekah dan daerah sekitarnya menjadi daerah yang aman dan makmur. Doa Nabi Ibrahim a.s. ini telah diperkenankan oleh Allah s.w.t. sebagaimana telah terbukti keamanannya sejak dahulu sampai sekarang. Do'a tersebut dipanjatkan beliau ke hadirat Allah s.w.t. sesudah selesai membina Ka'bah bersama puteranya Ismail a.s., di dataran tanah Mekah yang tandus.
+
+ayat :
+1
+
+surat :
+الۤرٰ ۗ كِتٰبٌ اَنْزَلْنٰهُ اِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمٰتِ اِلَى النُّوْرِ ەۙ بِاِذْنِ رَبِّهِمْ اِلٰى صِرَاطِ الْعَزِيْزِ الْحَمِيْدِۙ
+
+latin :
+alif-laam-raa kitaabun anzalnaahu ilayka litukhrija nnaasa mina zhzhulumaati ilaa nnuuri bi-idzni rabbihim ilaa shiraathi l'aziizi lhamiid
+
+terjemahan :
+Alif Lam Ra. (Ini adalah) Kitab yang Kami turunkan kepadamu (Muhammad) agar engkau mengeluarkan manusia dari kegelapan kepada cahaya terang-benderang dengan izin Tuhan, (yaitu) menuju jalan Tuhan Yang Mahaperkasa, Maha Terpuji.
+

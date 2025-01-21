@@ -1,0 +1,30 @@
+no surat :
+109
+
+nama surat :
+Al-Kafirun
+
+nama surat arab :
+الكٰفرون
+
+arti surat :
+Orang-Orang kafir
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Kaafiruun terdiri atas 6 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah surat Al Maa'uun. Dinamai Al Kaafiruun (orang-orang kafir), diambil dari perkataan  Al Kaafiruun yang terdapat pada ayat pertama surat ini.
+
+ayat :
+2
+
+surat :
+لَآ اَعْبُدُ مَا تَعْبُدُوْنَۙ
+
+latin :
+laa a'budu maa ta'buduun
+
+terjemahan :
+aku tidak akan menyembah apa yang kamu sembah,
+

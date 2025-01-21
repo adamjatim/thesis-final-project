@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+145
+
+surat :
+وَمَا كَانَ لِنَفْسٍ اَنْ تَمُوْتَ اِلَّا بِاِذْنِ اللّٰهِ كِتٰبًا مُّؤَجَّلًا ۗ وَمَنْ يُّرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهٖ مِنْهَاۚ وَمَنْ يُّرِدْ ثَوَابَ الْاٰخِرَةِ نُؤْتِهٖ مِنْهَا ۗ وَسَنَجْزِى الشّٰكِرِيْنَ 
+
+latin :
+wamaa kaana linafsin an tamuuta illaa bi-idzni laahi kitaaban mu-ajjalan waman yurid tsawaaba ddunyaa nu/tihi minhaa waman yurid tsawaaba l-aakhirati nu/tihi minhaa wasanajzii sysyaakiriin
+
+terjemahan :
+Dan setiap yang bernyawa tidak akan mati kecuali dengan izin Allah, sebagai ketetapan yang telah ditentukan waktunya. Barangsiapa menghendaki pahala dunia, niscaya Kami berikan kepadanya pahala (dunia) itu, dan barangsiapa menghendaki pahala akhirat, Kami berikan (pula) kepadanya pahala (akhirat) itu, dan Kami akan memberi balasan kepada orang-orang yang bersyukur.
+

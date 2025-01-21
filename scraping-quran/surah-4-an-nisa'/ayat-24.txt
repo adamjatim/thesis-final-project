@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+24
+
+surat :
+۞ وَالْمُحْصَنٰتُ مِنَ النِّسَاۤءِ اِلَّا مَا مَلَكَتْ اَيْمَانُكُمْ ۚ  كِتٰبَ اللّٰهِ عَلَيْكُمْ ۚ وَاُحِلَّ لَكُمْ مَّا وَرَاۤءَ ذٰلِكُمْ اَنْ تَبْتَغُوْا بِاَمْوَالِكُمْ مُّحْصِنِيْنَ غَيْرَ مُسَافِحِيْنَ ۗ فَمَا اسْتَمْتَعْتُمْ بِهٖ مِنْهُنَّ فَاٰتُوْ
+
+latin :
+walmuhsanaatu mina nnisaa-i illaa maa malakat aymaanukum kitaaba laahi 'alaykum wauhilla lakum maa waraa-a dzaalikum an tabtaghuu bi-amwaalikum muhsiniina ghayra musaafihiina famaa istamta'tum bihi minhunna faaatuuhunna ujuurahunna fariidhatan walaa junaaha 'alaykum fiimaa taraadaytum bihi min ba'di lfariidhati inna laaha kaana 'aliiman hakiimaa
+
+terjemahan :
+Dan (diharamkan juga kamu menikahi) perempuan yang bersuami, kecuali hamba sahaya perempuan (tawanan perang) yang kamu miliki sebagai ketetapan Allah atas kamu. Dan dihalalkan bagimu selain (perempuan-perempuan) yang demikian itu jika kamu berusaha dengan hartamu untuk menikahinya bukan untuk berzina. Maka karena kenikmatan yang telah kamu dapatkan dari mereka, berikanlah maskawinnya kepada mereka sebagai suatu kewajiban. Tetapi tidak mengapa jika ternyata di antara kamu telah saling merelakannya, setelah ditetapkan. Sungguh, Allah Maha Mengetahui, Mahabijaksana.
+

@@ -1,0 +1,30 @@
+no surat :
+57
+
+nama surat :
+Al-Hadid
+
+nama surat arab :
+الحديد
+
+arti surat :
+Besi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hadiid terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Az Zalzalah. Dinamai Al Hadiid (Besi), diambil dari perkataan Al Hadiid yang terdapat pada ayat 25 surat ini.
+
+ayat :
+19
+
+surat :
+وَالَّذِيْنَ اٰمَنُوْا بِاللّٰهِ وَرُسُلِهٖٓ اُولٰۤىِٕكَ هُمُ الصِّدِّيْقُوْنَ ۖوَالشُّهَدَاۤءُ عِنْدَ رَبِّهِمْۗ  لَهُمْ اَجْرُهُمْ وَنُوْرُهُمْۗ وَالَّذِيْنَ كَفَرُوْا وَكَذَّبُوْا بِاٰيٰتِنَآ اُولٰۤىِٕكَ اَصْحٰبُ الْجَحِيْمِ ࣖ
+
+latin :
+walladziina aamanuu bilaahi warusulihi ulaa-ika humu shshiddiiquuna wasysyuhadaau 'inda rabbihim lahum ajruhum wanuuruhum walladziina kafaruu wakadzdzabuu bi-aayaatinaa ulaa-ika ash-haabu ljahiim
+
+terjemahan :
+Dan orang-orang yang beriman kepada Allah dan rasul-rasul-Nya, mereka itu orang-orang yang tulus hati (pencinta kebenaran) dan saksi-saksi di sisi Tuhan mereka. Mereka berhak mendapat pahala dan cahaya. Tetapi orang-orang yang kafir dan mendustakan ayat-ayat Kami, mereka itu penghuni-penghuni neraka. 
+

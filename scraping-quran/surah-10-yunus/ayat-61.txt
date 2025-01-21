@@ -1,0 +1,30 @@
+no surat :
+10
+
+nama surat :
+Yunus
+
+nama surat arab :
+يونس
+
+arti surat :
+Yunus
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Yunus terdiri atas 109 ayat, termasuk golongan surat-surat Makkiyyah kecuali ayat 40, 94, 95, yang diturunkan pada masa Nabi Muhmmad s.a.w. berada di Madinah. Surat ini dinamai surat Yunus karena dalam surat ini terutama ditampilkan kisah Nabi Yunus a.s. dan pengikut-pengikutnya yang teguh imannya.
+
+ayat :
+61
+
+surat :
+وَمَا تَكُوْنُ فِيْ شَأْنٍ وَّمَا تَتْلُوْا مِنْهُ مِنْ قُرْاٰنٍ وَّلَا تَعْمَلُوْنَ مِنْ عَمَلٍ اِلَّا كُنَّا عَلَيْكُمْ شُهُوْدًا اِذْ تُفِيْضُوْنَ فِيْهِۗ وَمَا يَعْزُبُ عَنْ رَّبِّكَ مِنْ مِّثْقَالِ ذَرَّةٍ فِى الْاَرْضِ وَلَا فِى السَّمَاۤءِ وَلَآ ا
+
+latin :
+wamaa takuunu fii sya/nin wamaa tatluu minhu min qur-aanin walaa ta'maluuna min 'amalin illaa kunnaa 'alaykum syuhuudan idz tufiidhuuna fiihi wamaa ya'zubu 'an rabbika min mitsqaali dzarratin fii l-ardhi walaa fii ssamaa-i walaa ashghara min dzaalika walaa akbara illaa fii kitaabin mubiin
+
+terjemahan :
+Dan tidakkah engkau (Muhammad) berada dalam suatu urusan, dan tidak membaca suatu ayat Al-Qur'an serta tidak pula kamu melakukan suatu pekerjaan, melainkan Kami menjadi saksi atasmu ketika kamu melakukannya. Tidak lengah sedikit pun dari pengetahuan Tuhanmu biarpun sebesar zarrah, baik di bumi ataupun di langit. Tidak ada sesuatu yang lebih kecil dan yang lebih besar daripada itu, melainkan semua tercatat dalam Kitab yang nyata (Lauh Mahfuzh).
+

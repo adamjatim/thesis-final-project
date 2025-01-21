@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+148
+
+surat :
+سَيَقُوْلُ الَّذِيْنَ اَشْرَكُوْا لَوْ شَاۤءَ اللّٰهُ مَآ اَشْرَكْنَا وَلَآ اٰبَاۤؤُنَا وَلَا حَرَّمْنَا مِنْ شَيْءٍۗ  كَذٰلِكَ كَذَّبَ الَّذِيْنَ مِنْ قَبْلِهِمْ حَتّٰى ذَاقُوْا بَأْسَنَاۗ قُلْ هَلْ عِنْدَكُمْ مِّنْ عِلْمٍ فَتُخْرِجُوْهُ لَنَاۗ اِنْ تَ
+
+latin :
+sayaquulu ladziina asyrakuu law syaa-a laahu maa asyraknaa walaa aabaaunaa walaa harramnaa min syay-in kadzaalika kadzdzaba ladziina min qablihim hattaa dzaaquu ba/sanaa qul hal 'indakum min 'ilmin fatukhrijuuhu lanaa in tattabi'uuna illaa zhzhanna wa-in antum illaa takhrushuun
+
+terjemahan :
+Orang-orang musyrik akan berkata, “Jika Allah menghendaki, tentu kami tidak akan mempersekutukan-Nya, begitu pula nenek moyang kami, dan kami tidak akan mengharamkan apa pun.” Demikian pula orang-orang sebelum mereka yang telah mendustakan (para rasul) sampai mereka merasakan azab Kami. Katakanlah (Muhammad), “Apakah kamu mempunyai pengetahuan yang dapat kamu kemukakan kepada kami? Yang kamu ikuti hanya persangkaan belaka, dan kamu hanya mengira.”
+

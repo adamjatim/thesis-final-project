@@ -1,0 +1,30 @@
+no surat :
+48
+
+nama surat :
+Al-Fath
+
+nama surat arab :
+الفتح
+
+arti surat :
+Kemenangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Fath terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Jum'ah. Dinamakan Al Fath (kemenangan) diambil dari perkataan Fat-han yang terdapat pada ayat pertama surat ini. Sebagian besar dari ayat-ayat surat ini menerangkan hal-hal yang berhubungan dengan kemenangan yang dicapai Nabi Muhammad s.a.w. dalam peperangan-peperangannya. Nabi Muhammad s.a.w. sangat gembira dengan turunnya ayat pertama surat ini. Kegembiraan ini dinyatakan dalam sabda beliau yang diriwayatkan Bukhari; Sesungguhnya telah diturunkan kepadaku satu surat, yang surat itu benar-benar lebih aku cintai dari seluruh apa yang disinari matahari. Kegembiraan Nabi Muhammad s.a.w. itu ialah karena ayat-ayatnya menerangkan tentang kemenangan yang akan diperoleh Muhammad s.a.w. dalam perjuangannya dan tentang kesempurnaan nikmat Allah kepadanya.
+
+ayat :
+15
+
+surat :
+سَيَقُوْلُ الْمُخَلَّفُوْنَ اِذَا انْطَلَقْتُمْ اِلٰى مَغَانِمَ لِتَأْخُذُوْهَا ذَرُوْنَا نَتَّبِعْكُمْ ۚ يُرِيْدُوْنَ اَنْ يُّبَدِّلُوْا كَلٰمَ اللّٰهِ ۗ قُلْ لَّنْ تَتَّبِعُوْنَا كَذٰلِكُمْ قَالَ اللّٰهُ مِنْ قَبْلُ  ۖفَسَيَقُوْلُوْنَ بَلْ تَحْسُدُوْنَن
+
+latin :
+sayaquulu lmukhallafuuna idzaa inthalaqtum ilaa maghaanima lita/khudzuuhaa dzaruunaa nattabi'kum yuriiduuna an yubaddiluu kalaama laahi qul lan tattabi'uunaa kadzaalikum qaala laahu min qablu fasayaquuluuna bal tahsuduunanaa bal kaanuu laa yafqahuuna illaa qaliilaa
+
+terjemahan :
+Apabila kamu berangkat untuk mengambil barang rampasan, orang-orang Badui yang tertinggal itu akan berkata, “Biarkanlah kami mengikuti kamu.” Mereka hendak mengubah janji Allah. Katakanlah, “Kamu sekali-kali tidak (boleh) mengikuti kami. Demikianlah yang telah ditetapkan Allah sejak semula.” Maka mereka akan berkata, “Sebenarnya kamu dengki kepada kami.” Padahal mereka tidak mengerti melainkan sedikit sekali. 
+

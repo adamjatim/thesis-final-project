@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+146
+
+surat :
+سَاَصْرِفُ عَنْ اٰيٰتِيَ الَّذِيْنَ يَتَكَبَّرُوْنَ فِى الْاَرْضِ بِغَيْرِ الْحَقِّۗ وَاِنْ يَّرَوْا كُلَّ اٰيَةٍ لَّا يُؤْمِنُوْا بِهَاۚ وَاِنْ يَّرَوْا سَبِيْلَ الرُّشْدِ لَا يَتَّخِذُوْهُ سَبِيْلًاۚ وَاِنْ يَّرَوْا سَبِيْلَ الْغَيِّ يَتَّخِذُوْهُ سَبِي
+
+latin :
+sa-ashrifu 'an aayaatiya ladziina yatakabbaruuna fii l-ardhi bighayri lhaqqi wa-in yaraw kulla aayatin laa yu/minuu bihaa wa-in yaraw sabiila rrusydi laa yattakhidzuuhu sabiilan wa-in yaraw sabiila lghayyi yattakhidzuuhu sabiilan dzaalika bi-annahum kadzdzabuu bi-aayaatinaa wakaanuu 'anhaa ghaafiliin
+
+terjemahan :
+Akan Aku palingkan dari tanda-tanda (kekuasaan-Ku) orang-orang yang menyombongkan diri di bumi tanpa alasan yang benar. Kalaupun mereka melihat setiap tanda (kekuasaan-Ku) mereka tetap tidak akan beriman kepadanya. Dan jika mereka melihat jalan yang membawa kepada petunjuk, mereka tidak (akan) menempuhnya, tetapi jika mereka melihat jalan kesesatan, mereka menempuhnya. Yang demikian adalah karena mereka mendustakan ayat-ayat Kami dan mereka selalu lengah terhadapnya.
+

@@ -1,0 +1,30 @@
+no surat :
+104
+
+nama surat :
+Al-Humazah
+
+nama surat arab :
+الهمزة
+
+arti surat :
+Pengumpat
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Humazah terdiri atas 9 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qiyaamah. Dinamai Al Humazah (pengumpat) diambil dari perkataan Humazah yang terdapat pada ayat pertama surat ini.
+
+ayat :
+1
+
+surat :
+وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍۙ
+
+latin :
+waylun likulli humazatin lumaza
+
+terjemahan :
+Celakalah bagi setiap pengumpat dan pencela,
+

@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+106
+
+surat :
+۞ مَا نَنْسَخْ مِنْ اٰيَةٍ اَوْ نُنْسِهَا نَأْتِ بِخَيْرٍ مِّنْهَآ اَوْ مِثْلِهَا ۗ اَلَمْ تَعْلَمْ اَنَّ اللّٰهَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ
+
+latin :
+maa nansakh min aayatin aw nunsihaa na/ti bikhayrin minhaa aw mitslihaa alam ta'lam anna allaaha 'alaa kulli syay-in qadiirun
+
+terjemahan :
+Ayat yang Kami batalkan atau Kami hilangkan dari ingatan, pasti Kami ganti dengan yang lebih baik atau yang sebanding dengannya. Tidakkah kamu tahu bahwa Allah Mahakuasa atas segala sesuatu?
+

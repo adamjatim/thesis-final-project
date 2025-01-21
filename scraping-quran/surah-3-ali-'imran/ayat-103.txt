@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+103
+
+surat :
+وَاعْتَصِمُوْا بِحَبْلِ اللّٰهِ جَمِيْعًا وَّلَا تَفَرَّقُوْا ۖوَاذْكُرُوْا نِعْمَتَ اللّٰهِ عَلَيْكُمْ اِذْ كُنْتُمْ اَعْدَاۤءً فَاَلَّفَ بَيْنَ قُلُوْبِكُمْ فَاَصْبَحْتُمْ بِنِعْمَتِهٖٓ اِخْوَانًاۚ وَكُنْتُمْ عَلٰى شَفَا حُفْرَةٍ مِّنَ النَّارِ فَاَنْقَ
+
+latin :
+wa'tashimuu bihabli laahi jamii'an walaa tafarraquu wadzkuruu ni'mata laahi 'alaykum idz kuntum a'daa-an fa-allafa bayna quluubikum fa-ashbahtum bini'matihi ikhwaanan wakuntum 'alaa syafaa hufratin mina nnaari fa-anqadzakum minhaa kadzaalika yubayyinu laahu lakum aayaatihi la'allakum tahtaduun
+
+terjemahan :
+Dan berpegangteguhlah kamu semuanya pada tali (agama) Allah, dan janganlah kamu bercerai berai, dan ingatlah nikmat Allah kepadamu ketika kamu dahulu (masa jahiliah) bermusuhan, lalu Allah mempersatukan hatimu, sehingga dengan karunia-Nya kamu menjadi bersaudara, sedangkan (ketika itu) kamu berada di tepi jurang neraka, lalu Allah menyelamatkan kamu dari sana. Demikianlah, Allah menerangkan ayat-ayat-Nya kepadamu agar kamu mendapat petunjuk.
+

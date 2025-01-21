@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+41
+
+surat :
+۞ يٰٓاَيُّهَا الرَّسُوْلُ لَا يَحْزُنْكَ الَّذِيْنَ يُسَارِعُوْنَ فِى الْكُفْرِ مِنَ الَّذِيْنَ قَالُوْٓا اٰمَنَّا بِاَفْوَاهِهِمْ وَلَمْ تُؤْمِنْ قُلُوْبُهُمْ ۛ وَمِنَ الَّذِيْنَ هَادُوْا ۛ سَمّٰعُوْنَ لِلْكَذِبِ سَمّٰعُوْنَ لِقَوْمٍ اٰخَرِيْنَۙ لَمْ يَأ
+
+latin :
+yaa ayyuhaa rrasuulu laa yahzunka ladziina yusaari'uuna fii lkufri mina ladziina qaaluu aamannaa bi-afwaahihim walam tu/min quluubuhum wamina ladziina haaduu sammaa'uuna lilkadzibi sammaa'uuna liqawmin aakhariina lam ya/tuuka yuharrifuuna lkalima min ba'di mawaadi'ihi yaquuluuna in uutiitum haadzaa fakhudzuuhu wa-in lam tu/tawhu fahtsaruu waman yuridi laahu fitnatahu falan tamlika lahu mina laahi syay-an ulaa-ika ladziina lam yuridi laahu an yuthahhira quluubahum lahum fii ddunyaa khizyun walahum fii l-aakhirati 'adzaabun 'azhiim
+
+terjemahan :
+Wahai Rasul (Muhammad)! Janganlah engkau disedihkan karena mereka berlomba-lomba dalam kekafirannya. Yaitu orang-orang (munafik) yang mengatakan dengan mulut mereka, “Kami telah beriman,” padahal hati mereka belum beriman; dan juga orang-orang Yahudi yang sangat suka mendengar (berita-berita) bohong dan sangat suka mendengar (perkataan-perkataan) orang lain yang belum pernah datang kepadamu. Mereka mengubah kata-kata (Taurat) dari makna yang sebenarnya. Mereka mengatakan, “Jika ini yang diberikan kepadamu (yang sudah diubah) terimalah, dan jika kamu diberi yang bukan ini, maka hati-hatilah.” Barangsiapa dikehendaki Allah untuk dibiarkan sesat, sedikit pun engkau tidak akan mampu menolak sesuatu pun dari Allah (untuk menolongnya). Mereka itu adalah orang-orang yang sudah tidak dikehendaki Allah untuk menyucikan hati mereka. Di dunia mereka mendapat kehinaan dan di akhirat akan mendapat azab yang besar.
+

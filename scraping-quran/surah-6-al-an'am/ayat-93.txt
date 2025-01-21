@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+93
+
+surat :
+وَمَنْ اَظْلَمُ مِمَّنِ افْتَرٰى عَلَى اللّٰهِ كَذِبًا اَوْ قَالَ اُوْحِيَ اِلَيَّ وَلَمْ يُوْحَ اِلَيْهِ شَيْءٌ وَّمَنْ قَالَ سَاُنْزِلُ مِثْلَ مَآ اَنْزَلَ اللّٰهُ ۗوَلَوْ تَرٰٓى اِذِ الظّٰلِمُوْنَ فِيْ غَمَرٰتِ الْمَوْتِ وَالْمَلٰۤىِٕكَةُ بَاسِطُوْٓا 
+
+latin :
+waman azhlamu mimmani iftaraa 'alaa laahi kadziban aw qaala uuhiya ilayya walam yuuha ilayhi syay-un waman qaala saunzilu mitsla maa anzala laahu walaw taraa idzi zhzhaalimuuna fii ghamaraati lmawti walmalaa-ikatu baasithuu aydiihim akhrijuu anfusakumu lyawma tujzawna 'adzaaba lhuuni bimaa kuntum taquuluuna 'alaa laahi ghayra lhaqqi wakuntum 'an aayaatihi tastakbiruun
+
+terjemahan :
+Siapakah yang lebih zalim daripada orang-orang yang mengada-adakan dusta terhadap Allah atau yang berkata, “Telah diwahyukan kepadaku,” padahal tidak diwahyukan sesuatu pun kepadanya, dan orang yang berkata, “Aku akan menurunkan seperti apa yang diturunkan Allah.” (Alangkah ngerinya) sekiranya engkau melihat pada waktu orang-orang zalim (berada) dalam kesakitan sakratul maut, sedang para malaikat memukul dengan tangannya, (sambil berkata), “Keluarkanlah nyawamu.” Pada hari ini kamu akan dibalas dengan azab yang sangat menghinakan, karena kamu mengatakan terhadap Allah (perkataan) yang tidak benar dan (karena) kamu menyombongkan diri terhadap ayat-ayat-Nya.
+

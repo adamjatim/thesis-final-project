@@ -1,0 +1,30 @@
+no surat :
+65
+
+nama surat :
+At-Talaq
+
+nama surat arab :
+الطلاق
+
+arti surat :
+Talak
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Insaan. Dinamai surat Ath Thalaaq karena kebanyakan ayat-ayatnya mengenai masalah talak dan yang berhubungan dengan masalah itu.
+
+ayat :
+11
+
+surat :
+رَّسُوْلًا يَّتْلُوْا عَلَيْكُمْ اٰيٰتِ اللّٰهِ مُبَيِّنٰتٍ لِّيُخْرِجَ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ مِنَ الظُّلُمٰتِ اِلَى النُّوْرِۗ وَمَنْ يُّؤْمِنْۢ بِاللّٰهِ وَيَعْمَلْ صَالِحًا يُّدْخِلْهُ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خ
+
+latin :
+rasuulan yatluu 'alaykum aayaati laahi mubayyinaatin liyukhrija ladziina aamanuu wa'amiluu shshaalihaati mina zhzhulumaati ilaa nnuuri waman yu/min bilaahi waya'mal shaalihan yudkhilhu jannaatin tajrii min tahtihaa l-anhaaru khaalidiina fiihaa abadan qad ahsana laahu lahu rizqaa
+
+terjemahan :
+(dengan mengutus) seorang Rasul yang membacakan ayat-ayat Allah kepadamu yang menerangkan (bermacam-macam hukum), agar Dia mengeluarkan orang-orang yang beriman dan mengerjakan kebajikan, dari kegelapan kepada cahaya. Dan barangsiapa beriman kepada Allah dan mengerjakan kebajikan, niscaya Dia akan memasukkannya ke dalam surga-surga yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Sungguh, Allah memberikan rezeki yang baik kepadanya. 
+

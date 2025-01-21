@@ -1,0 +1,30 @@
+no surat :
+10
+
+nama surat :
+Yunus
+
+nama surat arab :
+يونس
+
+arti surat :
+Yunus
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Yunus terdiri atas 109 ayat, termasuk golongan surat-surat Makkiyyah kecuali ayat 40, 94, 95, yang diturunkan pada masa Nabi Muhmmad s.a.w. berada di Madinah. Surat ini dinamai surat Yunus karena dalam surat ini terutama ditampilkan kisah Nabi Yunus a.s. dan pengikut-pengikutnya yang teguh imannya.
+
+ayat :
+35
+
+surat :
+قُلْ هَلْ مِنْ شُرَكَاۤىِٕكُمْ مَّنْ يَّهْدِيْٓ اِلَى الْحَقِّۗ قُلِ اللّٰهُ يَهْدِيْ لِلْحَقِّۗ اَفَمَنْ يَّهْدِيْٓ اِلَى الْحَقِّ اَحَقُّ اَنْ يُّتَّبَعَ اَمَّنْ لَّا يَهِدِّيْٓ اِلَّآ اَنْ يُّهْدٰىۚ فَمَا لَكُمْۗ  كَيْفَ تَحْكُمُوْنَ 
+
+latin :
+qul hal min syurakaa-ikum man yahdii ilaa lhaqqi quli laahu yahdii lilhaqqi afaman yahdii ilaa lhaqqi ahaqqu an yuttaba'a amman laa yahiddii illaa an yuhdaa famaa lakum kayfa tahkumuun
+
+terjemahan :
+Katakanlah, “Apakah di antara sekutumu ada yang membimbing kepada kebenaran?” Katakanlah, “Allah-lah yang membimbing kepada kebenaran.” Maka manakah yang lebih berhak diikuti, Tuhan yang membimbing kepada kebenaran itu, ataukah orang yang tidak mampu membimbing bahkan perlu dibimbing? Maka mengapa kamu (berbuat demikian)? Bagaimanakah kamu mengambil keputusan?
+

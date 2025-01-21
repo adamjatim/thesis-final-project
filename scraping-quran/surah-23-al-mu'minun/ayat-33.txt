@@ -1,0 +1,30 @@
+no surat :
+23
+
+nama surat :
+Al-Mu'minun
+
+nama surat arab :
+المؤمنون
+
+arti surat :
+Orang-Orang Mukmin
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Mu'minuun terdiri atas 118 ayat, termasuk golongan surat-surat Makkiyyah. Dinamai Al Mu'minuun, karena permulaan ayat ini manerangkan bagaimana seharusnya sifat-sifat orang mukmin yang menyebabkan keberuntungan mereka di akhirat dan ketenteraman jiwa mereka di dunia. Demikian tingginya sifat-sifat itu, hingga ia telah menjadi akhlak bagi Nabi Muhammad s.a.w.
+
+ayat :
+33
+
+surat :
+وَقَالَ الْمَلَاُ مِنْ قَوْمِهِ الَّذِيْنَ كَفَرُوْا وَكَذَّبُوْا بِلِقَاۤءِ الْاٰخِرَةِ وَاَتْرَفْنٰهُمْ فِى الْحَيٰوةِ الدُّنْيَاۙ مَا هٰذَآ اِلَّا بَشَرٌ مِّثْلُكُمْۙ يَأْكُلُ مِمَّا تَأْكُلُوْنَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُوْنَ 
+
+latin :
+waqaala lmalau min qawmihi ladziina kafaruu wakadzdzabuu biliqaa-i l-aakhirati wa-atrafnaahum fii lhayaati ddunyaa maa haadzaa illaa basyarun mitslukum ya/kulu mimmaa ta/kuluuna minhu wayasyrabu mimmaa tasyrabuun
+
+terjemahan :
+Dan berkatalah para pemuka orang kafir dari kaumnya dan yang mendustakan pertemuan hari akhirat serta mereka yang telah Kami beri kemewahan dan kesenangan dalam kehidupan di dunia, “(Orang) ini tidak lain hanyalah manusia seperti kamu, dia makan apa yang kamu makan, dan dia minum apa yang kamu minum.”
+

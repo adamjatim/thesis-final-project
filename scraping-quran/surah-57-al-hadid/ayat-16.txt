@@ -1,0 +1,30 @@
+no surat :
+57
+
+nama surat :
+Al-Hadid
+
+nama surat arab :
+الحديد
+
+arti surat :
+Besi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hadiid terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Az Zalzalah. Dinamai Al Hadiid (Besi), diambil dari perkataan Al Hadiid yang terdapat pada ayat 25 surat ini.
+
+ayat :
+16
+
+surat :
+اَلَمْ يَأْنِ لِلَّذِيْنَ اٰمَنُوْٓا اَنْ تَخْشَعَ قُلُوْبُهُمْ لِذِكْرِ اللّٰهِ وَمَا نَزَلَ مِنَ الْحَقِّۙ وَلَا يَكُوْنُوْا كَالَّذِيْنَ اُوْتُوا الْكِتٰبَ مِنْ قَبْلُ فَطَالَ عَلَيْهِمُ الْاَمَدُ فَقَسَتْ قُلُوْبُهُمْۗ وَكَثِيْرٌ مِّنْهُمْ فٰسِقُوْنَ 
+
+latin :
+alam ya/ni lilladziina aamanuu an takhsya'a quluubuhum lidzikri laahi wamaa nazala mina lhaqqi walaa yakuunuu kalladziina uutuu lkitaaba min qablu fathaala 'alayhimu l-amadu faqasat quluubuhum wakatsiirun minhum faasiquun
+
+terjemahan :
+Belum tibakah waktunya bagi orang-orang yang beriman, untuk secara khusyuk mengingat Allah dan mematuhi kebenaran yang telah diwahyukan (kepada mereka), dan janganlah mereka (berlaku) seperti orang-orang yang telah menerima kitab sebelum itu, kemudian mereka melalui masa yang panjang sehingga hati mereka menjadi keras. Dan banyak di antara mereka menjadi orang-orang fasik.
+

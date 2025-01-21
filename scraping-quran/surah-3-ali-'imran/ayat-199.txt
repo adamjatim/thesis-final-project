@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+199
+
+surat :
+وَاِنَّ مِنْ اَهْلِ الْكِتٰبِ لَمَنْ يُّؤْمِنُ بِاللّٰهِ وَمَآ اُنْزِلَ اِلَيْكُمْ وَمَآ اُنْزِلَ اِلَيْهِمْ خٰشِعِيْنَ لِلّٰهِ ۙ لَا يَشْتَرُوْنَ بِاٰيٰتِ اللّٰهِ ثَمَنًا قَلِيْلًا ۗ اُولٰۤىِٕكَ لَهُمْ اَجْرُهُمْ عِنْدَ رَبِّهِمْ ۗ اِنَّ اللّٰهَ سَرِيْ
+
+latin :
+wa-inna min ahli lkitaabi laman yu/minu bilaahi wamaa unzila ilaykum wamaa unzila ilayhim khaasyi'iina lillaahi laa yasytaruuna bi-aayaati laahi tsamanan qaliilan ulaa-ika lahum ajruhum 'inda rabbihim inna laaha sarii'u lhisaab
+
+terjemahan :
+Dan sesungguhnya di antara Ahli Kitab ada yang beriman kepada Allah, dan kepada apa yang diturunkan kepada kamu, dan yang diturunkan kepada mereka, karena mereka berendah hati kepada Allah, dan mereka tidak memperjualbelikan ayat-ayat Allah dengan harga murah. Mereka memperoleh pahala di sisi Tuhannya. Sungguh, Allah sangat cepat perhitungan-Nya.
+

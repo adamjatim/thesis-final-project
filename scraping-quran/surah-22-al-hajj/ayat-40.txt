@@ -1,0 +1,30 @@
+no surat :
+22
+
+nama surat :
+Al-Hajj
+
+nama surat arab :
+الحج
+
+arti surat :
+Haji
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hajj, termasuk golongan surat-surat Madaniyyah, terdiri atas 78 ayat, sedang menurut pendapat sebahagian ahli tafsir termasuk golongan surat-surat Makkiyah. Sebab perbedaan ini ialah karena sebahagian ayat-ayat surat ini ada yang diturunkan di Mekah dan sebahagian lagi diturunkan di Madinah. Dinamai surat ini Al Hajj, karena surat ini mengemukakan hal-hal yang berhubungan dengan ibadat haji, seperti ihram, thawaf, sa'i, wuquf di Arafah, mencukur rambut, syi'ar-syi'ar Allah, faedah-faedah dan hikmah-hikmah disyari'atkannya haji. Ditegaskan pula bahwa ibadat haji itu telah disyari'atkan di masa Nabi Ibrahim a.s., dan Ka'bah didirikan oleh Nabi Ibrahim a.s. bersama puteranya Ismail a.s.Menurut Al Ghaznawi, surat Al Hajj termasuk di antara surat- surat yang ajaib, diturunkan di malam dan di siang hari, dalam musafir dan dalam keadaan tidak musafir, ada ayat-ayat yang diturunkan di Mekah dan ada pula yang diturunkan di Madinah, isinya ada yang berhubungan dengan peperangan dan ada pula yang berhubungan dengan perdamaian, ada ayat-ayatnya yang muhkam dan ada pula yang mutasyabihaat.
+
+ayat :
+40
+
+surat :
+ ۨالَّذِيْنَ اُخْرِجُوْا مِنْ دِيَارِهِمْ بِغَيْرِ حَقٍّ اِلَّآ اَنْ يَّقُوْلُوْا رَبُّنَا اللّٰهُ ۗوَلَوْلَا دَفْعُ اللّٰهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَّهُدِّمَتْ صَوَامِعُ وَبِيَعٌ وَّصَلَوٰتٌ وَّمَسٰجِدُ يُذْكَرُ فِيْهَا اسْمُ اللّٰهِ كَثِيْرًاۗ وَ
+
+latin :
+ladziina ukhrijuu min diyaarihim bighayri haqqin illaa an yaquuluu rabbunaa laahu walawlaa daf'u laahi nnaasa ba'dhahum biba'dhin lahuddimat shawaami'u wabiya'un washalawaatun wamasaajidu yudzkaru fiihaa ismu laahi katsiiran walayanshuranna laahu man yanshuruhu inna laaha laqawiyyun 'aziiz
+
+terjemahan :
+(yaitu) orang-orang yang diusir dari kampung halamannya tanpa alasan yang benar, hanya karena mereka berkata, “Tuhan kami ialah Allah.” Seandainya Allah tidak menolak (keganasan) sebagian manusia dengan sebagian yang lain, tentu telah dirobohkan biara-biara Nasrani, gereja-gereja, rumah-rumah ibadah orang Yahudi dan masjid-masjid, yang di dalamnya banyak disebut nama Allah. Allah pasti akan menolong orang yang menolong (agama)-Nya. Sungguh, Allah Mahakuat, Mahaperkasa.
+

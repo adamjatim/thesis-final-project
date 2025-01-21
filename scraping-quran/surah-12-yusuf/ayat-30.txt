@@ -1,0 +1,30 @@
+no surat :
+12
+
+nama surat :
+Yusuf
+
+nama surat arab :
+يوسف
+
+arti surat :
+Yusuf
+
+tempat turun :
+mekah
+
+deskripsi :
+ Surat Yusuf ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum hijrah. Surat ini dinamakan surat Yusuf adalah karena titik berat dari isinya mengenai riwayat Nabi Yusuf a.s.  Riwayat tersebut salah satu di antara cerita-cerita ghaib yang diwahyukan kepada Nabi Muhammad s.a.w. sebagai mukjizat bagi beliau, sedang beliau sebelum diturunkan surat ini tidak mengetahuinya.  Menurut riwayat Al Baihaqi dalam kitab Ad Dalail bahwa segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf a.s. ini, karena sesuai dengan cerita-cerita yang mereka ketahui. Dari cerita Yusuf a.s. ini, Nabi Muhammad s.a.w. mengambil pelajaran-pelajaran yang banyak dan merupakan penghibur terhadap beliau dalam menjalankan tugasnya.
+
+ayat :
+30
+
+surat :
+۞ وَقَالَ نِسْوَةٌ فِى الْمَدِيْنَةِ امْرَاَتُ الْعَزِيْزِ تُرَاوِدُ فَتٰىهَا عَنْ نَّفْسِهٖۚ قَدْ شَغَفَهَا حُبًّاۗ اِنَّا لَنَرٰىهَا فِيْ ضَلٰلٍ مُّبِيْنٍ 
+
+latin :
+waqaala niswatun fii lmadiinati imra-atu l'aziizi turaawidu fataahaa 'an nafsihi qad syaghafahaa hubban innaa lanaraahaa fii dhalaalin mubiin
+
+terjemahan :
+Dan perempuan-perempuan di kota berkata, “Istri Al-Aziz menggoda dan merayu pelayannya untuk menundukkan dirinya, pelayannya benar-benar membuatnya mabuk cinta. Kami pasti memandang dia dalam kesesatan yang nyata.”
+

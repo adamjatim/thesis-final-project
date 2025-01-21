@@ -1,0 +1,30 @@
+no surat :
+24
+
+nama surat :
+An-Nur
+
+nama surat arab :
+النّور
+
+arti surat :
+Cahaya
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nuur terdiri atas 64 ayat, dan termasuk golongan surat-surat Madaniyah. Dinamai An Nuur yang berarti Cahaya, diambil dari kata An Nuur yang terdapat pada ayat ke 35. Dalam ayat ini, Allah s.w.t. menjelaskan tentang Nuur Ilahi, yakni Al Quran yang mengandung petunjuk-petunjuk. Petunjuk-petunjuk Allah itu, merupakan cahaya yang terang benderang menerangi alam semesta. Surat ini sebagian besar isinya memuat petunjuk- petunjuk Allah yang berhubungan dengan soal kemasyarakatan dan rumah tangga.
+
+ayat :
+28
+
+surat :
+فَاِنْ لَّمْ تَجِدُوْا فِيْهَآ اَحَدًا فَلَا تَدْخُلُوْهَا حَتّٰى يُؤْذَنَ لَكُمْ وَاِنْ قِيْلَ لَكُمُ ارْجِعُوْا فَارْجِعُوْا هُوَ اَزْكٰى لَكُمْ ۗوَاللّٰهُ بِمَا تَعْمَلُوْنَ عَلِيْمٌ 
+
+latin :
+fa-in lam tajiduu fiihaa ahadan falaa tadkhuluuhaa hattaa yu/dzana lakum wa-in qiila lakumu irji'uu farji'uu huwa azkaa lakum walaahu bimaa ta'maluuna 'aliim
+
+terjemahan :
+Dan jika kamu tidak menemui seorang pun di dalamnya, maka janganlah kamu masuk sebelum kamu mendapat izin. Dan jika dikatakan kepadamu, “Kembalilah!” Maka (hendaklah) kamu kembali. Itu lebih suci bagimu, dan Allah Maha Mengetahui apa yang kamu kerjakan.
+

@@ -1,0 +1,30 @@
+no surat :
+65
+
+nama surat :
+At-Talaq
+
+nama surat arab :
+الطلاق
+
+arti surat :
+Talak
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Insaan. Dinamai surat Ath Thalaaq karena kebanyakan ayat-ayatnya mengenai masalah talak dan yang berhubungan dengan masalah itu.
+
+ayat :
+1
+
+surat :
+يٰٓاَيُّهَا النَّبِيُّ اِذَا طَلَّقْتُمُ النِّسَاۤءَ فَطَلِّقُوْهُنَّ لِعِدَّتِهِنَّ وَاَحْصُوا الْعِدَّةَۚ وَاتَّقُوا اللّٰهَ رَبَّكُمْۚ  لَا تُخْرِجُوْهُنَّ مِنْۢ بُيُوْتِهِنَّ وَلَا يَخْرُجْنَ اِلَّآ اَنْ يَّأْتِيْنَ بِفَاحِشَةٍ مُّبَيِّنَةٍۗ وَتِلْكَ
+
+latin :
+yaa ayyuhaa nnabiyyu idzaa thallaqtumu nnisaa-a fathalliquuhunna li'iddatihinna wa-ahsuu l'iddata wattaquu laaha rabbakum laa tukhrijuuhunna min buyuutihinna walaa yakhrujna illaa an ya/tiina bifaahisyatin mubayyinatin watilka huduudu laahi waman yata'adda huduuda laahi faqad zhalama nafsahu laa tadrii la'alla laaha yuhditsu ba'da dzaalika amraa
+
+terjemahan :
+Wahai Nabi! Apabila kamu menceraikan istri-istrimu maka hendaklah kamu ceraikan mereka pada waktu mereka dapat (menghadapi) idahnya (yang wajar), dan hitunglah waktu idah itu, serta bertakwalah kepada Allah Tuhanmu. Janganlah kamu keluarkan mereka dari rumahnya dan janganlah (diizinkan) keluar kecuali jika mereka mengerjakan perbuatan keji yang jelas. Itulah hukum-hukum Allah, dan barangsiapa melanggar hukum-hukum Allah, maka sungguh, dia telah berbuat zalim terhadap dirinya sendiri. Kamu tidak mengetahui barangkali setelah itu Allah mengadakan suatu ketentuan yang baru. 
+

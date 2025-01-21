@@ -1,0 +1,30 @@
+no surat :
+66
+
+nama surat :
+At-Tahrim
+
+nama surat arab :
+التحريم
+
+arti surat :
+Pengharaman
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hujuraat. Dinamai surat At Tahrim karena pada awal surat ini terdapat kata tuharrim yang kata asalnya adalah Attahrim yang berarti mengharamkan.
+
+ayat :
+8
+
+surat :
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا تُوْبُوْٓا اِلَى اللّٰهِ تَوْبَةً نَّصُوْحًاۗ عَسٰى رَبُّكُمْ اَنْ يُّكَفِّرَ عَنْكُمْ سَيِّاٰتِكُمْ وَيُدْخِلَكُمْ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُۙ يَوْمَ لَا يُخْزِى اللّٰهُ النَّبِيَّ وَالَّذِيْنَ اٰمَنُوْا 
+
+latin :
+yaa ayyuhaa ladziina aamanuu tuubuu ilaa laahi tawbatan nashuuhan 'asaa rabbukum an yukaffira 'ankum sayyi-aatikum wayudkhilakum jannaatin tajrii min tahtihaa l-anhaaru yawma laa yukhzii laahu nnabiyya walladziina aamanuu ma'ahu nuuruhum yas'aa bayna aydiihim wabi-aymaanihim yaquuluuna rabbanaa atmim lanaa nuuranaa waghfir lanaa innaka 'alaa kulli syay-in qadiir
+
+terjemahan :
+Wahai orang-orang yang beriman! Bertobatlah kepada Allah dengan tobat yang semurni-murninya, mudah-mudahan Tuhan kamu akan menghapus kesalahan-kesalahanmu dan memasukkan kamu ke dalam surga yang mengalir di bawahnya sungai-sungai, pada hari ketika Allah tidak mengecewakan Nabi dan orang-orang yang beriman bersama dengannya; sedang cahaya mereka memancar di hadapan dan di sebelah kanan mereka, sambil mereka berkata, “Ya Tuhan kami, sempurnakanlah untuk kami cahaya kami dan ampunilah kami; Sungguh, Engkau Mahakuasa atas segala sesuatu.” 
+

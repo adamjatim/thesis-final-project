@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+17
+
+surat :
+اِنَّمَا التَّوْبَةُ عَلَى اللّٰهِ لِلَّذِيْنَ يَعْمَلُوْنَ السُّوْۤءَ بِجَهَالَةٍ ثُمَّ يَتُوْبُوْنَ مِنْ قَرِيْبٍ فَاُولٰۤىِٕكَ يَتُوْبُ اللّٰهُ عَلَيْهِمْ ۗ وَكَانَ اللّٰهُ عَلِيْمًا حَكِيْمًا 
+
+latin :
+innamaa ttawbatu 'alaa laahi lilladziina ya'maluuna ssuu-a bijahaalatin tsumma yatuubuuna min qariibin faulaa-ika yatuubu laahu 'alayhim wakaana laahu 'aliiman hakiimaa
+
+terjemahan :
+Sesungguhnya bertobat kepada Allah itu hanya (pantas) bagi mereka yang melakukan kejahatan karena tidak mengerti, kemudian segera bertobat. Tobat mereka itulah yang diterima Allah. Allah Maha Mengetahui, Mahabijaksana.
+

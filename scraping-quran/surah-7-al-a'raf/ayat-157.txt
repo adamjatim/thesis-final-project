@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+157
+
+surat :
+اَلَّذِيْنَ يَتَّبِعُوْنَ الرَّسُوْلَ النَّبِيَّ الْاُمِّيَّ الَّذِيْ يَجِدُوْنَهٗ مَكْتُوْبًا عِنْدَهُمْ فِى التَّوْرٰىةِ وَالْاِنْجِيْلِ يَأْمُرُهُمْ بِالْمَعْرُوْفِ وَيَنْهٰىهُمْ عَنِ الْمُنْكَرِ وَيُحِلُّ لَهُمُ الطَّيِّبٰتِ وَيُحَرِّمُ عَلَيْهِمُ الْ
+
+latin :
+ladziina yattabi'uuna rrasuula nnabiyya l-ummiyya ladzii yajiduunahu maktuuban 'indahum fii ttawraati wal-injiili ya/muruhum bilma'ruufi wayanhaahum 'ani lmunkari wayuhillu lahumu ththhayyibaati wayuharrimu 'alayhimu lkhabaa-itsa wayadha'u 'anhum ishrahum wal-aghlaala latii kaanat 'alayhim falladziina aamanuu bihi wa'azzaruuhu wanasharuuhu wattaba'uu nnuura ladzii unzila ma'ahu ulaa-ika humu lmuflihuun
+
+terjemahan :
+(Yaitu) orang-orang yang mengikuti Rasul, Nabi yang ummi (tidak bisa baca tulis) yang (namanya) mereka dapati tertulis di dalam Taurat dan Injil yang ada pada mereka, yang menyuruh mereka berbuat yang makruf dan mencegah dari yang mungkar, dan yang menghalalkan segala yang baik bagi mereka dan mengharamkan segala yang buruk bagi mereka, dan membebaskan beban-beban dan belenggu-belenggu yang ada pada mereka. Adapun orang-orang yang beriman kepadanya, memuliakannya, menolongnya dan mengikuti cahaya yang terang yang diturunkan kepadanya (Al-Qur'an), mereka itulah orang-orang beruntung.
+

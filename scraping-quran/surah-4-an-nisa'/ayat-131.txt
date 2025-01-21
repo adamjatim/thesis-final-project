@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+131
+
+surat :
+وَلِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الْاَرْضِۗ وَلَقَدْ وَصَّيْنَا الَّذِيْنَ اُوْتُوا الْكِتٰبَ مِنْ قَبْلِكُمْ وَاِيَّاكُمْ اَنِ اتَّقُوا اللّٰهَ ۗوَاِنْ تَكْفُرُوْا فَاِنَّ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الْاَرْضِۗ وَكَانَ اللّٰهُ غَنِيًّا ح
+
+latin :
+walillaahi maa fii ssamaawaati wamaa fii l-ardhi walaqad washshaynaa ladziina uutuu lkitaaba min qablikum wa-iyyaakum ani ittaquu laaha wa-in takfuruu fa-inna lillaahi maa fii ssamaawaati wamaa fii l-ardhi wakaana laahu ghaniyyan hamiidaa
+
+terjemahan :
+Dan milik Allah-lah apa yang ada di langit dan apa yang ada di bumi, dan sungguh, Kami telah memerintahkan kepada orang yang diberi kitab suci sebelum kamu dan (juga) kepadamu agar bertakwa kepada Allah. Tetapi jika kamu ingkar, maka (ketahuilah), milik Allah-lah apa yang ada di langit dan apa yang ada di bumi, dan Allah Mahakaya, Maha Terpuji.
+

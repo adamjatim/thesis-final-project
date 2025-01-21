@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+3
+
+surat :
+وَاِنْ خِفْتُمْ اَلَّا تُقْسِطُوْا فِى الْيَتٰمٰى فَانْكِحُوْا مَا طَابَ لَكُمْ مِّنَ النِّسَاۤءِ مَثْنٰى وَثُلٰثَ وَرُبٰعَ ۚ فَاِنْ خِفْتُمْ اَلَّا تَعْدِلُوْا فَوَاحِدَةً اَوْ مَا مَلَكَتْ اَيْمَانُكُمْ ۗ ذٰلِكَ اَدْنٰٓى اَلَّا تَعُوْلُوْاۗ
+
+latin :
+wa-in khiftum laa tuqsithuu fii lyataamaa fankihuu maa thaaba lakum mina nnisaa-i matsnaa watsulaatsa warubaa'a fa-in khiftum laa ta'diluu fawaahidatan aw maa malakat aymaanukum dzaalika adnaa laa ta'uuluu
+
+terjemahan :
+Dan jika kamu khawatir tidak akan mampu berlaku adil terhadap (hak-hak) perempuan yatim (bilamana kamu menikahinya), maka nikahilah perempuan (lain) yang kamu senangi: dua, tiga atau empat. Tetapi jika kamu khawatir tidak akan mampu berlaku adil, maka (nikahilah) seorang saja, atau hamba sahaya perempuan yang kamu miliki. Yang demikian itu lebih dekat agar kamu tidak berbuat zalim.
+

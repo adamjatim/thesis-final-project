@@ -1,0 +1,30 @@
+no surat :
+24
+
+nama surat :
+An-Nur
+
+nama surat arab :
+النّور
+
+arti surat :
+Cahaya
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nuur terdiri atas 64 ayat, dan termasuk golongan surat-surat Madaniyah. Dinamai An Nuur yang berarti Cahaya, diambil dari kata An Nuur yang terdapat pada ayat ke 35. Dalam ayat ini, Allah s.w.t. menjelaskan tentang Nuur Ilahi, yakni Al Quran yang mengandung petunjuk-petunjuk. Petunjuk-petunjuk Allah itu, merupakan cahaya yang terang benderang menerangi alam semesta. Surat ini sebagian besar isinya memuat petunjuk- petunjuk Allah yang berhubungan dengan soal kemasyarakatan dan rumah tangga.
+
+ayat :
+60
+
+surat :
+وَالْقَوَاعِدُ مِنَ النِّسَاۤءِ الّٰتِيْ لَا يَرْجُوْنَ نِكَاحًا فَلَيْسَ عَلَيْهِنَّ جُنَاحٌ اَنْ يَّضَعْنَ ثِيَابَهُنَّ غَيْرَ مُتَبَرِّجٰتٍۢ بِزِيْنَةٍۗ وَاَنْ يَّسْتَعْفِفْنَ خَيْرٌ لَّهُنَّۗ وَاللّٰهُ سَمِيْعٌ عَلِيْمٌ 
+
+latin :
+walqawaa'idu mina nnisaa-i laatii laa yarjuuna nikaahan falaysa 'alayhinna junaahun an yadha'na tsiyaabahunna ghayra mutabarrijaatin biziinatin wa-an yasta'fifna khayrun lahunna walaahu samii'un 'aliim
+
+terjemahan :
+Dan para perempuan tua yang telah berhenti (dari haid dan mengandung) yang tidak ingin menikah (lagi), maka tidak ada dosa menanggalkan pakaian (luar) mereka dengan tidak (bermaksud) menampakkan perhiasan; tetapi memelihara kehormatan adalah lebih baik bagi mereka. Allah Maha Mendengar, Maha Mengetahui.
+

@@ -1,0 +1,30 @@
+no surat :
+67
+
+nama surat :
+Al-Mulk
+
+nama surat arab :
+الملك
+
+arti surat :
+Kerajaan
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 30 ayat, termasuk golongan surat-surat  Makkiyah, diturunkan sesudah Ath Thuur. Nama Al Mulk diambil dari kata Al Mulk yang terdapat pada ayat pertama surat ini yang artinya kerajaan atau kekuasaan. Dinamai pula surat ini dengan At Tabaarak (Maha Suci).
+
+ayat :
+10
+
+surat :
+وَقَالُوْا لَوْ كُنَّا نَسْمَعُ اَوْ نَعْقِلُ مَا كُنَّا فِيْٓ اَصْحٰبِ السَّعِيْرِ
+
+latin :
+waqaaluu law kunnaa nasma'u aw na'qilu maa kunnaa fii ash-haabi ssa'iir
+
+terjemahan :
+Dan mereka berkata, “Sekiranya (dahulu) kami mendengarkan atau memikirkan (peringatan itu) tentulah kami tidak termasuk penghuni neraka yang menyala-nyala.”
+

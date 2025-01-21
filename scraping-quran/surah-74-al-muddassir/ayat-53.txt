@@ -1,0 +1,30 @@
+no surat :
+74
+
+nama surat :
+Al-Muddassir
+
+nama surat arab :
+المدّثّر
+
+arti surat :
+Orang Yang Berkemul
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Muddatstsir terdiri atas 56 ayat, termasuk golongan  surat-surat Makkiyah, diturunkan sesudah surat Al Muzzammil. 	Dinamai Al Muddatstsir (orang yang berkemul) diambil dari perkataan Al Muddatstsir yang terdapat pada ayat pertama surat ini.
+
+ayat :
+53
+
+surat :
+كَلَّاۗ بَلْ لَّا يَخَافُوْنَ الْاٰخِرَةَۗ
+
+latin :
+kallaa bal laa yakhaafuuna l-aakhira
+
+terjemahan :
+Tidak! Sebenarnya mereka tidak takut kepada akhirat.
+

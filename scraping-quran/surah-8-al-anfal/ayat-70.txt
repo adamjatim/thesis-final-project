@@ -1,0 +1,30 @@
+no surat :
+8
+
+nama surat :
+Al-Anfal
+
+nama surat arab :
+الانفال
+
+arti surat :
+Rampasan Perang
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Anfaal terdiri atas 75 ayat dan termasuk golongan surat-surat Madaniyyah, karena seluruh ayat-ayatnya diturunkan di Madinah. Surat ini dinamakan Al Anfaal yang berarti harta rampasan perang berhubung kata Al Anfaal terdapat pada permulaan surat ini dan juga persoalan yang menonjol dalam surat ini ialah tentang harta rampasan perang, hukum perang dan hal-hal yang berhubungan dengan peperangan pada umumnya. Menurut riwayat Ibnu Abbas r.a. surat ini diturunkan berkenaan dengan perang Badar Kubra yang terjadi pada tahun kedua hijrah. Peperangan ini sangat penting artinya, karena dialah yang menentukan jalan sejarah Perkembangan Islam. Pada waktu itu umat Islam dengan berkekuatan kecil untuk pertama kali dapat mengalahkan kaum musyrikin yang berjumlah besar, dan berperlengkapan yang cukup, dan mereka dalam peperangan ini memperoleh harta rampasan perang yang tidak sedikit. Oleh sebab itu timbullah masalah bagaimana membagi harta-harta rampasan perang itu, maka kemudian Allah menurunkan ayat pertama dari surat ini.
+
+ayat :
+70
+
+surat :
+يٰٓاَيُّهَا النَّبِيُّ قُلْ لِّمَنْ فِيْٓ اَيْدِيْكُمْ مِّنَ الْاَسْرٰٓىۙ اِنْ يَّعْلَمِ اللّٰهُ فِيْ قُلُوْبِكُمْ خَيْرًا يُّؤْتِكُمْ خَيْرًا مِّمَّآ اُخِذَ مِنْكُمْ وَيَغْفِرْ لَكُمْۗ وَاللّٰهُ غَفُوْرٌ رَّحِيْمٌ ࣖ 
+
+latin :
+yaa ayyuhaa nnabiyyu qul liman fii aydiikum mina l-asraa in ya'lami laahu fii quluubikum khayran yu/tikum khayran mimmaa ukhidza minkum wayaghfir lakum walaahu ghafuurun rahiim
+
+terjemahan :
+Wahai Nabi (Muhammad)! Katakanlah kepada para tawanan perang yang ada di tanganmu, “Jika Allah mengetahui ada kebaikan di dalam hatimu, niscaya Dia akan memberikan yang lebih baik dari apa yang telah diambil darimu dan Dia akan mengampuni kamu.” Allah Maha Pengampun, Maha Penyayang.
+

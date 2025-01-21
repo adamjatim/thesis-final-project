@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+19
+
+surat :
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لَا يَحِلُّ لَكُمْ اَنْ تَرِثُوا النِّسَاۤءَ كَرْهًا ۗ وَلَا تَعْضُلُوْهُنَّ لِتَذْهَبُوْا بِبَعْضِ مَآ اٰتَيْتُمُوْهُنَّ اِلَّآ اَنْ يَّأْتِيْنَ بِفَاحِشَةٍ مُّبَيِّنَةٍ ۚ وَعَاشِرُوْهُنَّ بِالْمَعْرُوْفِ ۚ فَاِنْ كَرِه
+
+latin :
+yaa ayyuhaa ladziina aamanuu laa yahillu lakum an taritsuu nnisaa-a karhan walaa ta'dhuluuhunna litadzhabuu biba'dhi maa aataytumuuhunna illaa an ya/tiina bifaahisyatin mubayyinatin wa'aasyiruuhunna bilma'ruufi fa-in karihtumuuhunna fa'asaa an takrahuu syay-an wayaj'ala laahu fiihi khayran katsiiraa
+
+terjemahan :
+Wahai orang-orang beriman! Tidak halal bagi kamu mewarisi perempuan dengan jalan paksa dan janganlah kamu menyusahkan mereka karena hendak mengambil kembali sebagian dari apa yang telah kamu berikan kepadanya, kecuali apabila mereka melakukan perbuatan keji yang nyata. Dan bergaullah dengan mereka menurut cara yang patut. Jika kamu tidak menyukai mereka, (maka bersabarlah) karena boleh jadi kamu tidak menyukai sesuatu, padahal Allah menjadikan kebaikan yang banyak padanya.
+

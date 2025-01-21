@@ -1,0 +1,30 @@
+no surat :
+101
+
+nama surat :
+Al-Qari'ah
+
+nama surat arab :
+القارعة
+
+arti surat :
+Hari Kiamat
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Quraisy. Nama Al Qaari'ah diambil dari kata Al Qaari'ah yang terdapat pada ayat pertama, artinya mengetok dengan keras, kemudian kata ini dipakai untuk nama hari kiamat.
+
+ayat :
+10
+
+surat :
+وَمَآ اَدْرٰىكَ مَا هِيَهْۗ
+
+latin :
+wamaa adraaka maa hiya
+
+terjemahan :
+Dan tahukah kamu apakah neraka Hawiyah itu?
+

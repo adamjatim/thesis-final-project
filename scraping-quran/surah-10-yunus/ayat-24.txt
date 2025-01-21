@@ -1,0 +1,30 @@
+no surat :
+10
+
+nama surat :
+Yunus
+
+nama surat arab :
+يونس
+
+arti surat :
+Yunus
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Yunus terdiri atas 109 ayat, termasuk golongan surat-surat Makkiyyah kecuali ayat 40, 94, 95, yang diturunkan pada masa Nabi Muhmmad s.a.w. berada di Madinah. Surat ini dinamai surat Yunus karena dalam surat ini terutama ditampilkan kisah Nabi Yunus a.s. dan pengikut-pengikutnya yang teguh imannya.
+
+ayat :
+24
+
+surat :
+اِنَّمَا مَثَلُ الْحَيٰوةِ الدُّنْيَا كَمَاۤءٍ اَنْزَلْنٰهُ مِنَ السَّمَاۤءِ فَاخْتَلَطَ بِهٖ نَبَاتُ الْاَرْضِ مِمَّا يَأْكُلُ النَّاسُ وَالْاَنْعَامُ ۗحَتّٰٓى اِذَآ اَخَذَتِ الْاَرْضُ زُخْرُفَهَا وَازَّيَّنَتْ وَظَنَّ اَهْلُهَآ اَنَّهُمْ قٰدِرُوْنَ عَ
+
+latin :
+innamaa matsalu lhayaati ddunyaa kamaa-in anzalnaahu mina ssamaa-i fakhtalatha bihi nabaatu l-ardhi mimmaa ya/kulu nnaasu wal-an'aamu hattaa idzaa akhadzati l-ardhu zukhrufahaa wazzayyanat wazhanna ahluhaa annahum qaadiruuna 'alayhaa ataahaa amrunaa laylan aw nahaaran faja'alnaahaa hashiidan ka-an lam taghna bil-amsi kadzaalika nufashshilu l-aayaati liqawmin yatafakkaruun
+
+terjemahan :
+Sesungguhnya perumpamaan kehidupan duniawi itu, hanya seperti air (hujan) yang Kami turunkan dari langit, lalu tumbuhlah tanaman-tanaman bumi dengan subur (karena air itu), di antaranya ada yang dimakan manusia dan hewan ternak. Hingga apabila bumi itu telah sempurna keindahannya, dan berhias, dan pemiliknya mengira bahwa mereka pasti menguasainya (memetik hasilnya), datanglah kepadanya azab Kami pada waktu malam atau siang, lalu Kami jadikan (tanaman)nya seperti tanaman yang sudah disabit, seakan-akan belum pernah tumbuh kemarin. Demikianlah Kami menjelaskan tanda-tanda (kekuasaan Kami) kepada orang yang berpikir.
+

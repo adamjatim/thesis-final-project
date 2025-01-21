@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+69
+
+surat :
+وَلَقَدْ جَاۤءَتْ رُسُلُنَآ اِبْرٰهِيْمَ بِالْبُشْرٰى قَالُوْا سَلٰمًا ۖقَالَ سَلٰمٌ فَمَا لَبِثَ اَنْ جَاۤءَ بِعِجْلٍ حَنِيْذٍ
+
+latin :
+walaqad jaa-at rusulunaa ibraahiima bilbusyraa qaaluu salaaman qaala salaamun famaa labitsa an jaa-a bi'ijlin haniidz
+
+terjemahan :
+Dan para utusan Kami (para malaikat) telah datang kepada Ibrahim dengan membawa kabar gembira, mereka mengucapkan, “Selamat.” Dia (Ibrahim) menjawab, “Selamat (atas kamu).” Ma-ka tidak lama kemudian Ibrahim menyuguhkan daging anak sapi yang dipanggang.
+

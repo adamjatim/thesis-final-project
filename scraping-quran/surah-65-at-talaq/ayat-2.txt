@@ -1,0 +1,30 @@
+no surat :
+65
+
+nama surat :
+At-Talaq
+
+nama surat arab :
+الطلاق
+
+arti surat :
+Talak
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Insaan. Dinamai surat Ath Thalaaq karena kebanyakan ayat-ayatnya mengenai masalah talak dan yang berhubungan dengan masalah itu.
+
+ayat :
+2
+
+surat :
+فَاِذَا بَلَغْنَ اَجَلَهُنَّ فَاَمْسِكُوْهُنَّ بِمَعْرُوْفٍ اَوْ فَارِقُوْهُنَّ بِمَعْرُوْفٍ وَّاَشْهِدُوْا ذَوَيْ عَدْلٍ مِّنْكُمْ وَاَقِيْمُوا الشَّهَادَةَ لِلّٰهِ ۗذٰلِكُمْ يُوْعَظُ بِهٖ مَنْ كَانَ يُؤْمِنُ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِ ەۗ وَمَنْ يَّ
+
+latin :
+fa-idzaa balaghna ajalahunna fa-amsikuuhunna bima'ruufin aw faariquuhunna bima'ruufin wa-asyhiduu dzaway 'adlin minkum wa-aqiimuu sysyahaadata lillaahi dzaalikum yuu'azhu bihi man kaana yu/minu bilaahi walyawmi l-aakhiri waman yattaqi laaha yaj'al lahu makhrajaa
+
+terjemahan :
+Maka apabila mereka telah mendekati akhir idahnya, maka rujuklah (kembali kepada) mereka dengan baik atau lepaskanlah mereka dengan baik dan persaksikanlah dengan dua orang saksi yang adil di antara kamu dan hendaklah kamu tegakkan kesaksian itu karena Allah. Demikianlah pengajaran itu diberikan bagi orang yang beriman kepada Allah dan hari akhirat. Barangsiapa bertakwa kepada Allah niscaya Dia akan membukakan jalan keluar baginya, 
+

@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+43
+
+surat :
+قَالَ سَاٰوِيْٓ اِلٰى جَبَلٍ يَّعْصِمُنِيْ مِنَ الْمَاۤءِ ۗقَالَ لَا عَاصِمَ الْيَوْمَ مِنْ اَمْرِ اللّٰهِ اِلَّا مَنْ رَّحِمَ ۚوَحَالَ بَيْنَهُمَا الْمَوْجُ فَكَانَ مِنَ الْمُغْرَقِيْنَ
+
+latin :
+qaala saaawii ilaa jabalin ya'shimunii mina lmaa-i qaala laa 'aasima lyawma min amri laahi illaa man rahima wahaala baynahumaa lmawju fakaana mina lmughraqiin
+
+terjemahan :
+Dia (anaknya) menjawab, “Aku akan mencari perlindungan ke gunung yang dapat menghindarkan aku dari air bah!”  (Nuh) berkata, “Tidak ada yang melindungi dari siksaan Allah pada hari ini selain Allah yang Maha Penyayang.” Dan gelombang menjadi penghalang antara keduanya; maka dia (anak itu) termasuk orang yang ditenggelamkan.
+

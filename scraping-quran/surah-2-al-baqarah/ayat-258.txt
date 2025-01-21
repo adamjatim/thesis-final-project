@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+258
+
+surat :
+اَلَمْ تَرَ اِلَى الَّذِيْ حَاۤجَّ اِبْرٰهٖمَ فِيْ رَبِّهٖٓ اَنْ اٰتٰىهُ اللّٰهُ الْمُلْكَ ۘ اِذْ قَالَ اِبْرٰهٖمُ رَبِّيَ الَّذِيْ يُحْيٖ وَيُمِيْتُۙ قَالَ اَنَا۠ اُحْيٖ وَاُمِيْتُ ۗ قَالَ اِبْرٰهٖمُ فَاِنَّ اللّٰهَ يَأْتِيْ بِالشَّمْسِ مِنَ الْمَشْرِقِ 
+
+latin :
+alam tara ilaa ladzii haajja ibraahiima fii rabbihi an aataahu laahu lmulka idz qaala ibraahiimu rabbiya ladzii yuhyii wayumiitu qaala anaa uhyii waumiitu qaala ibraahiimu fa-inna laaha ya/tii bisysyamsi mina lmasyriqi fa/ti bihaa mina lmaghribi fabuhita ladzii kafara walaahu laa yahdii lqawma zhzhaalimiin
+
+terjemahan :
+Tidakkah kamu memperhatikan orang yang mendebat Ibrahim mengenai Tuhannya, karena Allah telah memberinya kerajaan (kekuasaan). Ketika Ibrahim berkata, “Tuhanku ialah Yang menghidupkan dan mematikan,” dia berkata, “Aku pun dapat menghidupkan dan mematikan.” Ibrahim berkata, “Allah menerbitkan matahari dari timur, maka terbitkanlah ia dari barat.” Maka bingunglah orang yang kafir itu. Allah tidak memberi petunjuk kepada orang-orang zalim.
+

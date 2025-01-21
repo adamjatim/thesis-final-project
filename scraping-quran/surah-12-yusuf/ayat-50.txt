@@ -1,0 +1,30 @@
+no surat :
+12
+
+nama surat :
+Yusuf
+
+nama surat arab :
+يوسف
+
+arti surat :
+Yusuf
+
+tempat turun :
+mekah
+
+deskripsi :
+ Surat Yusuf ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum hijrah. Surat ini dinamakan surat Yusuf adalah karena titik berat dari isinya mengenai riwayat Nabi Yusuf a.s.  Riwayat tersebut salah satu di antara cerita-cerita ghaib yang diwahyukan kepada Nabi Muhammad s.a.w. sebagai mukjizat bagi beliau, sedang beliau sebelum diturunkan surat ini tidak mengetahuinya.  Menurut riwayat Al Baihaqi dalam kitab Ad Dalail bahwa segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf a.s. ini, karena sesuai dengan cerita-cerita yang mereka ketahui. Dari cerita Yusuf a.s. ini, Nabi Muhammad s.a.w. mengambil pelajaran-pelajaran yang banyak dan merupakan penghibur terhadap beliau dalam menjalankan tugasnya.
+
+ayat :
+50
+
+surat :
+وَقَالَ الْمَلِكُ ائْتُوْنِيْ بِهٖ ۚفَلَمَّا جَاۤءَهُ الرَّسُوْلُ قَالَ ارْجِعْ اِلٰى رَبِّكَ فَسْـَٔلْهُ مَا بَالُ النِّسْوَةِ الّٰتِيْ قَطَّعْنَ اَيْدِيَهُنَّ ۗاِنَّ رَبِّيْ بِكَيْدِهِنَّ عَلِيْمٌ 
+
+latin :
+waqaala lmaliku i/tuunii bihi falammaa jaa-ahu rrasuulu qaala irji' ilaa rabbika fas-alhu maa baalu nniswati laatii qaththha'na aydiyahunna inna rabbii bikaydihinna 'aliim
+
+terjemahan :
+Dan raja berkata, “Bawalah dia kepadaku.” Ketika utusan itu datang kepadanya, dia (Yusuf) berkata, “Kembalilah kepada tuanmu dan tanyakan kepadanya bagaimana halnya perempuan-perempuan yang telah melukai tangannya. Sungguh, Tuhanku Maha Mengetahui tipu daya mereka.”
+

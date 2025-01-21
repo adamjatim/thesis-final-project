@@ -1,0 +1,30 @@
+no surat :
+22
+
+nama surat :
+Al-Hajj
+
+nama surat arab :
+الحج
+
+arti surat :
+Haji
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hajj, termasuk golongan surat-surat Madaniyyah, terdiri atas 78 ayat, sedang menurut pendapat sebahagian ahli tafsir termasuk golongan surat-surat Makkiyah. Sebab perbedaan ini ialah karena sebahagian ayat-ayat surat ini ada yang diturunkan di Mekah dan sebahagian lagi diturunkan di Madinah. Dinamai surat ini Al Hajj, karena surat ini mengemukakan hal-hal yang berhubungan dengan ibadat haji, seperti ihram, thawaf, sa'i, wuquf di Arafah, mencukur rambut, syi'ar-syi'ar Allah, faedah-faedah dan hikmah-hikmah disyari'atkannya haji. Ditegaskan pula bahwa ibadat haji itu telah disyari'atkan di masa Nabi Ibrahim a.s., dan Ka'bah didirikan oleh Nabi Ibrahim a.s. bersama puteranya Ismail a.s.Menurut Al Ghaznawi, surat Al Hajj termasuk di antara surat- surat yang ajaib, diturunkan di malam dan di siang hari, dalam musafir dan dalam keadaan tidak musafir, ada ayat-ayat yang diturunkan di Mekah dan ada pula yang diturunkan di Madinah, isinya ada yang berhubungan dengan peperangan dan ada pula yang berhubungan dengan perdamaian, ada ayat-ayatnya yang muhkam dan ada pula yang mutasyabihaat.
+
+ayat :
+65
+
+surat :
+اَلَمْ تَرَ اَنَّ اللّٰهَ سَخَّرَ لَكُمْ مَّا فِى الْاَرْضِ وَالْفُلْكَ تَجْرِيْ فِى الْبَحْرِ بِاَمْرِهٖۗ وَيُمْسِكُ السَّمَاۤءَ اَنْ تَقَعَ عَلَى الْاَرْضِ اِلَّا بِاِذْنِهٖۗ اِنَّ اللّٰهَ بِالنَّاسِ لَرَءُوْفٌ رَّحِيْمٌ 
+
+latin :
+alam tara anna laaha sakhkhara lakum maa fii l-ardhi walfulka tajrii fii lbahri bi-amrihi wayumsiku ssamaa-a an taqa'a 'alaa l-ardhi illaa bi-idznihi inna laaha binnaasi larauufun rahiim
+
+terjemahan :
+Tidakkah engkau memperhatikan bahwa Allah menundukkan bagimu (manusia) apa yang ada di bumi dan kapal yang berlayar di lautan dengan perintah-Nya. Dan Dia menahan (benda-benda) langit agar tidak jatuh ke bumi, melainkan dengan izin-Nya? Sungguh, Allah Maha Pengasih, Maha Penyayang kepada manusia.
+

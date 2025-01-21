@@ -1,0 +1,30 @@
+no surat :
+58
+
+nama surat :
+Al-Mujadalah
+
+nama surat arab :
+المجادلة
+
+arti surat :
+Gugatan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Mujaadilah terdiri atas 22 ayat, termasuk golongan surat Madaniyyah, diturunkan sesudah surat Al Munaafiquun. Surat ini dinamai dengan Al Mujaadilah (wanita yang mengajukan gugatan) karena pada awal surat ini disebutkan bantahan seorang perempuan, menurut riwayat bernama Khaulah binti Tsa'labah terhadap sikap suaminya yang telah menzhiharnya. Hal ini diadukan kepada Rasulullah s.a.w. dan ia menuntut supaya beliau memberikan putusan yang adil dalam persoalan itu. Dinamai juga Al Mujaadalah yang berarti perbantahan.
+
+ayat :
+15
+
+surat :
+اَعَدَّ اللّٰهُ لَهُمْ عَذَابًا شَدِيْدًاۗ اِنَّهُمْ سَاۤءَ مَا كَانُوْا يَعْمَلُوْنَ
+
+latin :
+a'adda laahu lahum 'adzaaban syadiidan innahum saa-a maa kaanuu ya'maluun
+
+terjemahan :
+Allah telah menyediakan azab yang sangat keras bagi mereka. Sungguh, betapa buruknya apa yang telah mereka kerjakan. 
+

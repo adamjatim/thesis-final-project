@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+89
+
+surat :
+وَلَمَّا جَاۤءَهُمْ كِتٰبٌ مِّنْ عِنْدِ اللّٰهِ مُصَدِّقٌ لِّمَا مَعَهُمْۙ وَكَانُوْا مِنْ قَبْلُ يَسْتَفْتِحُوْنَ عَلَى الَّذِيْنَ كَفَرُوْاۚ فَلَمَّا جَاۤءَهُمْ مَّا عَرَفُوْا كَفَرُوْا بِهٖ ۖ فَلَعْنَةُ اللّٰهِ عَلَى الْكٰفِرِيْنَ 
+
+latin :
+walammaa jaa-ahum kitaabun min 'indi laahi mushaddiqun limaa ma'ahum wakaanuu min qablu yastaftihuuna 'alaa ladziina kafaruu falammaa jaa-ahum maa 'arafuu kafaruu bihi fala'natu laahi 'alaa lkaafiriin
+
+terjemahan :
+Dan setelah sampai kepada mereka Kitab (Al-Qur'an) dari Allah yang membenarkan apa yang ada pada mereka sedangkan sebelumnya mereka memohon kemenangan atas orang-orang kafir, ternyata setelah sampai kepada mereka apa yang telah mereka ketahui itu, mereka mengingkarinya. Maka laknat Allah bagi orang-orang yang ingkar.
+

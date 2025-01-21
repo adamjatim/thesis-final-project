@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+68
+
+surat :
+وَاِذَا رَاَيْتَ الَّذِيْنَ يَخُوْضُوْنَ فِيْٓ اٰيٰتِنَا فَاَعْرِضْ عَنْهُمْ حَتّٰى يَخُوْضُوْا فِيْ حَدِيْثٍ غَيْرِهٖۗ وَاِمَّا يُنْسِيَنَّكَ الشَّيْطٰنُ فَلَا تَقْعُدْ بَعْدَ الذِّكْرٰى مَعَ الْقَوْمِ الظّٰلِمِيْنَ 
+
+latin :
+wa-idzaa ra-ayta ladziina yakhuudhuuna fii aayaatinaa fa-a'ridh 'anhum hattaa yakhuudhuu fii hadiitsin ghayrihi wa-immaa yunsiyannaka sysyaythaanu falaa taq'ud ba'da dzdzikraa ma'a lqawmi zhzhaalimiin
+
+terjemahan :
+Apabila engkau (Muhammad) melihat orang-orang memperolok-olokkan ayat-ayat Kami, maka tinggalkanlah mereka hingga mereka beralih ke pembicaraan lain. Dan jika setan benar-benar menjadikan engkau lupa (akan larangan ini), setelah ingat kembali janganlah engkau duduk bersama orang-orang yang zalim.  
+

@@ -1,0 +1,30 @@
+no surat :
+60
+
+nama surat :
+Al-Mumtahanah
+
+nama surat arab :
+الممتحنة
+
+arti surat :
+Wanita Yang Diuji
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Mumtahanah terdiri atas 13 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Ahzab. Dinamai Al Mumtahanah (wanita yang diuji), diambil dari kata "Famtahinuuhunna" yang berarti maka ujilah mereka, yang terdapat pada ayat 10 surat ini.
+
+ayat :
+12
+
+surat :
+يٰٓاَيُّهَا النَّبِيُّ اِذَا جَاۤءَكَ الْمُؤْمِنٰتُ يُبَايِعْنَكَ عَلٰٓى اَنْ لَّا يُشْرِكْنَ بِاللّٰهِ شَيْـًٔا وَّلَا يَسْرِقْنَ وَلَا يَزْنِيْنَ وَلَا يَقْتُلْنَ اَوْلَادَهُنَّ وَلَا يَأْتِيْنَ بِبُهْتَانٍ يَّفْتَرِيْنَهٗ بَيْنَ اَيْدِيْهِنَّ وَاَرْجُل
+
+latin :
+yaa ayyuhaa nnabiyyu idzaa jaa-aka lmu/minaatu yubaayi'naka 'alaa an laa yusyrikna bilaahi syay-an walaa yasriqna walaa yazniina walaa yaqtulna awlaadahunna walaa ya/tiina bibuhtaanin yaftariinahu bayna aydiihinna wa-arjulihinna walaa ya'shiinaka fii ma'ruufin fabaayi'hunna wastaghfir lahunna laaha inna laaha ghafuurun rahiim
+
+terjemahan :
+Wahai Nabi! Apabila perempuan-perempuan yang mukmin datang kepadamu untuk mengadakan bai‘at (janji setia), bahwa mereka tidak akan mempersekutukan sesuatu apa pun dengan Allah; tidak akan mencuri, tidak akan berzina, tidak akan membunuh anak-anaknya, tidak akan berbuat dusta yang mereka ada-adakan antara tangan dan kaki mereka dan tidak akan mendurhakaimu dalam urusan yang baik, maka terimalah janji setia mereka dan mohonkanlah ampunan untuk mereka kepada Allah. Sungguh, Allah Maha Pengampun, Maha Penyayang.
+

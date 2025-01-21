@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+283
+
+surat :
+۞ وَاِنْ كُنْتُمْ عَلٰى سَفَرٍ وَّلَمْ تَجِدُوْا كَاتِبًا فَرِهٰنٌ مَّقْبُوْضَةٌ  ۗفَاِنْ اَمِنَ بَعْضُكُمْ بَعْضًا فَلْيُؤَدِّ الَّذِى اؤْتُمِنَ اَمَانَتَهٗ وَلْيَتَّقِ اللّٰهَ رَبَّهٗ ۗ وَلَا تَكْتُمُوا الشَّهَادَةَۗ وَمَنْ يَّكْتُمْهَا فَاِنَّهٗٓ اٰثِم
+
+latin :
+wa-in kuntum 'alaa safarin walam tajiduu kaatiban farihaanun maqbuudhatun fa-in amina ba'dhukum ba'dhan falyu-addi ladzii i/tumina amaanatahu walyattaqi laaha rabbahu walaa taktumuu sysyahaadata waman yaktumhaa fa-innahu aatsimun qalbuhu walaahu bimaa ta'maluuna 'aliim
+
+terjemahan :
+Dan jika kamu dalam perjalanan sedang kamu tidak mendapatkan seorang penulis, maka hendaklah ada barang jaminan yang dipegang. Tetapi, jika sebagian kamu mempercayai sebagian yang lain, hendaklah yang dipercayai itu menunaikan amanatnya (utangnya) dan hendaklah dia bertakwa kepada Allah, Tuhannya. Dan janganlah kamu menyembunyikan kesaksian, karena barangsiapa menyembunyikannya, sungguh, hatinya kotor (berdosa). Allah Maha Mengetahui apa yang kamu kerjakan.
+

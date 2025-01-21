@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+17
+
+surat :
+اَفَمَنْ كَانَ عَلٰى بَيِّنَةٍ مِّنْ رَّبِّهٖ وَيَتْلُوْهُ شَاهِدٌ مِّنْهُ وَمِنْ قَبْلِهٖ كِتٰبُ مُوْسٰىٓ اِمَامًا وَّرَحْمَةًۗ  اُولٰۤىِٕكَ يُؤْمِنُوْنَ بِهٖ ۗوَمَنْ يَّكْفُرْ بِهٖ مِنَ الْاَحْزَابِ فَالنَّارُ مَوْعِدُهٗ فَلَا تَكُ فِيْ مِرْيَةٍ مِّنْهُ
+
+latin :
+afaman kaana 'alaa bayyinatin min rabbihi wayatluuhu syaahidun minhu wamin qablihi kitaabu muusaa imaaman warahmatan ulaa-ika yu/minuuna bihi waman yakfur bihi mina l-ahzaabi fannaaru maw'iduhu falaa taku fii miryatin minhu innahu lhaqqu min rabbika walaakinna aktsara nnaasi laa yu/minuun
+
+terjemahan :
+Maka apakah (orang-orang kafir itu sama dengan) orang yang sudah mempunyai bukti yang nyata (Al-Qur'an) dari Tuhannya, dan diikuti oleh saksi dari-Nya dan sebelumnya sudah ada pula Kitab Musa yang menjadi pedoman dan rahmat? Mereka beriman kepadanya (Al-Qur'an). Barangsiapa mengingkarinya (Al-Qur'an) di antara kelompok-kelompok (orang Quraisy), maka nerakalah tempat yang diancamkan baginya, karena itu janganlah engkau ragu terhadap Al-Qur'an. Sungguh, Al-Qur'an itu benar-benar dari Tuhanmu, tetapi kebanyakan manusia tidak beriman.
+

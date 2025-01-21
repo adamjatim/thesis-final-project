@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+167
+
+surat :
+وَلِيَعْلَمَ الَّذِيْنَ نَافَقُوْا ۖوَقِيْلَ لَهُمْ تَعَالَوْا قَاتِلُوْا فِيْ سَبِيْلِ اللّٰهِ اَوِ ادْفَعُوْا ۗ قَالُوْا لَوْ نَعْلَمُ قِتَالًا لَّاتَّبَعْنٰكُمْ ۗ هُمْ لِلْكُفْرِ يَوْمَىِٕذٍ اَقْرَبُ مِنْهُمْ لِلْاِيْمَانِ ۚ يَقُوْلُوْنَ بِاَفْوَاهِهِم
+
+latin :
+waliya'lama ladziina naafaquu waqiila lahum ta'aalaw qaatiluu fii sabiili laahi awi idfa'uu qaaluu law na'lamu qitaalan lattaba'naakum hum lilkufri yawma-idzin aqrabu minhum lil-iimaani yaquuluuna bi-afwaahihim maa laysa fii quluubihim walaahu a'lamu bimaa yaktumuun
+
+terjemahan :
+Dan untuk menguji orang-orang yang munafik, kepada mereka dikatakan, “Marilah berperang di jalan Allah atau pertahankanlah (dirimu).” Mereka berkata, “Sekiranya kami mengetahui (bagaimana cara) berperang, tentulah kami mengikuti kamu.” Mereka pada hari itu lebih dekat kepada kekafiran dari pada keimanan. Mereka mengatakan dengan mulutnya apa yang tidak sesuai dengan isi hatinya. Dan Allah lebih mengetahui apa yang mereka sembunyikan.
+

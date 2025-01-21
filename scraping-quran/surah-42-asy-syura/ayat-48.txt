@@ -1,0 +1,30 @@
+no surat :
+42
+
+nama surat :
+Asy-Syura
+
+nama surat arab :
+الشورى
+
+arti surat :
+Musyawarah
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Asy Syuura terdiri atas 53 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Fushshilat. Dinamai dengan Asy Syuura (musyawarat) diambil dari perkataan Syuura yang terdapat pada ayat 38 surat ini. Dalam ayat tersebut diletakkan salah satu dari dasar-dasar pemerintahan Islam ialah musyawarat. Dinamai juga Haa Miim 'Ain Siin Qaaf karena surat ini dimulai dengan huruf-huruf hijaiyah itu.
+
+ayat :
+48
+
+surat :
+فَاِنْ اَعْرَضُوْا فَمَآ اَرْسَلْنٰكَ عَلَيْهِمْ حَفِيْظًا ۗاِنْ عَلَيْكَ اِلَّا الْبَلٰغُ ۗوَاِنَّآ اِذَآ اَذَقْنَا الْاِنْسَانَ مِنَّا رَحْمَةً فَرِحَ بِهَا ۚوَاِنْ تُصِبْهُمْ سَيِّئَةٌ ۢبِمَا قَدَّمَتْ اَيْدِيْهِمْ فَاِنَّ الْاِنْسَانَ كَفُوْرٌ 
+
+latin :
+fa-in a'radhuu famaa arsalnaaka 'alayhim hafiizhan in 'alayka illaa lbalaaghu wa-innaa idzaa adzaqnaa l-insaana minnaa rahmatan fariha bihaa wa-in tushibhum sayyi-atun bimaa qaddamat aydiihim fa-inna l-insaana kafuur
+
+terjemahan :
+Jika mereka berpaling, maka (ingatlah) Kami tidak mengutus engkau sebagai pengawas bagi mereka. Kewajibanmu tidak lain hanyalah menyampaikan (risalah). Dan sungguh, apabila Kami merasakan kepada manusia suatu rahmat dari Kami, dia menyambutnya dengan gembira; tetapi jika mereka ditimpa kesusahan disebabkan perbuatan tangan mereka sendiri (niscaya mereka ingkar), sungguh, manusia itu sangat ingkar (kepada nikmat).
+

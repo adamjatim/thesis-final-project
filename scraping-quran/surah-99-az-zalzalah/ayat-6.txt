@@ -1,0 +1,30 @@
+no surat :
+99
+
+nama surat :
+Az-Zalzalah
+
+nama surat arab :
+الزلزلة
+
+arti surat :
+Guncangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah diturunkan sesudah surat An Nisaa'. Nama Al Zalzalah diambil dari kata: Zilzaal yang terdapat pada ayat pertama surat ini yang berarti goncangan.
+
+ayat :
+6
+
+surat :
+يَوْمَىِٕذٍ يَّصْدُرُ النَّاسُ اَشْتَاتًا ەۙ لِّيُرَوْا اَعْمَالَهُمْۗ
+
+latin :
+yawma-idzin yashduru nnaasu asytaatan liyuraw a'maalahum
+
+terjemahan :
+Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok, untuk diperlihatkan kepada mereka (balasan) semua perbuatannya.
+

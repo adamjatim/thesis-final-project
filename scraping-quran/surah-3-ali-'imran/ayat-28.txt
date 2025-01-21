@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+28
+
+surat :
+لَا يَتَّخِذِ الْمُؤْمِنُوْنَ الْكٰفِرِيْنَ اَوْلِيَاۤءَ مِنْ دُوْنِ الْمُؤْمِنِيْنَۚ وَمَنْ يَّفْعَلْ ذٰلِكَ فَلَيْسَ مِنَ اللّٰهِ فِيْ شَيْءٍ اِلَّآ اَنْ تَتَّقُوْا مِنْهُمْ تُقٰىةً ۗ وَيُحَذِّرُكُمُ اللّٰهُ نَفْسَهٗ ۗ وَاِلَى اللّٰهِ الْمَصِيْرُ
+
+latin :
+laa yattakhidzi lmu/minuuna lkaafiriina awliyaa-a min duuni lmu/miniina waman yaf'al dzaalika falaysa mina laahi fii syay-in illaa an tattaquu minhum tuqaatan wayuhadzdzirukumu laahu nafsahu wa-ilaa laahi lmashiir
+
+terjemahan :
+Janganlah orang-orang beriman menjadikan orang kafir sebagai pemimpin, melainkan orang-orang beriman. Barang siapa berbuat demikian, niscaya dia tidak akan memperoleh apa pun dari Allah, kecuali karena (siasat) menjaga diri dari sesuatu yang kamu takuti dari mereka. Dan Allah memperingatkan kamu akan diri (siksa)-Nya, dan hanya kepada Allah tempat kembali.
+

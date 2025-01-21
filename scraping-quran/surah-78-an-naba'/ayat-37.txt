@@ -1,0 +1,30 @@
+no surat :
+78
+
+nama surat :
+An-Naba'
+
+nama surat arab :
+النبأ
+
+arti surat :
+Berita Besar
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat An NabaÂ´ terdiri atas 40 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al MaÂ´aarij. Dinamai An NabaÂ´ (berita besar) diambil dari perkataan An NabaÂ´ yang terdapat pada ayat 2 surat ini. Dinamai juga Amma yatasaa aluun diambil dari perkataan Amma yatasaa aluun yang terdapat pada ayat 1 surat ini.
+
+ayat :
+37
+
+surat :
+رَّبِّ السَّمٰوٰتِ وَالْاَرْضِ وَمَا بَيْنَهُمَا الرَّحْمٰنِ لَا يَمْلِكُوْنَ مِنْهُ خِطَابًاۚ 
+
+latin :
+rabbi ssamaawaati wal-ardhi wamaa baynahumaa rrahmaani laa yamlikuuna minhu khithaabaa
+
+terjemahan :
+Tuhan (yang memelihara) langit dan bumi dan apa yang ada di antara keduanya; Yang Maha Pengasih, mereka tidak mampu berbicara dengan Dia.
+

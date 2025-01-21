@@ -1,0 +1,30 @@
+no surat :
+64
+
+nama surat :
+At-Tagabun
+
+nama surat arab :
+التغابن
+
+arti surat :
+Pengungkapan Kesalahan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 18 ayat, termasuk golongan surat-surat Madaniyyah dan diturunkan sesudah surat At Tahrim. Nama At Taghaabun diambil dari kata At Taghaabun yang terdapat pada ayat ke 9 yang artinya hari dinampakkan kesalahan-kesalahan.
+
+ayat :
+9
+
+surat :
+يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ذٰلِكَ يَوْمُ التَّغَابُنِۗ وَمَنْ يُّؤْمِنْۢ بِاللّٰهِ وَيَعْمَلْ صَالِحًا يُّكَفِّرْ عَنْهُ سَيِّاٰتِهٖ وَيُدْخِلْهُ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَآ اَبَدًاۗ ذٰلِكَ الْفَوْزُ الْعَظِ
+
+latin :
+yawma yajma'ukum liyawmi ljam'i dzaalika yawmu ttaghaabuni waman yu/min bilaahi waya'mal shaalihan yukaffir 'anhu sayyi-aatihi wayudkhilhu jannaatin tajrii min tahtihaa l-anhaaru khaalidiina fiihaa abadan dzaalika lfawzu l'azhiim
+
+terjemahan :
+(Ingatlah) pada hari (ketika) Allah mengumpulkan kamu pada hari berhimpun, itulah hari pengungkapan kesalahan-kesalahan. Dan barangsiapa beriman kepada Allah dan mengerjakan kebajikan niscaya Allah akan menghapus kesalahan-kesalahannya dan memasukkannya ke dalam surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya selama-lamanya. Itulah kemenangan yang agung. 
+

@@ -1,0 +1,30 @@
+no surat :
+48
+
+nama surat :
+Al-Fath
+
+nama surat arab :
+الفتح
+
+arti surat :
+Kemenangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Fath terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Jum'ah. Dinamakan Al Fath (kemenangan) diambil dari perkataan Fat-han yang terdapat pada ayat pertama surat ini. Sebagian besar dari ayat-ayat surat ini menerangkan hal-hal yang berhubungan dengan kemenangan yang dicapai Nabi Muhammad s.a.w. dalam peperangan-peperangannya. Nabi Muhammad s.a.w. sangat gembira dengan turunnya ayat pertama surat ini. Kegembiraan ini dinyatakan dalam sabda beliau yang diriwayatkan Bukhari; Sesungguhnya telah diturunkan kepadaku satu surat, yang surat itu benar-benar lebih aku cintai dari seluruh apa yang disinari matahari. Kegembiraan Nabi Muhammad s.a.w. itu ialah karena ayat-ayatnya menerangkan tentang kemenangan yang akan diperoleh Muhammad s.a.w. dalam perjuangannya dan tentang kesempurnaan nikmat Allah kepadanya.
+
+ayat :
+6
+
+surat :
+وَّيُعَذِّبَ الْمُنٰفِقِيْنَ وَالْمُنٰفِقٰتِ وَالْمُشْرِكِيْنَ وَالْمُشْرِكٰتِ الظَّاۤنِّيْنَ بِاللّٰهِ ظَنَّ السَّوْءِۗ عَلَيْهِمْ دَاۤىِٕرَةُ السَّوْءِۚ وَغَضِبَ اللّٰهُ عَلَيْهِمْ وَلَعَنَهُمْ وَاَعَدَّ لَهُمْ جَهَنَّمَۗ وَسَاۤءَتْ مَصِيْرًا 
+
+latin :
+wayu'adzdziba lmunaafiqiina walmunaafiqaati walmusyrikiina walmusyrikaati zhzhaanniina bilaahi zhanna ssaw-i 'alayhim daa-iratu ssaw-i waghadhiba laahu 'alayhim wala'anahum wa-a'adda lahum jahannama wasaa-at mashiiraa
+
+terjemahan :
+dan Dia mengazab orang-orang munafik laki-laki dan perempuan, dan (juga) orang-orang musyrik laki-laki dan perempuan yang berprasangka buruk terhadap Allah. Mereka akan mendapat giliran (azab) yang buruk dan Allah murka kepada mereka dan mengutuk mereka serta menyediakan neraka Jahanam bagi mereka. Dan (neraka Jahanam) itu seburuk-buruk tempat kembali. 
+

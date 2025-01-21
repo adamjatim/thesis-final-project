@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+12
+
+surat :
+۞ وَلَقَدْ اَخَذَ اللّٰهُ مِيْثَاقَ بَنِيْٓ اِسْرَاۤءِيْلَۚ وَبَعَثْنَا مِنْهُمُ اثْنَيْ عَشَرَ نَقِيْبًاۗ وَقَالَ اللّٰهُ اِنِّيْ مَعَكُمْ ۗ لَىِٕنْ اَقَمْتُمُ الصَّلٰوةَ وَاٰتَيْتُمُ الزَّكٰوةَ وَاٰمَنْتُمْ بِرُسُلِيْ وَعَزَّرْتُمُوْهُمْ وَاَقْرَضْتُمُ 
+
+latin :
+walaqad akhadza laahu miitsaaqa banii israa-iila waba'atsnaa minhumu itsnay 'asyara naqiiban waqaala laahu innii ma'akum la-in aqamtumu shshalaata waaataytumu zzakaata waaamantum birusulii wa'azzartumuuhum wa-aqradhtumu laaha qardhan hasanan laukaffiranna 'ankum sayyi-aatikum walaudkhilannakum jannaatin tajrii min tahtihaa l-anhaaru faman kafara ba'da dzaalika minkum faqad dhalla sawaa-a ssabiil
+
+terjemahan :
+Dan sungguh, Allah telah mengambil perjanjian dari Bani Israil dan Kami telah mengangkat dua belas orang pemimpin di antara mereka. Dan Allah berfirman, “Aku bersamamu.” Sungguh, jika kamu melaksanakan salat dan menunaikan zakat serta beriman kepada rasul-rasul-Ku dan kamu bantu mereka dan kamu pinjamkan kepada Allah pinjaman yang baik, pasti akan Aku hapus kesalahan-kesalahanmu, dan pasti akan Aku masukkan ke dalam surga yang mengalir di bawahnya sungai-sungai. Tetapi barangsiapa kafir di antaramu setelah itu, maka sesungguhnya dia telah tersesat dari jalan yang lurus.”
+

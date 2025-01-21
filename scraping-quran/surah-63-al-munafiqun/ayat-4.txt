@@ -1,0 +1,30 @@
+no surat :
+63
+
+nama surat :
+Al-Munafiqun
+
+nama surat arab :
+المنٰفقون
+
+arti surat :
+Orang-Orang Munafik
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hajj. Surat ini dinamai Al-Munaafiquun  yang artinya orang-orang munafik, karena surat ini mengungkapkan  sifat-sifat orang-orang munafik.
+
+ayat :
+4
+
+surat :
+۞ وَاِذَا رَاَيْتَهُمْ تُعْجِبُكَ اَجْسَامُهُمْۗ وَاِنْ يَّقُوْلُوْا تَسْمَعْ لِقَوْلِهِمْۗ  كَاَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ  ۗيَحْسَبُوْنَ كُلَّ صَيْحَةٍ عَلَيْهِمْۗ هُمُ الْعَدُوُّ فَاحْذَرْهُمْۗ قَاتَلَهُمُ اللّٰهُ ۖاَنّٰى يُؤْفَكُوْنَ
+
+latin :
+wa-idzaa ra-aytahum tu'jibuka ajsaamuhum wa-in yaquuluu tasma' liqawlihim ka-annahum khusyubun musannadatun yahsabuuna kulla shayhatin 'alayhim humu l'aduwwu fahtsarhum qaatalahumu laahu annaa yu/fakuun
+
+terjemahan :
+Dan apabila engkau melihat mereka, tubuh mereka mengagumkanmu. Dan jika mereka berkata, engkau mendengarkan tutur-katanya. Mereka seakan-akan kayu yang tersandar. Mereka mengira bahwa setiap teriakan ditujukan kepada mereka. Mereka itulah musuh (yang sebenarnya), maka waspadalah terhadap mereka; Allah membinasakan mereka. Bagaimanakah mereka dapat dipalingkan (dari kebenaran)?
+

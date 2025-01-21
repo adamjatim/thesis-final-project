@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+54
+
+surat :
+وَاِذَا جَاۤءَكَ الَّذِيْنَ يُؤْمِنُوْنَ بِاٰيٰتِنَا فَقُلْ سَلٰمٌ عَلَيْكُمْ كَتَبَ رَبُّكُمْ عَلٰى نَفْسِهِ الرَّحْمَةَۙ اَنَّهٗ مَنْ عَمِلَ مِنْكُمْ سُوْۤءًاۢ بِجَهَالَةٍ ثُمَّ تَابَ مِنْۢ بَعْدِهٖ وَاَصْلَحَ فَاَنَّهٗ غَفُوْرٌ رَّحِيْمٌ  
+
+latin :
+wa-idzaa jaa-aka ladziina yu/minuuna bi-aayaatinaa faqul salaamun 'alaykum kataba rabbukum 'alaa nafsihi rrahmata annahu man 'amila minkum suu-an bijahaalatin tsumma taaba min ba'dihi wa-ashlaha fa-annahu ghafuurun rahiim
+
+terjemahan :
+Dan apabila orang-orang yang beriman kepada ayat-ayat Kami datang kepadamu, maka katakanlah, “Salamun ‘alaikum  (selamat sejahtera untuk kamu).” Tuhanmu telah menetapkan sifat kasih sayang pada diri-Nya, (yaitu) barang-siapa berbuat kejahatan di antara kamu karena kebodohan, kemudian dia bertobat setelah itu dan memperbaiki diri, maka Dia Maha Pengampun, Maha Penyayang.
+

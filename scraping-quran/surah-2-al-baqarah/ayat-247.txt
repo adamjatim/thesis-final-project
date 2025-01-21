@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+247
+
+surat :
+وَقَالَ لَهُمْ نَبِيُّهُمْ اِنَّ اللّٰهَ قَدْ بَعَثَ لَكُمْ طَالُوْتَ مَلِكًا ۗ قَالُوْٓا اَنّٰى يَكُوْنُ لَهُ الْمُلْكُ عَلَيْنَا وَنَحْنُ اَحَقُّ بِالْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِّنَ الْمَالِۗ قَالَ اِنَّ اللّٰهَ اصْطَفٰىهُ عَلَيْكُمْ وَزَادَهٗ
+
+latin :
+waqaala lahum nabiyyuhum inna laaha qad ba'atsa lakum thaaluuta malikan qaaluu annaa yakuunu lahu lmulku 'alaynaa wanahnu ahaqqu bilmulki minhu walam yu/ta sa'atan mina lmaali qaala inna laaha isthafaahu 'alaykum wazaadahu basthatan fii l'ilmi waljismi walaahu yu/tii mulkahu man yasyaau walaahu waasi'un 'aliim
+
+terjemahan :
+Dan nabi mereka berkata kepada mereka, “Sesungguhnya Allah telah mengangkat Talut menjadi rajamu.” Mereka menjawab, “Bagaimana Talut memperoleh kerajaan atas kami, sedangkan kami lebih berhak atas kerajaan itu daripadanya, dan dia tidak diberi kekayaan yang banyak?” (Nabi) menjawab, “Allah telah memilihnya (menjadi raja) kamu dan memberikan kelebihan ilmu dan fisik.” Allah memberikan kerajaan-Nya kepada siapa yang Dia kehendaki, dan Allah Mahaluas, Maha Mengetahui.
+

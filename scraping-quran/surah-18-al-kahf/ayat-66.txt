@@ -1,0 +1,30 @@
+no surat :
+18
+
+nama surat :
+Al-Kahf
+
+nama surat arab :
+الكهف
+
+arti surat :
+Goa
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat  ini terdiri atas 110 ayat, termasuk  golongan  surat-surat Makkiyyah. Dinamai Al-Kahfi artinya Gua dan Ashhabul Kahfi yang artinya Penghuni-Penghuni Gua. Kedua nama ini diambil dari cerita yang terdapat dalam surat ini pada ayat 9 sampai dengan 26, tentang beberapa orang pemuda yang tidur dalam gua bertahun-tahun lamanya. Selain cerita tersebut, terdapat pula beberapa buah cerita dalam surat ini, yang kesemuanya mengandung i'tibar dan pelajaran-pelajaran yang amat berguna bagi kehidupan manusia. Banyak hadist-hadist Rasulullah s.a.w. yang menyatakan keutamaan membaca surat ini.
+
+ayat :
+66
+
+surat :
+قَالَ لَهٗ مُوسٰى هَلْ اَتَّبِعُكَ عَلٰٓى اَنْ تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًا
+
+latin :
+qaala lahu muusaa hal attabi'uka 'alaa an tu'allimani mimmaa 'ullimta rusydaa
+
+terjemahan :
+Musa berkata kepadanya, “Bolehkah aku mengikutimu agar engkau mengajarkan kepadaku (ilmu yang benar) yang telah diajarkan kepadamu (untuk menjadi) petunjuk?”
+

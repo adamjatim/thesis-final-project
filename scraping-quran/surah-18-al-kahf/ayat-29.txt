@@ -1,0 +1,30 @@
+no surat :
+18
+
+nama surat :
+Al-Kahf
+
+nama surat arab :
+الكهف
+
+arti surat :
+Goa
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat  ini terdiri atas 110 ayat, termasuk  golongan  surat-surat Makkiyyah. Dinamai Al-Kahfi artinya Gua dan Ashhabul Kahfi yang artinya Penghuni-Penghuni Gua. Kedua nama ini diambil dari cerita yang terdapat dalam surat ini pada ayat 9 sampai dengan 26, tentang beberapa orang pemuda yang tidur dalam gua bertahun-tahun lamanya. Selain cerita tersebut, terdapat pula beberapa buah cerita dalam surat ini, yang kesemuanya mengandung i'tibar dan pelajaran-pelajaran yang amat berguna bagi kehidupan manusia. Banyak hadist-hadist Rasulullah s.a.w. yang menyatakan keutamaan membaca surat ini.
+
+ayat :
+29
+
+surat :
+وَقُلِ الْحَقُّ مِنْ رَّبِّكُمْۗ فَمَنْ شَاۤءَ فَلْيُؤْمِنْ وَّمَنْ شَاۤءَ فَلْيَكْفُرْۚ اِنَّآ اَعْتَدْنَا لِلظّٰلِمِيْنَ نَارًاۙ اَحَاطَ بِهِمْ سُرَادِقُهَاۗ وَاِنْ يَّسْتَغِيْثُوْا يُغَاثُوْا بِمَاۤءٍ كَالْمُهْلِ يَشْوِى الْوُجُوْهَۗ بِئْسَ الشَّرَابُ
+
+latin :
+waquli lhaqqu min rabbikum faman syaa-a falyu/min waman syaa-a falyakfur innaa a'tadnaa lizhzhaalimiina naaran ahatha bihim suraadiquhaa wa-in yastaghiitsuu yughaatsuu bimaa-in kalmuhli yasywii lwujuuha bi/sa sysyaraabu wasaa-at murtafaqaa
+
+terjemahan :
+Dan katakanlah (Muhammad), “Kebenaran itu datangnya dari Tuhanmu; barangsiapa menghendaki (beriman) hendaklah dia beriman, dan barangsiapa menghendaki (kafir) biarlah dia kafir.” Sesungguhnya Kami telah menyediakan neraka bagi orang zalim, yang gejolaknya mengepung mereka. Jika mereka meminta pertolongan (minum), mereka akan diberi air seperti besi yang mendidih yang menghanguskan wajah. (Itulah) minuman yang paling buruk dan tempat istirahat yang paling jelek.
+

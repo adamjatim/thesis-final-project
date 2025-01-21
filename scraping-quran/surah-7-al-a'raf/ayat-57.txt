@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+57
+
+surat :
+وَهُوَ الَّذِيْ يُرْسِلُ الرِّيٰحَ بُشْرًاۢ بَيْنَ يَدَيْ رَحْمَتِهٖۗ حَتّٰٓى اِذَآ اَقَلَّتْ سَحَابًا ثِقَالًا سُقْنٰهُ لِبَلَدٍ مَّيِّتٍ فَاَنْزَلْنَا بِهِ الْمَاۤءَ فَاَخْرَجْنَا بِهٖ مِنْ كُلِّ الثَّمَرٰتِۗ  كَذٰلِكَ نُخْرِجُ الْمَوْتٰى لَعَلَّكُمْ ت
+
+latin :
+wahuwa ladzii yursilu rriyaaha busyran bayna yaday rahmatihi hattaa idzaa aqallat sahaaban tsiqaalan suqnaahu libaladin mayyitin fa-anzalnaa bihi lmaa-a fa-akhrajnaa bihi min kulli tstsamaraati kadzaalika nukhriju lmawtaa la'allakum tadzakkaruun
+
+terjemahan :
+Dialah yang meniupkan angin sebagai pembawa kabar gembira, mendahului kedatangan rahmat-Nya (hujan), sehingga apabila angin itu membawa awan mendung, Kami halau ke suatu daerah yang tandus, lalu Kami turunkan hujan di daerah itu. Kemudian Kami tumbuhkan dengan hujan itu berbagai macam buah-buahan. Seperti itulah Kami membangkitkan orang yang telah mati, mudah-mudahan kamu mengambil pelajaran.
+

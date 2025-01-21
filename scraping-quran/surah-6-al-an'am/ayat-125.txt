@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+125
+
+surat :
+فَمَنْ يُّرِدِ اللّٰهُ اَنْ يَّهْدِيَهٗ يَشْرَحْ صَدْرَهٗ لِلْاِسْلَامِۚ وَمَنْ يُّرِدْ اَنْ يُّضِلَّهٗ يَجْعَلْ صَدْرَهٗ ضَيِّقًا حَرَجًا كَاَنَّمَا يَصَّعَّدُ فِى السَّمَاۤءِۗ   كَذٰلِكَ يَجْعَلُ اللّٰهُ الرِّجْسَ عَلَى الَّذِيْنَ لَا يُؤْمِنُوْنَ 
+
+latin :
+faman yuridi laahu an yahdiyahu yasyrah shadrahu lil-islaami waman yurid an yudhillahu yaj'al shadrahu dhayyiqan harajan ka-annamaa yashsha''adu fii ssamaa-i kadzaalika yaj'alu laahu rrijsa 'alaa ladziina laa yu/minuun
+
+terjemahan :
+Barangsiapa dikehendaki Allah akan mendapat hidayah (petunjuk), Dia akan membukakan dadanya untuk (menerima) Islam. Dan barangsiapa dikehendaki-Nya menjadi sesat, Dia jadikan dadanya sempit dan sesak, seakan-akan dia (sedang) mendaki ke langit. Demikianlah Allah menimpakan siksa kepada orang-orang yang tidak beriman.
+

@@ -1,0 +1,30 @@
+no surat :
+42
+
+nama surat :
+Asy-Syura
+
+nama surat arab :
+الشورى
+
+arti surat :
+Musyawarah
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Asy Syuura terdiri atas 53 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Fushshilat. Dinamai dengan Asy Syuura (musyawarat) diambil dari perkataan Syuura yang terdapat pada ayat 38 surat ini. Dalam ayat tersebut diletakkan salah satu dari dasar-dasar pemerintahan Islam ialah musyawarat. Dinamai juga Haa Miim 'Ain Siin Qaaf karena surat ini dimulai dengan huruf-huruf hijaiyah itu.
+
+ayat :
+18
+
+surat :
+يَسْتَعْجِلُ بِهَا الَّذِيْنَ لَا يُؤْمِنُوْنَ بِهَاۚ وَالَّذِيْنَ اٰمَنُوْا مُشْفِقُوْنَ مِنْهَاۙ وَيَعْلَمُوْنَ اَنَّهَا الْحَقُّ ۗ اَلَآ اِنَّ الَّذِيْنَ يُمَارُوْنَ فِى السَّاعَةِ لَفِيْ ضَلٰلٍۢ بَعِيْدٍ 
+
+latin :
+yasta'jilu bihaa ladziina laa yu/minuuna bihaa walladziina aamanuu musyfiquuna minhaa waya'lamuuna annahaa lhaqqu laa inna ladziina yumaaruuna fii ssaa'ati lafii dhalaalin ba'iid
+
+terjemahan :
+Orang-orang yang tidak percaya adanya hari Kiamat meminta agar hari itu segera terjadi, dan orang-orang yang beriman merasa takut kepadanya dan mereka yakin bahwa Kiamat itu adalah benar (akan terjadi). Ketahuilah bahwa sesungguhnya orang-orang yang membantah tentang terjadinya Kiamat itu benar-benar telah tersesat jauh.
+

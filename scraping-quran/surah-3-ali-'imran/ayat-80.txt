@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+80
+
+surat :
+وَلَا يَأْمُرَكُمْ اَنْ تَتَّخِذُوا الْمَلٰۤىِٕكَةَ وَالنَّبِيّٖنَ اَرْبَابًا ۗ اَيَأْمُرُكُمْ بِالْكُفْرِ بَعْدَ اِذْ اَنْتُمْ مُّسْلِمُوْنَ ࣖ
+
+latin :
+walaa ya/murakum an tattakhidzuu lmalaa-ikata wannabiyyiina arbaaban aya/murukum bilkufri ba'da idz antum muslimuun
+
+terjemahan :
+dan tidak (mungkin pula baginya) menyuruh kamu menjadikan para malaikat dan para nabi sebagai Tuhan. Apakah (patut) dia menyuruh kamu menjadi kafir setelah kamu menjadi Muslim?
+

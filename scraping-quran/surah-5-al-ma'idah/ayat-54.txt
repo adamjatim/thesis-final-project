@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+54
+
+surat :
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا مَنْ يَّرْتَدَّ مِنْكُمْ عَنْ دِيْنِهٖ فَسَوْفَ يَأْتِى اللّٰهُ بِقَوْمٍ يُّحِبُّهُمْ وَيُحِبُّوْنَهٗٓ  ۙاَذِلَّةٍ عَلَى الْمُؤْمِنِيْنَ اَعِزَّةٍ عَلَى الْكٰفِرِيْنَۖ  يُجَاهِدُوْنَ فِيْ سَبِيْلِ اللّٰهِ وَلَا يَخَافُوْنَ
+
+latin :
+yaa ayyuhaa ladziina aamanuu man yartadda minkum 'an diinihi fasawfa ya/tii laahu biqawmin yuhibbuhum wayuhibbuunahu adzillatin 'alaa lmu/miniina a'izzatin 'alaa lkaafiriina yujaahiduuna fii sabiili laahi walaa yakhaafuuna lawmata laa-imin dzaalika fadhlu laahi yu/tiihi man yasyaau walaahu waasi'un 'aliim
+
+terjemahan :
+Wahai orang-orang yang beriman! Barangsiapa di antara kamu yang murtad (keluar) dari agamanya, maka kelak Allah akan mendatangkan suatu kaum, Dia mencintai mereka dan mereka pun mencintai-Nya, dan bersikap lemah lembut terhadap orang-orang yang beriman, tetapi bersikap keras terhadap orang-orang kafir, yang berjihad di jalan Allah, dan yang tidak takut kepada celaan orang yang suka mencela. Itulah karunia Allah yang diberikan-Nya kepada siapa yang Dia kehendaki. Dan Allah Mahaluas (pemberian-Nya), Maha Mengetahui.
+

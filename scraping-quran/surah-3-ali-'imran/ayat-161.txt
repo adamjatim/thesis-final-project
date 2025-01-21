@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+161
+
+surat :
+وَمَا كَانَ لِنَبِيٍّ اَنْ يَّغُلَّ  ۗوَمَنْ يَّغْلُلْ يَأْتِ بِمَا غَلَّ يَوْمَ الْقِيٰمَةِ ۚ ثُمَّ تُوَفّٰى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُوْنَ
+
+latin :
+wamaa kaana linabiyyin an yaghulla waman yaghlul ya/ti bimaa ghalla yawma lqiyaamati tsumma tuwaffaa kullu nafsin maa kasabat wahum laa yuzhlamuunv
+
+terjemahan :
+Dan tidak mungkin seorang nabi berkhianat (dalam urusan harta rampasan perang). Barangsiapa berkhianat, niscaya pada hari Kiamat dia akan datang membawa apa yang dikhianatkannya itu. Kemudian setiap orang akan diberi balasan yang sempurna sesuai dengan apa yang dilakukannya, dan mereka tidak dizalimi.
+

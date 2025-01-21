@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+44
+
+surat :
+وَقِيْلَ يٰٓاَرْضُ ابْلَعِيْ مَاۤءَكِ وَيَا سَمَاۤءُ اَقْلِعِيْ وَغِيْضَ الْمَاۤءُ وَقُضِيَ الْاَمْرُ وَاسْتَوَتْ عَلَى الْجُوْدِيِّ وَقِيْلَ بُعْدًا لِّلْقَوْمِ الظّٰلِمِيْنَ
+
+latin :
+waqiila yaa ardhu ibla'ii maa-aki wayaa samaau aqli'ii waghiidha lmaau waqudhiya l-amru wastawat 'alaa ljuudiyyi waqiila bu'dan lilqawmi zhzhaalimiin
+
+terjemahan :
+Dan difirmankan, “Wahai bumi! Telanlah airmu dan wahai langit (hujan!) berhentilah.” Dan air pun disurutkan, dan perintah pun diselesaikan dan kapal itupun berlabuh di atas gunung Judi, dan dikatakan,  ”Binasalah orang-orang zalim.”
+

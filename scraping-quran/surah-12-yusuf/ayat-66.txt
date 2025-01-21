@@ -1,0 +1,30 @@
+no surat :
+12
+
+nama surat :
+Yusuf
+
+nama surat arab :
+يوسف
+
+arti surat :
+Yusuf
+
+tempat turun :
+mekah
+
+deskripsi :
+ Surat Yusuf ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum hijrah. Surat ini dinamakan surat Yusuf adalah karena titik berat dari isinya mengenai riwayat Nabi Yusuf a.s.  Riwayat tersebut salah satu di antara cerita-cerita ghaib yang diwahyukan kepada Nabi Muhammad s.a.w. sebagai mukjizat bagi beliau, sedang beliau sebelum diturunkan surat ini tidak mengetahuinya.  Menurut riwayat Al Baihaqi dalam kitab Ad Dalail bahwa segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf a.s. ini, karena sesuai dengan cerita-cerita yang mereka ketahui. Dari cerita Yusuf a.s. ini, Nabi Muhammad s.a.w. mengambil pelajaran-pelajaran yang banyak dan merupakan penghibur terhadap beliau dalam menjalankan tugasnya.
+
+ayat :
+66
+
+surat :
+قَالَ لَنْ اُرْسِلَهٗ مَعَكُمْ حَتّٰى تُؤْتُوْنِ مَوْثِقًا مِّنَ اللّٰهِ لَتَأْتُنَّنِيْ بِهٖٓ اِلَّآ اَنْ يُّحَاطَ بِكُمْۚ فَلَمَّآ اٰتَوْهُ مَوْثِقَهُمْ قَالَ اللّٰهُ عَلٰى مَا نَقُوْلُ وَكِيْلٌ
+
+latin :
+qaala lan ursilahu ma'akum hattaa tu/tuuni mawtsiqan mina laahi lata/tunnanii bihi illaa an yuhatha bikum falammaa aatawhu mawtsiqahum qaala laahu 'alaa maa naquulu wakiil
+
+terjemahan :
+Dia (Yakub) berkata, “Aku tidak akan melepaskannya (pergi) bersama kamu, sebelum kamu bersumpah kepadaku atas (nama) Allah, bahwa kamu pasti akan membawanya kepadaku kembali, kecuali jika kamu dikepung (musuh).” Setelah mereka mengucapkan sumpah, dia (Yakub) berkata, “Allah adalah saksi terhadap apa yang kita ucapkan.”
+

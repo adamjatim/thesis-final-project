@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+73
+
+surat :
+وَهُوَ الَّذِيْ خَلَقَ السَّمٰوٰتِ وَالْاَرْضَ بِالْحَقِّۗ وَيَوْمَ يَقُوْلُ كُنْ فَيَكُوْنُۚ قَوْلُهُ الْحَقُّۗ وَلَهُ الْمُلْكُ يَوْمَ يُنْفَخُ فِى الصُّوْرِۗ عٰلِمُ الْغَيْبِ وَالشَّهَادَةِ وَهُوَ الْحَكِيْمُ الْخَبِيْرُ 
+
+latin :
+wahuwa ladzii khalaqa ssamaawaati wal-ardha bilhaqqi wayawma yaquulu kun fayakuunu qawluhu lhaqqu walahu lmulku yawma yunfakhu fii shshuuri 'aalimu lghaybi wasysyahaadati wahuwa lhakiimu lkhabiir
+
+terjemahan :
+Dialah yang menciptakan langit dan bumi dengan hak (benar), ketika Dia berkata, “Jadilah!” Maka jadilah sesuatu itu. Firman-Nya adalah benar, dan milik-Nyalah segala kekuasaan pada waktu sangkakala ditiup. Dia mengetahui yang gaib dan yang nyata. Dialah Yang Mahabijaksana, Mahateliti.
+

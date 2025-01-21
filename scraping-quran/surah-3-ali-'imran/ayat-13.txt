@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+13
+
+surat :
+قَدْ كَانَ لَكُمْ اٰيَةٌ فِيْ فِئَتَيْنِ الْتَقَتَا ۗفِئَةٌ تُقَاتِلُ فِيْ سَبِيْلِ اللّٰهِ وَاُخْرٰى كَافِرَةٌ يَّرَوْنَهُمْ مِّثْلَيْهِمْ رَأْيَ الْعَيْنِ ۗوَاللّٰهُ يُؤَيِّدُ بِنَصْرِهٖ مَنْ يَّشَاۤءُ ۗ اِنَّ فِيْ ذٰلِكَ لَعِبْرَةً لِّاُولِى الْاَبْصَا
+
+latin :
+qad kaana lakum aayatun fii fi-atayni iltaqataa fi-atun tuqaatilu fii sabiili laahi waukhraa kaafiratun yarawnahum mitslayhim ra/ya l'ayni walaahu yu-ayyidu binashrihi man yasyaau inna fii dzaalika la'ibratan li-ulii l-abshaar
+
+terjemahan :
+Sungguh, telah ada tanda bagi kamu pada dua golongan yang berhadap-hadapan. Satu golongan berperang di jalan Allah dan yang lain (golongan) kafir yang melihat dengan mata kepala, bahwa mereka (golongan Muslim) dua kali lipat mereka. Allah menguatkan dengan pertolongan-Nya bagi siapa yang Dia kehendaki. Sungguh, pada yang demikian itu terdapat pelajaran bagi orang-orang yang mempunyai penglihatan (mata hati).
+

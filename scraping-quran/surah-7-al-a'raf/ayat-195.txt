@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+195
+
+surat :
+اَلَهُمْ اَرْجُلٌ يَّمْشُوْنَ بِهَآ ۖ اَمْ لَهُمْ اَيْدٍ يَّبْطِشُوْنَ بِهَآ ۖ اَمْ لَهُمْ اَعْيُنٌ يُّبْصِرُوْنَ بِهَآ ۖ اَمْ لَهُمْ اٰذَانٌ يَّسْمَعُوْنَ بِهَاۗ قُلِ ادْعُوْا شُرَكَاۤءَكُمْ ثُمَّ كِيْدُوْنِ فَلَا تُنْظِرُوْنِ 
+
+latin :
+alahum arjulun yamsyuuna bihaa am lahum aydin yabthisyuuna bihaa am lahum a'yunun yubshiruuna bihaa am lahum aatsaanun yasma'uuna bihaa quli ud'uu syurakaa-akum tsumma kiiduuni falaa tunzhiruun
+
+terjemahan :
+Apakah mereka (berhala-berhala) mempunyai kaki untuk berjalan, atau mempunyai tangan untuk memegang dengan keras, atau mempunyai mata untuk melihat, atau mempunyai telinga untuk mendengar? Katakanlah (Muhammad), “Panggillah (berhala-berhalamu) yang kamu anggap sekutu Allah, kemudian lakukanlah tipu daya (untuk mencelakakan)ku, dan jangan kamu tunda lagi.
+

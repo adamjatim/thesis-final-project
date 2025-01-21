@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+165
+
+surat :
+وَمِنَ النَّاسِ مَنْ يَّتَّخِذُ مِنْ دُوْنِ اللّٰهِ اَنْدَادًا يُّحِبُّوْنَهُمْ كَحُبِّ اللّٰهِ ۗ وَالَّذِيْنَ اٰمَنُوْٓا اَشَدُّ حُبًّا لِّلّٰهِ ۙوَلَوْ يَرَى الَّذِيْنَ ظَلَمُوْٓا اِذْ يَرَوْنَ الْعَذَابَۙ اَنَّ الْقُوَّةَ لِلّٰهِ جَمِيْعًا ۙوَّاَنَّ ال
+
+latin :
+wamina nnaasi man yattakhidzu min duuni laahi andaadan yuhibbuunahum kahubbi laahi walladziina aamanuu asyaddu hubban lillaahi walaw yaraa ladziina zhalamuu idz yarawna l'adzaaba anna lquwwata lillaahi jamii'an wa-anna laaha syadiidu l'adzaab
+
+terjemahan :
+Dan di antara manusia ada orang yang menyembah tuhan selain Allah sebagai tandingan, yang mereka cintai seperti mencintai Allah. Adapun orang-orang yang beriman sangat besar cintanya kepada Allah. Sekiranya orang-orang yang berbuat zalim itu melihat, ketika mereka melihat azab (pada hari Kiamat), bahwa kekuatan itu semuanya milik Allah dan bahwa Allah sangat berat azab-Nya (niscaya mereka menyesal).
+

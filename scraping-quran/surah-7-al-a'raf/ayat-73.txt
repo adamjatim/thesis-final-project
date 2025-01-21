@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+73
+
+surat :
+وَاِلٰى ثَمُوْدَ اَخَاهُمْ صٰلِحًاۘ قَالَ يٰقَوْمِ اعْبُدُوا اللّٰهَ مَا لَكُمْ مِّنْ اِلٰهٍ غَيْرُهٗۗ قَدْ جَاۤءَتْكُمْ بَيِّنَةٌ مِّنْ رَّبِّكُمْۗ هٰذِهٖ نَاقَةُ اللّٰهِ لَكُمْ اٰيَةً فَذَرُوْهَا تَأْكُلْ فِيْٓ اَرْضِ اللّٰهِ وَلَا تَمَسُّوْهَا بِسُوْۤء
+
+latin :
+wa-ilaa tsamuuda akhaahum shaalihan qaala yaa qawmi u'buduu laaha maa lakum min ilaahin ghayruhu qad jaa-atkum bayyinatun min rabbikum haadzihi naaqatu laahi lakum aayatan fadzaruuhaa ta/kul fii ardhi laahi walaa tamassuuhaa bisuu-in faya/khudzakum 'adzaabun liim
+
+terjemahan :
+Dan kepada kaum Samud (Kami utus) saudara mereka Saleh. Dia berkata, “Wahai kaumku! Sembahlah Allah! Tidak ada tuhan (sembahan) bagimu selain Dia. Sesungguhnya telah datang kepadamu bukti yang nyata dari Tuhanmu. Ini (seekor) unta betina dari Allah sebagai tanda untukmu. Biarkanlah ia makan di bumi Allah, janganlah disakiti, nanti akibatnya kamu akan mendapatkan siksaan yang pedih.”
+

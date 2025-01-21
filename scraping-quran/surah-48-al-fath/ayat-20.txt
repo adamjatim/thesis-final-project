@@ -1,0 +1,30 @@
+no surat :
+48
+
+nama surat :
+Al-Fath
+
+nama surat arab :
+الفتح
+
+arti surat :
+Kemenangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Fath terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Jum'ah. Dinamakan Al Fath (kemenangan) diambil dari perkataan Fat-han yang terdapat pada ayat pertama surat ini. Sebagian besar dari ayat-ayat surat ini menerangkan hal-hal yang berhubungan dengan kemenangan yang dicapai Nabi Muhammad s.a.w. dalam peperangan-peperangannya. Nabi Muhammad s.a.w. sangat gembira dengan turunnya ayat pertama surat ini. Kegembiraan ini dinyatakan dalam sabda beliau yang diriwayatkan Bukhari; Sesungguhnya telah diturunkan kepadaku satu surat, yang surat itu benar-benar lebih aku cintai dari seluruh apa yang disinari matahari. Kegembiraan Nabi Muhammad s.a.w. itu ialah karena ayat-ayatnya menerangkan tentang kemenangan yang akan diperoleh Muhammad s.a.w. dalam perjuangannya dan tentang kesempurnaan nikmat Allah kepadanya.
+
+ayat :
+20
+
+surat :
+وَعَدَكُمُ اللّٰهُ مَغَانِمَ كَثِيْرَةً تَأْخُذُوْنَهَا فَعَجَّلَ لَكُمْ هٰذِهٖ وَكَفَّ اَيْدِيَ النَّاسِ عَنْكُمْۚ وَلِتَكُوْنَ اٰيَةً لِّلْمُؤْمِنِيْنَ وَيَهْدِيَكُمْ صِرَاطًا مُّسْتَقِيْمًاۙ
+
+latin :
+wa'adakumu laahu maghaanima katsiiratan ta/khudzuunahaa fa'ajjala lakum haadzihi wakaffa aydiya nnaasi 'ankum walitakuuna aayatan lilmu/miniina wayahdiyakum shiraathan mustaqiimaa
+
+terjemahan :
+Allah menjanjikan kepadamu harta rampasan perang yang banyak yang dapat kamu ambil, maka Dia segerakan (harta rampasan perang) ini untukmu dan Dia menahan tangan manusia dari (membinasakan)mu (agar kamu mensyukuri-Nya) dan agar menjadi bukti bagi orang-orang mukmin dan agar Dia menunjukkan kamu ke jalan yang lurus. 
+

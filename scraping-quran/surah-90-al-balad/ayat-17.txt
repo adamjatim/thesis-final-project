@@ -1,0 +1,30 @@
+no surat :
+90
+
+nama surat :
+Al-Balad
+
+nama surat arab :
+البلد
+
+arti surat :
+Negeri
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Balad terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Qaaf. Dinamai Al Balad, diambil dari perkataan Al Balad yang terdapat  pada ayat pertama surat ini. Yang dimaksud dengan kota di sini ialah kota Mekah.
+
+ayat :
+17
+
+surat :
+ثُمَّ كَانَ مِنَ الَّذِيْنَ اٰمَنُوْا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِۗ
+
+latin :
+tsumma kaana mina ladziina aamanuu watawaasaw bishshabri watawaasaw bilmarhama
+
+terjemahan :
+Kemudian dia termasuk orang-orang yang beriman dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang.
+

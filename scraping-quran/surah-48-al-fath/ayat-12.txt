@@ -1,0 +1,30 @@
+no surat :
+48
+
+nama surat :
+Al-Fath
+
+nama surat arab :
+الفتح
+
+arti surat :
+Kemenangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Fath terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Jum'ah. Dinamakan Al Fath (kemenangan) diambil dari perkataan Fat-han yang terdapat pada ayat pertama surat ini. Sebagian besar dari ayat-ayat surat ini menerangkan hal-hal yang berhubungan dengan kemenangan yang dicapai Nabi Muhammad s.a.w. dalam peperangan-peperangannya. Nabi Muhammad s.a.w. sangat gembira dengan turunnya ayat pertama surat ini. Kegembiraan ini dinyatakan dalam sabda beliau yang diriwayatkan Bukhari; Sesungguhnya telah diturunkan kepadaku satu surat, yang surat itu benar-benar lebih aku cintai dari seluruh apa yang disinari matahari. Kegembiraan Nabi Muhammad s.a.w. itu ialah karena ayat-ayatnya menerangkan tentang kemenangan yang akan diperoleh Muhammad s.a.w. dalam perjuangannya dan tentang kesempurnaan nikmat Allah kepadanya.
+
+ayat :
+12
+
+surat :
+بَلْ ظَنَنْتُمْ اَنْ لَّنْ يَّنْقَلِبَ الرَّسُوْلُ وَالْمُؤْمِنُوْنَ اِلٰٓى اَهْلِيْهِمْ اَبَدًا وَّزُيِّنَ ذٰلِكَ فِيْ قُلُوْبِكُمْ وَظَنَنْتُمْ ظَنَّ السَّوْءِۚ وَكُنْتُمْ قَوْمًاۢ  بُوْرًا 
+
+latin :
+bal zhanantum an lan yanqaliba rrasuulu walmu/minuuna ilaa ahliihim abadan wazuyyina dzaalika fii quluubikum wazhanantum zhanna ssaw-i wakuntum qawman buuraa
+
+terjemahan :
+Bahkan (semula) kamu menyangka bahwa Rasul dan orang-orang mukmin sekali-kali tidak akan kembali lagi kepada keluarga mereka selama-lamanya dan dijadikan terasa indah yang demikian itu di dalam hatimu, dan kamu telah berprasangka dengan prasangka yang buruk, karena itu kamu menjadi kaum yang binasa. 
+

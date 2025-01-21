@@ -1,0 +1,30 @@
+no surat :
+99
+
+nama surat :
+Az-Zalzalah
+
+nama surat arab :
+الزلزلة
+
+arti surat :
+Guncangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah diturunkan sesudah surat An Nisaa'. Nama Al Zalzalah diambil dari kata: Zilzaal yang terdapat pada ayat pertama surat ini yang berarti goncangan.
+
+ayat :
+5
+
+surat :
+بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۗ
+
+latin :
+bi-anna rabbaka awhaa lahaa
+
+terjemahan :
+karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya.
+

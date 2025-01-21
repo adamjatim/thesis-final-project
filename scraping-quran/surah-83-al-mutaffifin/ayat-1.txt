@@ -1,0 +1,30 @@
+no surat :
+83
+
+nama surat :
+Al-Mutaffifin
+
+nama surat arab :
+المطفّفين
+
+arti surat :
+Orang-Orang Curang
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 36 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al 'Ankabuut dan merupakan  surat yang terakhir di Mekkah sebelum hijrah. Al Muthaffifiin  yang dijadikan nama bagi surat ini diambil dari kata  Al Muthaffifiin yang terdapat pada ayat pertama.
+
+ayat :
+1
+
+surat :
+وَيْلٌ لِّلْمُطَفِّفِيْنَۙ
+
+latin :
+waylun lilmuthaffifiin
+
+terjemahan :
+Celakalah bagi orang-orang yang curang (dalam menakar dan menimbang)! 
+

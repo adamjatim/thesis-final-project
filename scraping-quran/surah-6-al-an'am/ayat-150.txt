@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+150
+
+surat :
+قُلْ هَلُمَّ شُهَدَاۤءَكُمُ الَّذِيْنَ يَشْهَدُوْنَ اَنَّ اللّٰهَ حَرَّمَ هٰذَاۚ فَاِنْ شَهِدُوْا فَلَا تَشْهَدْ مَعَهُمْۚ وَلَا تَتَّبِعْ اَهْوَاۤءَ الَّذِيْنَ كَذَّبُوْا بِاٰيٰتِنَا وَالَّذِيْنَ لَا يُؤْمِنُوْنَ بِالْاٰخِرَةِ وَهُمْ بِرَبِّهِمْ يَعْدِلُ
+
+latin :
+qul halumma syuhadaa-akumu ladziina yasyhaduuna anna laaha harrama haadzaa fa-in syahiduu falaa tasyhad ma'ahum walaa tattabi' ahwaa-a ladziina kadzdzabuu bi-aayaatinaa walladziina laa yu/minuuna bil-aakhirati wahum birabbihim ya'diluun
+
+terjemahan :
+Katakanlah (Muhammad), “Bawalah saksi-saksimu yang dapat membuktikan bahwa Allah mengharamkan ini.” Jika mereka memberikan kesaksian, engkau jangan (ikut pula) memberikan kesaksian bersama mereka. Jangan engkau ikuti keinginan orang-orang yang mendustakan ayat-ayat Kami dan orang-orang yang tidak beriman kepada akhirat, dan mereka mempersekutukan Tuhan.
+

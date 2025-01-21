@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+144
+
+surat :
+وَمِنَ الْاِبِلِ اثْنَيْنِ وَمِنَ الْبَقَرِ اثْنَيْنِۗ قُلْ ءٰۤالذَّكَرَيْنِ حَرَّمَ اَمِ الْاُنْثَيَيْنِ اَمَّا اشْتَمَلَتْ عَلَيْهِ اَرْحَامُ الْاُنْثَيَيْنِۗ اَمْ كُنْتُمْ شُهَدَاۤءَ اِذْ وَصّٰىكُمُ اللّٰهُ بِهٰذَاۚ فَمَنْ اَظْلَمُ مِمَّنِ افْتَرٰى عَل
+
+latin :
+wamina l-ibili itsnayni wamina lbaqari itsnayni qul aadzdzakarayni harrama ami luntsayayni ammaa isytamalat 'alayhi arhaamu luntsayayni am kuntum syuhadaa-a idz washshaakumu laahu bihaadzaa faman azhlamu mimmani iftaraa 'alaa laahi kadziban liyudhilla nnaasa bighayri 'ilmin inna laaha laa yahdii lqawma zhzhaalimiin
+
+terjemahan :
+Dan dari unta sepasang dan dari sapi sepasang. Katakanlah, “Apakah yang diharamkan dua yang jantan atau dua yang betina, atau yang ada dalam kandungan kedua betinanya? Apakah kamu menjadi saksi ketika Allah menetapkan ini bagimu? Siapakah yang lebih zalim daripada orang-orang yang mengada-adakan kebohongan terhadap Allah untuk menyesatkan orang-orang tanpa pengetahuan?” Sesungguhnya Allah tidak akan memberi petunjuk kepada orang-orang yang zalim.
+

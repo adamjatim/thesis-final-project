@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+187
+
+surat :
+اُحِلَّ لَكُمْ لَيْلَةَ الصِّيَامِ الرَّفَثُ اِلٰى نِسَاۤىِٕكُمْ ۗ هُنَّ لِبَاسٌ لَّكُمْ وَاَنْتُمْ لِبَاسٌ لَّهُنَّ ۗ عَلِمَ اللّٰهُ اَنَّكُمْ كُنْتُمْ تَخْتَانُوْنَ اَنْفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنْكُمْ ۚ فَالْـٰٔنَ بَاشِرُوْهُنَّ وَابْتَغُوْ
+
+latin :
+uhilla lakum laylata shshiyaami rrafatsu ilaa nisaa-ikum hunna libaasun lakum wa-antum libaasun lahunna 'alima laahu annakum kuntum takhtaanuuna anfusakum fataaba 'alaykum wa'afaa 'ankum fal-aana baasyiruuhunna wabtaghuu maa kataba laahu lakum wakuluu wasyrabuu hattaa yatabayyana lakumu lkhaythu l-abyadhu mina lkhaythi l-aswadi mina lfajri tsumma atimmuu shshiyaama ilaa layli walaa tubaasyiruuhunna wa-antum 'aakifuuna fii lmasaajidi tilka huduudu laahi falaa taqrabuuhaa kadzaalika yubayyinu laahu aayaatihi linnaasi la'allahum yattaquun
+
+terjemahan :
+Dihalalkan bagimu pada malam hari puasa bercampur dengan istrimu. Mereka adalah pakaian bagimu, dan kamu adalah pakaian bagi mereka. Allah mengetahui bahwa kamu tidak dapat menahan dirimu sendiri, tetapi Dia menerima tobatmu dan memaafkan kamu. Maka sekarang campurilah mereka dan carilah apa yang telah ditetapkan Allah bagimu. Makan dan minumlah hingga jelas bagimu (perbedaan) antara benang putih dan benang hitam, yaitu fajar. Kemudian sempurnakanlah puasa sampai (datang) malam. Tetapi jangan kamu campuri mereka, ketika kamu beriktikaf dalam masjid. Itulah ketentuan Allah, maka janganlah kamu mendekatinya. Demikianlah Allah menerangkan ayat-ayat-Nya kepada manusia, agar mereka bertakwa.
+

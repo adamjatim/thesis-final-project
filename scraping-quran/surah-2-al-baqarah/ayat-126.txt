@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+126
+
+surat :
+وَاِذْ قَالَ اِبْرٰهٖمُ رَبِّ اجْعَلْ هٰذَا بَلَدًا اٰمِنًا وَّارْزُقْ اَهْلَهٗ مِنَ الثَّمَرٰتِ مَنْ اٰمَنَ مِنْهُمْ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِۗ قَالَ وَمَنْ كَفَرَ فَاُمَتِّعُهٗ قَلِيْلًا ثُمَّ اَضْطَرُّهٗٓ اِلٰى عَذَابِ النَّارِ ۗ وَبِئْسَ الْمَصِ
+
+latin :
+wa-idz qaala ibraahiimu rabbi ij'al haadzaa baladan aaminan waurzuq ahlahu mina altstsamaraati man aamana minhum biallaahi waalyawmi al-aakhiri qaala waman kafara faumatti'uhu qaliilan tsumma adtharruhu ilaa 'adzaabi alnnaari wabi/sa almashiiru
+
+terjemahan :
+Dan (ingatlah) ketika Ibrahim berdoa, “Ya Tuhanku, jadikanlah (negeri Mekah) ini negeri yang aman dan berilah rezeki berupa buah-buahan kepada penduduknya, yaitu di antara mereka yang beriman kepada Allah dan hari kemudian,” Dia (Allah) berfirman, “Dan kepada orang yang kafir akan Aku beri kesenangan sementara, kemudian akan Aku paksa dia ke dalam azab neraka dan itulah seburuk-buruk tempat kembali.”
+

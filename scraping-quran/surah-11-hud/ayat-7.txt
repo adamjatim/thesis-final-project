@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+7
+
+surat :
+وَهُوَ الَّذِيْ خَلَقَ السَّمٰوٰتِ وَالْاَرْضَ فِيْ سِتَّةِ اَيَّامٍ وَّكَانَ عَرْشُهٗ عَلَى الْمَاۤءِ لِيَبْلُوَكُمْ اَيُّكُمْ اَحْسَنُ عَمَلًا ۗوَلَىِٕنْ قُلْتَ اِنَّكُمْ مَّبْعُوْثُوْنَ مِنْۢ بَعْدِ الْمَوْتِ لَيَقُوْلَنَّ الَّذِيْنَ كَفَرُوْٓا اِنْ هٰ
+
+latin :
+wahuwa ladzii khalaqa ssamaawaati wal-ardha fii sittati ayyaamin wakaana 'arsyuhu 'alaa lmaa-i liyabluwakum ayyukum ahsanu 'amalan wala-in qulta innakum mab'uutsuuna min ba'di lmawti layaquulanna ladziina kafaruu in haadzaa illaa sihrun mubiin
+
+terjemahan :
+Dan Dialah yang menciptakan langit dan bumi dalam enam masa, dan ‘Arsy-Nya di atas air, agar Dia menguji siapakah di antara kamu yang lebih baik amalnya. Jika engkau berkata (kepada penduduk Mekah), “Sesungguhnya kamu akan dibangkitkan setelah mati,” niscaya orang kafir itu akan berkata, “Ini hanyalah sihir yang nyata.”
+

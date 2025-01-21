@@ -1,0 +1,30 @@
+no surat :
+65
+
+nama surat :
+At-Talaq
+
+nama surat arab :
+الطلاق
+
+arti surat :
+Talak
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Insaan. Dinamai surat Ath Thalaaq karena kebanyakan ayat-ayatnya mengenai masalah talak dan yang berhubungan dengan masalah itu.
+
+ayat :
+4
+
+surat :
+وَالّٰۤـِٔيْ يَىِٕسْنَ مِنَ الْمَحِيْضِ مِنْ نِّسَاۤىِٕكُمْ اِنِ ارْتَبْتُمْ فَعِدَّتُهُنَّ ثَلٰثَةُ اَشْهُرٍۙ وَّالّٰۤـِٔيْ لَمْ يَحِضْنَۗ وَاُولَاتُ الْاَحْمَالِ اَجَلُهُنَّ اَنْ يَّضَعْنَ حَمْلَهُنَّۗ وَمَنْ يَّتَّقِ اللّٰهَ يَجْعَلْ لَّهٗ مِنْ اَمْرِه
+
+latin :
+wallaa-ii ya-isna mina lmahiidhi min nisaa-ikum ini irtabtum fa'iddatuhunna tsalaatsatu asyhurin wallaa-ii lam yahidhna waulaatu l-ahmaali ajaluhunna an yadha'na hamlahunna waman yattaqi laaha yaj'al lahu min amrihi yusraa
+
+terjemahan :
+Perempuan-perempuan yang tidak haid lagi (menopause) di antara istri-istrimu jika kamu ragu-ragu (tentang masa idahnya) maka idahnya adalah tiga bulan; dan begitu (pula) perempuan-perempuan yang tidak haid. Sedangkan perempuan-perempuan yang hamil, waktu idah mereka itu ialah sampai mereka melahirkan kandungannya. Dan barangsiapa bertakwa kepada Allah, niscaya Dia menjadikan kemudahan baginya dalam urusannya. 
+

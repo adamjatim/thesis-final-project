@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+17
+
+surat :
+لَقَدْ كَفَرَ الَّذِيْنَ قَالُوْٓا اِنَّ اللّٰهَ هُوَ الْمَسِيْحُ ابْنُ مَرْيَمَۗ  قُلْ فَمَنْ يَّمْلِكُ مِنَ اللّٰهِ شَيْـًٔا اِنْ اَرَادَ اَنْ يُّهْلِكَ الْمَسِيْحَ ابْنَ مَرْيَمَ وَاُمَّهٗ وَمَنْ فِى الْاَرْضِ جَمِيْعًا ۗوَلِلّٰهِ مُلْكُ السَّمٰوٰتِ وَ
+
+latin :
+laqad kafara ladziina qaaluu inna laaha huwa lmasiihu ibnu maryama qul faman yamliku mina laahi syay-an in araada an yuhlika lmasiiha ibna maryama waummahu waman fii l-ardhi jamii'an walillaahi mulku ssamaawaati wal-ardhi wamaa baynahumaa yakhluqu maa yasyaau walaahu 'alaa kulli syay-in qadiir
+
+terjemahan :
+Sungguh, telah kafir orang yang berkata, “Sesungguhnya Allah itu dialah Al-Masih putra Maryam.” Katakanlah (Muhammad), “Siapakah yang dapat menghalang-halangi kehendak Allah, jika Dia hendak membinasakan Al-Masih putra Maryam beserta ibunya dan seluruh (manusia) yang berada di bumi?” Dan milik Allah-lah kerajaan langit dan bumi dan apa yang ada di antara keduanya. Dia menciptakan apa yang Dia Kehendaki. Dan Allah Mahakuasa atas segala sesuatu.
+

@@ -1,0 +1,30 @@
+no surat :
+24
+
+nama surat :
+An-Nur
+
+nama surat arab :
+النّور
+
+arti surat :
+Cahaya
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nuur terdiri atas 64 ayat, dan termasuk golongan surat-surat Madaniyah. Dinamai An Nuur yang berarti Cahaya, diambil dari kata An Nuur yang terdapat pada ayat ke 35. Dalam ayat ini, Allah s.w.t. menjelaskan tentang Nuur Ilahi, yakni Al Quran yang mengandung petunjuk-petunjuk. Petunjuk-petunjuk Allah itu, merupakan cahaya yang terang benderang menerangi alam semesta. Surat ini sebagian besar isinya memuat petunjuk- petunjuk Allah yang berhubungan dengan soal kemasyarakatan dan rumah tangga.
+
+ayat :
+45
+
+surat :
+وَاللّٰهُ خَلَقَ كُلَّ دَاۤبَّةٍ مِّنْ مَّاۤءٍۚ فَمِنْهُمْ مَّنْ يَّمْشِيْ عَلٰى بَطْنِهٖۚ وَمِنْهُمْ مَّنْ يَّمْشِيْ عَلٰى رِجْلَيْنِۚ وَمِنْهُمْ مَّنْ يَّمْشِيْ عَلٰٓى اَرْبَعٍۗ يَخْلُقُ اللّٰهُ مَا يَشَاۤءُۗ اِنَّ اللّٰهَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ
+
+latin :
+walaahu khalaqa kulla daabbatin min maa-in faminhum man yamsyii 'alaa bathnihi waminhum man yamsyii 'alaa rijlayni waminhum man yamsyii 'alaa arba'in yakhluqu laahu maa yasyaau inna laaha 'alaa kulli syay-in qadiir
+
+terjemahan :
+Dan Allah menciptakan semua jenis hewan dari air, maka sebagian ada yang berjalan di atas perutnya dan sebagian berjalan dengan dua kaki, sedang sebagian (yang lain) berjalan dengan empat kaki. Allah menciptakan apa yang Dia kehendaki. Sungguh, Allah Mahakuasa atas segala sesuatu.
+

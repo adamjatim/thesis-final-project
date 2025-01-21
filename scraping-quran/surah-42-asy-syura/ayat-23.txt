@@ -1,0 +1,30 @@
+no surat :
+42
+
+nama surat :
+Asy-Syura
+
+nama surat arab :
+الشورى
+
+arti surat :
+Musyawarah
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Asy Syuura terdiri atas 53 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Fushshilat. Dinamai dengan Asy Syuura (musyawarat) diambil dari perkataan Syuura yang terdapat pada ayat 38 surat ini. Dalam ayat tersebut diletakkan salah satu dari dasar-dasar pemerintahan Islam ialah musyawarat. Dinamai juga Haa Miim 'Ain Siin Qaaf karena surat ini dimulai dengan huruf-huruf hijaiyah itu.
+
+ayat :
+23
+
+surat :
+ذٰلِكَ الَّذِيْ يُبَشِّرُ اللّٰهُ عِبَادَهُ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِۗ قُلْ لَّآ اَسْـَٔلُكُمْ عَلَيْهِ اَجْرًا اِلَّا الْمَوَدَّةَ فِى الْقُرْبٰىۗ وَمَنْ يَّقْتَرِفْ حَسَنَةً نَّزِدْ لَهٗ فِيْهَا حُسْنًا ۗاِنَّ اللّٰهَ غَفُوْرٌ شَكُوْر
+
+latin :
+dzaalika ladzii yubasysyiru laahu 'ibaadahu ladziina aamanuu wa'amiluu shshaalihaati qul laa as-alukum 'alayhi ajran illaa lmawaddata fii lqurbaa waman yaqtarif hasanatan nazid lahu fiihaa husnan inna laaha ghafuurun syakuur
+
+terjemahan :
+Itulah (karunia) yang diberitahukan Allah untuk menggembirakan hamba-hamba-Nya yang beriman dan mengerjakan kebajikan. Katakanlah (Muhammad), “Aku tidak meminta kepadamu sesuatu imbalan pun atas seruanku kecuali kasih sayang dalam kekeluargaan.” Dan barangsiapa mengerjakan kebaikan akan Kami tambahkan kebaikan baginya. Sungguh, Allah Maha Pengampun, Maha Mensyukuri.
+

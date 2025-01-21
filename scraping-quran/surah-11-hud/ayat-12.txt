@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+12
+
+surat :
+فَلَعَلَّكَ تَارِكٌۢ بَعْضَ مَا يُوْحٰىٓ اِلَيْكَ وَضَاۤىِٕقٌۢ بِهٖ صَدْرُكَ اَنْ يَّقُوْلُوْا لَوْلَآ اُنْزِلَ عَلَيْهِ كَنْزٌ اَوْ جَاۤءَ مَعَهٗ مَلَكٌ  ۗاِنَّمَآ اَنْتَ نَذِيْرٌ ۗ وَاللّٰهُ عَلٰى كُلِّ شَيْءٍ وَّكِيْلٌ  ۗ
+
+latin :
+fala'allaka taarikun ba'dha maa yuuhaa ilayka wadaa-iqun bihi shadruka an yaquuluu lawlaa unzila 'alayhi kanzun aw jaa-a ma'ahu malakun innamaa anta nadziirun walaahu 'alaa kulli syay-in wakiil
+
+terjemahan :
+Maka boleh jadi engkau (Muhammad) hendak meninggalkan sebagian dari apa yang diwahyukan kepadamu dan dadamu sempit karenanya, karena mereka akan mengatakan, “Mengapa tidak diturunkan kepadanya harta (kekayaan) atau datang bersamanya malaikat?” Sungguh, engkau hanyalah seorang pemberi peringatan dan Allah pemelihara segala sesuatu.
+

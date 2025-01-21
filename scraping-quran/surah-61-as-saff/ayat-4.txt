@@ -1,0 +1,30 @@
+no surat :
+61
+
+nama surat :
+As-Saff
+
+nama surat arab :
+الصّفّ
+
+arti surat :
+Barisan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ash Shaff terdiri atas 14 ayat termasuk golongan surat-surat Madaniyyah. Dinamai dengan Ash Shaff, karena pada ayat 4 surat ini terdapat kata Shaffan yang berarti satu barisan. Ayat ini menerangkan apa yang diridhai Allah sesudah menerangkan apa yang dimurkai-Nya. Pada ayat 3 diterangkan bahwa Allah murka kepada orang yang hanya pandai berkata saja tetapi tidak melaksanakan apa yang diucapkannya. Dan pada ayat 4 diterangkan bahwa Allah menyukai orang yang mempraktekkan apa yang diucapkannya yaitu orang-orang yang berperang pada jalan Allah dalam satu barisan.
+
+ayat :
+4
+
+surat :
+اِنَّ اللّٰهَ يُحِبُّ الَّذِيْنَ يُقَاتِلُوْنَ فِيْ سَبِيْلِهٖ صَفًّا كَاَنَّهُمْ بُنْيَانٌ مَّرْصُوْصٌ
+
+latin :
+inna laaha yuhibbu ladziina yuqaatiluuna fii sabiilihi shaffan ka-annahum bunyaanun marshuush
+
+terjemahan :
+Sesungguhnya Allah mencintai orang-orang yang berperang di jalan-Nya dalam barisan yang teratur, mereka seakan-akan seperti suatu bangunan yang tersusun kokoh.
+

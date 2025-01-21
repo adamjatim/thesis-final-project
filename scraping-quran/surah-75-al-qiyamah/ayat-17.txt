@@ -1,0 +1,30 @@
+no surat :
+75
+
+nama surat :
+Al-Qiyamah
+
+nama surat arab :
+القيٰمة
+
+arti surat :
+Hari Kiamat
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Qiyaamah terdiri atas 40 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Qaari'ah. Dinamai Al Qiyaamah (hari kiamat) diambil dari perkataan Al Qiyaamah yang terdapat pada ayat pertama surat ini.
+
+ayat :
+17
+
+surat :
+اِنَّ عَلَيْنَا جَمْعَهٗ وَقُرْاٰنَهٗ ۚ
+
+latin :
+inna 'alaynaa jam'ahu waqur-aanah
+
+terjemahan :
+Sesungguhnya Kami yang akan mengumpulkannya (di dadamu) dan membacakannya. 
+

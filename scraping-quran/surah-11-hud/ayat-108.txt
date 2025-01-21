@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+108
+
+surat :
+۞ وَاَمَّا الَّذِيْنَ سُعِدُوْا فَفِى الْجَنَّةِ خٰلِدِيْنَ فِيْهَا مَا دَامَتِ السَّمٰوٰتُ وَالْاَرْضُ اِلَّا مَا شَاۤءَ رَبُّكَۗ عَطَاۤءً غَيْرَ مَجْذُوْذٍ
+
+latin :
+wa-ammaa ladziina su'iduu fafii ljannati khaalidiina fiihaa maa daamati ssamaawaatu wal-ardhu illaa maa syaa-a rabbuka 'athaa-an ghayra majdzuudz
+
+terjemahan :
+Dan adapun orang-orang yang berbahagia, maka (tempatnya) di dalam surga; mereka kekal di dalamnya selama ada langit dan bumi, kecuali jika Tuhanmu menghendaki (yang lain); sebagai karunia yang tidak ada putus-putusnya.
+

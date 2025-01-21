@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+112
+
+surat :
+وَكَذٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيٰطِيْنَ الْاِنْسِ وَالْجِنِّ يُوْحِيْ بَعْضُهُمْ اِلٰى بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُوْرًا ۗوَلَوْ شَاۤءَ رَبُّكَ مَا فَعَلُوْهُ فَذَرْهُمْ وَمَا يَفْتَرُوْنَ  
+
+latin :
+wakadzaalika ja'alnaa likulli nabiyyin 'aduwwan syayaathiina l-insi waljinni yuuhii ba'dhuhum ilaa ba'dhin zukhrufa lqawli ghuruuran walaw syaa-a rabbuka maa fa'aluuhu fadzarhum wamaa yaftaruun
+
+terjemahan :
+Dan demikianlah untuk setiap nabi Kami menjadikan musuh yang terdiri dari setan-setan manusia dan jin, sebagian mereka membisikkan kepada sebagian yang lain perkataan yang indah sebagai tipuan. Dan kalau Tuhanmu menghendaki, niscaya mereka tidak akan melakukannya, maka biarkanlah mereka bersama apa (kebohongan) yang mereka ada-adakan.
+

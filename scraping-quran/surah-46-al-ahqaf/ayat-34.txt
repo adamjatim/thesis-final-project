@@ -1,0 +1,30 @@
+no surat :
+46
+
+nama surat :
+Al-Ahqaf
+
+nama surat arab :
+الاحقاف
+
+arti surat :
+Bukit Pasir
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Ahqaaf terdiri dari 35 ayat termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Jaatsiyah. Dinamai Al Ahqaaf  (bukit-bukit pasir) dari perkataan Al Ahqaaf yang terdapat pada ayat 21 surat ini.Dalam ayat tersebut dan ayat-ayat sesudahnya diterangkan bahwa Nabi Hud a.s. telah menyampaikan risalahnya kepada kaumnya di Al Ahqaaf yang sekarang dikenal dengan Ar Rab'ul Khaali, tetapi kaumnya tetap ingkar sekalipun mereka telah diberi peringatan pula oleh rasul-rasul yang sebelumnya.  Akhirnya Allah menghancurkan mereka dengan tiupan angin kencang.  Hal ini adalah sebagai isyarat dari Allah kepada kaum musyrikin Quraisy bahwa mereka akan dihancurkan bila mereka tidak mengindahkan seruan Rasul.
+
+ayat :
+34
+
+surat :
+وَيَوْمَ يُعْرَضُ الَّذِيْنَ كَفَرُوْا عَلَى النَّارِۗ  اَلَيْسَ هٰذَا بِالْحَقِّ ۗ قَالُوْا بَلٰى وَرَبِّنَا ۗقَالَ فَذُوْقُوا الْعَذَابَ بِمَا كُنْتُمْ تَكْفُرُوْنَ 
+
+latin :
+wayawma yu'radhu ladziina kafaruu 'alaa nnaari alaysa haadzaa bilhaqqi qaaluu balaa warabbinaa qaala fadzuuquu al'adzaaba bimaa kuntum takfuruun
+
+terjemahan :
+Dan (ingatlah) pada hari (ketika) orang-orang yang kafir dihadapkan kepada neraka, (mereka akan ditanya), “Bukankah (azab) ini benar?” Mereka menjawab, “Ya benar, demi Tuhan kami.” Allah berfirman, “Maka rasakanlah azab ini disebabkan dahulu kamu mengingkarinya.”
+

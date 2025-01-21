@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+114
+
+surat :
+اَفَغَيْرَ اللّٰهِ اَبْتَغِيْ حَكَمًا وَّهُوَ الَّذِيْٓ اَنْزَلَ اِلَيْكُمُ الْكِتٰبَ مُفَصَّلًا ۗوَالَّذِيْنَ اٰتَيْنٰهُمُ الْكِتٰبَ يَعْلَمُوْنَ اَنَّهٗ مُنَزَّلٌ مِّنْ رَّبِّكَ بِالْحَقِّ فَلَا تَكُوْنَنَّ مِنَ الْمُمْتَرِيْنَ 
+
+latin :
+afaghayra laahi abtaghii hakaman wahuwa ladzii anzala ilaykumu lkitaaba mufashshalan walladziina aataynaahumu lkitaaba ya'lamuuna annahu munazzalun min rabbika bilhaqqi falaa takuunanna mina lmumtariin
+
+terjemahan :
+Pantaskah aku mencari hakim selain Allah, padahal Dialah yang menurunkan Kitab (Al-Qur'an) kepadamu secara rinci? Orang-orang yang telah Kami beri kitab mengetahui benar bahwa (Al-Qur'an) itu diturunkan dari Tuhanmu dengan benar. Maka janganlah kamu termasuk orang-orang yang ragu.
+

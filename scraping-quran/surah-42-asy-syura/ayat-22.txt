@@ -1,0 +1,30 @@
+no surat :
+42
+
+nama surat :
+Asy-Syura
+
+nama surat arab :
+الشورى
+
+arti surat :
+Musyawarah
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Asy Syuura terdiri atas 53 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Fushshilat. Dinamai dengan Asy Syuura (musyawarat) diambil dari perkataan Syuura yang terdapat pada ayat 38 surat ini. Dalam ayat tersebut diletakkan salah satu dari dasar-dasar pemerintahan Islam ialah musyawarat. Dinamai juga Haa Miim 'Ain Siin Qaaf karena surat ini dimulai dengan huruf-huruf hijaiyah itu.
+
+ayat :
+22
+
+surat :
+تَرَى الظّٰلِمِيْنَ مُشْفِقِيْنَ مِمَّا كَسَبُوْا وَهُوَ وَاقِعٌۢ بِهِمْ ۗوَالَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ فِيْ رَوْضٰتِ الْجَنّٰتِۚ  لَهُمْ مَّا يَشَاۤءُوْنَ عِنْدَ رَبِّهِمْ ۗذٰلِكَ هُوَ الْفَضْلُ الْكَبِيْرُ 
+
+latin :
+taraa zhzhaalimiina musyfiqiina mimmaa kasabuu wahuwa waaqi'un bihim walladziina aamanuu wa'amiluu shshaalihaati fii rawdaati ljannaati lahum maa yasyaauuna 'inda rabbihim dzaalika huwa lfadhlu lkabiir
+
+terjemahan :
+Kamu akan melihat orang-orang zalim itu sangat ketakutan karena (kejahatan-kejahatan) yang telah mereka lakukan, dan (azab) menimpa mereka. Dan orang-orang yang beriman dan mengerjakan kebajikan (berada) di dalam taman-taman surga, mereka memperoleh apa yang mereka kehendaki di sisi Tuhan. Yang demikian itu adalah karunia yang besar.
+

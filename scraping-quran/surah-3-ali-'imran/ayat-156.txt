@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+156
+
+surat :
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لَا تَكُوْنُوْا كَالَّذِيْنَ كَفَرُوْا وَقَالُوْا لِاِخْوَانِهِمْ اِذَا ضَرَبُوْا فِى الْاَرْضِ اَوْ كَانُوْا غُزًّى لَّوْ كَانُوْا عِنْدَنَا مَا مَاتُوْا وَمَا قُتِلُوْاۚ  لِيَجْعَلَ اللّٰهُ ذٰلِكَ حَسْرَةً فِيْ قُلُوْبِه
+
+latin :
+yaa ayyuhaa ladziina aamanuu laa takuunuu kalladziina kafaruu waqaaluu li-ikhwaanihim idzaa dharabuu fii l-ardhi aw kaanuu ghuzzan law kaanuu 'indanaa maa maatuu wamaa qutiluu liyaj'ala laahu dzaalika hasratan fii quluubihim walaahu yuhyii wayumiitu walaahu bimaa ta'maluuna bashiir
+
+terjemahan :
+Wahai orang-orang yang beriman! Janganlah kamu seperti orang-orang kafir yang mengatakan kepada saudara-saudaranya apabila mereka mengadakan perjalanan di bumi atau berperang, “Sekiranya mereka tetap bersama kita, tentulah mereka tidak mati dan tidak terbunuh.” (Dengan perkataan) yang demikian itu, karena Allah hendak menimbulkan rasa penyesalan di hati mereka. Allah menghidupkan dan mematikan, dan Allah Maha Melihat apa yang kamu kerjakan.
+

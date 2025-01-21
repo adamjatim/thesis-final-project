@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+158
+
+surat :
+قُلْ يٰٓاَيُّهَا النَّاسُ اِنِّيْ رَسُوْلُ اللّٰهِ اِلَيْكُمْ جَمِيْعًا ۨالَّذِيْ لَهٗ مُلْكُ السَّمٰوٰتِ وَالْاَرْضِۚ  لَآ اِلٰهَ اِلَّا هُوَ يُحْيٖ وَيُمِيْتُۖ فَاٰمِنُوْا بِاللّٰهِ وَرَسُوْلِهِ النَّبِيِّ الْاُمِّيِّ الَّذِيْ يُؤْمِنُ بِاللّٰهِ وَكَلِ
+
+latin :
+qul yaa ayyuhaa nnaasu innii rasuulu laahi ilaykum jamii'an ladzii lahu mulku ssamaawaati wal-ardhi laa ilaaha illaa huwa yuhyii wayumiitu faaaminuu bilaahi warasuulihi nnabiyyi l-ummiyyi ladzii yu/minu bilaahi wakalimaatihi wattabi'uuhu la'allakum tahtaduun
+
+terjemahan :
+Katakanlah (Muhammad), “Wahai manusia! Sesungguhnya aku ini utusan Allah bagi kamu semua, Yang memiliki kerajaan langit dan bumi; tidak ada tuhan (yang berhak disembah) selain Dia, Yang menghidupkan dan mematikan, maka berimanlah kamu kepada Allah dan Rasul-Nya, (yaitu) Nabi yang ummi yang beriman kepada Allah dan kepada kalimat-kalimat-Nya (kitab-kitab-Nya). Ikutilah dia, agar kamu mendapat petunjuk.”          
+

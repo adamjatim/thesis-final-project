@@ -1,0 +1,30 @@
+no surat :
+92
+
+nama surat :
+Al-Lail
+
+nama surat arab :
+الّيل
+
+arti surat :
+Malam
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 21 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al A'laa. Surat ini dinamai Al Lail (malam), diambil dari perkataan Al Lail yang terdapat pada ayat pertama surat ini
+
+ayat :
+18
+
+surat :
+الَّذِيْ يُؤْتِيْ مَالَهٗ يَتَزَكّٰىۚ
+
+latin :
+ladzii yu/tii maalahu yatazakkaa
+
+terjemahan :
+yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (dirinya),
+

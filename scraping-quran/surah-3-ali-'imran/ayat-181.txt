@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+181
+
+surat :
+لَقَدْ سَمِعَ اللّٰهُ قَوْلَ الَّذِيْنَ قَالُوْٓا اِنَّ اللّٰهَ فَقِيْرٌ وَّنَحْنُ اَغْنِيَاۤءُ ۘ سَنَكْتُبُ مَا قَالُوْا وَقَتْلَهُمُ الْاَنْۢبِيَاۤءَ بِغَيْرِ حَقٍّۙ وَّنَقُوْلُ ذُوْقُوْا عَذَابَ الْحَرِيْقِ 
+
+latin :
+laqad sami'a laahu qawla ladziina qaaluu inna laaha faqiirun wanahnu aghniyaaun sanaktubu maa qaaluu waqatlahumu l-anbiyaa-a bighayri haqqin wanaquulu dzuuquu 'adzaaba lhariiq
+
+terjemahan :
+Sungguh, Allah telah mendengar perkataan orang-orang (Yahudi) yang mengatakan, “Sesungguhnya Allah itu miskin dan kami kaya.” Kami akan mencatat perkataan mereka dan perbuatan mereka membunuh nabi-nabi tanpa hak (alasan yang benar), dan Kami akan mengatakan (kepada mereka), “Rasakanlah olehmu azab yang membakar!”
+

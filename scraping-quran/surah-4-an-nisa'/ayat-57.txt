@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+57
+
+surat :
+وَالَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ سَنُدْخِلُهُمْ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَآ اَبَدًاۗ  لَهُمْ فِيْهَآ اَزْوَاجٌ مُّطَهَّرَةٌ ۙ وَّنُدْخِلُهُمْ ظِلًّا ظَلِيْلًا 
+
+latin :
+walladziina aamanuu wa'amiluu shshaalihaati sanudkhiluhum jannaatin tajrii min tahtihaa l-anhaaru khaalidiina fiihaa abadan lahum fiihaa azwaajun muthahharatun wanudkhiluhum zhillan zhaliilaa
+
+terjemahan :
+Adapun orang-orang yang beriman dan mengerjakan kebajikan, kelak akan Kami masukkan ke dalam surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya selama-lamanya. Di sana mereka mempunyai pasangan-pasangan yang suci, dan Kami masukkan mereka ke tempat yang teduh lagi nyaman.
+

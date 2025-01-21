@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+91
+
+surat :
+قَالُوْا يٰشُعَيْبُ مَا نَفْقَهُ كَثِيْرًا مِّمَّا تَقُوْلُ وَاِنَّا لَنَرٰىكَ فِيْنَا ضَعِيْفًا ۗوَلَوْلَا رَهْطُكَ لَرَجَمْنٰكَ ۖوَمَآ اَنْتَ عَلَيْنَا بِعَزِيْزٍ 
+
+latin :
+qaaluu yaa syu'aybu maa nafqahu katsiiran mimmaa taquulu wa-innaa lanaraaka fiinaa dha'iifan walawlaa rahthuka larajamnaaka wamaa anta 'alaynaa bi'aziiz
+
+terjemahan :
+Mereka berkata, “Wahai Syuaib! Kami tidak banyak mengerti tentang apa yang engkau katakan itu, sedang kenyataannya kami memandang engkau seorang yang lemah di antara kami. Kalau tidak karena keluargamu, tentu kami telah merajam engkau, sedang engkau pun bukan seorang yang berpengaruh di lingkungan kami.”
+

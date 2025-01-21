@@ -1,0 +1,30 @@
+no surat :
+97
+
+nama surat :
+Al-Qadr
+
+nama surat arab :
+القدر
+
+arti surat :
+Kemuliaan
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Qadr terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat 'Abasa. Surat ini dinamai Al Qadr (kemuliaan), diambil dari perkataan Al Qadr yang terdapat pada ayat pertama surat ini.
+
+ayat :
+3
+
+surat :
+لَيْلَةُ الْقَدْرِ ەۙ خَيْرٌ مِّنْ اَلْفِ شَهْرٍۗ
+
+latin :
+laylatu lqadri khayrun min lfi syahr
+
+terjemahan :
+Malam kemuliaan itu lebih baik daripada seribu bulan.
+

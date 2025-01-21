@@ -1,0 +1,30 @@
+no surat :
+32
+
+nama surat :
+As-Sajdah
+
+nama surat arab :
+السّجدة
+
+arti surat :
+Sajdah
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat As Sajdah terdiri atas 30 ayat termasuk golongan surat Makkiyah diturunkan sesudah surat Al Mu'minuun. Dinamakan As Sajdah berhubung pada surat ini terdapat ayat sajdah, yaitu ayat yang kelima belas.
+
+ayat :
+5
+
+surat :
+يُدَبِّرُ الْاَمْرَ مِنَ السَّمَاۤءِ اِلَى الْاَرْضِ ثُمَّ يَعْرُجُ اِلَيْهِ فِيْ يَوْمٍ كَانَ مِقْدَارُهٗٓ اَلْفَ سَنَةٍ مِّمَّا تَعُدُّوْنَ
+
+latin :
+yudabbiru l-amra mina ssamaa-i ilaa l-ardhi tsumma ya'ruju ilayhi fii yawmin kaana miqdaaruhu lfa sanatin mimmaa ta'udduun
+
+terjemahan :
+Dia mengatur segala urusan dari langit ke bumi, kemudian (urusan) itu naik kepada-Nya dalam satu hari yang kadarnya (lamanya) adalah seribu tahun menurut perhitunganmu.
+

@@ -1,0 +1,30 @@
+no surat :
+54
+
+nama surat :
+Al-Qamar
+
+nama surat arab :
+القمر
+
+arti surat :
+Bulan
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Qamar terdiri atas 55 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesedah surat Ath Thaariq. Nama Al Qamar (bulan) diambil dari perkataan Al Qamar yang terdapat pada ayat pertama surat ini. Pada ayat ini diterangkan tentang terbelahnya bulan sebagai mukjizat Nabi Muhammad s.a.w.
+
+ayat :
+12
+
+surat :
+وَّفَجَّرْنَا الْاَرْضَ عُيُوْنًا فَالْتَقَى الْمَاۤءُ عَلٰٓى اَمْرٍ قَدْ قُدِرَ ۚ
+
+latin :
+wafajjarnaa l-ardha 'uyuunan faltaqaa lmaau 'alaa amrin qad qudir
+
+terjemahan :
+dan Kami jadikan bumi menyemburkan mata-mata air maka bertemulah (air-air) itu sehingga (meluap menimbulkan) keadaan (bencana) yang telah ditetapkan. 
+

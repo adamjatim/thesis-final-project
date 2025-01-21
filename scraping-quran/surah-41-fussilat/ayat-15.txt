@@ -1,0 +1,30 @@
+no surat :
+41
+
+nama surat :
+Fussilat
+
+nama surat arab :
+فصّلت
+
+arti surat :
+Yang Dijelaskan
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Fushshilat terdiri atas 54 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Mu'min. Dinamai Fushshilat (yang dijelaskan) karena ada hubungannya dengan perkataan Fushshilat yang terdapat pada permulaan surat ini yang berarti yang dijelaskan. Maksudnya ayat-ayatnya diperinci dengan jelas tentang hukum-hukum, keimanan, janji dan ancaman, budi pekerti, kisah, dan sebagainya. Dinamai juga dengan Haa Miim dan As Sajdah karena surat ini dimulai dengan Haa Miim dan dalam surat ini terdapat ayat Sajdah.
+
+ayat :
+15
+
+surat :
+فَاَمَّا عَادٌ فَاسْتَكْبَرُوْا فِى الْاَرْضِ بِغَيْرِ الْحَقِّ وَقَالُوْا مَنْ اَشَدُّ مِنَّا قُوَّةً ۗ اَوَلَمْ يَرَوْا اَنَّ اللّٰهَ الَّذِيْ خَلَقَهُمْ هُوَ اَشَدُّ مِنْهُمْ قُوَّةً ۗ وَكَانُوْا بِاٰيٰتِنَا يَجْحَدُوْنَ
+
+latin :
+fa-ammaa 'aadun fastakbaruu fii l-ardhi bighayri lhaqqi waqaaluu man asyaddu minnaa quwwatan awa lam yaraw anna laaha ladzii khalaqahum huwa asyaddu minhum quwwatan wakaanuu bi-aayaatinaa yajhaduun
+
+terjemahan :
+Maka adapun kaum ‘Ad, mereka menyombongkan diri di bumi tanpa (mengindahkan) kebenaran dan mereka berkata, “Siapakah yang lebih hebat kekuatannya dari kami?” Tidakkah mereka memperhatikan bahwa sesungguhnya Allah yang menciptakan mereka. Dia lebih hebat kekuatan-Nya dari mereka? Dan mereka telah mengingkari tanda-tanda (kebesaran) Kami.
+

@@ -1,0 +1,30 @@
+no surat :
+30
+
+nama surat :
+Ar-Rum
+
+nama surat arab :
+الرّوم
+
+arti surat :
+Romawi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Ar Ruum terdiri atas 60 ayat, termasuk golongan surat-surat Makkiyah diturunkan sesudah ayat Al Insyiqaq. Dinamakan Ar Ruum karena pada permulaan surat ini, yaitu ayat 2, 3 dan 4 terdapat pemberitaan bangsa Rumawi yang pada mulanya dikalahkan oleh bangsa Persia, tetapi setelah beberapa tahun kemudian kerajaan Ruum dapat menuntut balas dan mengalahkan kerajaan Persia kembali. Ini adalah suatu mukjizat Al Quran, yaitu memberitakan hal-hal yang akan terjadi di masa yang akan datang. Dan juga suatu isyarat bahwa kaum muslimin yang demikian lemahnya di waktu itu akan menang dan dapat menghancurkan kaum musyrikin. Isyarat ini terbukti pertama kali pada perang Badar.
+
+ayat :
+40
+
+surat :
+اَللّٰهُ الَّذِيْ خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيْتُكُمْ ثُمَّ يُحْيِيْكُمْۗ هَلْ مِنْ شُرَكَاۤىِٕكُمْ مَّنْ يَّفْعَلُ مِنْ ذٰلِكُمْ مِّنْ شَيْءٍۗ سُبْحٰنَهٗ وَتَعٰلٰى عَمَّا يُشْرِكُوْنَ ࣖ
+
+latin :
+laahu ladzii khalaqakum tsumma razaqakum tsumma yumiitukum tsumma yuhyiikum hal min syurakaa-ikum man yaf'alu min dzaalikum min syay-in subhaanahu wata'aalaa 'ammaa yusyrikuun
+
+terjemahan :
+Allah yang menciptakan kamu, kemudian memberimu rezeki, lalu mematikanmu, kemudian menghidupkanmu (kembali). Adakah di antara mereka yang kamu sekutukan dengan Allah itu yang dapat berbuat sesuatu yang demikian itu? Mahasuci Dia dan Mahatinggi dari apa yang mereka  persekutukan. 
+

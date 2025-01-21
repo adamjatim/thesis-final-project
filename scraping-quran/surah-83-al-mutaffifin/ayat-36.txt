@@ -1,0 +1,30 @@
+no surat :
+83
+
+nama surat :
+Al-Mutaffifin
+
+nama surat arab :
+المطفّفين
+
+arti surat :
+Orang-Orang Curang
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 36 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al 'Ankabuut dan merupakan  surat yang terakhir di Mekkah sebelum hijrah. Al Muthaffifiin  yang dijadikan nama bagi surat ini diambil dari kata  Al Muthaffifiin yang terdapat pada ayat pertama.
+
+ayat :
+36
+
+surat :
+هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوْا يَفْعَلُوْنَ ࣖ
+
+latin :
+hal tsuwwiba lkuffaaru maa kaanuu yaf'aluun
+
+terjemahan :
+Apakah orang-orang kafir itu diberi balasan (hukuman) terhadap apa yang telah mereka perbuat? 
+

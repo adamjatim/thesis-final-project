@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+38
+
+surat :
+وَيَصْنَعُ الْفُلْكَۗ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَاٌ مِّنْ قَوْمِهٖ سَخِرُوْا مِنْهُ ۗقَالَ اِنْ تَسْخَرُوْا مِنَّا فَاِنَّا نَسْخَرُ مِنْكُمْ كَمَا تَسْخَرُوْنَۗ 
+
+latin :
+wayashna'u lfulka wakullamaa marra 'alayhi malaun min qawmihi sakhiruu minhu qaala in taskharuu minnaa fa-innaa naskharu minkum kamaa taskharuun
+
+terjemahan :
+Dan mulailah dia (Nuh) membuat kapal. Setiap kali pemimpin kaumnya berjalan melewatinya, mereka mengejeknya. Dia (Nuh) berkata, “Jika kamu mengejek kami, maka kami (pun) akan mengejekmu sebagaimana kamu mengejek (kami).
+

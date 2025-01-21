@@ -1,0 +1,30 @@
+no surat :
+53
+
+nama surat :
+An-Najm
+
+nama surat arab :
+النجم
+
+arti surat :
+Bintang
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat An Najm terdiri atas 62 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Ikhlash. Nama An Najm (bintang), diambil dari perkataan  An Najm yang terdapat pada ayat pertama surat ini. Allah bersumpah dengan An Najm (bintang) adalah karena bintang-bintang yang timbul dan tenggelam, amat besar manfaatnya bagi manusia, sebagai pedoman bagi manusia dalam melakukan pelayaran di lautan, dalam perjalanan di padang pasir, untuk menentukan peredaran musim dan sebagainya.
+
+ayat :
+7
+
+surat :
+وَهُوَ بِالْاُفُقِ الْاَعْلٰىۗ 
+
+latin :
+wahuwa bil-ufuqi l-a'laa
+
+terjemahan :
+Sedang dia berada di ufuk yang tinggi.
+

@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+150
+
+surat :
+وَلَمَّا رَجَعَ مُوْسٰٓى اِلٰى قَوْمِهٖ غَضْبَانَ اَسِفًاۙ قَالَ بِئْسَمَا خَلَفْتُمُوْنِيْ مِنْۢ بَعْدِيْۚ اَعَجِلْتُمْ اَمْرَ رَبِّكُمْۚ وَاَلْقَى الْاَلْوَاحَ وَاَخَذَ بِرَأْسِ اَخِيْهِ يَجُرُّهٗٓ اِلَيْهِ ۗقَالَ ابْنَ اُمَّ اِنَّ الْقَوْمَ اسْتَضْعَفُ
+
+latin :
+walammaa raja'a muusaa ilaa qawmihi ghadhbaana asifan qaala bi/samaa khalaftumuunii min ba'dii a'ajiltum amra rabbikum wa-alqaa al-alwaaha wa-akhadza bira/si akhiihi yajurruhu ilayhi qaala ibna umma inna lqawma istadh'afuunii wakaaduu yaqtuluunanii falaa tusymit biya l-a'daa-a walaa taj'alnii ma'a lqawmi zhzhaalimiin
+
+terjemahan :
+Dan ketika Musa telah kembali kepada kaumnya, dengan marah dan sedih hati dia berkata, “Alangkah buruknya perbuatan yang kamu kerjakan selama kepergianku! Apakah kamu hendak mendahului janji Tuhanmu?” Musa pun melemparkan lauh-lauh (Taurat) itu dan memegang kepala saudaranya (Harun) sambil menarik ke arahnya. (Harun) berkata, “Wahai anak ibuku! Kaum ini telah menganggapku lemah dan hampir saja mereka membunuhku, sebab itu janganlah engkau menjadikan musuh-musuh menyoraki melihat kemalanganku, dan janganlah engkau jadikan aku sebagai orang-orang yang zalim.”
+

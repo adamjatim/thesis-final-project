@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+140
+
+surat :
+اَمْ تَقُوْلُوْنَ اِنَّ اِبْرٰهٖمَ وَاِسْمٰعِيْلَ وَاِسْحٰقَ وَيَعْقُوْبَ وَالْاَسْبَاطَ كَانُوْا هُوْدًا اَوْ نَصٰرٰى ۗ قُلْ ءَاَنْتُمْ اَعْلَمُ اَمِ اللّٰهُ ۗ وَمَنْ اَظْلَمُ مِمَّنْ كَتَمَ شَهَادَةً عِنْدَهٗ مِنَ اللّٰهِ ۗ وَمَا اللّٰهُ بِغَافِلٍ عَمَّ
+
+latin :
+am taquuluuna inna ibraahiima wa-ismaa'iila wa-ishaaqa waya'quuba waal-asbaatha kaanuu huudan aw nashaaraa qul a-antum a'lamu ami allaahu waman azhlamu mimman katama syahaadatan 'indahu mina allaahi wamaa allaahu bighaafilin 'ammaa ta'maluuna
+
+terjemahan :
+Ataukah kamu (orang-orang Yahudi dan Nasrani) berkata bahwa Ibrahim, Ismail, Ishak, Yakub dan anak cucunya adalah penganut Yahudi atau Nasrani? Katakanlah, “Kamukah yang lebih tahu atau Allah, dan siapakah yang lebih zalim daripada orang yang menyembunyikan kesaksian dari Allah yang ada padanya?” Allah tidak lengah terhadap apa yang kamu kerjakan.
+

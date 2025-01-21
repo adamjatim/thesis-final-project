@@ -1,0 +1,30 @@
+no surat :
+113
+
+nama surat :
+Al-Falaq
+
+nama surat arab :
+الفلق
+
+arti surat :
+Subuh
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Fiil. Nama Al Falaq diambil dari kata Al Falaq yang terdapat pada ayat pertama surat ini yang artinya waktu subuh. Diriwayatkan oleh Abu Daud, At Tirmizi dan An Nasa-i dari 'Uqbah bin 'Aamir bahwa Rasulullah s.a.w. bersembahyang dengan membaca surat Al Falaq  dan surat An Naas dalam perjalanan.
+
+ayat :
+3
+
+surat :
+وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ
+
+latin :
+wamin syarri ghaasiqin idzaa waqab
+
+terjemahan :
+dan dari kejahatan malam apabila telah gelap gulita,
+

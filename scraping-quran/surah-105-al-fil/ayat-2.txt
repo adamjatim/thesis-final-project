@@ -1,0 +1,30 @@
+no surat :
+105
+
+nama surat :
+Al-Fil
+
+nama surat arab :
+الفيل
+
+arti surat :
+Gajah
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kaafirun. Nama Al Fiil diambil dari kata Al Fiil yang terdapat pada ayat pertama surat ini, artinya gajah. Surat Al Fiil mengemukakan cerita pasukan bergajah dari Yaman yang dipimpin oleh Abrahah yang ingin meruntuhkan Ka'bah di Mekah. Peristiwa ini terjadi pada tahun Nabi Muhammad s.a.w. dilahirkan.
+
+ayat :
+2
+
+surat :
+اَلَمْ يَجْعَلْ كَيْدَهُمْ فِيْ تَضْلِيْلٍۙ
+
+latin :
+alam yaj'al kaydahum fii tadhliil
+
+terjemahan :
+Bukankah Dia telah menjadikan tipu daya mereka itu sia-sia?
+

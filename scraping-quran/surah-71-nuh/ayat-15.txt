@@ -1,0 +1,30 @@
+no surat :
+71
+
+nama surat :
+Nuh
+
+nama surat arab :
+نوح
+
+arti surat :
+Nuh
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 28 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An Nahl. Dinamakan dengan surat Nuh karena surat ini seluruhnya menjelaskan da'wah dan doa Nabi Nuh a.s.
+
+ayat :
+15
+
+surat :
+اَلَمْ تَرَوْا كَيْفَ خَلَقَ اللّٰهُ سَبْعَ سَمٰوٰتٍ طِبَاقًاۙ
+
+latin :
+alam taraw kayfa khalaqa laahu sab'a samaawaatin thibaaqaa
+
+terjemahan :
+Tidakkah kamu memperhatikan bagai-mana Allah telah menciptakan tujuh langit berlapis-lapis?
+

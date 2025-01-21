@@ -1,0 +1,30 @@
+no surat :
+33
+
+nama surat :
+Al-Ahzab
+
+nama surat arab :
+الاحزاب
+
+arti surat :
+Golongan Yang Bersekutu
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Ahzab terdiri atas 73 ayat, termasuk golongan surat-surat Madaniyah, diturunkan sesudah surat Ali'Imran. Dinamai Al Ahzab yang berarti golongan-golongan yang bersekutu karena dalam surat ini terdapat beberapa ayat, yaitu ayat 9 sampai dengan ayat 27 yang berhubungan dengan peperangan Al Ahzab, yaitu peperangan yang dilancarkan oleh orang-orang Yahudi, kaum munafik dan orang-orang musyrik terhadap orang-orang mukmin di Medinah. Mereka telah mengepung rapat orang- orang mukmin sehingga sebahagian dari mereka telah berputus asa dan menyangka bahwa mereka akan dihancurkan oleh musuh-musuh mereka itu. Ini adalah suatu ujian yang berat dari Allah untuk menguji sampai dimana teguhnya keimanan mereka. Akhirnya Allah mengirimkan bantuan berupa tentara yang tidak kelihatan dan angin topan, sehingga musuh-musuh itu menjadi kacau balau dan melarikan diri.
+
+ayat :
+24
+
+surat :
+لِيَجْزِيَ اللّٰهُ الصّٰدِقِيْنَ بِصِدْقِهِمْ وَيُعَذِّبَ الْمُنٰفِقِيْنَ اِنْ شَاۤءَ اَوْ يَتُوْبَ عَلَيْهِمْ ۗاِنَّ اللّٰهَ كَانَ غَفُوْرًا رَّحِيْمًاۚ 
+
+latin :
+liyajziya laahu shshaadiqiina bishidqihim wayu'adzdziba lmunaafiqiina in syaa-a aw yatuuba 'alayhim inna laaha kaana ghafuuran rahiimaa
+
+terjemahan :
+agar Allah memberikan balasan kepada orang-orang yang benar itu karena kebenarannya, dan mengazab orang munafik jika Dia kehendaki, atau menerima tobat mereka. Sungguh, Allah Maha Pengampun, Maha Penyayang.
+

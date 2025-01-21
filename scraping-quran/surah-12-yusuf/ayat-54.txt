@@ -1,0 +1,30 @@
+no surat :
+12
+
+nama surat :
+Yusuf
+
+nama surat arab :
+يوسف
+
+arti surat :
+Yusuf
+
+tempat turun :
+mekah
+
+deskripsi :
+ Surat Yusuf ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum hijrah. Surat ini dinamakan surat Yusuf adalah karena titik berat dari isinya mengenai riwayat Nabi Yusuf a.s.  Riwayat tersebut salah satu di antara cerita-cerita ghaib yang diwahyukan kepada Nabi Muhammad s.a.w. sebagai mukjizat bagi beliau, sedang beliau sebelum diturunkan surat ini tidak mengetahuinya.  Menurut riwayat Al Baihaqi dalam kitab Ad Dalail bahwa segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf a.s. ini, karena sesuai dengan cerita-cerita yang mereka ketahui. Dari cerita Yusuf a.s. ini, Nabi Muhammad s.a.w. mengambil pelajaran-pelajaran yang banyak dan merupakan penghibur terhadap beliau dalam menjalankan tugasnya.
+
+ayat :
+54
+
+surat :
+وَقَالَ الْمَلِكُ ائْتُوْنِيْ بِهٖٓ اَسْتَخْلِصْهُ لِنَفْسِيْۚ فَلَمَّا كَلَّمَهٗ قَالَ اِنَّكَ الْيَوْمَ لَدَيْنَا مَكِيْنٌ اَمِيْنٌ
+
+latin :
+waqaala lmaliku i/tuunii bihi astakhlishhu linafsii falammaa kallamahu qaala innaka lyawma ladaynaa makiinun amiin
+
+terjemahan :
+Dan raja berkata, “Bawalah dia (Yusuf) kepadaku, agar aku memilih dia (sebagai orang yang dekat) kepadaku.”  Ketika dia (raja) telah bercakap-cakap dengan dia, dia (raja) berkata, “Sesungguhnya kamu (mulai) hari ini menjadi seorang yang berkedudukan tinggi di lingkungan kami dan dipercaya.”
+

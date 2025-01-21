@@ -1,0 +1,30 @@
+no surat :
+59
+
+nama surat :
+Al-Hasyr
+
+nama surat arab :
+الحشر
+
+arti surat :
+Pengusiran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hasyr terdiri atas 24 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Bayyinah. 	Dinamai surat Al Hasyr (pengusiran) diambil dari perkataan Al-Hasyr yang terdapat pada ayat 2 surat ini. Di dalam surat ini disebutkan  kisah pengusiran suatu suku Yahudi yang bernama Bani Nadhir yang berdiam  di sekitar kota Madinah.
+
+ayat :
+7
+
+surat :
+مَآ اَفَاۤءَ اللّٰهُ عَلٰى رَسُوْلِهٖ مِنْ اَهْلِ الْقُرٰى فَلِلّٰهِ وَلِلرَّسُوْلِ وَلِذِى الْقُرْبٰى وَالْيَتٰمٰى وَالْمَسٰكِيْنِ وَابْنِ السَّبِيْلِۙ كَيْ لَا يَكُوْنَ دُوْلَةً ۢ بَيْنَ الْاَغْنِيَاۤءِ مِنْكُمْۗ وَمَآ اٰتٰىكُمُ الرَّسُوْلُ فَخُذُوْهُ
+
+latin :
+maa afaa-a laahu 'alaa rasuulihi min ahli lquraa falillaahi walirrasuuli walidzii lqurbaa walyataamaa walmasaakiini wabni ssabiili kay laa yakuuna duulatan bayna l-aghniyaa-i minkum wamaa aataakumu rrasuulu fakhudzuuhu wamaa nahaakum 'anhu fantahuu wattaquu laaha inna laaha syadiidu l'iqaab
+
+terjemahan :
+Harta rampasan (fai') dari mereka yang diberikan Allah kepada Rasul-Nya (yang berasal) dari penduduk beberapa negeri, adalah untuk Allah, Rasul, kerabat (Rasul), anak-anak yatim, orang-orang miskin dan untuk orang-orang yang dalam perjalanan, agar harta itu jangan hanya beredar di antara orang-orang kaya saja di antara kamu. Apa yang diberikan Rasul kepadamu maka terimalah. Dan apa yang dilarangnya bagimu maka tinggalkanlah. Dan bertakwalah kepada Allah. Sungguh, Allah sangat keras hukuman-Nya. 
+

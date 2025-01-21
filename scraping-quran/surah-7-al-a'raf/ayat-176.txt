@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+176
+
+surat :
+وَلَوْ شِئْنَا لَرَفَعْنٰهُ بِهَا وَلٰكِنَّهٗٓ اَخْلَدَ اِلَى الْاَرْضِ وَاتَّبَعَ هَوٰىهُۚ فَمَثَلُهٗ كَمَثَلِ الْكَلْبِۚ اِنْ تَحْمِلْ عَلَيْهِ يَلْهَثْ اَوْ تَتْرُكْهُ يَلْهَثْۗ ذٰلِكَ مَثَلُ الْقَوْمِ الَّذِيْنَ كَذَّبُوْا بِاٰيٰتِنَاۚ فَاقْصُصِ الْقَ
+
+latin :
+walaw syi/naa larafa'naahu bihaa walaakinnahu akhlada ilaa l-ardhi wattaba'a hawaahu famatsaluhu kamatsali lkalbi in tahmil 'alayhi yalhats aw tatruk-hu yalhats dzaalika matsalu lqawmi ladziina kadzdzabuu bi-aayaatinaa faqshushi lqashasha la'allahum yatafakkaruun
+
+terjemahan :
+Dan sekiranya Kami menghendaki niscaya Kami tinggikan (derajat)nya dengan (ayat-ayat) itu, tetapi dia cenderung kepada dunia dan mengikuti keinginannya (yang rendah), maka perumpamaannya seperti anjing, jika kamu menghalaunya dijulurkan lidahnya dan jika kamu membiarkannya dia menjulurkan lidahnya (juga). Demikianlah perumpamaan orang-orang yang mendustakan ayat-ayat Kami. Maka ceritakanlah kisah-kisah itu agar mereka berpikir.
+

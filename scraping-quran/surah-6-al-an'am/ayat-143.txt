@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+143
+
+surat :
+ثَمٰنِيَةَ اَزْوَاجٍۚ مِنَ الضَّأْنِ اثْنَيْنِ وَمِنَ الْمَعْزِ اثْنَيْنِۗ قُلْ ءٰۤالذَّكَرَيْنِ حَرَّمَ اَمِ الْاُنْثَيَيْنِ اَمَّا اشْتَمَلَتْ عَلَيْهِ اَرْحَامُ الْاُنْثَيَيْنِۗ نَبِّئُوْنِيْ بِعِلْمٍ اِنْ كُنْتُمْ صٰدِقِيْنَ 
+
+latin :
+tsamaaniyata azwaajin mina dhdha/ni itsnayni wamina lma'zi itsnayni qul aadzdzakarayni harrama ami luntsayayni ammaa isytamalat 'alayhi arhaamu luntsayayni nabbi-uunii bi'ilmin in kuntum shaadiqiin
+
+terjemahan :
+ada delapan hewan ternak yang berpasangan (empat pasang); sepasang domba dan sepasang kambing. Katakanlah, “Apakah yang diharamkan Allah dua yang jantan atau dua yang betina atau yang ada dalam kandungan kedua betinanya? Terangkanlah kepadaku berdasar pengetahuan jika kamu orang yang benar.”
+

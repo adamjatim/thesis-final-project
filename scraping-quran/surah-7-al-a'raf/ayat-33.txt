@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+33
+
+surat :
+قُلْ اِنَّمَا حَرَّمَ رَبِّيَ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَالْاِثْمَ وَالْبَغْيَ بِغَيْرِ الْحَقِّ وَاَنْ تُشْرِكُوْا بِاللّٰهِ مَا لَمْ يُنَزِّلْ بِهٖ سُلْطٰنًا وَّاَنْ تَقُوْلُوْا عَلَى اللّٰهِ مَا لَا تَعْلَمُوْنَ 
+
+latin :
+qul innamaa harrama rabbiya lfawaahisya maa zhahara minhaa wamaa bathana wal-itsma walbaghya bighayri lhaqqi wa-an tusyrikuu bilaahi maa lam yunazzil bihi sulthaanan wa-an taquuluu 'alaa laahi maa laa ta'lamuun
+
+terjemahan :
+Katakanlah (Muhammad), “Tuhanku hanya mengharamkan segala perbuatan keji yang terlihat dan yang tersembunyi, perbuatan dosa, perbuatan zalim tanpa alasan yang benar, dan (mengharamkan) kamu mempersekutukan Allah dengan sesuatu, sedangkan Dia tidak menurunkan alasan untuk itu, dan (mengharamkan) kamu membicarakan tentang Allah apa yang tidak kamu ketahui.”
+

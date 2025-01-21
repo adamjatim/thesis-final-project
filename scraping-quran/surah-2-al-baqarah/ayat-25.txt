@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+25
+
+surat :
+وَبَشِّرِ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ اَنَّ لَهُمْ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ ۗ كُلَّمَا رُزِقُوْا مِنْهَا مِنْ ثَمَرَةٍ رِّزْقًا ۙ قَالُوْا هٰذَا الَّذِيْ رُزِقْنَا مِنْ قَبْلُ  وَاُتُوْا بِهٖ مُتَشَابِهًا ۗوَلَهُمْ فِيْهَآ اَزْوَاجٌ مُّطَهَّرَةٌ  وَّهُمْ فِيْهَا خٰلِدُوْنَ
+
+latin :
+wabasysyiri ladziina aamanuu wa'amiluu shshaalihaati anna lahum jannaatin tajrii min tahtihaa l-anhaaru kullamaa ruziquu minhaa min tsamaratin rizqan qaaluu haadzaa ladzii ruziqnaa min qablu wautuu bihi mutasyaabihan walahum fiihaa azwaajun muthahharatun wahum fiihaa khaaliduun
+
+terjemahan :
+Dan sampaikanlah kabar gembira kepada orang-orang yang beriman dan berbuat kebajikan, bahwa untuk mereka (disediakan) surga-surga yang mengalir di bawahnya sungai-sungai. Setiap kali mereka diberi rezeki buah-buahan dari surga, mereka berkata, “Inilah rezeki yang diberikan kepada kami dahulu.” Mereka telah diberi (buah-buahan) yang serupa. Dan di sana mereka (memperoleh) pasangan-pasangan yang suci. Mereka kekal di dalamnya.
+

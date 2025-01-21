@@ -1,0 +1,30 @@
+no surat :
+12
+
+nama surat :
+Yusuf
+
+nama surat arab :
+يوسف
+
+arti surat :
+Yusuf
+
+tempat turun :
+mekah
+
+deskripsi :
+ Surat Yusuf ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum hijrah. Surat ini dinamakan surat Yusuf adalah karena titik berat dari isinya mengenai riwayat Nabi Yusuf a.s.  Riwayat tersebut salah satu di antara cerita-cerita ghaib yang diwahyukan kepada Nabi Muhammad s.a.w. sebagai mukjizat bagi beliau, sedang beliau sebelum diturunkan surat ini tidak mengetahuinya.  Menurut riwayat Al Baihaqi dalam kitab Ad Dalail bahwa segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf a.s. ini, karena sesuai dengan cerita-cerita yang mereka ketahui. Dari cerita Yusuf a.s. ini, Nabi Muhammad s.a.w. mengambil pelajaran-pelajaran yang banyak dan merupakan penghibur terhadap beliau dalam menjalankan tugasnya.
+
+ayat :
+90
+
+surat :
+قَالُوْٓا ءَاِنَّكَ لَاَنْتَ يُوْسُفُۗ قَالَ اَنَا۠ يُوْسُفُ وَهٰذَآ اَخِيْ قَدْ مَنَّ اللّٰهُ عَلَيْنَاۗ اِنَّهٗ مَنْ يَّتَّقِ وَيَصْبِرْ فَاِنَّ اللّٰهَ لَا يُضِيْعُ اَجْرَ الْمُحْسِنِيْنَ
+
+latin :
+qaaluu a-innaka la-anta yuusufa qaala anaa yuusufu wahaadzaa akhii qad manna laahu 'alaynaa innahu man yattaqi wayashbir fa-inna laaha laa yudhii'u ajra lmuhsiniin
+
+terjemahan :
+Mereka berkata, “Apakah engkau benar-benar Yusuf?” Dia (Yusuf) menjawab, “Aku Yusuf dan ini saudaraku. Sungguh, Allah telah melimpahkan karunia-Nya kepada kami. Sesungguhnya barangsiapa bertakwa dan bersabar, maka Sungguh, Allah tidak menyia-nyiakan pahala orang yang berbuat baik.”
+

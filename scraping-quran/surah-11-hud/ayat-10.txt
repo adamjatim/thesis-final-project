@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+10
+
+surat :
+وَلَىِٕنْ اَذَقْنٰهُ نَعْمَاۤءَ بَعْدَ ضَرَّاۤءَ مَسَّتْهُ لَيَقُوْلَنَّ ذَهَبَ السَّيِّاٰتُ عَنِّيْ ۗاِنَّهٗ لَفَرِحٌ فَخُوْرٌۙ  
+
+latin :
+wala-in adzaqnaahu na'maa-a ba'da dharraa-a massat-hu layaquulanna dzahaba ssayyi-aatu 'annii innahu lafarihun fakhuur
+
+terjemahan :
+Dan jika Kami berikan kebahagiaan kepadanya setelah ditimpa bencana yang menimpanya, niscaya dia akan berkata, “Telah hilang bencana itu dariku.” Sesungguhnya dia (merasa) sangat gembira dan bangga,
+

@@ -1,0 +1,30 @@
+no surat :
+62
+
+nama surat :
+Al-Jumu'ah
+
+nama surat arab :
+الجمعة
+
+arti surat :
+Jumat
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Jumu'ah ini terdiri atas 11 ayat, termasuk golongan-golongan surat-surat Madaniyyah dan diturunkan sesudah surat Ash Shaf. Nama surat Al Jumu'ah diambil dari kata Al Jumu'ah yang terdapat pada ayat 9 surat ini yang artinya: hari Jum'at.
+
+ayat :
+11
+
+surat :
+وَاِذَا رَاَوْا تِجَارَةً اَوْ لَهْوًا ۨانْفَضُّوْٓا اِلَيْهَا وَتَرَكُوْكَ قَاۤىِٕمًاۗ قُلْ مَا عِنْدَ اللّٰهِ خَيْرٌ مِّنَ اللَّهْوِ وَمِنَ التِّجَارَةِۗ وَاللّٰهُ خَيْرُ الرّٰزِقِيْنَ ࣖ 
+
+latin :
+wa-idzaa ra-aw tijaaratan aw lahwan infadhdhuu ilayhaa watarakuuka qaa-iman qul maa 'inda laahi khayrun mina lahwi wamina ttijaarati walaahu khayru rraaziqiin
+
+terjemahan :
+Dan apabila mereka melihat perdagangan atau permainan, mereka segera menuju kepadanya dan mereka tinggalkan engkau (Muhammad) sedang berdiri (berkhotbah). Katakanlah, “Apa yang ada di sisi Allah lebih baik daripada permainan dan perdagangan,” dan Allah pemberi rezeki yang terbaik.
+

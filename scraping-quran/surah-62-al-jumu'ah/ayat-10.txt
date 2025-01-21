@@ -1,0 +1,30 @@
+no surat :
+62
+
+nama surat :
+Al-Jumu'ah
+
+nama surat arab :
+الجمعة
+
+arti surat :
+Jumat
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Jumu'ah ini terdiri atas 11 ayat, termasuk golongan-golongan surat-surat Madaniyyah dan diturunkan sesudah surat Ash Shaf. Nama surat Al Jumu'ah diambil dari kata Al Jumu'ah yang terdapat pada ayat 9 surat ini yang artinya: hari Jum'at.
+
+ayat :
+10
+
+surat :
+فَاِذَا قُضِيَتِ الصَّلٰوةُ فَانْتَشِرُوْا فِى الْاَرْضِ وَابْتَغُوْا مِنْ فَضْلِ اللّٰهِ وَاذْكُرُوا اللّٰهَ كَثِيْرًا لَّعَلَّكُمْ تُفْلِحُوْنَ 
+
+latin :
+fa-idzaa qudhiyati shshalaatu fantasyiruu fii l-ardhi wabtaghuu min fadhli laahi wadzkuruu laaha katsiiran la'allakum tuflihuun
+
+terjemahan :
+Apabila salat telah dilaksanakan, maka bertebaranlah kamu di bumi; carilah karunia Allah dan ingatlah Allah banyak-banyak agar kamu beruntung. 
+

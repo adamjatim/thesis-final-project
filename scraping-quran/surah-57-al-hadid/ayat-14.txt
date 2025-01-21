@@ -1,0 +1,30 @@
+no surat :
+57
+
+nama surat :
+Al-Hadid
+
+nama surat arab :
+الحديد
+
+arti surat :
+Besi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hadiid terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Az Zalzalah. Dinamai Al Hadiid (Besi), diambil dari perkataan Al Hadiid yang terdapat pada ayat 25 surat ini.
+
+ayat :
+14
+
+surat :
+يُنَادُوْنَهُمْ اَلَمْ نَكُنْ مَّعَكُمْۗ قَالُوْا بَلٰى وَلٰكِنَّكُمْ فَتَنْتُمْ اَنْفُسَكُمْ وَتَرَبَّصْتُمْ وَارْتَبْتُمْ وَغَرَّتْكُمُ الْاَمَانِيُّ حَتّٰى جَاۤءَ اَمْرُ اللّٰهِ وَغَرَّكُمْ بِاللّٰهِ الْغَرُوْرُ 
+
+latin :
+yunaaduunahum alam nakun ma'akum qaaluu balaa walaakinnakum fatantum anfusakum watarabbashtum wartabtum wagharratkumu al-amaaniyyu hattaa jaa-a amru laahi wagharrakum bilaahi algharuur
+
+terjemahan :
+Orang-orang munafik memanggil orang-orang mukmin, “Bukankah kami dahulu bersama kamu?” Mereka menjawab, “Benar, tetapi kamu mencelakakan dirimu sendiri, dan hanya menunggu, meragukan (janji Allah) dan ditipu oleh angan-angan kosong sampai datang ketetapan Allah; dan penipu (setan) datang memperdaya kamu tentang Allah.
+

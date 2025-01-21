@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+145
+
+surat :
+قُلْ لَّآ اَجِدُ فِيْ مَآ اُوْحِيَ اِلَيَّ مُحَرَّمًا عَلٰى طَاعِمٍ يَّطْعَمُهٗٓ اِلَّآ اَنْ يَّكُوْنَ مَيْتَةً اَوْ دَمًا مَّسْفُوْحًا اَوْ لَحْمَ خِنْزِيْرٍ فَاِنَّهٗ رِجْسٌ اَوْ فِسْقًا اُهِلَّ لِغَيْرِ اللّٰهِ بِهٖۚ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَّ
+
+latin :
+qul laa ajidu fiimaa uuhiya ilayya muharraman 'alaa thaa'imin yath'amuhu illaa an yakuuna maytatan aw daman masfuuhan aw lahma khinziirin fa-innahu rijsun aw fisqan uhilla lighayri laahi bihi famani idthurra ghayra baaghin walaa 'aadin fa-inna rabbaka ghafuurun rahiim
+
+terjemahan :
+Katakanlah, “Tidak kudapati di dalam apa yang diwahyukan kepadaku, sesuatu yang diharamkan memakannya bagi yang ingin memakannya, kecuali daging hewan yang mati (bangkai), darah yang mengalir, daging babi – karena semua itu kotor – atau hewan yang disembelih bukan atas (nama) Allah. Tetapi barangsiapa terpaksa bukan karena menginginkan dan tidak melebihi (batas darurat) maka sungguh, Tuhanmu Maha Pengampun, Maha Penyayang.
+

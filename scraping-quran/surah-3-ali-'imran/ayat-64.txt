@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+64
+
+surat :
+قُلْ يٰٓاَهْلَ الْكِتٰبِ تَعَالَوْا اِلٰى كَلِمَةٍ سَوَاۤءٍۢ بَيْنَنَا وَبَيْنَكُمْ اَلَّا نَعْبُدَ اِلَّا اللّٰهَ وَلَا نُشْرِكَ بِهٖ شَيْـًٔا وَّلَا يَتَّخِذَ بَعْضُنَا بَعْضًا اَرْبَابًا مِّنْ دُوْنِ اللّٰهِ ۗ فَاِنْ تَوَلَّوْا فَقُوْلُوا اشْهَدُوْا بِ
+
+latin :
+qul yaa ahla lkitaabi ta'aalaw ilaa kalimatin sawaa-in baynanaa wabaynakum laa na'buda illaa laaha walaa nusyrika bihi syay-an walaa yattakhidza ba'dhunaa ba'dhan arbaaban min duuni laahi fa-in tawallaw faquuluu isyhaduu bi-annaa muslimuun
+
+terjemahan :
+Katakanlah (Muhammad), “Wahai Ahli Kitab! Marilah (kita) menuju kepada satu kalimat (pegangan) yang sama antara kami dan kamu, bahwa kita tidak menyembah selain Allah dan kita tidak mempersekutukan-Nya dengan sesuatu pun, dan bahwa kita tidak menjadikan satu sama lain tuhan-tuhan selain Allah. Jika mereka berpaling maka katakanlah (kepada mereka), “Saksikanlah, bahwa kami adalah orang Muslim.”
+

@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+179
+
+surat :
+وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيْرًا مِّنَ الْجِنِّ وَالْاِنْسِۖ  لَهُمْ قُلُوْبٌ لَّا يَفْقَهُوْنَ بِهَاۖ وَلَهُمْ اَعْيُنٌ لَّا يُبْصِرُوْنَ بِهَاۖ وَلَهُمْ اٰذَانٌ لَّا يَسْمَعُوْنَ بِهَاۗ اُولٰۤىِٕكَ كَالْاَنْعَامِ بَلْ هُمْ اَضَلُّ  ۗ اُولٰۤىِٕكَ
+
+latin :
+walaqad dzara/naa lijahannama katsiiran mina ljinni wal-insi lahum quluubun laa yafqahuuna bihaa walahum a'yunun laa yubshiruuna bihaa walahum aatsaanun laa yasma'uuna bihaa ulaa-ika kal-an'aami bal hum adhallu ulaa-ika humu lghaafiluun
+
+terjemahan :
+Dan sungguh, akan Kami isi neraka Jahanam banyak dari kalangan jin dan manusia. Mereka memiliki hati, tetapi tidak dipergunakannya untuk memahami (ayat-ayat Allah) dan mereka memiliki mata (tetapi) tidak dipergunakannya untuk melihat (tanda-tanda kekuasaan Allah), dan mereka mempunyai telinga (tetapi) tidak dipergunakannya untuk mendengarkan (ayat-ayat Allah). Mereka seperti hewan ternak, bahkan lebih sesat lagi. Mereka itulah orang-orang yang lengah.
+

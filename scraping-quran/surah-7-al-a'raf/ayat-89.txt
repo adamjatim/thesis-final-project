@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+89
+
+surat :
+قَدِ افْتَرَيْنَا عَلَى اللّٰهِ كَذِبًا اِنْ عُدْنَا فِيْ مِلَّتِكُمْ بَعْدَ اِذْ نَجّٰىنَا اللّٰهُ مِنْهَاۗ وَمَا يَكُوْنُ لَنَآ اَنْ نَّعُوْدَ فِيْهَآ اِلَّآ اَنْ يَّشَاۤءَ اللّٰهُ رَبُّنَاۗ وَسِعَ رَبُّنَا كُلَّ شَيْءٍ عِلْمًاۗ عَلَى اللّٰهِ تَوَكَّ
+
+latin :
+qadi iftaraynaa 'alaa laahi kadziban in 'udnaa fii millatikum ba'da idz najjaanaa laahu minhaa wamaa yakuunu lanaa an na'uuda fiihaa illaa an yasyaa-a laahu rabbunaa wasi'a rabbunaa kulla syay-in 'ilman 'alaa laahi tawakkalnaa rabbanaa iftah baynanaa wabayna qawminaa bilhaqqi wa-anta khayru lfaatihiin
+
+terjemahan :
+Sungguh, kami telah mengada-adakan kebohongan yang besar terhadap Allah, jika kami kembali kepada agamamu, setelah Allah melepaskan kami darinya. Dan tidaklah pantas kami kembali kepadanya, kecuali jika Allah, Tuhan kami menghendaki. Pengetahuan Tuhan kami meliputi segala sesuatu. Hanya kepada Allah kami bertawakal. Ya Tuhan kami, berilah keputusan antara kami dan kaum kami dengan hak (adil). Engkaulah pemberi keputusan terbaik.”
+

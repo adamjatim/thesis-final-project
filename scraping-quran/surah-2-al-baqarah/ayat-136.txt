@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+136
+
+surat :
+قُوْلُوْٓا اٰمَنَّا بِاللّٰهِ وَمَآ اُنْزِلَ اِلَيْنَا وَمَآ اُنْزِلَ اِلٰٓى اِبْرٰهٖمَ وَاِسْمٰعِيْلَ وَاِسْحٰقَ وَيَعْقُوْبَ وَالْاَسْبَاطِ وَمَآ اُوْتِيَ مُوْسٰى وَعِيْسٰى وَمَآ اُوْتِيَ النَّبِيُّوْنَ مِنْ رَّبِّهِمْۚ  لَا نُفَرِّقُ بَيْنَ اَحَدٍ 
+
+latin :
+quuluu aamannaa biallaahi wamaa unzila ilaynaa wamaa unzila ilaa ibraahiima wa-ismaa'iila wa-ishaaqa waya'quuba waal-asbaathi wamaa uutiya muusaa wa'iisaa wamaa uutiya alnnabiyyuuna min rabbihim laa nufarriqu bayna ahadin minhum wanahnu lahu muslimuuna
+
+terjemahan :
+Katakanlah, “Kami beriman kepada Allah dan kepada apa yang diturunkan kepada kami, dan kepada apa yang diturunkan kepada Ibrahim, Ismail, Ishak, Yakub dan anak cucunya, dan kepada apa yang diberikan kepada Musa dan Isa serta kepada apa yang diberikan kepada nabi-nabi dari Tuhan mereka. Kami tidak membeda-bedakan seorang pun di antara mereka, dan kami berserah diri kepada-Nya.”
+

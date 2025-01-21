@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+157
+
+surat :
+وَّقَوْلِهِمْ اِنَّا قَتَلْنَا الْمَسِيْحَ عِيْسَى ابْنَ مَرْيَمَ رَسُوْلَ اللّٰهِۚ وَمَا قَتَلُوْهُ وَمَا صَلَبُوْهُ وَلٰكِنْ شُبِّهَ لَهُمْ ۗوَاِنَّ الَّذِيْنَ اخْتَلَفُوْا فِيْهِ لَفِيْ شَكٍّ مِّنْهُ ۗمَا لَهُمْ بِهٖ مِنْ عِلْمٍ اِلَّا اتِّبَاعَ الظَّن
+
+latin :
+waqawlihim innaa qatalnaa lmasiiha 'iisaa ibna maryama rasuula laahi wamaa qataluuhu wamaa shalabuuhu walaakin syubbiha lahum wa-inna ladziina ikhtalafuu fiihi lafii syakkin minhu maa lahum bihi min 'ilmin illaa ittibaa'a zhzhanni wamaa qataluuhu yaqiinaa
+
+terjemahan :
+dan (Kami hukum juga) karena ucapan mereka, “Sesungguhnya kami telah membunuh Al-Masih, Isa putra Maryam, Rasul Allah,” padahal mereka tidak membunuhnya dan tidak (pula) menyalibnya, tetapi (yang mereka bunuh adalah) orang yang diserupakan dengan Isa. Sesungguhnya mereka yang berselisih pendapat tentang (pembunuhan) Isa, selalu dalam keragu-raguan tentang yang dibunuh itu. Mereka benar-benar tidak tahu (siapa sebenarnya yang dibunuh itu), melainkan mengikuti persangkaan belaka, jadi mereka tidak yakin telah membunuhnya.
+

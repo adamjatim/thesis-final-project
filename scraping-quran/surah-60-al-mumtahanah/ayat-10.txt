@@ -1,0 +1,30 @@
+no surat :
+60
+
+nama surat :
+Al-Mumtahanah
+
+nama surat arab :
+الممتحنة
+
+arti surat :
+Wanita Yang Diuji
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Mumtahanah terdiri atas 13 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Ahzab. Dinamai Al Mumtahanah (wanita yang diuji), diambil dari kata "Famtahinuuhunna" yang berarti maka ujilah mereka, yang terdapat pada ayat 10 surat ini.
+
+ayat :
+10
+
+surat :
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْٓا اِذَا جَاۤءَكُمُ الْمُؤْمِنٰتُ مُهٰجِرٰتٍ فَامْتَحِنُوْهُنَّۗ  اَللّٰهُ اَعْلَمُ بِاِيْمَانِهِنَّ فَاِنْ عَلِمْتُمُوْهُنَّ مُؤْمِنٰتٍ فَلَا تَرْجِعُوْهُنَّ اِلَى الْكُفَّارِۗ  لَا هُنَّ حِلٌّ لَّهُمْ وَلَا هُمْ يَحِلُّوْن
+
+latin :
+yaa ayyuhaa ladziina aamanuu idzaa jaa-akumu lmu/minaatu muhaajiraatin famtahinuuhunna laahu a'lamu bi-iimaanihinna fa-in 'alimtumuuhunna mu/minaatin falaa tarji'uuhunna ilaa lkuffaari laa hunna hillun lahum walaa hum yahilluuna lahunna waaatuuhum maa anfaquu walaa junaaha 'alaykum an tankihuuhunna idzaa aataytumuuhunna ujuurahunna walaa tumsikuu bi'ishami lkawaafiri was-aluu maa anfaqtum walyas-aluu maa anfaquu dzaalikum hukmu laahi yahkumu baynakum walaahu 'aliimun hakiim
+
+terjemahan :
+Wahai orang-orang yang beriman! Apabila perempuan-perempuan mukmin datang berhijrah kepadamu, maka hendaklah kamu uji (keimanan) mereka. Allah lebih mengetahui tentang keimanan mereka; jika kamu telah mengetahui bahwa mereka (benar-benar) beriman maka janganlah kamu kembalikan mereka kepada orang-orang kafir (suami-suami mereka). Mereka tidak halal bagi orang-orang kafir itu dan orang-orang kafir itu tidak halal bagi mereka. Dan berikanlah kepada (suami) mereka mahar yang telah mereka berikan. Dan tidak ada dosa bagimu menikahi mereka apabila kamu bayar kepada mereka maharnya. Dan janganlah kamu tetap berpegang pada tali (pernikahan) dengan perempuan-perempuan kafir; dan hendaklah kamu minta kembali mahar yang telah kamu berikan; dan (jika suaminya tetap kafir) biarkan mereka meminta kembali mahar yang telah mereka bayar (kepada mantan istrinya yang telah beriman). Demikianlah hukum Allah yang ditetapkan-Nya di antara kamu. Dan Allah Maha Mengetahui, Mahabijaksana.
+

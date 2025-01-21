@@ -1,0 +1,30 @@
+no surat :
+57
+
+nama surat :
+Al-Hadid
+
+nama surat arab :
+الحديد
+
+arti surat :
+Besi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hadiid terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Az Zalzalah. Dinamai Al Hadiid (Besi), diambil dari perkataan Al Hadiid yang terdapat pada ayat 25 surat ini.
+
+ayat :
+10
+
+surat :
+وَمَا لَكُمْ اَلَّا تُنْفِقُوْا فِيْ سَبِيْلِ اللّٰهِ وَلِلّٰهِ مِيْرَاثُ السَّمٰوٰتِ وَالْاَرْضِۗ  لَا يَسْتَوِيْ مِنْكُمْ مَّنْ اَنْفَقَ مِنْ قَبْلِ الْفَتْحِ وَقَاتَلَۗ  اُولٰۤىِٕكَ اَعْظَمُ دَرَجَةً مِّنَ الَّذِيْنَ اَنْفَقُوْا مِنْۢ بَعْدُ وَقَاتَلُو
+
+latin :
+wamaa lakum laa tunfiquu fii sabiili laahi walillaahi miiraatsu ssamaawaati wal-ardhi laa yastawii minkum man anfaqa min qabli lfathi waqaatala ulaa-ika a'zhamu darajatan mina ladziina anfaquu min ba'du waqaataluu wakullan wa'ada laahu lhusnaa walaahu bimaa ta'maluuna khabiir
+
+terjemahan :
+Dan mengapa kamu tidak menginfakkan hartamu di jalan Allah, padahal milik Allah semua pusaka langit dan bumi? Tidak sama orang yang menginfakkan (hartanya di jalan Allah) di antara kamu dan berperang sebelum penaklukan (Mekah). Mereka lebih tinggi derajatnya daripada orang-orang yang menginfakkan (hartanya) dan berperang setelah itu. Dan Allah menjanjikan kepada masing-masing mereka (balasan) yang lebih baik. Dan Allah Mahateliti apa yang kamu kerjakan.
+

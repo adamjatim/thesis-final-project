@@ -1,0 +1,30 @@
+no surat :
+57
+
+nama surat :
+Al-Hadid
+
+nama surat arab :
+الحديد
+
+arti surat :
+Besi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hadiid terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Az Zalzalah. Dinamai Al Hadiid (Besi), diambil dari perkataan Al Hadiid yang terdapat pada ayat 25 surat ini.
+
+ayat :
+13
+
+surat :
+يَوْمَ يَقُوْلُ الْمُنٰفِقُوْنَ وَالْمُنٰفِقٰتُ لِلَّذِيْنَ اٰمَنُوا انْظُرُوْنَا نَقْتَبِسْ مِنْ نُّوْرِكُمْۚ قِيْلَ ارْجِعُوْا وَرَاۤءَكُمْ فَالْتَمِسُوْا نُوْرًاۗ فَضُرِبَ بَيْنَهُمْ بِسُوْرٍ لَّهٗ بَابٌۗ بَاطِنُهٗ فِيْهِ الرَّحْمَةُ وَظَاهِرُهٗ مِنْ ق
+
+latin :
+yawma yaquulu lmunaafiquuna walmunaafiqaatu lilladziina aamanuu unzhuruunaa naqtabis min nuurikum qiila irji'uu waraa-akum faltamisuu nuuran fadhuriba baynahum bisuurin lahu baabun baathinuhu fiihi rrahmatu wazhaahiruhu min qibalihi l'adzaab
+
+terjemahan :
+Pada hari orang-orang munafik laki-laki dan perempuan berkata kepada orang-orang yang beriman, “Tunggulah kami! Kami ingin mengambil cahayamu.” (Kepada mereka) dikatakan,  ”Kembalilah kamu ke belakang dan carilah sendiri cahaya (untukmu).” Lalu di antara mereka dipasang dinding (pemisah) yang berpintu. Di sebelah dalam ada rahmat dan di luarnya hanya ada azab.
+

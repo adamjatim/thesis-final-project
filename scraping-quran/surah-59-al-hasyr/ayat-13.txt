@@ -1,0 +1,30 @@
+no surat :
+59
+
+nama surat :
+Al-Hasyr
+
+nama surat arab :
+الحشر
+
+arti surat :
+Pengusiran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hasyr terdiri atas 24 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Bayyinah. 	Dinamai surat Al Hasyr (pengusiran) diambil dari perkataan Al-Hasyr yang terdapat pada ayat 2 surat ini. Di dalam surat ini disebutkan  kisah pengusiran suatu suku Yahudi yang bernama Bani Nadhir yang berdiam  di sekitar kota Madinah.
+
+ayat :
+13
+
+surat :
+لَاَنْتُمْ اَشَدُّ رَهْبَةً فِيْ صُدُوْرِهِمْ مِّنَ اللّٰهِ ۗذٰلِكَ بِاَنَّهُمْ قَوْمٌ لَّا يَفْقَهُوْنَ 
+
+latin :
+la-antum asyaddu rahbatan fii shuduurihim mina laahi dzaalika bi-annahum qawmun laa yafqahuun
+
+terjemahan :
+Sesungguhnya dalam hati mereka, kamu (Muslimin) lebih ditakuti daripada Allah. Yang demikian itu karena mereka orang-orang yang tidak mengerti.
+

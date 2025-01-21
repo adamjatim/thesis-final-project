@@ -1,0 +1,30 @@
+no surat :
+45
+
+nama surat :
+Al-Jasiyah
+
+nama surat arab :
+الجاثية
+
+arti surat :
+Berlutut
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Jaatsiyah terdiri atas 37 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Ad Dukhaan. Dinamai dengan Al Jaatsiyah (yang berlutut) diambil dari perkataan Jaatsiyah yang terdapat pada ayat 28 surat ini. Ayat tersebut menerangkan tentang keadaan manusia pada hari kiamat, yaitu semua manusia dikumpulkan ke hadapan mahkamah Allah Yang Maha Tinggi yang memberikan keputusan terhadap perbuatan yang telah mereka lakukan di dunia. Pada hari itu semua manusia berlutut di hadapan Allah. Dinamai juga dengan Asy Syari'ah diambil dari perkataan Syari'ah (Syari'at) yang terdapat pada ayat 18 surat ini.
+
+ayat :
+32
+
+surat :
+وَاِذَا قِيْلَ اِنَّ وَعْدَ اللّٰهِ حَقٌّ وَّالسَّاعَةُ لَا رَيْبَ فِيْهَا قُلْتُمْ مَّا نَدْرِيْ مَا السَّاعَةُۙ اِنْ نَّظُنُّ اِلَّا ظَنًّا وَّمَا نَحْنُ بِمُسْتَيْقِنِيْنَ 
+
+latin :
+wa-idzaa qiila inna wa'da laahi haqqun wassaa'atu laa rayba fiihaa qultum maa nadrii maa ssaa'atu in nazhunnu illaa zhannan wamaa nahnu bimustayqiniin
+
+terjemahan :
+Dan apabila dikatakan (kepadamu), “Sungguh, janji Allah itu benar, dan hari Kiamat itu tidak diragukan adanya,” kamu menjawab, “Kami tidak tahu apakah hari Kiamat itu, kami hanyalah menduga-duga saja, dan kami tidak yakin.”
+

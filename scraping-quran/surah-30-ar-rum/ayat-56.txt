@@ -1,0 +1,30 @@
+no surat :
+30
+
+nama surat :
+Ar-Rum
+
+nama surat arab :
+الرّوم
+
+arti surat :
+Romawi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Ar Ruum terdiri atas 60 ayat, termasuk golongan surat-surat Makkiyah diturunkan sesudah ayat Al Insyiqaq. Dinamakan Ar Ruum karena pada permulaan surat ini, yaitu ayat 2, 3 dan 4 terdapat pemberitaan bangsa Rumawi yang pada mulanya dikalahkan oleh bangsa Persia, tetapi setelah beberapa tahun kemudian kerajaan Ruum dapat menuntut balas dan mengalahkan kerajaan Persia kembali. Ini adalah suatu mukjizat Al Quran, yaitu memberitakan hal-hal yang akan terjadi di masa yang akan datang. Dan juga suatu isyarat bahwa kaum muslimin yang demikian lemahnya di waktu itu akan menang dan dapat menghancurkan kaum musyrikin. Isyarat ini terbukti pertama kali pada perang Badar.
+
+ayat :
+56
+
+surat :
+وَقَالَ الَّذِيْنَ اُوْتُوا الْعِلْمَ وَالْاِيْمَانَ لَقَدْ لَبِثْتُمْ فِيْ كِتٰبِ اللّٰهِ اِلٰى يَوْمِ الْبَعْثِۖ فَهٰذَا يَوْمُ الْبَعْثِ وَلٰكِنَّكُمْ كُنْتُمْ لَا تَعْلَمُوْنَ
+
+latin :
+waqaala ladziina uutuu l'ilma wal-iimaana laqad labitstum fii kitaabi laahi ilaa yawmi lba'tsi fahaadzaa yawmu lba'tsi walaakinnakum kuntum laa ta'lamuun
+
+terjemahan :
+Dan orang-orang yang diberi ilmu dan keimanan berkata (kepada orang-orang kafir), “Sungguh, kamu telah berdiam (dalam kubur) menurut ketetapan Allah, sampai hari kebangkitan. Maka inilah hari kebangkitan itu, tetapi (dahulu) kamu tidak meyakini(nya).” 
+

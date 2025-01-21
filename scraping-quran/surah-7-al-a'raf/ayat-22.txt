@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+22
+
+surat :
+فَدَلّٰىهُمَا بِغُرُورٍۚ فَلَمَّا ذَاقَا الشَّجَرَةَ بَدَتْ لَهُمَا سَوْاٰتُهُمَا وَطَفِقَا يَخْصِفٰنِ عَلَيْهِمَا مِنْ وَّرَقِ الْجَنَّةِۗ وَنَادٰىهُمَا رَبُّهُمَآ اَلَمْ اَنْهَكُمَا عَنْ تِلْكُمَا الشَّجَرَةِ وَاَقُلْ لَّكُمَآ اِنَّ الشَّيْطٰنَ لَكُمَ
+
+latin :
+fadallaahumaa bighuruurin falammaa dzaaqaa sysyajarata badat lahumaa saw-aatuhumaa wathafiqaa yakhshifaani 'alayhimaa min waraqi aljannati wanaadaahumaa rabbuhumaa alam anhakumaa 'an tilkumaa sysyajarati wa-aqul lakumaa inna sysyaythaana lakumaa 'aduwwun mubiin
+
+terjemahan :
+dia (setan) membujuk mereka dengan tipu daya. Ketika mereka mencicipi (buah) pohon itu, tampaklah oleh mereka auratnya, maka mulailah mereka menutupinya dengan daun-daun surga. Tuhan menyeru mereka, “Bukankah Aku telah melarang kamu dari pohon itu dan Aku telah mengatakan bahwa sesungguhnya setan adalah musuh yang nyata bagi kamu berdua?”
+

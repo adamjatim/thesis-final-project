@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+170
+
+surat :
+يٰٓاَيُّهَا النَّاسُ قَدْ جَاۤءَكُمُ الرَّسُوْلُ بِالْحَقِّ مِنْ رَّبِّكُمْ فَاٰمِنُوْا خَيْرًا لَّكُمْ ۗوَاِنْ تَكْفُرُوْا فَاِنَّ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَالْاَرْضِۗ وَكَانَ اللّٰهُ عَلِيْمًا حَكِيْمًا
+
+latin :
+yaa ayyuhaa nnaasu qad jaa-akumu rrasuulu bilhaqqi min rabbikum faaaminuu khayran lakum wa-in takfuruu fa-inna lillaahi maa fii ssamaawaati wal-ardhi wakaana laahu 'aliiman hakiimaa
+
+terjemahan :
+Wahai manusia! Sungguh, telah datang Rasul (Muhammad) kepadamu dengan (membawa) kebenaran dari Tuhanmu, maka berimanlah (kepadanya), itu lebih baik bagimu. Dan jika kamu kafir, (itu tidak merugikan Allah sedikit pun) karena sesungguhnya milik Allah-lah apa yang di langit dan di bumi. Allah Maha Mengetahui, Mahabijaksana.
+

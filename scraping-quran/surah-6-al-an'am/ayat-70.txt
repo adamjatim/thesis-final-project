@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+70
+
+surat :
+وَذَرِ الَّذِيْنَ اتَّخَذُوْا دِيْنَهُمْ لَعِبًا وَّلَهْوًا وَّغَرَّتْهُمُ الْحَيٰوةُ الدُّنْيَا وَذَكِّرْ بِهٖٓ اَنْ تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْۖ  لَيْسَ لَهَا مِنْ دُوْنِ اللّٰهِ وَلِيٌّ وَّلَا شَفِيْعٌ ۚوَاِنْ تَعْدِلْ كُلَّ عَدْلٍ لَّا يُؤْخَذْ مِ
+
+latin :
+wadzari ladziina ittakhadzuu diinahum la'iban walahwan wagharrat-humu lhayaatu ddunyaa wadzakkir bihi an tubsala nafsun bimaa kasabat laysa lahaa min duuni laahi waliyyun walaa syafii'un wa-in ta'dil kulla 'adlin laa yu/khadz minhaa ulaa-ika ladziina ubsiluu bimaa kasabuu lahum syaraabun min hamiimin wa'adzaabun liimun bimaa kaanuu yakfuruun
+
+terjemahan :
+Tinggalkanlah orang-orang yang menjadikan agamanya sebagai permainan dan senda gurau, dan mereka telah tertipu oleh kehidupan dunia. Peringatkanlah (mereka) dengan Al-Qur'an agar setiap orang tidak terjerumus (ke dalam neraka), karena perbuatannya sendiri. Tidak ada baginya pelindung dan pemberi syafaat (pertolongan) selain Allah. Dan jika dia hendak menebus dengan segala macam tebusan apa pun, niscaya tidak akan diterima. Mereka itulah orang-orang yang dijerumuskan (ke dalam neraka), karena perbuatan mereka sendiri. Mereka mendapat minuman dari air yang mendidih dan azab yang pedih karena kekafiran mereka dahulu.
+

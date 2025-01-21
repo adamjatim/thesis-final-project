@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+121
+
+surat :
+وَلَا تَأْكُلُوْا مِمَّا لَمْ يُذْكَرِ اسْمُ اللّٰهِ عَلَيْهِ وَاِنَّهٗ لَفِسْقٌۗ وَاِنَّ الشَّيٰطِيْنَ لَيُوْحُوْنَ اِلٰٓى اَوْلِيَاۤىِٕهِمْ  لِيُجَادِلُوْكُمْ ۚوَاِنْ اَطَعْتُمُوْهُمْ اِنَّكُمْ لَمُشْرِكُوْنَ ࣖ 
+
+latin :
+walaa ta/kuluu mimmaa lam yudzkari ismu laahi 'alayhi wa-innahu lafisqun wa-inna sysyayaathiina layuuhuuna ilaa awliyaa-ihim liyujaadiluukum wa-in atha'tumuuhum innakum lamusyrikuun
+
+terjemahan :
+Dan janganlah kamu memakan dari apa (daging hewan) yang (ketika disembelih) tidak disebut nama Allah, perbuatan itu benar-benar suatu kefasikan. Sesungguhnya setan-setan akan membisikkan kepada kawan-kawannya agar mereka membantah kamu. Dan jika kamu menuruti mereka, tentu kamu telah menjadi orang musyrik.
+

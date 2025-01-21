@@ -1,0 +1,30 @@
+no surat :
+52
+
+nama surat :
+At-Tur
+
+nama surat arab :
+الطور
+
+arti surat :
+Bukit Tursina
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Ath Thuur terdiri atas 49 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat As Sajdah. Dinamai Ath Thuur (Bukit) diambil dari perkataan Ath Thuur yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan bukit di sini ialah bukit Thursina yang terletak di semenanjung Sinai, tempat Nabi Musa menerima wahyu dari Tuhannya.
+
+ayat :
+38
+
+surat :
+اَمْ لَهُمْ سُلَّمٌ يَّسْتَمِعُوْنَ فِيْهِۚ فَلْيَأْتِ مُسْتَمِعُهُمْ بِسُلْطٰنٍ مُّبِيْنٍۗ  
+
+latin :
+am lahum sullamun yastami'uuna fiihi falya/ti mustami'uhum bisulthaanin mubiin
+
+terjemahan :
+Atau apakah mereka mempunyai tangga (ke langit) untuk mendengarkan (hal-hal yang gaib)? Maka hendaklah orang yang mendengarkan di antara mereka itu datang membawa keterangan yang nyata. 
+

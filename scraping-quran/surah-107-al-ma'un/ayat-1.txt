@@ -1,0 +1,30 @@
+no surat :
+107
+
+nama surat :
+Al-Ma'un
+
+nama surat arab :
+الماعون
+
+arti surat :
+Barang Yang Berguna
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 7 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat At Taakatsur. Nama Al Maa'uun diambil dari kata Al Maa'uun yang terdapat pada ayat 7, artinya barang-barang yang berguna.
+
+ayat :
+1
+
+surat :
+اَرَءَيْتَ الَّذِيْ يُكَذِّبُ بِالدِّيْنِۗ
+
+latin :
+ara-ayta ladzii yukadzdzibu biddiin
+
+terjemahan :
+Tahukah kamu (orang) yang mendustakan agama?
+

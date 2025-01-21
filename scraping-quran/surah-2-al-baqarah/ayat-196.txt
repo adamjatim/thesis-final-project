@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+196
+
+surat :
+وَاَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلّٰهِ ۗ فَاِنْ اُحْصِرْتُمْ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِۚ وَلَا تَحْلِقُوْا رُءُوْسَكُمْ حَتّٰى يَبْلُغَ الْهَدْيُ مَحِلَّهٗ ۗ فَمَنْ كَانَ مِنْكُمْ مَّرِيْضًا اَوْ بِهٖٓ اَذًى مِّنْ رَّأْسِهٖ فَفِدْيَةٌ مِّنْ صِيَ
+
+latin :
+wa-atimmuu lhajja wal'umrata lillaahi fa-in uhsirtum famaa istaysara mina lhadyi walaa tahliquu ruuusakum hattaa yablugha lhadyu mahillahu faman kaana minkum mariidhan aw bihi adzan min ra/sihi fafidyatun min shiyaamin aw shadaqatin aw nusukin fa-idzaa amintum faman tamatta'a bil'umrati ilaa lhajji famaa istaysara mina lhadyi faman lam yajid fashiyaamu tsalaatsati ayyaamin fii lhajji wasab'atin idzaa raja'tum tilka 'asyaratun kaamilatun dzaalika liman lam yakun ahluhu hadirii lmasjidi lharaami wattaquu laaha wa'lamuu anna laaha syadiidu l'iqaab
+
+terjemahan :
+Dan sempurnakanlah ibadah haji dan umrah karena Allah. Tetapi jika kamu terkepung (oleh musuh), maka (sembelihlah) hadyu yang mudah didapat, dan jangan kamu mencukur kepalamu, sebelum hadyu sampai di tempat penyembelihannya. Jika ada di antara kamu yang sakit atau ada gangguan di kepalanya (lalu dia bercukur), maka dia wajib berfidyah, yaitu berpuasa, bersedekah atau berkurban. Apabila kamu dalam keadaan aman, maka barangsiapa mengerjakan umrah sebelum haji, dia (wajib menyembelih) hadyu yang mudah didapat. Tetapi jika dia tidak mendapatkannya, maka dia (wajib) berpuasa tiga hari dalam (musim) haji dan tujuh (hari) setelah kamu kembali. Itu seluruhnya sepuluh (hari). Demikian itu, bagi orang yang keluarganya tidak ada (tinggal) di sekitar Masjidilharam. Bertakwalah kepada Allah dan ketahuilah bahwa Allah sangat keras hukuman-Nya.
+

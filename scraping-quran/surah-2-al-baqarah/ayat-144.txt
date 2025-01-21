@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+144
+
+surat :
+قَدْ نَرٰى تَقَلُّبَ وَجْهِكَ فِى السَّمَاۤءِۚ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضٰىهَا ۖ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ ۗ وَحَيْثُ مَا كُنْتُمْ فَوَلُّوْا وُجُوْهَكُمْ شَطْرَهٗ ۗ وَاِنَّ الَّذِيْنَ اُوْتُوا الْكِتٰبَ لَيَعْلَمُوْنَ اَنَّهُ 
+
+latin :
+qad naraa taqalluba wajhika fii ssamaa-i falanuwalliyannaka qiblatan tardaahaa fawalli wajhaka syathra lmasjidi lharaami wahaytsu maa kuntum fawalluu wujuuhakum syathrahu wa-inna ladziina uutuu lkitaaba laya'lamuuna annahu lhaqqu min rabbihim wamaa laahu bighaafilin 'ammaa ya'maluun
+
+terjemahan :
+Kami melihat wajahmu (Muhammad) sering menengadah ke langit, maka akan Kami palingkan engkau ke kiblat yang engkau senangi. Maka hadapkanlah wajahmu ke arah Masjidilharam. Dan di mana saja engkau berada, hadapkanlah wajahmu ke arah itu. Dan sesungguhnya orang-orang yang diberi Kitab (Taurat dan Injil) tahu, bahwa (pemindahan kiblat) itu adalah kebenaran dari Tuhan mereka. Dan Allah tidak lengah terhadap apa yang mereka kerjakan.
+

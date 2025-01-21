@@ -1,0 +1,30 @@
+no surat :
+81
+
+nama surat :
+At-Takwir
+
+nama surat arab :
+التكوير
+
+arti surat :
+Penggulungan
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat At Takwir terdiri atas 29 ayat dan termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Masadd. Kata At Takwir (terbelah) yang menjadi nama bagi surat ini adalah dari kata asal (mashdar) dari kata kerja kuwwirat (digulung) yang terdapat pada ayat pertama surat ini.
+
+ayat :
+28
+
+surat :
+لِمَنْ شَاۤءَ مِنْكُمْ اَنْ يَّسْتَقِيْمَۗ
+
+latin :
+liman syaa-a minkum an yastaqiim
+
+terjemahan :
+(yaitu) bagi siapa di antara kamu yang menghendaki menempuh jalan yang lurus. 
+

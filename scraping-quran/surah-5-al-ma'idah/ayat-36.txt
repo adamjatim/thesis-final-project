@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+36
+
+surat :
+اِنَّ الَّذِيْنَ كَفَرُوْا لَوْ اَنَّ لَهُمْ مَّا فِى الْاَرْضِ جَمِيْعًا وَّمِثْلَهٗ مَعَهٗ لِيَفْتَدُوْا بِهٖ مِنْ عَذَابِ يَوْمِ الْقِيٰمَةِ مَا تُقُبِّلَ مِنْهُمْ ۚ وَلَهُمْ عَذَابٌ اَلِيْمٌ
+
+latin :
+inna ladziina kafaruu law anna lahum maa fii l-ardhi jamii'an wamitslahu ma'ahu liyaftaduu bihi min 'adzaabi yawmi lqiyaamati maa tuqubbila minhum walahum 'adzaabun liim
+
+terjemahan :
+Sesungguhnya orang-orang yang kafir, seandainya mereka memiliki segala apa yang ada di bumi dan ditambah dengan sebanyak itu (lagi) untuk menebus diri mereka dari azab pada hari Kiamat, niscaya semua (tebusan) itu tidak akan diterima dari mereka. Mereka (tetap) mendapat azab yang pedih.
+

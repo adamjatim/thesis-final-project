@@ -1,0 +1,30 @@
+no surat :
+45
+
+nama surat :
+Al-Jasiyah
+
+nama surat arab :
+الجاثية
+
+arti surat :
+Berlutut
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Jaatsiyah terdiri atas 37 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Ad Dukhaan. Dinamai dengan Al Jaatsiyah (yang berlutut) diambil dari perkataan Jaatsiyah yang terdapat pada ayat 28 surat ini. Ayat tersebut menerangkan tentang keadaan manusia pada hari kiamat, yaitu semua manusia dikumpulkan ke hadapan mahkamah Allah Yang Maha Tinggi yang memberikan keputusan terhadap perbuatan yang telah mereka lakukan di dunia. Pada hari itu semua manusia berlutut di hadapan Allah. Dinamai juga dengan Asy Syari'ah diambil dari perkataan Syari'ah (Syari'at) yang terdapat pada ayat 18 surat ini.
+
+ayat :
+17
+
+surat :
+وَاٰتَيْنٰهُمْ بَيِّنٰتٍ مِّنَ الْاَمْرِۚ فَمَا اخْتَلَفُوْٓا اِلَّا مِنْۢ بَعْدِ مَا جَاۤءَهُمُ الْعِلْمُ بَغْيًاۢ بَيْنَهُمْ ۗاِنَّ رَبَّكَ يَقْضِيْ بَيْنَهُمْ يَوْمَ الْقِيٰمَةِ فِيْمَا كَانُوْا فِيْهِ يَخْتَلِفُوْنَ
+
+latin :
+waaataynaahum bayyinaatin mina l-amri famaa ikhtalafuu illaa min ba'di maa jaa-ahumu l'ilmu baghyan baynahum inna rabbaka yaqdhii baynahum yawma lqiyaamati fiimaa kaanuu fiihi yakhtalifuun
+
+terjemahan :
+Dan Kami berikan kepada mereka keterangan-keterangan yang jelas tentang urusan (agama); maka mereka tidak berselisih kecuali setelah datang ilmu kepada mereka, karena kedengkian (yang ada) di antara mereka. Sungguh, Tuhanmu akan memberi putusan kepada mereka pada hari Kiamat terhadap apa yang selalu mereka perselisihkan.
+

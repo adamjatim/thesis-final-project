@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+3
+
+surat :
+حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيْرِ وَمَآ اُهِلَّ لِغَيْرِ اللّٰهِ بِهٖ وَالْمُنْخَنِقَةُ وَالْمَوْقُوْذَةُ وَالْمُتَرَدِّيَةُ وَالنَّطِيْحَةُ وَمَآ اَكَلَ السَّبُعُ اِلَّا مَا ذَكَّيْتُمْۗ وَمَا ذُبِحَ عَلَى النُّصُبِ وَاَ
+
+latin :
+hurrimat 'alaykumu lmaytatu waddamu walahmu lkhinziiri wamaa uhilla lighayri laahi bihi walmunkhaniqatu walmawquudzatu walmutaraddiyatu wannathiihatu wamaa akala ssabu'u illaa maa tsakkaytum wamaa dzubiha 'alaa nnushubi wa-an tastaqsimuu bil-azlaami dzaalikum fisqun lyawma ya-isa ladziina kafaruu min diinikum falaa takhsyawhum wakhsyawni lyawma akmaltu lakum diinakum wa-atmamtu 'alaykum ni'matii waradhiitu lakumu l-islaama diinan famani idthurra fii makhmashatin ghayra mutajaanifin li-itsmin fa-inna laaha ghafuurun rahiim
+
+terjemahan :
+Diharamkan bagimu (memakan) bangkai, darah, daging babi, dan (daging) hewan yang disembelih bukan atas (nama) Allah, yang tercekik, yang dipukul, yang jatuh, yang ditanduk, dan yang diterkam binatang buas, kecuali yang sempat kamu sembelih. Dan (diharamkan pula) yang disembelih untuk berhala. Dan (diharamkan pula) mengundi nasib dengan azlam (anak panah), (karena) itu suatu perbuatan fasik. Pada hari ini orang-orang kafir telah putus asa untuk (mengalahkan) agamamu, sebab itu janganlah kamu takut kepada mereka, tetapi takutlah kepada-Ku. Pada hari ini telah Aku sempurnakan agamamu untukmu, dan telah Aku cukupkan nikmat-Ku bagimu, dan telah Aku ridai Islam sebagai agamamu. Tetapi barangsiapa terpaksa karena lapar, bukan karena ingin berbuat dosa, maka sungguh, Allah Maha Pengampun, Maha Penyayang.
+

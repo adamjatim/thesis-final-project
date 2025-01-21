@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+217
+
+surat :
+يَسْـَٔلُوْنَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيْهِۗ  قُلْ قِتَالٌ فِيْهِ كَبِيْرٌ ۗ وَصَدٌّ عَنْ سَبِيْلِ اللّٰهِ وَكُفْرٌۢ بِهٖ وَالْمَسْجِدِ الْحَرَامِ وَاِخْرَاجُ اَهْلِهٖ مِنْهُ اَكْبَرُ عِنْدَ اللّٰهِ ۚ وَالْفِتْنَةُ اَكْبَرُ مِنَ الْقَتْلِ ۗ و
+
+latin :
+yas-aluunaka 'ani sysyahri lharaami qitaalin fiihi qul qitaalun fiihi kabiirun washaddun 'an sabiili laahi wakufrun bihi walmasjidi lharaami wa-ikhraaju ahlihi minhu akbaru 'inda laahi walfitnatu akbaru mina lqatli walaa yazaaluuna yuqaatiluunakum hattaa yarudduukum 'an diinikum ini istathaa'uu waman yartadid minkum 'an diinihi fayamut wahuwa kaafirun faulaa-ika habithat a'maaluhum fii ddunyaa wal-aakhirati waulaa-ika ash-haabu nnaari hum fiihaa khaaliduun
+
+terjemahan :
+Mereka bertanya kepadamu (Muhammad) tentang berperang pada bulan haram. Katakanlah, “Berperang dalam bulan itu adalah (dosa) besar. Tetapi menghalangi (orang) dari jalan Allah, ingkar kepada-Nya, (menghalangi orang masuk) Masjidilharam, dan mengusir penduduk dari sekitarnya, lebih besar (dosanya) dalam pandangan Allah. Sedangkan fitnah lebih kejam daripada pembunuhan. Mereka tidak akan berhenti memerangi kamu sampai kamu murtad (keluar) dari agamamu, jika mereka sanggup. Barangsiapa murtad di antara kamu dari agamanya, lalu dia mati dalam kekafiran, maka mereka itu sia-sia amalnya di dunia dan di akhirat, dan mereka itulah penghuni neraka, mereka kekal di dalamnya.”
+

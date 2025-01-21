@@ -1,0 +1,30 @@
+no surat :
+17
+
+nama surat :
+Al-Isra'
+
+nama surat arab :
+الاسراۤء
+
+arti surat :
+Memperjalankan Malam Hari
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah. Dinamakan dengan Al Israa' yang berarti memperjalankan di malam hari, berhubung peristiwa Israa' Nabi Muhammad s.a.w. di Masjidil Haram di Mekah ke Masjidil Aqsha di Baitul Maqdis dicantumkan pada ayat pertama dalam surat ini. Penuturan cerita Israa' pada permulaan surat ini, mengandung isyarat bahwa Nabi Muhammad s.a.w. beserta umatnya kemudian hari akan mencapai martabat yang tinggi dan akan menjadi umat yang besar. Surat ini dinamakan pula dengan Bani Israil artinya keturunan Israil berhubung dengan permulaan surat ini, yakni pada ayat kedua sampai dengan ayat kedelapan dan kemudian dekat akhir surat yakni pada ayat 101 sampai dengan ayat 104, Allah menyebutkan tentang Bani Israil yang setelah menjadi bangsa yang kuat lagi besar lalu menjadi bangsa yang terhina karena menyimpang dari ajaran Allah s.w.t. Dihubungkannya kisah Israa' dengan riwayat Bani Israil pada surat ini, memberikan peringatan bahwa umat Islam akan mengalami keruntuhan, sebagaimana halnya Bani Israil, apabila mereka juga meninggalkan ajaran-ajaran agamanya.
+
+ayat :
+38
+
+surat :
+كُلُّ ذٰلِكَ كَانَ سَيِّئُهٗ عِنْدَ رَبِّكَ مَكْرُوْهًا 
+
+latin :
+kullu dzaalika kaana sayyi-uhu 'inda rabbika makruuhaa
+
+terjemahan :
+Semua itu kejahatannya sangat dibenci di sisi Tuhanmu.
+

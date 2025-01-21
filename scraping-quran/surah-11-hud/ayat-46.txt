@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+46
+
+surat :
+قَالَ يٰنُوْحُ اِنَّهٗ لَيْسَ مِنْ اَهْلِكَ ۚاِنَّهٗ عَمَلٌ غَيْرُ صَالِحٍ فَلَا تَسْـَٔلْنِ مَا لَيْسَ لَكَ بِهٖ عِلْمٌ ۗاِنِّيْٓ اَعِظُكَ اَنْ تَكُوْنَ مِنَ الْجٰهِلِيْنَ
+
+latin :
+qaala yaa nuuhu innahu laysa min ahlika innahu 'amalun ghayru shaalihin falaa tas-alni maa laysa laka bihi 'ilmun innii a'izhuka an takuuna mina ljaahiliin
+
+terjemahan :
+Dia (Allah) berfirman, “Wahai Nuh! Sesungguhnya dia bukanlah termasuk keluargamu, karena perbuatannya sungguh tidak baik, sebab itu jangan engkau memohon kepada-Ku sesuatu yang tidak engkau ketahui (hakikatnya). Aku menasihatimu agar (engkau) tidak termasuk orang yang bodoh.”
+

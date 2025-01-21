@@ -1,0 +1,30 @@
+no surat :
+42
+
+nama surat :
+Asy-Syura
+
+nama surat arab :
+الشورى
+
+arti surat :
+Musyawarah
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Asy Syuura terdiri atas 53 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Fushshilat. Dinamai dengan Asy Syuura (musyawarat) diambil dari perkataan Syuura yang terdapat pada ayat 38 surat ini. Dalam ayat tersebut diletakkan salah satu dari dasar-dasar pemerintahan Islam ialah musyawarat. Dinamai juga Haa Miim 'Ain Siin Qaaf karena surat ini dimulai dengan huruf-huruf hijaiyah itu.
+
+ayat :
+14
+
+surat :
+وَمَا تَفَرَّقُوْٓا اِلَّا مِنْۢ بَعْدِ مَا جَاۤءَهُمُ الْعِلْمُ بَغْيًاۢ بَيْنَهُمْۗ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِنْ رَّبِّكَ اِلٰٓى اَجَلٍ مُّسَمًّى لَّقُضِيَ بَيْنَهُمْۗ وَاِنَّ الَّذِيْنَ اُوْرِثُوا الْكِتٰبَ مِنْۢ بَعْدِهِمْ لَفِيْ شَكٍّ مِّنْهُ مُر
+
+latin :
+wamaa tafarraquu illaa min ba'di maa jaa-ahumu l'ilmu baghyan baynahum walawlaa kalimatun sabaqat min rabbika ilaa ajalin musamman laqudhiya baynahum wa-inna ladziina uuritsuu lkitaaba min ba'dihim lafii syakkin minhu muriib
+
+terjemahan :
+Dan mereka (Ahli Kitab) tidak berpecah belah kecuali setelah datang kepada mereka ilmu (kebenaran yang disampaikan oleh para nabi) karena kedengkian antara sesama mereka. Jika tidaklah karena suatu ketetapan yang telah ada dahulunya dari Tuhanmu (untuk menangguhkan azab) sampai batas waktu yang ditentukan, pastilah hukuman bagi mereka telah dilaksanakan. Dan sesungguhnya orang-orang yang mewarisi Kitab (Taurat dan Injil) setelah mereka (pada zaman Muhammad), benar-benar berada dalam keraguan yang mendalam tentang Kitab (Al-Qur'an) itu.
+

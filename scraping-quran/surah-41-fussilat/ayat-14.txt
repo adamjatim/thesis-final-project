@@ -1,0 +1,30 @@
+no surat :
+41
+
+nama surat :
+Fussilat
+
+nama surat arab :
+فصّلت
+
+arti surat :
+Yang Dijelaskan
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Fushshilat terdiri atas 54 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Mu'min. Dinamai Fushshilat (yang dijelaskan) karena ada hubungannya dengan perkataan Fushshilat yang terdapat pada permulaan surat ini yang berarti yang dijelaskan. Maksudnya ayat-ayatnya diperinci dengan jelas tentang hukum-hukum, keimanan, janji dan ancaman, budi pekerti, kisah, dan sebagainya. Dinamai juga dengan Haa Miim dan As Sajdah karena surat ini dimulai dengan Haa Miim dan dalam surat ini terdapat ayat Sajdah.
+
+ayat :
+14
+
+surat :
+اِذْ جَاۤءَتْهُمُ الرُّسُلُ مِنْۢ بَيْنِ اَيْدِيْهِمْ وَمِنْ خَلْفِهِمْ اَلَّا تَعْبُدُوْٓا اِلَّا اللّٰهَ ۗقَالُوْا لَوْ شَاۤءَ رَبُّنَا لَاَنْزَلَ مَلٰۤىِٕكَةً فَاِنَّا بِمَآ اُرْسِلْتُمْ بِهٖ كٰفِرُوْنَ 
+
+latin :
+idz jaa-at-humu rrusulu min bayni aydiihim wamin khalfihim laa ta'buduu illaa laaha qaaluu law syaa-a rabbunaa la-anzala malaa-ikatan fa-innaa bimaa ursiltum bihi kaafiruun
+
+terjemahan :
+Ketika para rasul datang kepada mereka dari depan dan dari belakang mereka (dengan menyerukan), “Janganlah kamu menyembah selain Allah.” Mereka menjawab, “Kalau Tuhan kami menghendaki tentu Dia menurunkan malaikat-malaikat-Nya, maka sesungguhnya kami mengingkari wahyu yang engkau diutus menyampaikannya.”
+

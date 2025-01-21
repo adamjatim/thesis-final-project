@@ -1,0 +1,30 @@
+no surat :
+76
+
+nama surat :
+Al-Insan
+
+nama surat arab :
+الانسان
+
+arti surat :
+Manusia
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Insaan terdiri atas 31 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Ar Rahmaan. Dinamai al Insaan (manusia) diambil dari perkataan Al Insaan yang terdapat pada ayat pertama surat ini.
+
+ayat :
+22
+
+surat :
+اِنَّ هٰذَا كَانَ لَكُمْ جَزَاۤءً وَّكَانَ سَعْيُكُمْ مَّشْكُوْرًا ࣖ 
+
+latin :
+inna haadzaa kaana lakum jazaa-an wakaana sa'yukum masykuuraa
+
+terjemahan :
+Inilah balasan untukmu, dan segala usahamu diterima dan diakui (Allah).
+

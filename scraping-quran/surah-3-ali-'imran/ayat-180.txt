@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+180
+
+surat :
+وَلَا يَحْسَبَنَّ الَّذِيْنَ يَبْخَلُوْنَ بِمَآ اٰتٰىهُمُ اللّٰهُ مِنْ فَضْلِهٖ هُوَ خَيْرًا لَّهُمْ ۗ بَلْ هُوَ شَرٌّ لَّهُمْ ۗ سَيُطَوَّقُوْنَ مَا بَخِلُوْا بِهٖ يَوْمَ الْقِيٰمَةِ ۗ وَلِلّٰهِ مِيْرَاثُ السَّمٰوٰتِ وَالْاَرْضِۗ وَاللّٰهُ بِمَا تَعْمَلُ
+
+latin :
+walaa yahsabanna ladziina yabkhaluuna bimaa aataahummu laahu min fadhlihi huwa khayran lahum bal huwa syarrun lahum sayuthawwaquuna maa bakhiluu bihi yawma lqiyaamati walillaahi miiraatsu ssamaawaati wal-ardhi walaahu bimaa ta'maluuna khabiir
+
+terjemahan :
+Dan jangan sekali-kali orang-orang yang kikir dengan apa yang diberikan Allah kepada mereka dari karunia-Nya mengira bahwa (kikir) itu baik bagi mereka, padahal (kikir) itu buruk bagi mereka. Apa (harta) yang mereka kikirkan itu akan dikalungkan (di lehernya) pada hari Kiamat. Milik Allah-lah warisan (apa yang ada) di langit dan di bumi. Allah Mahateliti apa yang kamu kerjakan.
+

@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+177
+
+surat :
+۞ لَيْسَ الْبِرَّاَنْ تُوَلُّوْا وُجُوْهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلٰكِنَّ الْبِرَّ مَنْ اٰمَنَ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِ وَالْمَلٰۤىِٕكَةِ وَالْكِتٰبِ وَالنَّبِيّٖنَ ۚ وَاٰتَى الْمَالَ عَلٰى حُبِّهٖ ذَوِى الْقُرْبٰى وَالْيَتٰمٰى وَالْ
+
+latin :
+laysa lbirra an tuwalluu wujuuhakum qibala lmasyriqi walmaghribi walaakinna lbirra man aamana bilaahi walyawmi l-aakhiri walmalaa-ikati walkitaabi wannabiyyiina waaataa lmaala 'alaa hubbihi dzawii lqurbaa walyataamaa walmasaakiina wabna lssabiili wassaa-iliina wafii rriqaabi wa-aqaama shshalaata waaataa zzakaata walmuufuuna bi'ahdihim idzaa 'aahaduu washshaabiriina fii lba/saa-i wadhdharraa-i wahiina lba/si ulaa-ika ladziina shadaquu waulaa-ika humu lmuttaquun
+
+terjemahan :
+Kebajikan itu bukanlah menghadapkan wajahmu ke arah timur dan ke barat, tetapi kebajikan itu ialah (kebajikan) orang yang beriman kepada Allah, hari akhir, malaikat-malaikat, kitab-kitab, dan nabi-nabi dan memberikan harta yang dicintainya kepada kerabat, anak yatim, orang-orang miskin, orang-orang yang dalam perjalanan (musafir), peminta-minta, dan untuk memerdekakan hamba sahaya, yang melaksanakan salat dan menunaikan zakat, orang-orang yang menepati janji apabila berjanji, dan orang yang sabar dalam kemelaratan, penderitaan dan pada masa peperangan. Mereka itulah orang-orang yang benar, dan mereka itulah orang-orang yang bertakwa.
+

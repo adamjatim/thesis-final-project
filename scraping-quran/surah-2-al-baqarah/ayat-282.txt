@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+282
+
+surat :
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْٓا اِذَا تَدَايَنْتُمْ بِدَيْنٍ اِلٰٓى اَجَلٍ مُّسَمًّى فَاكْتُبُوْهُۗ وَلْيَكْتُبْ بَّيْنَكُمْ كَاتِبٌۢ بِالْعَدْلِۖ وَلَا يَأْبَ كَاتِبٌ اَنْ يَّكْتُبَ كَمَا عَلَّمَهُ اللّٰهُ فَلْيَكْتُبْۚ وَلْيُمْلِلِ الَّذِيْ عَلَيْهِ ا
+
+latin :
+yaa ayyuhaa ladziina aamanuu idzaa tadaayantum bidaynin ilaa ajalin musamman faktubuuhu walyaktub baynakum kaatibun bil'adli walaa ya/ba kaatibun an yaktuba kamaa 'allamahu laahu falyaktub walyumlili ladzii 'alayhi lhaqqu walyattaqi laaha rabbahu walaa yabkhas minhu syay-an fa-in kaana ladzii 'alayhi lhaqqu safiihan aw dha'iifan aw laa yastathii'u an yumilla huwa falyumlil waliyyuhu bil'adli wastasyhiduu syahiidayni min rijaalikum fa-in lam yakuunaa rajulayni farajulun wamra-ataani mimman tardhawna mina sysyuhadaa-i an tadhilla ihdaahumaa fatudzakkira ihdaahumaa l-ukhraa walaa ya/ba sysyuhadaau idzaa maa du'uu walaa tas-amuu an taktubuuhu shaghiiran aw kabiiran ilaa ajalihi dzaalikum aqsathu 'inda laahi wa-aqwamu lisysyahaadati wa-adnaa laa tartaabuu illaa an takuuna tijaaratan hadiratan tudiiruunahaa baynakum falaysa 'alaykum junaahun laa taktubuuhaa wa-asyhiduu idzaa tabaaya'tum walaa yudaarra kaatibun walaa syahiidun wa-in taf'aluu fa-innahu fusuuqun bikum wattaquu laaha wayu'allimukumu laahu walaahu bikulli syay-in 'aliim
+
+terjemahan :
+Wahai orang-orang yang beriman! Apabila kamu melakukan utang piutang untuk waktu yang ditentukan, hendaklah kamu menuliskannya. Dan hendaklah seorang penulis di antara kamu menuliskannya dengan benar. Janganlah penulis menolak untuk menuliskannya sebagaimana Allah telah mengajarkan kepadanya, maka hendaklah dia menuliskan. Dan hendaklah orang yang berutang itu mendiktekan, dan hendaklah dia bertakwa kepada Allah, Tuhannya, dan janganlah dia mengurangi sedikit pun daripadanya. Jika yang berutang itu orang yang kurang akalnya atau lemah (keadaannya), atau tidak mampu mendiktekan sendiri, maka hendaklah walinya mendiktekannya dengan benar. Dan persaksikanlah dengan dua orang saksi laki-laki di antara kamu. Jika tidak ada (saksi) dua orang laki-laki, maka (boleh) seorang laki-laki dan dua orang perempuan di antara orang-orang yang kamu sukai dari para saksi (yang ada), agar jika yang seorang lupa, maka yang seorang lagi mengingatkannya. Dan janganlah saksi-saksi itu menolak apabila dipanggil. Dan janganlah kamu bosan menuliskannya, untuk batas waktunya baik (utang itu) kecil maupun besar. Yang demikian itu, lebih adil di sisi Allah, lebih dapat menguatkan kesaksian, dan lebih mendekatkan kamu kepada ketidakraguan, kecuali jika hal itu merupakan perdagangan tunai yang kamu jalankan di antara kamu, maka tidak ada dosa bagi kamu jika kamu tidak menuliskannya. Dan ambillah saksi apabila kamu berjual beli, dan janganlah penulis dipersulit dan begitu juga saksi. Jika kamu lakukan (yang demikian), maka sungguh, hal itu suatu kefasikan pada kamu. Dan bertakwalah kepada Allah, Allah memberikan pengajaran kepadamu, dan Allah Maha Mengetahui segala sesuatu.
+

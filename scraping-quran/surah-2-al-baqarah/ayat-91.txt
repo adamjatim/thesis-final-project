@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+91
+
+surat :
+وَاِذَا قِيْلَ لَهُمْ اٰمِنُوْا بِمَآ اَنْزَلَ اللّٰهُ قَالُوْا نُؤْمِنُ بِمَآ اُنْزِلَ عَلَيْنَا وَيَكْفُرُوْنَ بِمَا وَرَاۤءَهٗ وَهُوَ الْحَقُّ مُصَدِّقًا لِّمَا مَعَهُمْ ۗ قُلْ فَلِمَ تَقْتُلُوْنَ اَنْۢبِيَاۤءَ اللّٰهِ مِنْ قَبْلُ اِنْ كُنْتُمْ مُّؤْ
+
+latin :
+wa-idzaa qiila lahum aaminuu bimaa anzala laahu qaaluu nu/minu bimaa unzila 'alaynaa wayakfuruuna bimaa waraa-ahu wahuwa lhaqqu mushaddiqan limaa ma'ahum qul falima taqtuluuna anbiyaa-a laahi min qablu in kuntum mu/miniin
+
+terjemahan :
+Dan apabila dikatakan kepada mereka, “Berimanlah kepada apa yang diturunkan Allah (Al-Qur'an),” mereka menjawab, “Kami beriman kepada apa yang diturunkan kepada kami.” Dan mereka ingkar kepada apa yang setelahnya, padahal (Al-Qur'an) itu adalah yang hak yang membenarkan apa yang ada pada mereka. Katakanlah (Muhammad), “Mengapa kamu dahulu membunuh nabi-nabi Allah jika kamu orang-orang beriman?”
+

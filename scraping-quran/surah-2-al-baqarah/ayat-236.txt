@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+236
+
+surat :
+لَا جُنَاحَ عَلَيْكُمْ اِنْ طَلَّقْتُمُ النِّسَاۤءَ مَا لَمْ تَمَسُّوْهُنَّ اَوْ تَفْرِضُوْا لَهُنَّ فَرِيْضَةً ۖ وَّمَتِّعُوْهُنَّ عَلَى الْمُوْسِعِ قَدَرُهٗ وَعَلَى الْمُقْتِرِ قَدَرُهٗ ۚ مَتَاعًا ۢبِالْمَعْرُوْفِۚ حَقًّا عَلَى الْمُحْسِنِيْنَ 
+
+latin :
+laa junaaha 'alaykum in thallaqtumu nnisaa-a maa lam tamassuuhunna aw tafridhuu lahunna fariidhatan wamatti'uuhunna 'alaa lmuusi'i qadaruhu wa'alaa lmuqtiri qadaruhu mataa'an bilma'ruufi haqqan 'alaa lmuhsiniin
+
+terjemahan :
+Tidak ada dosa bagimu, jika kamu menceraikan istri-istri kamu yang belum kamu sentuh (campuri) atau belum kamu tentukan maharnya. Dan hendaklah kamu beri mereka mut‘ah, bagi yang mampu menurut kemampuannya dan bagi yang tidak mampu menurut kesanggupannya, yaitu pemberian dengan cara yang patut, yang merupakan kewajiban bagi orang-orang yang berbuat kebaikan.
+

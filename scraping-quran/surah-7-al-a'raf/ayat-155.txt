@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+155
+
+surat :
+وَاخْتَارَ مُوْسٰى قَوْمَهٗ سَبْعِيْنَ رَجُلًا لِّمِيْقَاتِنَا ۚفَلَمَّآ اَخَذَتْهُمُ الرَّجْفَةُ قَالَ رَبِّ لَوْ شِئْتَ اَهْلَكْتَهُمْ مِّنْ قَبْلُ وَاِيَّايَۗ اَتُهْلِكُنَا بِمَا فَعَلَ السُّفَهَاۤءُ مِنَّاۚ اِنْ هِيَ اِلَّا فِتْنَتُكَۗ تُضِلُّ بِهَا 
+
+latin :
+wakhtaara muusaa qawmahu sab'iina rajulan limiiqaatinaa falammaa akhadzat-humu rrajfatu qaala rabbi law syi/ta ahlaktahum min qablu wa-iyyaaya atuhlikunaa bimaa fa'ala ssufahaau minnaa in hiya illaa fitnatuka tudhillu bihaa man tasyaau watahdii man tasyaau anta waliyyunaa faghfir lanaa warhamnaa wa-anta khayru lghaafiriin
+
+terjemahan :
+Dan Musa memilih tujuh puluh orang dari kaumnya untuk (memohon tobat kepada Kami) pada waktu yang telah Kami tentukan. Ketika mereka ditimpa gempa bumi, Musa berkata, “Ya Tuhanku, jika Engkau kehendaki, tentulah Engkau binasakan mereka dan aku sebelum ini. Apakah Engkau akan membinasakan kami karena perbuatan orang-orang yang kurang berakal di antara kami? Itu hanyalah cobaan dari-Mu, Engkau sesatkan dengan cobaan itu siapa yang Engkau kehendaki dan Engkau beri petunjuk kepada siapa yang Engkau kehendaki. Engkaulah pemimpin kami, maka ampunilah kami dan berilah kami rahmat. Engkaulah pemberi ampun yang terbaik.”
+

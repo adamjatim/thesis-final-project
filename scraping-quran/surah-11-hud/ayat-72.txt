@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+72
+
+surat :
+قَالَتْ يٰوَيْلَتٰىٓ ءَاَلِدُ وَاَنَا۠ عَجُوْزٌ وَّهٰذَا بَعْلِيْ شَيْخًا ۗاِنَّ هٰذَا لَشَيْءٌ عَجِيْبٌ
+
+latin :
+qaalat yaa waylataa a-alidu wa-anaa 'ajuuzun wahaadzaa ba'lii syaykhan inna haadzaa lasyay-un 'ajiib
+
+terjemahan :
+Dia (istrinya) berkata, “Sungguh ajaib, mungkinkah aku akan melahirkan anak padahal aku sudah tua, dan suamiku ini sudah sangat tua? Ini benar-benar sesuatu yang ajaib.”
+

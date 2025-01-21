@@ -1,0 +1,30 @@
+no surat :
+42
+
+nama surat :
+Asy-Syura
+
+nama surat arab :
+الشورى
+
+arti surat :
+Musyawarah
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Asy Syuura terdiri atas 53 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Fushshilat. Dinamai dengan Asy Syuura (musyawarat) diambil dari perkataan Syuura yang terdapat pada ayat 38 surat ini. Dalam ayat tersebut diletakkan salah satu dari dasar-dasar pemerintahan Islam ialah musyawarat. Dinamai juga Haa Miim 'Ain Siin Qaaf karena surat ini dimulai dengan huruf-huruf hijaiyah itu.
+
+ayat :
+13
+
+surat :
+۞ شَرَعَ لَكُمْ مِّنَ الدِّيْنِ مَا وَصّٰى بِهٖ نُوْحًا وَّالَّذِيْٓ اَوْحَيْنَآ اِلَيْكَ وَمَا وَصَّيْنَا بِهٖٓ اِبْرٰهِيْمَ وَمُوْسٰى وَعِيْسٰٓى اَنْ اَقِيْمُوا الدِّيْنَ وَلَا تَتَفَرَّقُوْا فِيْهِۗ  كَبُرَ عَلَى الْمُشْرِكِيْنَ مَا تَدْعُوْهُمْ اِلَي
+
+latin :
+syara'a lakum mina ddiini maa washshaa bihi nuuhan walladzii awhaynaa ilayka wamaa washshaynaa bihi ibraahiima wamuusaa wa'iisaa an aqiimuu ddiina walaa tatafarraquu fiihi kabura 'alaa lmusyrikiina maa tad'uuhum ilayhi laahu yajtabii ilayhi man yasyaau wayahdii ilayhi man yuniib
+
+terjemahan :
+diwasiatkan-Nya kepada Nuh dan apa yang telah Kami wahyukan kepadamu (Muhammad) dan apa yang telah Kami wasiatkan kepada Ibrahim, Musa dan Isa yaitu tegakkanlah agama (keimanan dan ketakwaan) dan janganlah kamu berpecah belah di dalamnya. Sangat berat bagi orang-orang musyrik (untuk mengikuti) agama yang kamu serukan kepada mereka. Allah memilih orang yang Dia kehendaki kepada agama tauhid dan memberi petunjuk kepada (agama)-Nya bagi orang yang kembali (kepada-Nya).
+

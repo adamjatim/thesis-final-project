@@ -1,0 +1,30 @@
+no surat :
+65
+
+nama surat :
+At-Talaq
+
+nama surat arab :
+الطلاق
+
+arti surat :
+Talak
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Insaan. Dinamai surat Ath Thalaaq karena kebanyakan ayat-ayatnya mengenai masalah talak dan yang berhubungan dengan masalah itu.
+
+ayat :
+6
+
+surat :
+اَسْكِنُوْهُنَّ مِنْ حَيْثُ سَكَنْتُمْ مِّنْ وُّجْدِكُمْ وَلَا تُضَاۤرُّوْهُنَّ لِتُضَيِّقُوْا عَلَيْهِنَّۗ وَاِنْ كُنَّ اُولَاتِ حَمْلٍ فَاَنْفِقُوْا عَلَيْهِنَّ حَتّٰى يَضَعْنَ حَمْلَهُنَّۚ فَاِنْ اَرْضَعْنَ لَكُمْ فَاٰتُوْهُنَّ اُجُوْرَهُنَّۚ وَأْتَمِر
+
+latin :
+askinuuhunna min haytsu sakantum min wujdikum walaa tudaarruuhunna litudhayyiquu 'alayhinna wa-in kunna ulaati hamlin fa-anfiquu 'alayhinna hattaa yadha'na hamlahunna fa-in ardha'na lakum faaatuuhunna ujuurahunna wa/tamiruu baynakum bima'ruufin wa-in ta'aasartum fasaturdhi'u lahu ukhraa
+
+terjemahan :
+Tempatkanlah mereka (para istri) di mana kamu bertempat tinggal menurut kemampuanmu dan janganlah kamu menyusahkan mereka untuk menyempitkan (hati) mereka. Dan jika mereka (istri-istri yang sudah ditalak) itu sedang hamil, maka berikanlah kepada mereka nafkahnya sampai mereka melahirkan, kemudian jika mereka menyusukan (anak-anak)mu maka berikanlah imbalannya kepada mereka; dan musyawarahkanlah di antara kamu (segala sesuatu) dengan baik; dan jika kamu menemui kesulitan, maka perempuan lain boleh menyusukan (anak itu) untuknya. 
+

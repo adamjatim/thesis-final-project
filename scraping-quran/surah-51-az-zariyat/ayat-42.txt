@@ -1,0 +1,30 @@
+no surat :
+51
+
+nama surat :
+Az-Zariyat
+
+nama surat arab :
+الذّٰريٰت
+
+arti surat :
+Angin yang Menerbangkan
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Adz Dzaariyaat terdiri atas 60 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Ahqaaf. Dinamai Adz Dzaariyaat (angin yang menerbangkan), diambil dari perkataan Adz Dzaariyaat yang terdapat pada ayat pertama surat ini. Allah bersumpah dengan angin, mega, bahtera, dan malaikat yang menjadi sumber kesejahteraan dan pembawa kemakmuran. Hal ini meng- isyaratkan inayat Allah kepada hamba-hamba-Nya.
+
+ayat :
+42
+
+surat :
+مَا تَذَرُ مِنْ شَيْءٍ اَتَتْ عَلَيْهِ اِلَّا جَعَلَتْهُ كَالرَّمِيْمِۗ 
+
+latin :
+maa tadzaru min syay-in atat 'alayhi illaa ja'alat-hu karramiim
+
+terjemahan :
+(angin itu) tidak membiarkan suatu apa pun yang dilandanya, bahkan dijadikannya seperti serbuk.
+

@@ -1,0 +1,30 @@
+no surat :
+65
+
+nama surat :
+At-Talaq
+
+nama surat arab :
+الطلاق
+
+arti surat :
+Talak
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Insaan. Dinamai surat Ath Thalaaq karena kebanyakan ayat-ayatnya mengenai masalah talak dan yang berhubungan dengan masalah itu.
+
+ayat :
+10
+
+surat :
+اَعَدَّ اللّٰهُ لَهُمْ عَذَابًا شَدِيْدًا ۖفَاتَّقُوا اللّٰهَ يٰٓاُولِى الْاَلْبَابِۛ الَّذِيْنَ اٰمَنُوْا ۛ قَدْ اَنْزَلَ اللّٰهُ اِلَيْكُمْ ذِكْرًاۙ 
+
+latin :
+a'adda laahu lahum 'adzaaban syadiidan fattaquu laaha yaa ulii l-albaabi ladziina aamanuu qad anzala laahu ilaykum dzikraa
+
+terjemahan :
+Allah menyediakan azab yang keras bagi mereka, maka bertakwalah kepada Allah wahai orang-orang yang mempunyai akal! (Yaitu) orang-orang yang beriman. Sungguh, Allah telah menurunkan peringatan kepadamu, 
+

@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+133
+
+surat :
+وَرَبُّكَ الْغَنِيُّ ذُو الرَّحْمَةِ ۗاِنْ يَّشَأْ يُذْهِبْكُمْ وَيَسْتَخْلِفْ مِنْۢ  بَعْدِكُمْ مَّا يَشَاۤءُ كَمَآ اَنْشَاَكُمْ مِّنْ ذُرِّيَّةِ قَوْمٍ اٰخَرِيْنَ 
+
+latin :
+warabbuka lghaniyyu dzuu rrahmati in yasya/ yudzhibkum wayastakhlif min ba'dikum maa yasyaau kamaa ansya-akum min dzurriyyati qawmin aakhariin
+
+terjemahan :
+Dan Tuhanmu Mahakaya, penuh rahmat. Jika Dia menghendaki, Dia akan memusnahkan kamu dan setelah kamu (musnah) akan Dia ganti dengan yang Dia kehendaki, sebagaimana Dia menjadikan kamu dari keturunan golongan lain.
+

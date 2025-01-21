@@ -1,0 +1,30 @@
+no surat :
+59
+
+nama surat :
+Al-Hasyr
+
+nama surat arab :
+الحشر
+
+arti surat :
+Pengusiran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hasyr terdiri atas 24 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Bayyinah. 	Dinamai surat Al Hasyr (pengusiran) diambil dari perkataan Al-Hasyr yang terdapat pada ayat 2 surat ini. Di dalam surat ini disebutkan  kisah pengusiran suatu suku Yahudi yang bernama Bani Nadhir yang berdiam  di sekitar kota Madinah.
+
+ayat :
+2
+
+surat :
+هُوَ الَّذِيْٓ اَخْرَجَ الَّذِيْنَ كَفَرُوْا مِنْ اَهْلِ الْكِتٰبِ مِنْ دِيَارِهِمْ لِاَوَّلِ الْحَشْرِۗ مَا ظَنَنْتُمْ اَنْ يَّخْرُجُوْا وَظَنُّوْٓا اَنَّهُمْ مَّانِعَتُهُمْ حُصُوْنُهُمْ مِّنَ اللّٰهِ فَاَتٰىهُمُ اللّٰهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوْا وَ
+
+latin :
+huwa ladzii akhraja ladziina kafaruu min ahli lkitaabi min diyaarihim li-awwali lhasyri maa zhanantum an yakhrujuu wazhannuu annahum maani'atuhum hushuunuhum mina laahi fa-ataahumu laahu min haytsu lam yahtasibuu waqadzafa fii quluubihimu rru'ba yukhribuuna buyuutahum bi-aydiihim wa-aydii lmu/miniina fa'tabiruu yaa ulii l-abshaar
+
+terjemahan :
+Dialah yang mengeluarkan orang-orang kafir di antara Ahli Kitab dari kampung halamannya pada saat pengusiran yang pertama. Kamu tidak menyangka, bahwa mereka akan keluar dan mereka pun yakin, benteng-benteng mereka akan dapat mempertahankan mereka dari (siksaan) Allah; maka Allah mendatangkan (siksaan) kepada mereka dari arah yang tidak mereka sangka-sangka. Dan Allah menanamkan rasa takut ke dalam hati mereka; sehingga memusnahkan rumah-rumah mereka dengan tangannya sendiri dan tangan orang-orang mukmin. Maka ambillah (kejadian itu) untuk menjadi pelajaran, wahai orang-orang yang mempunyai pandangan!
+

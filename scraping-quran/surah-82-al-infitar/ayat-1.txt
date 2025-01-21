@@ -1,0 +1,30 @@
+no surat :
+82
+
+nama surat :
+Al-Infitar
+
+nama surat arab :
+الانفطار
+
+arti surat :
+Terbelah
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat An Naazi'aat. Al Infithaar yang dijadikan  nama untuk surat ini adalah kata asal dari kata Infatharat (terbelah)  yang terdapat pada ayat pertama.
+
+ayat :
+1
+
+surat :
+اِذَا السَّمَاۤءُ انْفَطَرَتْۙ
+
+latin :
+idzaa ssamaau infatharath
+
+terjemahan :
+Apabila langit terbelah, 
+

@@ -1,0 +1,30 @@
+no surat :
+42
+
+nama surat :
+Asy-Syura
+
+nama surat arab :
+الشورى
+
+arti surat :
+Musyawarah
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Asy Syuura terdiri atas 53 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Fushshilat. Dinamai dengan Asy Syuura (musyawarat) diambil dari perkataan Syuura yang terdapat pada ayat 38 surat ini. Dalam ayat tersebut diletakkan salah satu dari dasar-dasar pemerintahan Islam ialah musyawarat. Dinamai juga Haa Miim 'Ain Siin Qaaf karena surat ini dimulai dengan huruf-huruf hijaiyah itu.
+
+ayat :
+50
+
+surat :
+اَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَّاِنَاثًا ۚوَيَجْعَلُ مَنْ يَّشَاۤءُ عَقِيْمًا ۗاِنَّهٗ عَلِيْمٌ قَدِيْرٌ 
+
+latin :
+aw yuzawwijuhum dzukraanan wa-inaatsan wayaj'alu man yasyaau 'aqiiman innahu 'aliimun qadiir
+
+terjemahan :
+atau Dia menganugerahkan jenis laki-laki dan perempuan, dan menjadikan mandul siapa yang Dia kehendaki. Dia Maha Mengetahui, Mahakuasa.
+

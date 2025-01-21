@@ -1,0 +1,30 @@
+no surat :
+22
+
+nama surat :
+Al-Hajj
+
+nama surat arab :
+الحج
+
+arti surat :
+Haji
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hajj, termasuk golongan surat-surat Madaniyyah, terdiri atas 78 ayat, sedang menurut pendapat sebahagian ahli tafsir termasuk golongan surat-surat Makkiyah. Sebab perbedaan ini ialah karena sebahagian ayat-ayat surat ini ada yang diturunkan di Mekah dan sebahagian lagi diturunkan di Madinah. Dinamai surat ini Al Hajj, karena surat ini mengemukakan hal-hal yang berhubungan dengan ibadat haji, seperti ihram, thawaf, sa'i, wuquf di Arafah, mencukur rambut, syi'ar-syi'ar Allah, faedah-faedah dan hikmah-hikmah disyari'atkannya haji. Ditegaskan pula bahwa ibadat haji itu telah disyari'atkan di masa Nabi Ibrahim a.s., dan Ka'bah didirikan oleh Nabi Ibrahim a.s. bersama puteranya Ismail a.s.Menurut Al Ghaznawi, surat Al Hajj termasuk di antara surat- surat yang ajaib, diturunkan di malam dan di siang hari, dalam musafir dan dalam keadaan tidak musafir, ada ayat-ayat yang diturunkan di Mekah dan ada pula yang diturunkan di Madinah, isinya ada yang berhubungan dengan peperangan dan ada pula yang berhubungan dengan perdamaian, ada ayat-ayatnya yang muhkam dan ada pula yang mutasyabihaat.
+
+ayat :
+30
+
+surat :
+ذٰلِكَ وَمَنْ يُّعَظِّمْ حُرُمٰتِ اللّٰهِ فَهُوَ خَيْرٌ لَّهٗ عِنْدَ رَبِّهٖۗ وَاُحِلَّتْ لَكُمُ الْاَنْعَامُ اِلَّا مَا يُتْلٰى عَلَيْكُمْ فَاجْتَنِبُوا الرِّجْسَ مِنَ الْاَوْثَانِ وَاجْتَنِبُوْا قَوْلَ الزُّوْرِ ۙ
+
+latin :
+dzaalika waman yu'azhzhim hurumaati laahi fahuwa khayrun lahu 'inda rabbihi wauhillat lakumu l-an'aamu illaa maa yutlaa 'alaykum fajtanibuu rrijsa mina l-awtsaani wajtanibuu qawla zzuur
+
+terjemahan :
+Demikianlah (perintah Allah). Dan barang siapa mengagungkan apa yang terhormat di sisi Allah (hurumat) maka itu lebih baik baginya di sisi Tuhannya. Dan dihalalkan bagi kamu semua hewan ternak, kecuali yang diterangkan kepadamu (keharamannya), maka jauhilah olehmu (penyembahan) berhala-berhala yang najis itu dan jauhilah perkataan dusta.
+

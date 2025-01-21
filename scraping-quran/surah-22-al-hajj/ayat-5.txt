@@ -1,0 +1,30 @@
+no surat :
+22
+
+nama surat :
+Al-Hajj
+
+nama surat arab :
+الحج
+
+arti surat :
+Haji
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hajj, termasuk golongan surat-surat Madaniyyah, terdiri atas 78 ayat, sedang menurut pendapat sebahagian ahli tafsir termasuk golongan surat-surat Makkiyah. Sebab perbedaan ini ialah karena sebahagian ayat-ayat surat ini ada yang diturunkan di Mekah dan sebahagian lagi diturunkan di Madinah. Dinamai surat ini Al Hajj, karena surat ini mengemukakan hal-hal yang berhubungan dengan ibadat haji, seperti ihram, thawaf, sa'i, wuquf di Arafah, mencukur rambut, syi'ar-syi'ar Allah, faedah-faedah dan hikmah-hikmah disyari'atkannya haji. Ditegaskan pula bahwa ibadat haji itu telah disyari'atkan di masa Nabi Ibrahim a.s., dan Ka'bah didirikan oleh Nabi Ibrahim a.s. bersama puteranya Ismail a.s.Menurut Al Ghaznawi, surat Al Hajj termasuk di antara surat- surat yang ajaib, diturunkan di malam dan di siang hari, dalam musafir dan dalam keadaan tidak musafir, ada ayat-ayat yang diturunkan di Mekah dan ada pula yang diturunkan di Madinah, isinya ada yang berhubungan dengan peperangan dan ada pula yang berhubungan dengan perdamaian, ada ayat-ayatnya yang muhkam dan ada pula yang mutasyabihaat.
+
+ayat :
+5
+
+surat :
+يٰٓاَيُّهَا النَّاسُ اِنْ كُنْتُمْ فِيْ رَيْبٍ مِّنَ الْبَعْثِ فَاِنَّا خَلَقْنٰكُمْ مِّنْ تُرَابٍ ثُمَّ مِنْ نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِنْ مُّضْغَةٍ مُّخَلَّقَةٍ وَّغَيْرِ مُخَلَّقَةٍ لِّنُبَيِّنَ لَكُمْۗ وَنُقِرُّ فِى الْاَرْحَامِ مَا نَشَاۤء
+
+latin :
+yaa ayyuhaa nnaasu in kuntum fii raybin mina lba'tsi fa-innaa khalaqnaakum min turaabin tsumma min nuthfatin tsumma min 'alaqatin tsumma min mudhghatin mukhallaqatin waghayri mukhallaqatin linubayyina lakum wanuqirru fii l-arhaami maa nasyaau ilaa ajalin musamman tsumma nukhrijukum thiflan tsumma litablughuu asyuddakum waminkum man yutawaffaa waminkum man yuraddu ilaa ardzali l'umuri likaylaa ya'lama min ba'di 'ilmin syay-an wataraa l-ardha haamidatan fa-idzaa anzalnaa 'alayhaa lmaa-a ihtazzat warabat wa-anbatat min kulli zawjin bahiij
+
+terjemahan :
+Wahai manusia! Jika kamu meragukan (hari) kebangkitan, maka sesungguhnya Kami telah menjadikan kamu dari tanah, kemudian dari setetes mani, kemudian dari segumpal darah, kemudian dari segumpal daging yang sempurna kejadiannya dan yang tidak sempurna, agar Kami jelaskan kepada kamu; dan Kami tetapkan dalam rahim menurut kehendak Kami sampai waktu yang sudah ditentukan, kemudian Kami keluarkan kamu sebagai bayi, kemudian (dengan berangsur-angsur) kamu sampai kepada usia dewasa, dan di antara kamu ada yang diwafatkan dan (ada pula) di antara kamu yang dikembalikan sampai usia sangat tua (pikun), sehingga dia tidak mengetahui lagi sesuatu yang telah diketahuinya. Dan kamu lihat bumi ini kering, kemudian apabila telah Kami turunkan air (hujan) di atasnya, hiduplah bumi itu dan menjadi subur dan menumbuhkan berbagai jenis pasangan (tetumbuhan) yang indah.
+

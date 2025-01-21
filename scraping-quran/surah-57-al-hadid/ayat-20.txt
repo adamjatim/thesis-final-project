@@ -1,0 +1,30 @@
+no surat :
+57
+
+nama surat :
+Al-Hadid
+
+nama surat arab :
+الحديد
+
+arti surat :
+Besi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hadiid terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Az Zalzalah. Dinamai Al Hadiid (Besi), diambil dari perkataan Al Hadiid yang terdapat pada ayat 25 surat ini.
+
+ayat :
+20
+
+surat :
+اِعْلَمُوْٓا اَنَّمَا الْحَيٰوةُ الدُّنْيَا لَعِبٌ وَّلَهْوٌ وَّزِيْنَةٌ وَّتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌ فِى الْاَمْوَالِ وَالْاَوْلَادِۗ  كَمَثَلِ غَيْثٍ اَعْجَبَ الْكُفَّارَ نَبَاتُهٗ ثُمَّ يَهِيْجُ فَتَرٰىهُ مُصْفَرًّا ثُمَّ يَكُوْنُ حُطَامًاۗ وَف
+
+latin :
+i'lamuu annamaa lhayaatu ddunyaa la'ibun walahwun waziinatun watafaakhurun baynakum watakaatsurun fii l-amwaali wal-awlaadi kamatsali ghaytsin a'jaba lkuffaara nabaatuhu tsumma yahiiju fataraahu mushfarran tsumma yakuunu huthaaman wafii l-aakhirati 'adzaabun syadiidun wamaghfiratun mina laahi waridhwaanun wamaa lhayaatu ddunyaa illaa mataa'u lghuruur
+
+terjemahan :
+Ketahuilah, sesungguhnya kehidupan dunia itu hanyalah permainan dan sendagurauan, perhiasan dan saling berbangga di antara kamu serta berlomba dalam kekayaan dan anak keturunan, seperti hujan yang tanam-tanamannya mengagumkan para petani; kemudian (tanaman) itu menjadi kering dan kamu lihat warnanya kuning kemudian menjadi hancur. Dan di akhirat (nanti) ada azab yang keras dan ampunan dari Allah serta keridaan-Nya. Dan kehidupan dunia tidak lain hanyalah kesenangan yang palsu. 
+

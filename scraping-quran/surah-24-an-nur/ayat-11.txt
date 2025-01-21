@@ -1,0 +1,30 @@
+no surat :
+24
+
+nama surat :
+An-Nur
+
+nama surat arab :
+النّور
+
+arti surat :
+Cahaya
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nuur terdiri atas 64 ayat, dan termasuk golongan surat-surat Madaniyah. Dinamai An Nuur yang berarti Cahaya, diambil dari kata An Nuur yang terdapat pada ayat ke 35. Dalam ayat ini, Allah s.w.t. menjelaskan tentang Nuur Ilahi, yakni Al Quran yang mengandung petunjuk-petunjuk. Petunjuk-petunjuk Allah itu, merupakan cahaya yang terang benderang menerangi alam semesta. Surat ini sebagian besar isinya memuat petunjuk- petunjuk Allah yang berhubungan dengan soal kemasyarakatan dan rumah tangga.
+
+ayat :
+11
+
+surat :
+اِنَّ الَّذِيْنَ جَاۤءُوْ بِالْاِفْكِ عُصْبَةٌ مِّنْكُمْۗ  لَا تَحْسَبُوْهُ شَرًّا لَّكُمْۗ بَلْ هُوَ خَيْرٌ لَّكُمْۗ لِكُلِّ امْرِئٍ مِّنْهُمْ مَّا اكْتَسَبَ مِنَ الْاِثْمِۚ وَالَّذِيْ تَوَلّٰى كِبْرَهٗ مِنْهُمْ لَهٗ عَذَابٌ عَظِيْمٌ
+
+latin :
+inna ladziina jaauu bil-ifki 'ushbatun minkum laa tahsabuuhu syarran lakum bal huwa khayrun lakum likulli imri-in minhum maa iktasaba mina l-itsmi walladzii tawallaa kibrahu minhum lahu 'adzaabun 'azhiim
+
+terjemahan :
+Sesungguhnya orang-orang yang membawa berita bohong itu adalah dari golongan kamu (juga). Janganlah kamu mengira berita itu buruk bagi kamu bahkan itu baik bagi kamu. Setiap orang dari mereka akan mendapat balasan dari dosa yang diperbuatnya. Dan barangsiapa di antara mereka yang mengambil bagian terbesar (dari dosa yang diperbuatnya), dia mendapat azab yang besar (pula).
+

@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+81
+
+surat :
+وَاِذْ اَخَذَ اللّٰهُ مِيْثَاقَ النَّبِيّٖنَ لَمَآ اٰتَيْتُكُمْ مِّنْ كِتٰبٍ وَّحِكْمَةٍ ثُمَّ جَاۤءَكُمْ رَسُوْلٌ مُّصَدِّقٌ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهٖ وَلَتَنْصُرُنَّهٗ ۗ قَالَ ءَاَقْرَرْتُمْ وَاَخَذْتُمْ عَلٰى ذٰلِكُمْ اِصْرِيْ ۗ قَالُوْٓا اَق
+
+latin :
+wa-idz akhadza allaahu miitsaaqa alnnabiyyiina lamaa aataytukum min kitaabin wahikmatin tsumma jaa-akum rasuulun mushaddiqun limaa ma'akum latu/minunna bihi walatanshurunnahu qaala a-aqrartum wa-akhadztum 'alaa dzaalikum ishrii qaaluu aqrarnaa qaala faisyhaduu wa-anaa ma'akum mina alsysyaahidiina
+
+terjemahan :
+Dan (ingatlah), ketika Allah mengambil perjanjian dari para nabi, “Manakala Aku memberikan kitab dan hikmah kepadamu lalu datang kepada kamu seorang Rasul yang membenarkan apa yang ada pada kamu, niscaya kamu akan sungguh-sungguh beriman kepadanya dan menolongnya.” Allah berfirman, “Apakah kamu setuju dan menerima perjanjian dengan-Ku atas yang demikian itu?” Mereka menjawab, “Kami setuju.” Allah berfirman,  ”Kalau begitu bersaksilah kamu (para nabi) dan Aku menjadi saksi bersama kamu.”
+

@@ -1,0 +1,30 @@
+no surat :
+98
+
+nama surat :
+Al-Bayyinah
+
+nama surat arab :
+البيّنة
+
+arti surat :
+Bukti Nyata
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Bayyinah terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Ath Thalaq. Dinamai Al Bayyinah (bukti yang nyata) diambil dari perkataan Al Bayyinah yang terdapat pada ayat pertama surat ini.
+
+ayat :
+5
+
+surat :
+وَمَآ اُمِرُوْٓا اِلَّا لِيَعْبُدُوا اللّٰهَ مُخْلِصِيْنَ لَهُ الدِّيْنَ ەۙ حُنَفَاۤءَ وَيُقِيْمُوا الصَّلٰوةَ وَيُؤْتُوا الزَّكٰوةَ وَذٰلِكَ دِيْنُ الْقَيِّمَةِۗ
+
+latin :
+wamaa umiruu illaa liya'buduu laaha mukhlishiina lahu ddiina hunafaa-a wayuqiimuu shshalaata wayu/tuu zzakaata wadzaalika diinu lqayyima
+
+terjemahan :
+Padahal mereka hanya diperintah menyembah Allah dengan ikhlas menaati-Nya semata-mata karena (menjalankan) agama, dan juga agar melaksanakan salat dan menunaikan zakat; dan yang demikian itulah agama yang lurus (benar).
+

@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+72
+
+surat :
+فَاَنْجَيْنٰهُ وَالَّذِيْنَ مَعَهٗ بِرَحْمَةٍ مِّنَّا وَقَطَعْنَا دَابِرَ الَّذِيْنَ كَذَّبُوْا بِاٰيٰتِنَا وَمَا كَانُوْا مُؤْمِنِيْنَ ࣖ 
+
+latin :
+fa-anjaynaahu walladziina ma'ahu birahmatin minnaa waqatha'naa daabira ladziina kadzdzabuu bi-aayaatinaa wamaa kaanuu mu/miniin
+
+terjemahan :
+Maka Kami selamatkan dia (Hud) dan orang-orang yang bersamanya dengan rahmat Kami dan Kami musnahkan sampai ke akar-akarnya orang-orang yang mendustakan ayat-ayat Kami. Mereka bukanlah orang-orang beriman.
+

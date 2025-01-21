@@ -1,0 +1,30 @@
+no surat :
+66
+
+nama surat :
+At-Tahrim
+
+nama surat arab :
+التحريم
+
+arti surat :
+Pengharaman
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hujuraat. Dinamai surat At Tahrim karena pada awal surat ini terdapat kata tuharrim yang kata asalnya adalah Attahrim yang berarti mengharamkan.
+
+ayat :
+6
+
+surat :
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا قُوْٓا اَنْفُسَكُمْ وَاَهْلِيْكُمْ نَارًا وَّقُوْدُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلٰۤىِٕكَةٌ غِلَاظٌ شِدَادٌ لَّا يَعْصُوْنَ اللّٰهَ مَآ اَمَرَهُمْ وَيَفْعَلُوْنَ مَا يُؤْمَرُوْنَ 
+
+latin :
+yaa ayyuhaa ladziina aamanuu quu anfusakum wa-ahliikum naaran waquuduhaa nnaasu walhijaaratu 'alayhaa malaa-ikatun ghilaatsun syidaadun laa ya'shuuna laaha maa amarahum wayaf'aluuna maa yu/maruun
+
+terjemahan :
+Wahai orang-orang yang beriman! Peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu; penjaganya malaikat-malaikat yang kasar, dan keras, yang tidak durhaka kepada Allah terhadap apa yang Dia perintahkan kepada mereka dan selalu mengerjakan apa yang diperintahkan. 
+

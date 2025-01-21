@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+53
+
+surat :
+هَلْ يَنْظُرُوْنَ اِلَّا تَأْوِيْلَهٗۗ يَوْمَ يَأْتِيْ تَأْوِيْلُهٗ يَقُوْلُ الَّذِيْنَ نَسُوْهُ مِنْ قَبْلُ قَدْ جَاۤءَتْ رُسُلُ رَبِّنَا بِالْحَقِّۚ فَهَلْ لَّنَا مِنْ شُفَعَاۤءَ فَيَشْفَعُوْا لَنَآ اَوْ نُرَدُّ فَنَعْمَلَ غَيْرَ الَّذِيْ كُنَّا نَعْمَ
+
+latin :
+hal yanzhuruuna illaa ta/wiilahu yawma ya/tii ta/wiiluhu yaquulu ladziina nasuuhu min qablu qad jaa-at rusulu rabbinaa bilhaqqi fahal lanaa min syufa'aa-a fayasyfa'uu lanaa aw nuraddu fana'mala ghayra ladzii kunnaa na'malu qad khasiruu anfusahum wadhalla 'anhum maa kaanuu yaftaruun
+
+terjemahan :
+Tidakkah mereka hanya menanti-nanti bukti kebenaran (Al-Qur'an) itu. Pada hari bukti kebenaran itu tiba, orang-orang yang sebelum itu mengabaikannya berkata, “Sungguh, rasul-rasul Tuhan kami telah datang membawa kebenaran. Maka adakah pemberi syafaat bagi kami yang akan memberikan pertolongan kepada kami atau agar kami dikembalikan (ke dunia) sehingga kami akan beramal tidak seperti perbuatan yang pernah kami lakukan dahulu?” Mereka sebenarnya telah merugikan dirinya sendiri dan apa yang mereka ada-adakan dahulu telah hilang lenyap dari mereka.
+

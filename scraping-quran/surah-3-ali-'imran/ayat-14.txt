@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+14
+
+surat :
+زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوٰتِ مِنَ النِّسَاۤءِ وَالْبَنِيْنَ وَالْقَنَاطِيْرِ الْمُقَنْطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ وَالْخَيْلِ الْمُسَوَّمَةِ وَالْاَنْعَامِ وَالْحَرْثِ ۗ ذٰلِكَ مَتَاعُ الْحَيٰوةِ الدُّنْيَا ۗوَاللّٰهُ عِنْدَهٗ حُسْنُ الْمَاٰ
+
+latin :
+zuyyina linnaasi hubbu sysyahawaati mina nnisaa-i walbaniina walqanaathiiri lmuqantharati mina dzdzahabi walfidhdhati walkhayli lmusawwamati wal-an'aami walhartsi dzaalika mataa'u lhayaati ddunyaa walaahu 'indahu husnu lmaaab
+
+terjemahan :
+Dijadikan terasa indah dalam pandangan manusia cinta terhadap apa yang diinginkan, berupa perempuan-perempuan, anak-anak, harta benda yang bertumpuk dalam bentuk emas dan perak, kuda pilihan, hewan ternak dan sawah ladang. Itulah kesenangan hidup di dunia, dan di sisi Allah-lah tempat kembali yang baik.
+

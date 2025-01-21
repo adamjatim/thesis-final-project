@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+66
+
+surat :
+وَلَوْ اَنَّا كَتَبْنَا عَلَيْهِمْ اَنِ اقْتُلُوْٓا اَنْفُسَكُمْ اَوِ اخْرُجُوْا مِنْ دِيَارِكُمْ مَّا فَعَلُوْهُ اِلَّا قَلِيْلٌ مِّنْهُمْ ۗوَلَوْ اَنَّهُمْ فَعَلُوْا مَا يُوْعَظُوْنَ بِهٖ لَكَانَ خَيْرًا لَّهُمْ وَاَشَدَّ تَثْبِيْتًاۙ
+
+latin :
+walaw annaa katabnaa 'alayhim ani uqtuluu anfusakum awi ukhrujuu min diyaarikum maa fa'aluuhu illaa qaliilun minhum walaw annahum fa'aluu maa yuu'azhuuna bihi lakaana khayran lahum wa-asyadda tatsbiitaa
+
+terjemahan :
+Dan sekalipun telah Kami perintahkan kepada mereka, “Bunuhlah dirimu atau keluarlah kamu dari kampung halamanmu,” ternyata mereka tidak akan melakukannya, kecuali sebagian kecil dari mereka. Dan sekiranya mereka benar-benar melaksanakan perintah yang diberikan, niscaya itu lebih baik bagi mereka dan lebih menguatkan (iman mereka),
+

@@ -1,0 +1,30 @@
+no surat :
+79
+
+nama surat :
+An-Nazi'at
+
+nama surat arab :
+النّٰزعٰت
+
+arti surat :
+Malaikat Yang Mencabut
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat An NaaziÂ´aat terdiri atas 46 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An NabaÂ´. Dinamai An NaaziÂ´aat diambil dari perkataan An NaaziÂ´aat yang terdapat pada ayat pertama surat ini. Dinamai pula as Saahirah yang diambil dari ayat 14, dinamai juga Ath Thaammah diambil dari ayat 34.
+
+ayat :
+45
+
+surat :
+اِنَّمَآ اَنْتَ مُنْذِرُ مَنْ يَّخْشٰىهَاۗ
+
+latin :
+innamaa anta mundziru man yakhsyaahaa
+
+terjemahan :
+Engkau (Muhammad) hanyalah pemberi peringatan bagi siapa yang takut kepadanya (hari Kiamat).
+

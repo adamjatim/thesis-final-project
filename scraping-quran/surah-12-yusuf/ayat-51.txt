@@ -1,0 +1,30 @@
+no surat :
+12
+
+nama surat :
+Yusuf
+
+nama surat arab :
+يوسف
+
+arti surat :
+Yusuf
+
+tempat turun :
+mekah
+
+deskripsi :
+ Surat Yusuf ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum hijrah. Surat ini dinamakan surat Yusuf adalah karena titik berat dari isinya mengenai riwayat Nabi Yusuf a.s.  Riwayat tersebut salah satu di antara cerita-cerita ghaib yang diwahyukan kepada Nabi Muhammad s.a.w. sebagai mukjizat bagi beliau, sedang beliau sebelum diturunkan surat ini tidak mengetahuinya.  Menurut riwayat Al Baihaqi dalam kitab Ad Dalail bahwa segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf a.s. ini, karena sesuai dengan cerita-cerita yang mereka ketahui. Dari cerita Yusuf a.s. ini, Nabi Muhammad s.a.w. mengambil pelajaran-pelajaran yang banyak dan merupakan penghibur terhadap beliau dalam menjalankan tugasnya.
+
+ayat :
+51
+
+surat :
+قَالَ مَا خَطْبُكُنَّ اِذْ رَاوَدْتُّنَّ يُوْسُفَ عَنْ نَّفْسِهٖۗ  قُلْنَ حَاشَ لِلّٰهِ مَا عَلِمْنَا عَلَيْهِ مِنْ سُوْۤءٍ ۗقَالَتِ امْرَاَتُ الْعَزِيْزِ الْـٰٔنَ حَصْحَصَ الْحَقُّۖ اَنَا۠ رَاوَدْتُّهٗ عَنْ نَّفْسِهٖ وَاِنَّهٗ لَمِنَ الصّٰدِقِيْنَ 
+
+latin :
+qaala maa khathbukunna idz raawadtunna yuusufa 'an nafsihi qulna haasya lillaahi maa 'alimnaa 'alayhi min suu-in qaalati imra-atu l'aziizi l-aana hasyasha lhaqqu anaa raawadtuhu 'an nafsihi wa-innahu lamina shshaadiqiin
+
+terjemahan :
+Dia (raja) berkata (kepada perempuan-perempuan itu), “Bagaimana keadaanmu ketika kamu menggoda Yusuf untuk menundukkan dirinya?” Mereka berkata, “Mahasempurna Allah, kami tidak mengetahui sesuatu keburukan darinya.” Istri Al-Aziz berkata, “Sekarang jelaslah kebenaran itu, akulah yang menggoda dan merayunya, dan sesungguhnya dia termasuk orang yang benar.”
+

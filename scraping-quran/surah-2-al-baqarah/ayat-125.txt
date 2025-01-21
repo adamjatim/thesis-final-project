@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+125
+
+surat :
+وَاِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِّلنَّاسِ وَاَمْنًاۗ وَاتَّخِذُوْا مِنْ مَّقَامِ اِبْرٰهٖمَ مُصَلًّىۗ  وَعَهِدْنَآ اِلٰٓى اِبْرٰهٖمَ وَاِسْمٰعِيْلَ اَنْ طَهِّرَا بَيْتِيَ لِلطَّاۤىِٕفِيْنَ وَالْعٰكِفِيْنَ وَالرُّكَّعِ السُّجُوْدِ 
+
+latin :
+wa-idz ja'alnaa albayta matsaabatan lilnnaasi wa-amnan waittakhidzuu min maqaami ibraahiima mushallan wa'ahidnaa ilaa ibraahiima wa-ismaa'iila an thahhiraa baytiya lilththaa-ifiina waal'aakifiina waalrrukka'i alssujuudi
+
+terjemahan :
+Dan (ingatlah), ketika Kami menjadikan rumah (Ka’bah) tempat berkumpul dan tempat yang aman bagi manusia. Dan jadikanlah maqam Ibrahim  itu tempat salat. Dan telah Kami perintahkan kepada Ibrahim dan Ismail, “Bersihkanlah rumah-Ku untuk orang-orang yang tawaf, orang yang iktikaf, orang yang rukuk dan orang yang sujud!”
+

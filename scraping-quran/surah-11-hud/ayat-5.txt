@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+5
+
+surat :
+اَلَآ اِنَّهُمْ يَثْنُوْنَ صُدُوْرَهُمْ لِيَسْتَخْفُوْا مِنْهُۗ  اَلَا حِيْنَ يَسْتَغْشُوْنَ ثِيَابَهُمْ ۙيَعْلَمُ مَا يُسِرُّوْنَ وَمَا يُعْلِنُوْنَۚ اِنَّهٗ عَلِيْمٌ ۢ بِذَاتِ الصُّدُوْرِ  ۔
+
+latin :
+alaa innahum yatsnuuna shuduurahum liyastakhfuu minhu laa hiina yastaghsyuuna tsiyaabahum ya'lamu maa yusirruuna wamaa yu'linuuna innahu 'aliimun bidzaati shshuduur
+
+terjemahan :
+Ingatlah, sesungguhnya mereka (orang-orang munafik) memalingkan dada untuk menyembunyikan diri dari dia (Muhammad). Ingatlah, ketika mereka menyelimuti dirinya dengan kain, Allah mengetahui apa yang mereka sembunyikan dan apa yang mereka nyatakan, sungguh, Allah Maha Mengetahui (segala) isi hati.
+

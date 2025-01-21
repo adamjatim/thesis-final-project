@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+169
+
+surat :
+فَخَلَفَ مِنْۢ بَعْدِهِمْ خَلْفٌ وَّرِثُوا الْكِتٰبَ يَأْخُذُوْنَ عَرَضَ هٰذَا الْاَدْنٰى وَيَقُوْلُوْنَ سَيُغْفَرُ لَنَاۚ وَاِنْ يَّأْتِهِمْ عَرَضٌ مِّثْلُهٗ يَأْخُذُوْهُۗ  اَلَمْ يُؤْخَذْ عَلَيْهِمْ مِّيْثَاقُ الْكِتٰبِ اَنْ لَّا يَقُوْلُوْا عَلَى اللّٰ
+
+latin :
+fakhalafa min ba'dihim khalfun waritsuu alkitaaba ya/khudzuuna 'aradha haadzaa al-adnaa wayaquuluuna sayughfaru lanaa wa-in ya/tihim 'aradhun mitsluhu ya/khudzuuhu alam yu/khadz 'alayhim miitsaaqu alkitaabi an laa yaquuluu 'alaa laahi illaa alhaqqa wadarasuu maa fiihi waddaaru al-aakhiratu khayrun lilladziina yattaquuna afalaa ta'qiluun
+
+terjemahan :
+Maka setelah mereka, datanglah generasi (yang jahat) yang mewarisi Taurat, yang mengambil harta benda dunia yang rendah ini. Lalu mereka berkata, “Kami akan diberi ampun.” Dan kelak jika harta benda dunia datang kepada mereka sebanyak itu (pula), niscaya mereka akan mengambilnya (juga). Bukankah mereka sudah terikat perjanjian dalam Kitab (Taurat) bahwa mereka tidak akan mengatakan terhadap Allah, kecuali yang benar, padahal mereka telah mempelajari apa yang tersebut di dalamnya? Negeri akhirat itu lebih baik bagi mereka yang bertakwa. Maka tidakkah kamu mengerti?
+

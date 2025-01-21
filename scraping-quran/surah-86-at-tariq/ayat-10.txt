@@ -1,0 +1,30 @@
+no surat :
+86
+
+nama surat :
+At-Tariq
+
+nama surat arab :
+الطارق
+
+arti surat :
+Yang Datang Di Malam Hari
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Ath Thaariq terdiri atas 17 ayat, termasuk golongan surat-surat Makkiyah,  diturunkan sesudah surat Al Balad.  Dinamai Ath Thaariq (yang datang di malam hari) diambil dari  perkataan Ath Thaariq yang terdapat pada ayat 1 surat ini.
+
+ayat :
+10
+
+surat :
+فَمَا لَهٗ مِنْ قُوَّةٍ وَّلَا نَاصِرٍۗ 
+
+latin :
+famaa lahu min quwwatin walaa naasir
+
+terjemahan :
+maka manusia tidak lagi mempunyai suatu kekuatan dan tidak (pula) ada penolong.
+

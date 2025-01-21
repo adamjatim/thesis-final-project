@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+31
+
+surat :
+قَدْ خَسِرَ الَّذِيْنَ كَذَّبُوْا بِلِقَاۤءِ اللّٰهِ ۗحَتّٰٓى اِذَا جَاۤءَتْهُمُ السَّاعَةُ بَغْتَةً قَالُوْا يٰحَسْرَتَنَا عَلٰى مَا فَرَّطْنَا فِيْهَاۙ وَهُمْ يَحْمِلُوْنَ اَوْزَارَهُمْ عَلٰى ظُهُوْرِهِمْۗ  اَلَا سَاۤءَ مَا يَزِرُوْنَ 
+
+latin :
+qad khasira ladziina kadzdzabuu biliqaa-i laahi hattaa idzaa jaa-at-humu ssaa'atu baghtatan qaaluu yaa hasratanaa 'alaa maa farrathnaa fiihaa wahum yahmiluuna awzaarahum 'alaa zhuhuurihim laa saa-a maa yaziruun
+
+terjemahan :
+Sungguh rugi orang-orang yang mendustakan pertemuan dengan Allah; sehingga apabila Kiamat datang kepada mereka secara tiba-tiba, mereka berkata, “Alangkah besarnya penyesalan kami terhadap kelalaian kami tentang Kiamat itu,” sambil mereka memikul dosa-dosa di atas punggungnya. Alangkah buruknya apa yang mereka pikul itu.
+

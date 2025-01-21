@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+52
+
+surat :
+وَلَا تَطْرُدِ الَّذِيْنَ يَدْعُوْنَ رَبَّهُمْ بِالْغَدٰوةِ وَالْعَشِيِّ يُرِيْدُوْنَ وَجْهَهٗ ۗمَا عَلَيْكَ مِنْ حِسَابِهِمْ مِّنْ شَيْءٍ وَّمَا مِنْ حِسَابِكَ عَلَيْهِمْ مِّنْ شَيْءٍ فَتَطْرُدَهُمْ فَتَكُوْنَ مِنَ الظّٰلِمِيْنَ 
+
+latin :
+walaa tathrudi ladziina yad'uuna rabbahum bilghadaati wal'asyiyyi yuriiduuna wajhahu maa 'alayka min hisaabihim min syay-in wamaa min hisaabika 'alayhim min syay-in fatathrudahum fatakuuna mina zhzhaalimiin
+
+terjemahan :
+Janganlah engkau mengusir orang-orang yang menyeru Tuhannya pada pagi dan petang hari, mereka mengharapkan keridaan-Nya. Engkau tidak memikul tanggung jawab sedikit pun terhadap perbuatan mereka dan mereka tidak memikul tanggung jawab sedikit pun terhadap perbuatanmu, yang menyebabkan engkau (berhak) mengusir mereka, sehingga engkau termasuk orang-orang yang zalim.
+

@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+35
+
+surat :
+وَاِنْ كَانَ كَبُرَ عَلَيْكَ اِعْرَاضُهُمْ فَاِنِ اسْتَطَعْتَ اَنْ تَبْتَغِيَ نَفَقًا فِى الْاَرْضِ اَوْ سُلَّمًا فِى السَّمَاۤءِ فَتَأْتِيَهُمْ بِاٰيَةٍ ۗوَلَوْ شَاۤءَ اللّٰهُ لَجَمَعَهُمْ عَلَى الْهُدٰى فَلَا تَكُوْنَنَّ مِنَ الْجٰهِلِيْنَ 
+
+latin :
+wa-in kaana kabura 'alayka i'raaduhum fa-ini istatha'ta an tabtaghiya nafaqan fii l-ardhi aw sullaman fii ssamaa-i fata/tiyahum bi-aayatin walaw syaa-a laahu lajama'ahum 'alaa lhudaa falaa takuunanna mina ljaahiliin
+
+terjemahan :
+Dan jika keberpalingan mereka terasa berat bagimu (Muhammad), maka sekiranya engkau dapat membuat lubang di bumi atau tangga ke langit lalu engkau dapat mendatangkan mukjizat kepada mereka, (maka buatlah). Dan sekiranya Allah menghendaki, tentu Dia jadikan mereka semua mengikuti petunjuk, sebab itu janganlah sekali-kali engkau termasuk orang-orang yang bodoh.
+

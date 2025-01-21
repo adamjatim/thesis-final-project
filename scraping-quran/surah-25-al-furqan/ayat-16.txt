@@ -1,0 +1,30 @@
+no surat :
+25
+
+nama surat :
+Al-Furqan
+
+nama surat arab :
+الفرقان
+
+arti surat :
+Pembeda
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 77 ayat, termasuk golongan surat-surat Makkiyah. Dinamai Al Furqaan yang artinya pembeda, diambil dari kata Al Furqaan yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan Al Furqaan dalam ayat ini ialah Al Quran. Al Quran dinamakan Al Furqaan karena dia membedakan antara yang haq dengan yang batil. MAka pada surat ini pun terdapat ayat-ayat yang membedakan antara kebenaran ke-esaan Allah s.w.t. dengan kebatilan kepercayaan syirik.
+
+ayat :
+16
+
+surat :
+لَهُمْ فِيْهَا مَا يَشَاۤءُوْنَ خٰلِدِيْنَۗ  كَانَ عَلٰى رَبِّكَ وَعْدًا مَّسْـُٔوْلًا
+
+latin :
+lahum fiihaa maa yasyaauuna khaalidiina kaana 'alaa rabbika wa'dan mas-uulaa
+
+terjemahan :
+Bagi mereka segala yang mereka kehendaki ada di dalamnya (surga), mereka kekal (di dalamnya). Itulah janji Tuhanmu yang pantas dimohonkan (kepada-Nya).
+

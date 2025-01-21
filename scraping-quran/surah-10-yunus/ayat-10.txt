@@ -1,0 +1,30 @@
+no surat :
+10
+
+nama surat :
+Yunus
+
+nama surat arab :
+يونس
+
+arti surat :
+Yunus
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Yunus terdiri atas 109 ayat, termasuk golongan surat-surat Makkiyyah kecuali ayat 40, 94, 95, yang diturunkan pada masa Nabi Muhmmad s.a.w. berada di Madinah. Surat ini dinamai surat Yunus karena dalam surat ini terutama ditampilkan kisah Nabi Yunus a.s. dan pengikut-pengikutnya yang teguh imannya.
+
+ayat :
+10
+
+surat :
+دَعْوٰىهُمْ فِيْهَا سُبْحٰنَكَ اللهم وَتَحِيَّتُهُمْ فِيْهَا سَلٰمٌۚ وَاٰخِرُ دَعْوٰىهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَ ࣖ
+
+latin :
+da'waahum fiihaa subhaanaka laahumma watahiyyatuhum fiihaa salaamun waaakhiru da'waahum ani lhamdu lillaahi rabbi l'aalamiin
+
+terjemahan :
+Doa mereka di dalamnya ialah, “Subhanakallahumma” (Mahasuci Engkau, ya Tuhan kami), dan salam penghormatan mereka ialah, “Salam” (salam sejahtera). Dan penutup doa mereka ialah, “Al-hamdu lillahi Rabbil ‘alamin” (segala puji bagi Allah Tuhan seluruh alam).
+

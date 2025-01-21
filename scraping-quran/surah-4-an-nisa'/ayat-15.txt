@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+15
+
+surat :
+وَالّٰتِيْ يَأْتِيْنَ الْفَاحِشَةَ مِنْ نِّسَاۤىِٕكُمْ فَاسْتَشْهِدُوْا عَلَيْهِنَّ اَرْبَعَةً مِّنْكُمْ ۚ فَاِنْ شَهِدُوْا فَاَمْسِكُوْهُنَّ فِى الْبُيُوْتِ حَتّٰى يَتَوَفّٰىهُنَّ الْمَوْتُ اَوْ يَجْعَلَ اللّٰهُ لَهُنَّ سَبِيْلًا 
+
+latin :
+wallaatii ya/tiina lfaahisyata min nisaa-ikum fastasyhiduu 'alayhinna arba'atan minkum fa-in syahiduu fa-amsikuuhunna fii lbuyuuti hattaa yatawaffaahunna lmawtu aw yaj'ala laahu lahunna sabiilaawalladzaani ya/tiyaanihaa minkum faaadzuuhumaa fa-in taabaa wa-ashlahaa fa-a'ridhuu 'anhumaa inna laaha kaana tawwaaban rahiimaa
+
+terjemahan :
+Dan para perempuan yang melakukan perbuatan keji di antara perempuan-perempuan kamu, hendaklah terhadap mereka ada empat orang saksi di antara kamu (yang menyaksikannya). Apabila mereka telah memberi kesaksian, maka kurunglah mereka (perempuan itu) dalam rumah sampai mereka menemui ajalnya, atau sampai Allah memberi jalan (yang lain) kepadanya.
+

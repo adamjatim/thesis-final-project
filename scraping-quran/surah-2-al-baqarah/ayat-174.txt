@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+174
+
+surat :
+اِنَّ الَّذِيْنَ يَكْتُمُوْنَ مَآ اَنْزَلَ اللّٰهُ مِنَ الْكِتٰبِ وَيَشْتَرُوْنَ بِهٖ ثَمَنًا قَلِيْلًاۙ اُولٰۤىِٕكَ مَا يَأْكُلُوْنَ فِيْ بُطُوْنِهِمْ اِلَّا النَّارَ وَلَا يُكَلِّمُهُمُ اللّٰهُ يَوْمَ الْقِيٰمَةِ وَلَا يُزَكِّيْهِمْ ۚوَلَهُمْ عَذَابٌ ا
+
+latin :
+inna ladziina yaktumuuna maa anzala laahu mina lkitaabi wayasytaruuna bihi tsamanan qaliilan ulaa-ika maa ya/kuluuna fii buthuunihim illaa nnaara walaa yukallimuhumu laahu yawma lqiyaamati walaa yuzakkiihim walahum 'adzaabun liim
+
+terjemahan :
+Sungguh, orang-orang yang menyembunyikan apa yang telah diturunkan Allah, yaitu Kitab, dan menjualnya dengan harga murah, mereka hanya menelan api neraka ke dalam perutnya, dan Allah tidak akan menyapa mereka pada hari Kiamat, dan tidak akan menyucikan mereka. Mereka akan mendapat azab yang sangat pedih.
+

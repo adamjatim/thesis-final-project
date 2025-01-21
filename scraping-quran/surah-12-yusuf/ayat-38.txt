@@ -1,0 +1,30 @@
+no surat :
+12
+
+nama surat :
+Yusuf
+
+nama surat arab :
+يوسف
+
+arti surat :
+Yusuf
+
+tempat turun :
+mekah
+
+deskripsi :
+ Surat Yusuf ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum hijrah. Surat ini dinamakan surat Yusuf adalah karena titik berat dari isinya mengenai riwayat Nabi Yusuf a.s.  Riwayat tersebut salah satu di antara cerita-cerita ghaib yang diwahyukan kepada Nabi Muhammad s.a.w. sebagai mukjizat bagi beliau, sedang beliau sebelum diturunkan surat ini tidak mengetahuinya.  Menurut riwayat Al Baihaqi dalam kitab Ad Dalail bahwa segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf a.s. ini, karena sesuai dengan cerita-cerita yang mereka ketahui. Dari cerita Yusuf a.s. ini, Nabi Muhammad s.a.w. mengambil pelajaran-pelajaran yang banyak dan merupakan penghibur terhadap beliau dalam menjalankan tugasnya.
+
+ayat :
+38
+
+surat :
+وَاتَّبَعْتُ مِلَّةَ اٰبَاۤءِيْٓ اِبْرٰهِيْمَ وَاِسْحٰقَ وَيَعْقُوْبَۗ مَا كَانَ لَنَآ اَنْ نُّشْرِكَ بِاللّٰهِ مِنْ شَيْءٍۗ ذٰلِكَ مِنْ فَضْلِ اللّٰهِ عَلَيْنَا وَعَلَى النَّاسِ وَلٰكِنَّ اَكْثَرَ النَّاسِ لَا يَشْكُرُوْنَ
+
+latin :
+wattaba'tu millata aabaa-ii ibraahiima wa-ishaaqa waya'quuba maa kaana lanaa an nusyrika bilaahi min syay-in dzaalika min fadhli laahi 'alaynaa wa'alaa nnaasi walaakinna aktsara nnaasi laa yasykuruun
+
+terjemahan :
+Dan aku mengikuti agama nenek moyangku: Ibrahim, Ishak dan Yakub. Tidak pantas bagi kami (para nabi) mempersekutukan sesuatu apa pun dengan Allah. Itu adalah dari karunia Allah kepada kami dan kepada manusia (semuanya); tetapi kebanyakan manusia tidak bersyukur.
+

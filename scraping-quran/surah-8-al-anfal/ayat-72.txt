@@ -1,0 +1,30 @@
+no surat :
+8
+
+nama surat :
+Al-Anfal
+
+nama surat arab :
+الانفال
+
+arti surat :
+Rampasan Perang
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Anfaal terdiri atas 75 ayat dan termasuk golongan surat-surat Madaniyyah, karena seluruh ayat-ayatnya diturunkan di Madinah. Surat ini dinamakan Al Anfaal yang berarti harta rampasan perang berhubung kata Al Anfaal terdapat pada permulaan surat ini dan juga persoalan yang menonjol dalam surat ini ialah tentang harta rampasan perang, hukum perang dan hal-hal yang berhubungan dengan peperangan pada umumnya. Menurut riwayat Ibnu Abbas r.a. surat ini diturunkan berkenaan dengan perang Badar Kubra yang terjadi pada tahun kedua hijrah. Peperangan ini sangat penting artinya, karena dialah yang menentukan jalan sejarah Perkembangan Islam. Pada waktu itu umat Islam dengan berkekuatan kecil untuk pertama kali dapat mengalahkan kaum musyrikin yang berjumlah besar, dan berperlengkapan yang cukup, dan mereka dalam peperangan ini memperoleh harta rampasan perang yang tidak sedikit. Oleh sebab itu timbullah masalah bagaimana membagi harta-harta rampasan perang itu, maka kemudian Allah menurunkan ayat pertama dari surat ini.
+
+ayat :
+72
+
+surat :
+اِنَّ الَّذِيْنَ اٰمَنُوْا وَهَاجَرُوْا وَجَاهَدُوْا بِاَمْوَالِهِمْ وَاَنْفُسِهِمْ فِيْ سَبِيْلِ اللّٰهِ وَالَّذِيْنَ اٰوَوْا وَّنَصَرُوْٓا اُولٰۤىِٕكَ بَعْضُهُمْ اَوْلِيَاۤءُ بَعْضٍۗ وَالَّذِيْنَ اٰمَنُوْا وَلَمْ يُهَاجِرُوْا مَا لَكُمْ مِّنْ وَّلَايَتِ
+
+latin :
+inna ladziina aamanuu wahaajaruu wajaahaduu bi-amwaalihim wa-anfusihim fii sabiili laahi walladziina aawaw wanasharuu ulaa-ika ba'dhuhum awliyaau ba'dhin walladziina aamanuu walam yuhaajiruu maa lakum min walaayatihim min syay-in hattaa yuhaajiruu wa-ini istansharuukum fii ddiini fa'alaykumu nnashru illaa 'alaa qawmin baynakum wabaynahum miitsaaqun walaahu bimaa ta'maluuna bashiir
+
+terjemahan :
+Sesungguhnya orang-orang yang beriman dan berhijrah serta berjihad dengan harta dan jiwanya pada jalan Allah dan orang-orang yang memberikan tempat kediaman dan memberi pertolongan (kepada Muhajirin), mereka itu satu sama lain saling melindungi. Dan (terhadap) orang-orang yang beriman tetapi belum berhijrah, maka tidak ada kewajiban sedikit pun bagimu melindungi  mereka, sampai mereka berhijrah. (Tetapi) jika mereka meminta pertolongan kepadamu dalam (urusan pembelaan) agama, maka kamu wajib memberikan pertolongan kecuali terhadap kaum yang telah terikat perjanjian antara kamu dengan mereka. Dan Allah Maha Melihat apa yang kamu kerjakan.
+

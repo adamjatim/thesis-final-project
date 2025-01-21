@@ -1,0 +1,30 @@
+no surat :
+64
+
+nama surat :
+At-Tagabun
+
+nama surat arab :
+التغابن
+
+arti surat :
+Pengungkapan Kesalahan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 18 ayat, termasuk golongan surat-surat Madaniyyah dan diturunkan sesudah surat At Tahrim. Nama At Taghaabun diambil dari kata At Taghaabun yang terdapat pada ayat ke 9 yang artinya hari dinampakkan kesalahan-kesalahan.
+
+ayat :
+16
+
+surat :
+فَاتَّقُوا اللّٰهَ مَا اسْتَطَعْتُمْ وَاسْمَعُوْا وَاَطِيْعُوْا وَاَنْفِقُوْا خَيْرًا لِّاَنْفُسِكُمْۗ وَمَنْ يُّوْقَ شُحَّ نَفْسِهٖ فَاُولٰۤىِٕكَ هُمُ الْمُفْلِحُوْنَ 
+
+latin :
+fattaquu laaha maa istatha'tum wasma'uu wa-athii'uu wa-anfiquu khayran li-anfusikum waman yuuqa syuhha nafsihi faulaa-ika humu lmuflihuun
+
+terjemahan :
+Maka bertakwalah kamu kepada Allah menurut kesanggupanmu dan dengarlah serta taatlah; dan infakkanlah harta yang baik untuk dirimu. Dan barang-siapa dijaga dirinya dari kekikiran, mereka itulah orang-orang yang beruntung. 
+

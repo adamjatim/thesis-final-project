@@ -1,0 +1,30 @@
+no surat :
+85
+
+nama surat :
+Al-Buruj
+
+nama surat arab :
+البروج
+
+arti surat :
+Gugusan Bintang
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Buruuj terdiri atas 22 ayat, termasuk golongan surat-surat Makkiyyah diturunkan sesudah surat Asy-Syams.Dinamai Al Buruuj (gugusan bintang) diambil dari perkataan Al Buruuj yang terdapat pada ayat 1 surat ini.
+
+ayat :
+1
+
+surat :
+وَالسَّمَاۤءِ ذَاتِ الْبُرُوْجِۙ 
+
+latin :
+wassamaa-i dzaati lburuuj
+
+terjemahan :
+Demi langit yang mempunyai gugusan bintang,
+

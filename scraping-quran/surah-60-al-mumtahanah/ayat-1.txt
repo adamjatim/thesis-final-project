@@ -1,0 +1,30 @@
+no surat :
+60
+
+nama surat :
+Al-Mumtahanah
+
+nama surat arab :
+الممتحنة
+
+arti surat :
+Wanita Yang Diuji
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Mumtahanah terdiri atas 13 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Ahzab. Dinamai Al Mumtahanah (wanita yang diuji), diambil dari kata "Famtahinuuhunna" yang berarti maka ujilah mereka, yang terdapat pada ayat 10 surat ini.
+
+ayat :
+1
+
+surat :
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لَا تَتَّخِذُوْا عَدُوِّيْ وَعَدُوَّكُمْ اَوْلِيَاۤءَ تُلْقُوْنَ اِلَيْهِمْ بِالْمَوَدَّةِ وَقَدْ كَفَرُوْا بِمَا جَاۤءَكُمْ مِّنَ الْحَقِّۚ  يُخْرِجُوْنَ الرَّسُوْلَ وَاِيَّاكُمْ اَنْ تُؤْمِنُوْا بِاللّٰهِ رَبِّكُمْۗ اِنْ
+
+latin :
+yaa ayyuhaa ladziina aamanuu laa tattakhidzuu 'aduwwii wa'aduwwakum awliyaa-a tulquuna ilayhim bilmawaddati waqad kafaruu bimaa jaa-akum mina lhaqqi yukhrijuuna rrasuula wa-iyyaakum an tu/minuu bilaahi rabbikum in kuntum kharajtum jihaadan fii sabiilii wabtighaa-a mardaatii tusirruuna ilayhim bilmawaddati wa-anaa a'lamu bimaa akhfaytum wamaa a'lantum waman yaf'alhu minkum faqad dhalla sawaa-a ssabiil
+
+terjemahan :
+Wahai orang-orang yang beriman! Janganlah kamu menjadikan musuh-Ku dan musuhmu sebagai teman-teman setia sehingga kamu sampaikan kepada mereka (berita-berita Muhammad), karena rasa kasih sayang; padahal mereka telah ingkar kepada kebenaran yang disampaikan kepadamu. Mereka mengusir Rasul dan kamu sendiri karena kamu beriman kepada Allah, Tuhanmu. Jika kamu benar-benar keluar untuk berjihad pada jalan-Ku dan mencari keridaan-Ku (janganlah kamu berbuat demikian). Kamu memberitahukan secara rahasia (berita-berita Muhammad) kepada mereka, karena rasa kasih sayang, dan Aku lebih mengetahui apa yang kamu sembunyikan dan apa yang kamu nyatakan. Dan barangsiapa di antara kamu yang melakukannya, maka sungguh, dia telah tersesat dari jalan yang lurus. 
+

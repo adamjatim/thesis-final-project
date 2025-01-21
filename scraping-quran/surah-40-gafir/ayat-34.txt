@@ -1,0 +1,30 @@
+no surat :
+40
+
+nama surat :
+Gafir
+
+nama surat arab :
+غافر
+
+arti surat :
+Maha Pengampun
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Mu'min terdiri atas 85 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Az Zumar. Dinamai Al Mu'min (Orang yang beriman), berhubung dengan perkataan mukmin yang terdapat pada ayat 28 surat ini. Pada ayat 28 diterangkan bahwa salah seorang dari kaum Fir'aun telah beriman kepada Nabi Musa a.s. dengan menyembunyikan imannya kepada kaumnya, setelah mendengar keterangan dan melihat mukjizat yang dikemukakan oleh Nabi Musa a.s. Hati kecil orang ini mencela Fir'aun dan kaumnya yang tidak mau beriman kepada Nabi Musa a.s., sekalipun telah dikemukakan keterangan dan mukjizat yang diminta mereka.Dinamakan pula Ghafir (yang mengampuni), karena ada hubungannya dengan kalimat Ghafir yang terdapat pada ayat 3 surat ini. Ayat ini mengingatkan bahwa Maha Pengampun dan Maha Penerima Taubat adalah sebagian dari sifat-sifat Allah, karena itu hamba-hamba Allah tidak usah khawatir terhadap  perbuatan-perbuatan dosa yang telah terlanjur mereka lakukan, semuanya itu akan diampuni Allah asal benar-benar memohon ampun dan bertaubat kepada-Nya dan berjanji tidak akan mengerjakan  perbuatan-perbuatan dosa itu lagi. Dan surat ini dinamai Dzit Thaul (Yang Mempunyai Kurnia) karena perkataan tersebut terdapat pada ayat 3.
+
+ayat :
+34
+
+surat :
+وَلَقَدْ جَاۤءَكُمْ يُوْسُفُ مِنْ قَبْلُ بِالْبَيِّنٰتِ فَمَا زِلْتُمْ فِيْ شَكٍّ مِّمَّا جَاۤءَكُمْ بِهٖ ۗحَتّٰىٓ اِذَا هَلَكَ قُلْتُمْ لَنْ يَّبْعَثَ اللّٰهُ مِنْۢ بَعْدِهٖ رَسُوْلًا ۗ كَذٰلِكَ يُضِلُّ اللّٰهُ مَنْ هُوَ مُسْرِفٌ مُّرْتَابٌۙ
+
+latin :
+walaqad jaa-akum yuusufu min qablu bilbayyinaati famaa ziltum fii syakkin mimmaa jaa-akum bihi hattaa idzaa halaka qultum lan yab'atsa laahu min ba'dihi rasuulan kadzaalika yudhillu laahu man huwa musrifun murtaab
+
+terjemahan :
+Dan sungguh, sebelum itu Yusuf telah datang kepadamu dengan membawa bukti-bukti yang nyata, tetapi kamu senantiasa meragukan apa yang dibawanya, bahkan ketika dia wafat, kamu berkata, “Allah tidak akan mengirim seorang rasul pun setelahnya.” Demikianlah Allah membiarkan sesat orang yang melampaui batas dan ragu-ragu,
+

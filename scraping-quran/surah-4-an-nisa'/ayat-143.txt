@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+143
+
+surat :
+مُّذَبْذَبِيْنَ بَيْنَ ذٰلِكَۖ  لَآ اِلٰى هٰٓؤُلَاۤءِ وَلَآ اِلٰى هٰٓؤُلَاۤءِ ۗ وَمَنْ يُّضْلِلِ اللّٰهُ فَلَنْ تَجِدَ لَهٗ سَبِيْلًا 
+
+latin :
+mudzabdzabiina bayna dzaalika laa ilaa haaulaa-i walaa ilaa haaulaa-i waman yudhlili laahu falan tajida lahu sabiilaa
+
+terjemahan :
+Mereka dalam keadaan ragu antara yang demikian (iman atau kafir), tidak termasuk kepada golongan ini (orang beriman) dan tidak (pula) kepada golongan itu (orang kafir). Barangsiapa dibiarkan sesat oleh Allah, maka kamu tidak akan mendapatkan jalan (untuk memberi petunjuk) baginya.
+

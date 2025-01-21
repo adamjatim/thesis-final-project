@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+94
+
+surat :
+وَلَقَدْ جِئْتُمُوْنَا فُرَادٰى كَمَا خَلَقْنٰكُمْ اَوَّلَ مَرَّةٍ وَّتَرَكْتُمْ مَّا خَوَّلْنٰكُمْ وَرَاۤءَ ظُهُوْرِكُمْۚ وَمَا نَرٰى مَعَكُمْ شُفَعَاۤءَكُمُ الَّذِيْنَ زَعَمْتُمْ اَنَّهُمْ فِيْكُمْ شُرَكٰۤؤُا ۗ لَقَدْ تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنْك
+
+latin :
+walaqad ji/tumuunaa furaadaa kamaa khalaqnaakum awwala marratin wataraktum maa khawwalnaakum waraa-a zhuhuurikum wamaa naraa ma'akum syufa'aa-akumu ladziina za'amtum annahum fiikum syurakaau laqad taqaththha'a baynakum wadhalla 'ankum maa kuntum taz'umuun
+
+terjemahan :
+Dan kamu benar-benar datang sendiri-sendiri kepada Kami sebagaimana Kami ciptakan kamu pada mulanya, dan apa yang telah Kami karuniakan kepadamu, kamu tinggalkan di belakangmu (di dunia). Kami tidak melihat pemberi syafaat (pertolongan) besertamu yang kamu anggap bahwa mereka itu sekutu-sekutu (bagi Allah). Sungguh, telah terputuslah (semua pertalian) antara kamu dan telah lenyap dari kamu apa yang dahulu kamu sangka (sebagai sekutu Allah).
+

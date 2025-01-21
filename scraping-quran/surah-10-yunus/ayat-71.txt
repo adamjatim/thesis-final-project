@@ -1,0 +1,30 @@
+no surat :
+10
+
+nama surat :
+Yunus
+
+nama surat arab :
+يونس
+
+arti surat :
+Yunus
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Yunus terdiri atas 109 ayat, termasuk golongan surat-surat Makkiyyah kecuali ayat 40, 94, 95, yang diturunkan pada masa Nabi Muhmmad s.a.w. berada di Madinah. Surat ini dinamai surat Yunus karena dalam surat ini terutama ditampilkan kisah Nabi Yunus a.s. dan pengikut-pengikutnya yang teguh imannya.
+
+ayat :
+71
+
+surat :
+۞ وَاتْلُ عَلَيْهِمْ نَبَاَ نُوْحٍۘ اِذْ قَالَ لِقَوْمِهٖ يٰقَوْمِ اِنْ كَانَ كَبُرَ عَلَيْكُمْ مَّقَامِيْ وَتَذْكِيْرِيْ بِاٰيٰتِ اللّٰهِ فَعَلَى اللّٰهِ تَوَكَّلْتُ فَاَجْمِعُوْٓا اَمْرَكُمْ وَشُرَكَاۤءَكُمْ ثُمَّ لَا يَكُنْ اَمْرُكُمْ عَلَيْكُمْ غُمَّة
+
+latin :
+watlu 'alayhim naba-a nuuhin idz qaala liqawmihi yaa qawmi in kaana kabura 'alaykum maqaamii watadzkiirii bi-aayaati laahi fa'alaa laahi tawakkaltu fa-ajmi'uu amrakum wasyurakaa-akum tsumma laa yakun amrukum 'alaykum ghummatan tsumma iqdhuu ilayya walaa tunzhiruun
+
+terjemahan :
+Dan bacakanlah kepada mereka berita penting (tentang) Nuh ketika (dia) berkata kepada kaumnya, “Wahai kaumku! Jika terasa berat bagimu aku tinggal (bersamamu) dan peringatanku dengan ayat-ayat Allah, maka kepada Allah aku bertawakal. Karena itu bulatkanlah keputusanmu dan kumpulkanlah sekutu-sekutumu (untuk membinasakanku), dan janganlah keputusanmu itu dirahasiakan. Kemudian bertindaklah terhadap diriku, dan janganlah kamu tunda lagi.
+

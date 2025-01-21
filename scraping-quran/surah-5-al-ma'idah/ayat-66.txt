@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+66
+
+surat :
+وَلَوْ اَنَّهُمْ اَقَامُوا التَّوْرٰىةَ وَالْاِنْجِيْلَ وَمَآ اُنْزِلَ اِلَيْهِمْ مِّنْ رَّبِّهِمْ لَاَكَلُوْا مِنْ فَوْقِهِمْ وَمِنْ تَحْتِ اَرْجُلِهِمْۗ مِنْهُمْ اُمَّةٌ مُّقْتَصِدَةٌ  ۗ وَكَثِيْرٌ مِّنْهُمْ سَاۤءَ مَا يَعْمَلُوْنَ ࣖ 
+
+latin :
+walaw annahum aqaamuu ttawraata wal-injiila wamaa unzila ilayhim min rabbihim la-akaluu min fawqihim wamin tahti arjulihim minhum ummatun muqtashidatun wakatsiirun minhum saa-a maa ya'maluun
+
+terjemahan :
+Dan sekiranya mereka sungguh-sungguh menjalankan (hukum) Taurat, Injil dan (Al-Qur'an) yang diturunkan kepada mereka dari Tuhannya, niscaya mereka akan mendapat makanan dari atas mereka dan dari bawah kaki mereka. Di antara mereka ada sekelompok yang jujur dan taat. Dan banyak di antara mereka sangat buruk apa yang mereka kerjakan.
+

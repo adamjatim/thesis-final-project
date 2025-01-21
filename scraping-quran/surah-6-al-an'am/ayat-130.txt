@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+130
+
+surat :
+يٰمَعْشَرَ الْجِنِّ وَالْاِنْسِ اَلَمْ يَأْتِكُمْ رُسُلٌ مِّنْكُمْ يَقُصُّوْنَ عَلَيْكُمْ اٰيٰتِيْ وَيُنْذِرُوْنَكُمْ لِقَاۤءَ يَوْمِكُمْ هٰذَاۗ قَالُوْا شَهِدْنَا عَلٰٓى اَنْفُسِنَا وَغَرَّتْهُمُ الْحَيٰوةُ الدُّنْيَا وَشَهِدُوْا عَلٰٓى اَنْفُسِهِمْ اَنّ
+
+latin :
+yaa ma'syara aljinni wal-insi alam ya/tikum rusulun minkum yaqushshuuna 'alaykum aayaatii wayundziruunakum liqaa-a yawmikum haadzaa qaaluu syahidnaa 'alaa anfusinaa wagharrat-humu alhayaatu ddunyaa wasyahiduu 'alaa anfusihim annahum kaanuu kaafiriin
+
+terjemahan :
+Wahai golongan jin dan manusia! Bukankah sudah datang kepadamu rasul-rasul dari kalanganmu sendiri, mereka menyampaikan ayat-ayat-Ku kepadamu dan memperingatkanmu tentang pertemuan pada hari ini? Mereka menjawab, “(Ya), kami menjadi saksi atas diri kami sendiri.” Tetapi mereka tertipu oleh kehidupan dunia dan mereka telah menjadi saksi atas diri mereka sendiri, bahwa mereka adalah orang-orang kafir.
+

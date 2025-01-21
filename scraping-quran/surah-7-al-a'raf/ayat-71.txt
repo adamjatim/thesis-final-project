@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+71
+
+surat :
+قَالَ قَدْ وَقَعَ عَلَيْكُمْ مِّنْ رَّبِّكُمْ رِجْسٌ وَّغَضَبٌۗ  اَتُجَادِلُوْنَنِيْ فِيْٓ اَسْمَاۤءٍ سَمَّيْتُمُوْهَآ اَنْتُمْ وَاٰبَاۤؤُكُمْ مَّا نَزَّلَ اللّٰهُ بِهَا مِنْ سُلْطٰنٍۗ فَانْتَظِرُوْٓا اِنِّيْ مَعَكُمْ مِّنَ الْمُنْتَظِرِيْنَ 
+
+latin :
+qaala qad waqa'a 'alaykum min rabbikum rijsun waghadhabun atujaadiluunanii fii asmaa-in sammaytumuuhaa antum waaabaaukum maa nazzala laahu bihaa min sulthaanin fantazhiruu innii ma'akum mina lmuntazhiriin
+
+terjemahan :
+Dia (Hud) menjawab, “Sungguh, kebencian dan kemurkaan dari Tuhan akan menimpa kamu. Apakah kamu hendak berbantah denganku tentang nama-nama (berhala) yang kamu dan nenek moyangmu buat sendiri, padahal Allah tidak menurunkan keterangan untuk itu? Jika demikian, tunggulah! Sesungguhnya aku pun bersamamu termasuk yang menunggu.”
+

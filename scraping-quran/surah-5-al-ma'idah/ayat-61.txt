@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+61
+
+surat :
+وَاِذَا جَاۤءُوْكُمْ قَالُوْٓا اٰمَنَّا وَقَدْ دَّخَلُوْا بِالْكُفْرِ وَهُمْ قَدْ خَرَجُوْا بِهٖ ۗوَاللّٰهُ اَعْلَمُ بِمَا كَانُوْا يَكْتُمُوْنَ
+
+latin :
+wa-idzaa jaauukum qaaluu aamannaa waqad dakhaluu bilkufri wahum qad kharajuu bihi walaahu a'lamu bimaa kaanuu yaktumuun
+
+terjemahan :
+Dan apabila mereka (Yahudi atau munafik) datang kepadamu, mereka mengatakan, “Kami telah beriman,” padahal mereka datang kepadamu dengan kekafiran dan mereka pergi pun demikian; dan Allah lebih mengetahui apa yang mereka sembunyikan.
+

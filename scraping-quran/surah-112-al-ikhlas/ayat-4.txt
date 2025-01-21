@@ -1,0 +1,30 @@
+no surat :
+112
+
+nama surat :
+Al-Ikhlas
+
+nama surat arab :
+الاخلاص
+
+arti surat :
+Ikhlas
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah sesudah surat An Naas. Dinamakan Al Ikhlas karena surat ini sepenuhnya menegaskan kemurnian keesaan Allah s.w.t.
+
+ayat :
+4
+
+surat :
+وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ
+
+latin :
+walam yakun lahu kufuwan ahad
+
+terjemahan :
+Dan tidak ada sesuatu yang setara dengan Dia.”
+

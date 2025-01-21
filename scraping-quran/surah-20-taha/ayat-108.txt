@@ -1,0 +1,30 @@
+no surat :
+20
+
+nama surat :
+Taha
+
+nama surat arab :
+طٰهٰ
+
+arti surat :
+Taha
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Thaahaa terdiri atas 135 ayat, diturunkan sesudah diturunkannya surat Maryam, termasuk golongan surat-surat Makkiyyah. Surat ini dinamai Thaahaa, diambil dari perkataan yang berasal dan ayat pertama surat ini. Sebagaimana yang lazim terdapat pada surat-surat yang memakai huruf-huruf abjad pada permulaannya, di mana huruf tersebut seakan-akan merupakan pemberitahuan Allah kepada orang-orang yang membacanya, bahwa sesudah huruf itu akan dikemukakan hal-hal yang  sangat penting diketahui, maka demikian pula halnya dengan ayat-ayat yang terdapat sesudah huruf thaahaa dalam surat ini. Allah menerangkan bahwa Al Quran merupakan peringatan bagi manusia, wahyu dari Allah, Pencipta semesta alam. Kemudian Allah menerangkan kisah beberapa orang nabi; akibat-akibat yang telah ada akan dialami oleh orang-orang yang percaya kepada Allah dan orang-orang yang mengingkari-Nya, baik di dunia maupun di akhirat. Selain hal-hal tersebut di atas, maka surat ini mengandung pokok-pokok isi sebagai berikut:
+
+ayat :
+108
+
+surat :
+يَوْمَىِٕذٍ يَّتَّبِعُوْنَ الدَّاعِيَ لَا عِوَجَ لَهٗ ۚوَخَشَعَتِ الْاَصْوَاتُ لِلرَّحْمٰنِ فَلَا تَسْمَعُ اِلَّا هَمْسًا 
+
+latin :
+yawma-idzin yattabi'uuna ddaa'iya laa 'iwaja lahu wakhasya'ati l-ashwaatu lirrahmaani falaa tasma'u illaa hamsaa
+
+terjemahan :
+Pada hari itu mereka mengikuti (panggilan) penyeru (malaikat) tanpa berbelok-belok (membantah); dan semua suara tunduk merendah kepada Tuhan Yang Maha Pengasih, sehingga yang kamu dengar hanyalah bisik-bisik.
+

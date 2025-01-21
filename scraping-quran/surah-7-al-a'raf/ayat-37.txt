@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+37
+
+surat :
+فَمَنْ اَظْلَمُ مِمَّنِ افْتَرٰى عَلَى اللّٰهِ كَذِبًا اَوْ كَذَّبَ بِاٰيٰتِهٖۗ اُولٰۤىِٕكَ يَنَالُهُمْ نَصِيْبُهُمْ مِّنَ الْكِتٰبِۗ حَتّٰٓى اِذَا جَاۤءَتْهُمْ رُسُلُنَا يَتَوَفَّوْنَهُمْۙ  قَالُوْٓا اَيْنَ مَا كُنْتُمْ تَدْعُوْنَ مِنْ دُوْنِ اللّٰهِ ۗقَ
+
+latin :
+faman azhlamu mimmani iftaraa 'alaa laahi kadziban aw kadzdzaba bi-aayaatihi ulaa-ika yanaaluhum nashiibuhum mina lkitaabi hattaa idzaa jaa-at-hum rusulunaa yatawaffawnahum qaaluu ayna maa kuntum tad'uuna min duuni laahi qaaluu dhalluu 'annaa wasyahiduu 'alaa anfusihim annahum kaanuu kaafiriin
+
+terjemahan :
+Siapakah yang lebih zalim daripada orang yang mengada-adakan kebohongan terhadap Allah atau yang mendustakan ayat-ayat-Nya? Mereka itu akan memperoleh bagian yang telah ditentukan dalam Kitab sampai datang para utusan (malaikat) Kami kepada mereka untuk mencabut nyawanya. Mereka (para malaikat) berkata, “Manakah sembahan yang biasa kamu sembah selain Allah?” Mereka (orang musyrik) menjawab, “Semuanya telah lenyap dari kami.” Dan mereka memberikan kesaksian terhadap diri mereka sendiri bahwa mereka adalah orang-orang kafir.
+

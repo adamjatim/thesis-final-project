@@ -1,0 +1,30 @@
+no surat :
+111
+
+nama surat :
+Al-Lahab
+
+nama surat arab :
+اللهب
+
+arti surat :
+Api Yang Bergejolak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyyah,  diturunkan sesudah surat Al Fath. Nama Al Lahab diambil dari kata  Al Lahab yang terdapat pada ayat ketiga surat ini yang artinya gejolak  api. Surat ini juga dinamakan surat Al Masad.
+
+ayat :
+5
+
+surat :
+فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍ ࣖ
+
+latin :
+fii jiidihaa hablun min masad
+
+terjemahan :
+Di lehernya ada tali dari sabut yang dipintal.
+

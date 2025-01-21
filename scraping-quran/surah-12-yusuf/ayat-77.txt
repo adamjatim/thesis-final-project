@@ -1,0 +1,30 @@
+no surat :
+12
+
+nama surat :
+Yusuf
+
+nama surat arab :
+يوسف
+
+arti surat :
+Yusuf
+
+tempat turun :
+mekah
+
+deskripsi :
+ Surat Yusuf ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum hijrah. Surat ini dinamakan surat Yusuf adalah karena titik berat dari isinya mengenai riwayat Nabi Yusuf a.s.  Riwayat tersebut salah satu di antara cerita-cerita ghaib yang diwahyukan kepada Nabi Muhammad s.a.w. sebagai mukjizat bagi beliau, sedang beliau sebelum diturunkan surat ini tidak mengetahuinya.  Menurut riwayat Al Baihaqi dalam kitab Ad Dalail bahwa segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf a.s. ini, karena sesuai dengan cerita-cerita yang mereka ketahui. Dari cerita Yusuf a.s. ini, Nabi Muhammad s.a.w. mengambil pelajaran-pelajaran yang banyak dan merupakan penghibur terhadap beliau dalam menjalankan tugasnya.
+
+ayat :
+77
+
+surat :
+۞ قَالُوْٓا اِنْ يَّسْرِقْ فَقَدْ سَرَقَ اَخٌ لَّهٗ مِنْ قَبْلُۚ فَاَسَرَّهَا يُوْسُفُ فِيْ نَفْسِهٖ وَلَمْ يُبْدِهَا لَهُمْۚ قَالَ اَنْتُمْ شَرٌّ مَّكَانًا ۚوَاللّٰهُ اَعْلَمُ بِمَا تَصِفُوْنَ
+
+latin :
+qaaluu in yasriq faqad saraqa akhun lahu min qablu fa-asarrahaa yuusufu fii nafsihi walam yubdihaa lahum qaala antum syarrun makaanan walaahu a'lamu bimaa tashifuun
+
+terjemahan :
+Mereka berkata, “Jika dia mencuri, maka sungguh sebelum itu saudaranya pun pernah pula mencuri.” Maka Yusuf menyembunyikan (kejengkelan) dalam hatinya dan tidak ditampakkannya kepada mereka. Dia berkata (dalam hatinya), “Kedudukanmu justru lebih buruk. Dan Allah Maha Mengetahui apa yang kamu terangkan.”
+

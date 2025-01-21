@@ -1,0 +1,30 @@
+no surat :
+11
+
+nama surat :
+Hud
+
+nama surat arab :
+هود
+
+arti surat :
+Hud
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.
+
+ayat :
+40
+
+surat :
+حَتّٰىٓ اِذَا جَاۤءَ اَمْرُنَا وَفَارَ التَّنُّوْرُۙ قُلْنَا احْمِلْ فِيْهَا مِنْ كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَاَهْلَكَ اِلَّا مَنْ سَبَقَ عَلَيْهِ الْقَوْلُ وَمَنْ اٰمَنَ ۗوَمَآ اٰمَنَ مَعَهٗٓ اِلَّا قَلِيْلٌ
+
+latin :
+hattaa idzaa jaa-a amrunaa wafaara ttannuuru qulnaa ihmil fiihaa min kullin zawjayni itsnayni wa-ahlaka illaa man sabaqa 'alayhi lqawlu waman aamana wamaa aamana ma'ahu illaa qaliil
+
+terjemahan :
+Hingga apabila perintah Kami datang dan tanur (dapur) telah memancarkan air, Kami berfirman, “Muatkanlah ke dalamnya (kapal itu) dari masing-masing (hewan) sepasang (jantan dan betina), dan (juga) keluargamu kecuali orang yang telah terkena ketetapan terdahulu dan (muatkan pula) orang yang beriman.” Ternyata orang-orang beriman yang bersama dengan Nuh hanya sedikit.
+

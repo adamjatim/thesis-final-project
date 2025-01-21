@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+124
+
+surat :
+وَاِذَا جَاۤءَتْهُمْ اٰيَةٌ قَالُوْا لَنْ نُّؤْمِنَ حَتّٰى نُؤْتٰى مِثْلَ مَآ اُوْتِيَ رُسُلُ اللّٰهِ ۘ اَللّٰهُ اَعْلَمُ حَيْثُ يَجْعَلُ رِسٰلَتَهٗۗ سَيُصِيْبُ الَّذِيْنَ اَجْرَمُوْا صَغَارٌ عِنْدَ اللّٰهِ وَعَذَابٌ شَدِيْدٌۢ بِمَا كَانُوْا يَمْكُرُوْنَ
+
+latin :
+wa-idzaa jaa-at-hum aayatun qaaluu lan nu/mina hattaa nu/taa mitsla maa uutiya rusulu laahi laahu a'lamu haytsu yaj'alu risaalatahu sayushiibu ladziina ajramuu shaghaarun 'inda laahi wa'adzaabun syadiidun bimaa kaanuu yamkuruun
+
+terjemahan :
+Dan apabila datang suatu ayat kepada mereka, mereka berkata, “Kami tidak akan percaya (beriman) sebelum diberikan kepada kami seperti apa yang diberikan kepada rasul-rasul Allah.” Allah lebih mengetahui di mana Dia menempatkan tugas kerasulan-Nya. Orang-orang yang berdosa, nanti akan ditimpa kehinaan di sisi Allah dan azab yang keras karena tipu daya yang mereka lakukan.
+

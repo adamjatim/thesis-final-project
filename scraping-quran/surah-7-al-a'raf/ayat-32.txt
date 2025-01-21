@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+32
+
+surat :
+قُلْ مَنْ حَرَّمَ زِيْنَةَ اللّٰهِ الَّتِيْٓ اَخْرَجَ لِعِبَادِهٖ وَالطَّيِّبٰتِ مِنَ الرِّزْقِۗ قُلْ هِيَ لِلَّذِيْنَ اٰمَنُوْا فِى الْحَيٰوةِ الدُّنْيَا خَالِصَةً يَّوْمَ الْقِيٰمَةِۗ  كَذٰلِكَ نُفَصِّلُ الْاٰيٰتِ لِقَوْمٍ يَّعْلَمُوْنَ 
+
+latin :
+qul man harrama ziinata laahi latii akhraja li'ibaadihi waththhayyibaati mina rrizqi qul hiya lilladziina aamanuu fii lhayaati ddunyaa khaalishatan yawma lqiyaamati kadzaalika nufashshilu l-aayaati liqawmin ya'lamuun
+
+terjemahan :
+Katakanlah (Muhammad), “Siapakah yang mengharamkan perhiasan dari Allah yang telah disediakan untuk hamba-hamba-Nya dan rezeki yang baik-baik? Katakanlah, “Semua itu untuk orang-orang yang beriman dalam kehidupan dunia, dan khusus (untuk mereka saja) pada hari Kiamat.” Demikianlah Kami menjelaskan ayat-ayat itu untuk orang-orang yang mengetahui.
+

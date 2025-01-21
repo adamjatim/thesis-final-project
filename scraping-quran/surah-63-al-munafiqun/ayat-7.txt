@@ -1,0 +1,30 @@
+no surat :
+63
+
+nama surat :
+Al-Munafiqun
+
+nama surat arab :
+المنٰفقون
+
+arti surat :
+Orang-Orang Munafik
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hajj. Surat ini dinamai Al-Munaafiquun  yang artinya orang-orang munafik, karena surat ini mengungkapkan  sifat-sifat orang-orang munafik.
+
+ayat :
+7
+
+surat :
+هُمُ الَّذِيْنَ يَقُوْلُوْنَ لَا تُنْفِقُوْا عَلٰى مَنْ عِنْدَ رَسُوْلِ اللّٰهِ حَتّٰى يَنْفَضُّوْاۗ وَلِلّٰهِ خَزَاۤىِٕنُ السَّمٰوٰتِ وَالْاَرْضِۙ وَلٰكِنَّ الْمُنٰفِقِيْنَ لَا يَفْقَهُوْنَ 
+
+latin :
+humu ladziina yaquuluuna laa tunfiquu 'alaa man 'inda rasuuli laahi hattaa yanfadhdhuu walillaahi khazaa-inu ssamaawaati wal-ardhi walaakinna lmunaafiqiina laa yafqahuun
+
+terjemahan :
+Mereka yang berkata (kepada orang-orang Ansar), “Janganlah kamu bersedekah kepada orang-orang (Muhajirin) yang ada di sisi Rasulullah sampai mereka bubar (meninggalkan Rasulullah).” Padahal milik Allah-lah perbendaharaan langit dan bumi, tetapi orang-orang munafik itu tidak memahami.
+

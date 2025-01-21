@@ -1,0 +1,30 @@
+no surat :
+9
+
+nama surat :
+At-Taubah
+
+nama surat arab :
+التوبة
+
+arti surat :
+Pengampunan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat At Taubah terdiri atas 129 ayat termasuk golongan surat-surat Madaniyyah. Surat ini dinamakan At Taubah yang berarti pengampunan berhubung kata At Taubah berulang kali disebut dalam surat ini. Dinamakan juga dengan Baraah yang berarti berlepas diri yang di sini maksudnya pernyataan pemutusan perhubungan, disebabkan kebanyakan pokok pembicaraannya tentang pernyataan pemutusan perjanjian damai dengan kaum musyrikin.  Di samping kedua nama yang masyhur itu ada lagi beberapa nama yang lain yang merupakan sifat dari surat ini.  Berlainan dengan surat-surat yang lain, maka pada permulaan surat ini tidak terdapat basmalah, karena surat ini adalah pernyataan perang dengan arti bahwa segenap kaum muslimin dikerahkan untuk memerangi seluruh kaum musyrikin, sedangkan basmalah bernafaskan perdamaian dan cinta kasih Allah.  Surat ini diturunkan sesudah Nabi Muhammad s.a.w. kembali dari peperangan Tabuk yang terjadi pada tahun 9 H. Pengumuman ini disampaikan oleh Saidina 'Ali r.a. pada musim haji tahun itu juga.
+
+ayat :
+6
+
+surat :
+وَاِنْ اَحَدٌ مِّنَ الْمُشْرِكِيْنَ اسْتَجَارَكَ فَاَجِرْهُ حَتّٰى يَسْمَعَ كَلٰمَ اللّٰهِ ثُمَّ اَبْلِغْهُ مَأْمَنَهٗ ۗذٰلِكَ بِاَنَّهُمْ قَوْمٌ لَّا يَعْلَمُوْنَ ࣖ
+
+latin :
+wa-in ahadun mina lmusyrikiina istajaaraka fa-ajirhu hattaa yasma'a kalaama laahi tsumma ablighhu ma/manahu dzaalika bi-annahum qawmun laa ya'lamuun
+
+terjemahan :
+Dan jika di antara kaum musyrikin ada yang meminta perlindungan kepadamu, maka lindungilah agar dia dapat mendengar firman Allah, kemudian antarkanlah dia ke tempat yang aman baginya. (Demikian) itu karena sesungguhnya mereka kaum yang tidak mengetahui.
+

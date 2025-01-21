@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+45
+
+surat :
+وَكَتَبْنَا عَلَيْهِمْ فِيْهَآ اَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ بِالْعَيْنِ وَالْاَنْفَ بِالْاَنْفِ وَالْاُذُنَ بِالْاُذُنِ وَالسِّنَّ بِالسِّنِّۙ وَالْجُرُوْحَ قِصَاصٌۗ فَمَنْ تَصَدَّقَ بِهٖ فَهُوَ كَفَّارَةٌ لَّهٗ  ۗوَمَنْ لَّمْ يَحْكُمْ بِمَآ 
+
+latin :
+wakatabnaa 'alayhim fiihaa anna nnafsa binnafsi wal'ayna bil'ayni wal-anfa bil-anfi waludzuna biludzuni wassinna bissinni waljuruuha qisasun faman tashaddaqa bihi fahuwa kaffaaratun lahu waman lam yahkum bimaa anzala laahu faulaa-ika humu zhzhaalimuun
+
+terjemahan :
+Kami telah menetapkan bagi mereka di dalamnya (Taurat) bahwa nyawa (dibalas) dengan nyawa, mata dengan mata, hidung dengan hidung, telinga dengan telinga, gigi dengan gigi, dan luka-luka (pun) ada qisas-nya (balasan yang sama). Barangsiapa melepaskan (hak qisas)nya, maka itu (menjadi) penebus dosa baginya. Barangsiapa tidak memutuskan perkara menurut apa yang diturunkan Allah, maka mereka itulah orang-orang zalim.
+

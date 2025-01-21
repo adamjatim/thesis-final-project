@@ -1,0 +1,30 @@
+no surat :
+8
+
+nama surat :
+Al-Anfal
+
+nama surat arab :
+الانفال
+
+arti surat :
+Rampasan Perang
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Anfaal terdiri atas 75 ayat dan termasuk golongan surat-surat Madaniyyah, karena seluruh ayat-ayatnya diturunkan di Madinah. Surat ini dinamakan Al Anfaal yang berarti harta rampasan perang berhubung kata Al Anfaal terdapat pada permulaan surat ini dan juga persoalan yang menonjol dalam surat ini ialah tentang harta rampasan perang, hukum perang dan hal-hal yang berhubungan dengan peperangan pada umumnya. Menurut riwayat Ibnu Abbas r.a. surat ini diturunkan berkenaan dengan perang Badar Kubra yang terjadi pada tahun kedua hijrah. Peperangan ini sangat penting artinya, karena dialah yang menentukan jalan sejarah Perkembangan Islam. Pada waktu itu umat Islam dengan berkekuatan kecil untuk pertama kali dapat mengalahkan kaum musyrikin yang berjumlah besar, dan berperlengkapan yang cukup, dan mereka dalam peperangan ini memperoleh harta rampasan perang yang tidak sedikit. Oleh sebab itu timbullah masalah bagaimana membagi harta-harta rampasan perang itu, maka kemudian Allah menurunkan ayat pertama dari surat ini.
+
+ayat :
+26
+
+surat :
+وَاذْكُرُوْٓا اِذْ اَنْتُمْ قَلِيْلٌ مُّسْتَضْعَفُوْنَ فِى الْاَرْضِ تَخَافُوْنَ اَنْ يَّتَخَطَّفَكُمُ النَّاسُ فَاٰوٰىكُمْ وَاَيَّدَكُمْ بِنَصْرِهٖ وَرَزَقَكُمْ مِّنَ الطَّيِّبٰتِ لَعَلَّكُمْ تَشْكُرُوْنَ
+
+latin :
+wadzkuruu idz antum qaliilun mustadh'afuuna fii l-ardhi takhaafuuna an yatakhaththhafakumu nnaasu faaawaakum wa-ayyadakum binashrihi warazaqakum mina ththhayyibaati la'allakum tasykuruun
+
+terjemahan :
+Dan ingatlah ketika kamu (para Muhajirin) masih (berjumlah) sedikit, lagi tertindas di bumi (Mekah), dan kamu takut orang-orang (Mekah) akan menculik kamu, maka Dia memberi kamu tempat menetap (Madinah) dan dijadikan-Nya kamu kuat dengan pertolongan-Nya dan diberi-Nya kamu rezeki yang baik agar kamu bersyukur.
+

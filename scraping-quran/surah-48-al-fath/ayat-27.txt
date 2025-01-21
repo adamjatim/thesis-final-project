@@ -1,0 +1,30 @@
+no surat :
+48
+
+nama surat :
+Al-Fath
+
+nama surat arab :
+الفتح
+
+arti surat :
+Kemenangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Fath terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Jum'ah. Dinamakan Al Fath (kemenangan) diambil dari perkataan Fat-han yang terdapat pada ayat pertama surat ini. Sebagian besar dari ayat-ayat surat ini menerangkan hal-hal yang berhubungan dengan kemenangan yang dicapai Nabi Muhammad s.a.w. dalam peperangan-peperangannya. Nabi Muhammad s.a.w. sangat gembira dengan turunnya ayat pertama surat ini. Kegembiraan ini dinyatakan dalam sabda beliau yang diriwayatkan Bukhari; Sesungguhnya telah diturunkan kepadaku satu surat, yang surat itu benar-benar lebih aku cintai dari seluruh apa yang disinari matahari. Kegembiraan Nabi Muhammad s.a.w. itu ialah karena ayat-ayatnya menerangkan tentang kemenangan yang akan diperoleh Muhammad s.a.w. dalam perjuangannya dan tentang kesempurnaan nikmat Allah kepadanya.
+
+ayat :
+27
+
+surat :
+لَقَدْ صَدَقَ اللّٰهُ رَسُوْلَهُ الرُّءْيَا بِالْحَقِّ ۚ لَتَدْخُلُنَّ الْمَسْجِدَ الْحَرَامَ اِنْ شَاۤءَ اللّٰهُ اٰمِنِيْنَۙ مُحَلِّقِيْنَ رُءُوْسَكُمْ وَمُقَصِّرِيْنَۙ  لَا تَخَافُوْنَ ۗفَعَلِمَ مَا لَمْ تَعْلَمُوْا فَجَعَلَ مِنْ دُوْنِ ذٰلِكَ فَتْحًا ق
+
+latin :
+laqad shadaqa laahu rasuulahu rru/yaa bilhaqqi latadkhulunna lmasjida lharaama in syaa-a laahu aaminiina muhalliqiina ruuusakum wamuqashshiriina laa takhaafuuna fa'alima maa lam ta'lamuu faja'ala min duuni dzaalika fathan qariibaa
+
+terjemahan :
+Sungguh, Allah akan membuktikan kepada Rasul-Nya tentang kebenaran mimpinya bahwa kamu pasti akan memasuki Masjidilharam, jika Allah menghendaki dalam keadaan aman, dengan menggundul rambut kepala dan memendekkannya, sedang kamu tidak merasa takut. Maka Allah mengetahui apa yang tidak kamu ketahui dan selain itu Dia telah memberikan kemenangan yang dekat.
+

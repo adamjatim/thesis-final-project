@@ -1,0 +1,30 @@
+no surat :
+22
+
+nama surat :
+Al-Hajj
+
+nama surat arab :
+الحج
+
+arti surat :
+Haji
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hajj, termasuk golongan surat-surat Madaniyyah, terdiri atas 78 ayat, sedang menurut pendapat sebahagian ahli tafsir termasuk golongan surat-surat Makkiyah. Sebab perbedaan ini ialah karena sebahagian ayat-ayat surat ini ada yang diturunkan di Mekah dan sebahagian lagi diturunkan di Madinah. Dinamai surat ini Al Hajj, karena surat ini mengemukakan hal-hal yang berhubungan dengan ibadat haji, seperti ihram, thawaf, sa'i, wuquf di Arafah, mencukur rambut, syi'ar-syi'ar Allah, faedah-faedah dan hikmah-hikmah disyari'atkannya haji. Ditegaskan pula bahwa ibadat haji itu telah disyari'atkan di masa Nabi Ibrahim a.s., dan Ka'bah didirikan oleh Nabi Ibrahim a.s. bersama puteranya Ismail a.s.Menurut Al Ghaznawi, surat Al Hajj termasuk di antara surat- surat yang ajaib, diturunkan di malam dan di siang hari, dalam musafir dan dalam keadaan tidak musafir, ada ayat-ayat yang diturunkan di Mekah dan ada pula yang diturunkan di Madinah, isinya ada yang berhubungan dengan peperangan dan ada pula yang berhubungan dengan perdamaian, ada ayat-ayatnya yang muhkam dan ada pula yang mutasyabihaat.
+
+ayat :
+18
+
+surat :
+اَلَمْ تَرَ اَنَّ اللّٰهَ يَسْجُدُ لَهٗ مَنْ فِى السَّمٰوٰتِ وَمَنْ فِى الْاَرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُوْمُ وَالْجِبَالُ وَالشَّجَرُ وَالدَّوَاۤبُّ وَكَثِيْرٌ مِّنَ النَّاسِۗ وَكَثِيْرٌ حَقَّ عَلَيْهِ الْعَذَابُۗ وَمَنْ يُّهِنِ اللّٰهُ فَمَا ل
+
+latin :
+alam tara anna laaha yasjudu lahu man fii ssamaawaati waman fii l-ardhi wasysyamsu walqamaru wannujuumu waljibaalu wasysyajaru waddawaabbu wakatsiirun mina nnaasi wakatsiirun haqqa 'alayhi l'adzaabu waman yuhini laahu famaa lahu min mukrimin inna laaha yaf'alu maa yasyaa/
+
+terjemahan :
+Tidakkah engkau tahu bahwa siapa yang ada di langit dan siapa yang ada di bumi bersujud kepada Allah, juga matahari, bulan, bintang, gunung-gunung, pohon-pohon, hewan-hewan yang melata dan banyak di antara manusia? Tetapi banyak (manusia) yang pantas mendapatkan azab. Barangsiapa dihinakan Allah, tidak seorang pun yang akan memuliakannya. Sungguh, Allah berbuat apa saja yang Dia kehendaki.
+

@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+154
+
+surat :
+وَرَفَعْنَا فَوْقَهُمُ الطُّوْرَ بِمِيْثَاقِهِمْ وَقُلْنَا لَهُمُ ادْخُلُوا الْبَابَ سُجَّدًا وَّقُلْنَا لَهُمْ لَا تَعْدُوْا فِى السَّبْتِ وَاَخَذْنَا مِنْهُمْ مِّيْثَاقًا غَلِيْظًا
+
+latin :
+warafa'naa fawqahumu ththhuura bimiitsaaqihim waqulnaa lahumu udkhuluu lbaaba sujjadan waqulnaa lahum laa ta'duu fii ssabti wa-akhadznaa minhum miitsaaqan ghaliizhaa
+
+terjemahan :
+Dan Kami angkat gunung (Sinai) di atas mereka untuk (menguatkan) perjanjian mereka. Dan Kami perintahkan kepada mereka, “Masukilah pintu gerbang (Baitulmaqdis) itu sambil bersujud,” dan Kami perintahkan (pula) kepada mereka, “Janganlah kamu melanggar peraturan mengenai hari Sabat.” Dan Kami telah mengambil dari mereka perjanjian yang kukuh.
+

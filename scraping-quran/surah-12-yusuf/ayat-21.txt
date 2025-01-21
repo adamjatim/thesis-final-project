@@ -1,0 +1,30 @@
+no surat :
+12
+
+nama surat :
+Yusuf
+
+nama surat arab :
+يوسف
+
+arti surat :
+Yusuf
+
+tempat turun :
+mekah
+
+deskripsi :
+ Surat Yusuf ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum hijrah. Surat ini dinamakan surat Yusuf adalah karena titik berat dari isinya mengenai riwayat Nabi Yusuf a.s.  Riwayat tersebut salah satu di antara cerita-cerita ghaib yang diwahyukan kepada Nabi Muhammad s.a.w. sebagai mukjizat bagi beliau, sedang beliau sebelum diturunkan surat ini tidak mengetahuinya.  Menurut riwayat Al Baihaqi dalam kitab Ad Dalail bahwa segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf a.s. ini, karena sesuai dengan cerita-cerita yang mereka ketahui. Dari cerita Yusuf a.s. ini, Nabi Muhammad s.a.w. mengambil pelajaran-pelajaran yang banyak dan merupakan penghibur terhadap beliau dalam menjalankan tugasnya.
+
+ayat :
+21
+
+surat :
+وَقَالَ الَّذِى اشْتَرٰىهُ مِنْ مِّصْرَ لِامْرَاَتِهٖٓ اَكْرِمِيْ مَثْوٰىهُ عَسٰىٓ اَنْ يَّنْفَعَنَآ اَوْ نَتَّخِذَهٗ وَلَدًا ۗوَكَذٰلِكَ مَكَّنَّا لِيُوْسُفَ فِى الْاَرْضِۖ وَلِنُعَلِّمَهٗ مِنْ تَأْوِيْلِ الْاَحَادِيْثِۗ وَاللّٰهُ غَالِبٌ عَلٰٓى اَمْرِه
+
+latin :
+waqaala ladzii isytaraahu min mishra limra-atihi akrimii matswaahu 'asaa an yanfa'anaa aw nattakhidzahu waladan wakadzaalika makkannaa liyuusufa fii l-ardhi walinu'allimahu min ta/wiili l-ahaadiitsi walaahu ghaalibun 'alaa amrihi walaakinna aktsara nnaasi laa ya'lamuun
+
+terjemahan :
+Dan orang dari Mesir yang membelinya berkata kepada istrinya,” Berikanlah kepadanya tempat (dan layanan) yang baik, mudah-mudahan dia bermanfaat bagi kita atau kita pungut dia sebagai anak.” Dan demikianlah Kami memberikan kedudukan yang baik kepada Yusuf di negeri (Mesir), dan agar Kami ajarkan kepadanya takwil mimpi. Dan Allah berkuasa terhadap urusan-Nya, tetapi kebanyakan manusia tidak mengerti.
+

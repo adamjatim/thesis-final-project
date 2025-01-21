@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+127
+
+surat :
+وَيَسْتَفْتُوْنَكَ فِى النِّسَاۤءِۗ  قُلِ اللّٰهُ يُفْتِيْكُمْ فِيْهِنَّ ۙوَمَا يُتْلٰى عَلَيْكُمْ فِى الْكِتٰبِ فِيْ يَتٰمَى النِّسَاۤءِ الّٰتِيْ لَا تُؤْتُوْنَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُوْنَ اَنْ تَنْكِحُوْهُنَّ وَالْمُسْتَضْعَفِيْنَ مِنَ الْوِل
+
+latin :
+wayastaftuunaka fii nnisaa-i quli laahu yuftiikum fiihinna wamaa yutlaa 'alaykum fii lkitaabi fii yataamaa nnisaa-i laatii laa tu/tuunahunna maa kutiba lahunna watarghabuuna an tankihuuhunna walmustadh'afiina mina lwildaani wa-an taquumuu lilyataamaa bilqisthi wamaa taf'aluu min khayrin fa-inna laaha kaana bihi 'aliimaa
+
+terjemahan :
+Dan mereka meminta fatwa kepadamu tentang perempuan. Katakanlah, “Allah memberi fatwa kepadamu tentang mereka, dan apa yang dibacakan kepadamu dalam Al-Qur'an (juga memfatwakan) tentang para perempuan yatim yang tidak kamu berikan sesuatu (maskawin) yang ditetapkan untuk mereka, sedang kamu ingin menikahi mereka dan (tentang) anak-anak yang masih dipandang lemah. Dan (Allah menyuruh kamu) agar mengurus anak-anak yatim secara adil. Dan kebajikan apa pun yang kamu kerjakan, sesungguhnya Allah Maha Mengetahui.”
+

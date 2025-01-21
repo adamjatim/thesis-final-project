@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+135
+
+surat :
+وَالَّذِيْنَ اِذَا فَعَلُوْا فَاحِشَةً اَوْ ظَلَمُوْٓا اَنْفُسَهُمْ ذَكَرُوا اللّٰهَ فَاسْتَغْفَرُوْا لِذُنُوْبِهِمْۗ وَمَنْ يَّغْفِرُ الذُّنُوْبَ اِلَّا اللّٰهُ ۗ وَلَمْ يُصِرُّوْا عَلٰى مَا فَعَلُوْا وَهُمْ يَعْلَمُوْنَ 
+
+latin :
+walladziina idzaa fa'aluu faahisyatan aw zhalamuu anfusahum dzakaruu laaha fastaghfaruu lidzunuubihim waman yaghfiru dzdzunuuba illaa laahu walam yushirruu 'alaa maa fa'aluu wahum ya'lamuun
+
+terjemahan :
+dan (juga) orang-orang yang apabila mengerjakan perbuatan keji atau menzalimi diri sendiri, (segera) mengingat Allah, lalu memohon ampunan atas dosa-dosanya, dan siapa (lagi) yang dapat mengampuni dosa-dosa selain Allah? Dan mereka tidak meneruskan perbuatan dosa itu, sedang mereka mengetahui.
+

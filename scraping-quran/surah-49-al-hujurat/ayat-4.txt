@@ -1,0 +1,30 @@
+no surat :
+49
+
+nama surat :
+Al-Hujurat
+
+nama surat arab :
+الحجرٰت
+
+arti surat :
+Kamar-Kamar
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hujuraat terdiri atas 18 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Mujaadalah. Dinamai Al Hujuraat diambil dari perkataan Al Hujuraat yang terdapat pada ayat 4 surat ini. Ayat tersebut mencela para sahabat yang memanggil Nabi Muhammad SAW yang sedang berada di dalam kamar rumahnya bersama isterinya. Memanggil Nabi Muhammad SAW dengan cara dan dalam keadaan yang demikian menunjukkan sifat kurang hormat kepada beliau dan mengganggu ketenteraman beliau.
+
+ayat :
+4
+
+surat :
+اِنَّ الَّذِيْنَ يُنَادُوْنَكَ مِنْ وَّرَاۤءِ الْحُجُرٰتِ اَكْثَرُهُمْ لَا يَعْقِلُوْنَ 
+
+latin :
+inna ladziina yunaaduunaka min waraa-i lhujuraati aktsaruhum laa ya'qiluun
+
+terjemahan :
+Sesungguhnya orang-orang yang memanggil engkau (Muhammad) dari luar kamar(mu) kebanyakan mereka tidak mengerti. 
+

@@ -1,0 +1,30 @@
+no surat :
+8
+
+nama surat :
+Al-Anfal
+
+nama surat arab :
+الانفال
+
+arti surat :
+Rampasan Perang
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Anfaal terdiri atas 75 ayat dan termasuk golongan surat-surat Madaniyyah, karena seluruh ayat-ayatnya diturunkan di Madinah. Surat ini dinamakan Al Anfaal yang berarti harta rampasan perang berhubung kata Al Anfaal terdapat pada permulaan surat ini dan juga persoalan yang menonjol dalam surat ini ialah tentang harta rampasan perang, hukum perang dan hal-hal yang berhubungan dengan peperangan pada umumnya. Menurut riwayat Ibnu Abbas r.a. surat ini diturunkan berkenaan dengan perang Badar Kubra yang terjadi pada tahun kedua hijrah. Peperangan ini sangat penting artinya, karena dialah yang menentukan jalan sejarah Perkembangan Islam. Pada waktu itu umat Islam dengan berkekuatan kecil untuk pertama kali dapat mengalahkan kaum musyrikin yang berjumlah besar, dan berperlengkapan yang cukup, dan mereka dalam peperangan ini memperoleh harta rampasan perang yang tidak sedikit. Oleh sebab itu timbullah masalah bagaimana membagi harta-harta rampasan perang itu, maka kemudian Allah menurunkan ayat pertama dari surat ini.
+
+ayat :
+62
+
+surat :
+وَاِنْ يُّرِيْدُوْٓا اَنْ يَّخْدَعُوْكَ فَاِنَّ حَسْبَكَ اللّٰهُ ۗهُوَ الَّذِيْٓ اَيَّدَكَ بِنَصْرِهٖ وَبِالْمُؤْمِنِيْنَۙ 
+
+latin :
+wa-in yuriiduu an yakhda'uuka fa-inna hasbaka laahu huwa ladzii ayyadaka binashrihi wabilmu/miniin
+
+terjemahan :
+Dan jika mereka hendak menipumu, maka sesungguhnya cukuplah Allah (menjadi pelindung) bagimu. Dialah yang memberikan kekuatan kepadamu dengan pertolongan-Nya dan dengan (dukungan) orang-orang mukmin,
+

@@ -1,0 +1,30 @@
+no surat :
+66
+
+nama surat :
+At-Tahrim
+
+nama surat arab :
+التحريم
+
+arti surat :
+Pengharaman
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hujuraat. Dinamai surat At Tahrim karena pada awal surat ini terdapat kata tuharrim yang kata asalnya adalah Attahrim yang berarti mengharamkan.
+
+ayat :
+10
+
+surat :
+ضَرَبَ اللّٰهُ مَثَلًا لِّلَّذِيْنَ كَفَرُوا امْرَاَتَ نُوْحٍ وَّامْرَاَتَ لُوْطٍۗ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَالِحَيْنِ فَخَانَتٰهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ اللّٰهِ شَيْـًٔا وَّقِيْلَ ادْخُلَا النَّارَ مَعَ الدَّاخِلِيْنَ 
+
+latin :
+dharaba laahu matsalan lilladziina kafaruu imra-ata nuuhin wamra-ata luuthin kaanataa tahta 'abdayni min 'ibaadinaa shaalihayni fakhaanataahumaa falam yughniyaa 'anhumaa mina laahi syay-an waqiila udkhulaa nnaara ma'a ddaakhiliin
+
+terjemahan :
+Allah membuat perumpamaan bagi orang-orang kafir, istri Nuh dan istri Lut. Keduanya berada di bawah pengawasan dua orang hamba yang saleh di antara hamba-hamba Kami; lalu kedua istri itu berkhianat kepada kedua suaminya, tetapi kedua suaminya itu tidak dapat membantu mereka sedikit pun dari (siksaan) Allah; dan dikatakan (kepada kedua istri itu), “Masuklah kamu berdua ke neraka bersama orang-orang yang masuk (neraka).” 
+

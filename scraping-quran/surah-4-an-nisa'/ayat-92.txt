@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+92
+
+surat :
+وَمَا كَانَ لِمُؤْمِنٍ اَنْ يَّقْتُلَ مُؤْمِنًا اِلَّا خَطَـًٔا ۚ وَمَنْ قَتَلَ مُؤْمِنًا خَطَـًٔا فَتَحْرِيْرُ رَقَبَةٍ مُّؤْمِنَةٍ وَّدِيَةٌ مُّسَلَّمَةٌ اِلٰٓى  اَهْلِهٖٓ  اِلَّآ  اَنْ يَّصَّدَّقُوْا ۗ فَاِنْ كَانَ مِنْ قَوْمٍ عَدُوٍّ لَّكُمْ وَهُوَ م
+
+latin :
+wamaa kaana limu/minin an yaqtula mu/minan illaa khatha-an waman qatala mu/minan khatha-an fatahriiru raqabatin mu/minatin wadiyatun musallamatun ilaa ahlihi illaa an yashshaddaquu fa-in kaana min qawmin 'aduwwin lakum wahuwa mu/minun fatahriiru raqabatin mu/minatin wa-in kaana min qawmin baynakum wabaynahum miitsaaqun fadiyatun musallamatun ilaa ahlihi watahriiru raqabatin mu/minatin faman lam yajid fashiyaamu syahrayni mutataabi'ayni tawbatan mina laahi wakaana laahu 'aliiman hakiimaa
+
+terjemahan :
+Dan tidak patut bagi seorang yang beriman membunuh seorang yang beriman (yang lain), kecuali karena tersalah (tidak sengaja). Barangsiapa membunuh seorang yang beriman karena tersalah (hendaklah) dia memerdekakan seorang hamba sahaya yang beriman serta (membayar) tebusan yang diserahkan kepada keluarganya (si terbunuh itu), kecuali jika mereka (keluarga si terbunuh) membebaskan pembayaran. Jika dia (si terbunuh) dari kaum yang memusuhimu, padahal dia orang beriman, maka (hendaklah si pembunuh) memerdekakan hamba sahaya yang beriman. Dan jika dia (si terbunuh) dari kaum (kafir) yang ada perjanjian (damai) antara mereka dengan kamu, maka (hendaklah si pembunuh) membayar tebusan yang diserahkan kepada keluarganya (si terbunuh) serta memerdekakan hamba sahaya yang beriman. Barangsiapa tidak mendapatkan (hamba sahaya), maka hendaklah dia (si pembunuh) berpuasa dua bulan berturut-turut sebagai tobat kepada Allah. Dan Allah Maha Mengetahui, Mahabijaksana.
+

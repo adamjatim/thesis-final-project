@@ -1,0 +1,30 @@
+no surat :
+12
+
+nama surat :
+Yusuf
+
+nama surat arab :
+يوسف
+
+arti surat :
+Yusuf
+
+tempat turun :
+mekah
+
+deskripsi :
+ Surat Yusuf ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum hijrah. Surat ini dinamakan surat Yusuf adalah karena titik berat dari isinya mengenai riwayat Nabi Yusuf a.s.  Riwayat tersebut salah satu di antara cerita-cerita ghaib yang diwahyukan kepada Nabi Muhammad s.a.w. sebagai mukjizat bagi beliau, sedang beliau sebelum diturunkan surat ini tidak mengetahuinya.  Menurut riwayat Al Baihaqi dalam kitab Ad Dalail bahwa segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf a.s. ini, karena sesuai dengan cerita-cerita yang mereka ketahui. Dari cerita Yusuf a.s. ini, Nabi Muhammad s.a.w. mengambil pelajaran-pelajaran yang banyak dan merupakan penghibur terhadap beliau dalam menjalankan tugasnya.
+
+ayat :
+88
+
+surat :
+فَلَمَّا دَخَلُوْا عَلَيْهِ قَالُوْا يٰٓاَيُّهَا الْعَزِيْزُ مَسَّنَا وَاَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُّزْجٰىةٍ فَاَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَاۗ اِنَّ اللّٰهَ يَجْزِى الْمُتَصَدِّقِيْنَ
+
+latin :
+falammaa dakhaluu 'alayhi qaaluu yaa ayyuhaa l'aziizu massanaa wa-ahlanaa dhdhurru waji/naa bibidaa'atin muzjaatin fa-awfi lanaa lkayla watashaddaq 'alaynaa inna laaha yajzii lmutashaddiqiin
+
+terjemahan :
+Maka ketika mereka masuk ke (tempat) Yusuf, mereka berkata, “Wahai Al-Aziz! Kami dan keluarga kami telah ditimpa kesengsaraan dan kami datang membawa barang-barang yang tidak berharga, maka penuhilah jatah (gandum) untuk kami, dan bersedekahlah kepada kami. Sesungguhnya Allah memberi balasan kepada orang yang bersedekah.”
+

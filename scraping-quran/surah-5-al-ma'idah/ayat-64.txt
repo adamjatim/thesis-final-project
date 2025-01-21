@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+64
+
+surat :
+وَقَالَتِ الْيَهُوْدُ يَدُ اللّٰهِ مَغْلُوْلَةٌ  ۗغُلَّتْ اَيْدِيْهِمْ وَلُعِنُوْا بِمَا قَالُوْا ۘ بَلْ يَدٰهُ مَبْسُوْطَتٰنِۙ يُنْفِقُ كَيْفَ يَشَاۤءُۗ وَلَيَزِيْدَنَّ كَثِيْرًا مِّنْهُمْ مَّآ اُنْزِلَ اِلَيْكَ مِنْ رَّبِّكَ طُغْيَانًا وَّكُفْرًاۗ وَاَ
+
+latin :
+waqaalati lyahuudu yadu laahi maghluulatun ghullat aydiihim walu'inuu bimaa qaaluu bal yadaahu mabsuuthataani yunfiqu kayfa yasyaau walayaziidanna katsiiran minhum maa unzila ilayka min rabbika thughyaanan wakufran wa-alqaynaa baynahumu l'adaawata walbaghdhaa-a ilaa yawmi lqiyaamati kullamaa awqaduu naaran lilharbi athfa-ahaa laahu wayas'awna fii l-ardhi fasaadan walaahu laa yuhibbu lmufsidiin
+
+terjemahan :
+Dan orang-orang Yahudi berkata, “Tangan Allah terbelenggu.” Sebenarnya tangan merekalah yang dibelenggu dan merekalah yang dilaknat disebabkan apa yang telah mereka katakan itu, padahal kedua tangan Allah terbuka; Dia memberi rezeki sebagaimana Dia kehendaki. Dan (Al-Qur'an) yang diturunkan kepadamu dari Tuhanmu itu pasti akan menambah kedurhakaan dan kekafiran bagi kebanyakan mereka. Dan Kami timbulkan permusuhan dan kebencian di antara mereka sampai hari Kiamat. Setiap mereka menyalakan api peperangan, Allah memadamkannya. Dan mereka berusaha (menimbulkan) kerusakan di bumi. Dan Allah tidak menyukai orang-orang yang berbuat kerusakan.
+

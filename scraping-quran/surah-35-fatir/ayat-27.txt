@@ -1,0 +1,30 @@
+no surat :
+35
+
+nama surat :
+Fatir
+
+nama surat arab :
+فاطر
+
+arti surat :
+Maha Pencipta
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Faathir terdiri atas 45 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Furqaan dan merupakan surat akhir dari urutan surat-surat dalam Al Quran yang dimulai dengan Alhamdulillah. Dinamakan Faathir (pencipta) ada hubungannya dengan perkataan Faathir yang terdapat pada ayat pertama pada surat ini. Pada ayat tersebut diterangkan bahwa Allah adalah Pencipta langit dan bumi, Pencipta malaikat-malaikat, Pencipta semesta alam yang semuanya itu adalah sebagai bukti atas kekuasaan dan kebesaran-Nya. Surat ini dinamai juga dengan surat Malaikat karena pada ayat pertama disebutkan bahwa Allah telah menjadikan malaikat-malaikat sebagai utusan-Nya  yang mempunyai beberapa sayap.
+
+ayat :
+27
+
+surat :
+اَلَمْ تَرَ اَنَّ اللّٰهَ اَنْزَلَ مِنَ السَّمَاۤءِ مَاۤءًۚ فَاَخْرَجْنَا بِهٖ ثَمَرٰتٍ مُّخْتَلِفًا اَلْوَانُهَا ۗوَمِنَ الْجِبَالِ جُدَدٌ ۢبِيْضٌ وَّحُمْرٌ مُّخْتَلِفٌ اَلْوَانُهَا وَغَرَابِيْبُ سُوْدٌ 
+
+latin :
+alam tara anna laaha anzala mina ssamaa-i maa-an fa-akhrajnaa bihi tsamaraatin mukhtalifan lwaanuhaa wamina ljibaali judadun biidhun wahumrun mukhtalifun lwaanuhaa wagharaabiibu suud
+
+terjemahan :
+Tidakkah engkau melihat bahwa Allah menurunkan air dari langit lalu dengan air itu Kami hasilkan buah-buahan yang beraneka macam jenisnya. Dan di antara gunung-gunung itu ada garis-garis putih dan merah yang beraneka macam warnanya dan ada (pula) yang hitam pekat.
+

@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+184
+
+surat :
+اَيَّامًا مَّعْدُوْدٰتٍۗ فَمَنْ كَانَ مِنْكُمْ مَّرِيْضًا اَوْ عَلٰى سَفَرٍ فَعِدَّةٌ مِّنْ اَيَّامٍ اُخَرَ ۗ وَعَلَى الَّذِيْنَ يُطِيْقُوْنَهٗ فِدْيَةٌ طَعَامُ مِسْكِيْنٍۗ  فَمَنْ تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ لَّهٗ ۗ وَاَنْ تَصُوْمُوْا خَيْرٌ لَّكُمْ 
+
+latin :
+ayyaaman ma'duudaatin faman kaana minkum mariidhan aw 'alaa safarin fa'iddatun min ayyaamin ukhara wa'alaa ladziina yuthiiquunahu fidyatun tha'aamu miskiinin faman tathawwa'a khayran fahuwa khayrun lahu wa-an tashuumuu khayrun lakum in kuntum ta'lamuun
+
+terjemahan :
+(Yaitu) beberapa hari tertentu. Maka barangsiapa di antara kamu sakit atau dalam perjalanan (lalu tidak berpuasa), maka (wajib mengganti) sebanyak hari (yang dia tidak berpuasa itu) pada hari-hari yang lain. Dan bagi orang yang berat menjalankannya, wajib membayar fidyah, yaitu memberi makan seorang miskin. Tetapi barangsiapa dengan kerelaan hati mengerjakan kebajikan, maka itu lebih baik baginya, dan puasamu itu lebih baik bagimu jika kamu mengetahui.
+

@@ -1,0 +1,30 @@
+no surat :
+77
+
+nama surat :
+Al-Mursalat
+
+nama surat arab :
+المرسلٰت
+
+arti surat :
+Malaikat Yang Diutus
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Mursalaat terdiri atas 50 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Humazah. Dinamai Al Mursalaat (Malaikat-Malaikat yang diutus), diambil dari perkataan Al Mursalaat yang terdapat pada ayat pertama surat ini. Dinamai juga Amma yatasaa aluun diambil dari perkataan Amma yatasaa aluun yang terdapat pada ayat 1 surat ini.
+
+ayat :
+39
+
+surat :
+فَاِنْ كَانَ لَكُمْ كَيْدٌ فَكِيْدُوْنِ 
+
+latin :
+fa-in kaana lakum kaydun fakiiduun
+
+terjemahan :
+Maka jika kamu punya tipu daya, maka lakukanlah (tipu daya) itu terhadap-Ku. 
+

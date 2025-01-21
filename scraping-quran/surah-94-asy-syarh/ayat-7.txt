@@ -1,0 +1,30 @@
+no surat :
+94
+
+nama surat :
+Asy-Syarh
+
+nama surat arab :
+الشرح
+
+arti surat :
+Lapang
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat Adh Dhuhaa. Nama Alam Nasyrah diambil dari kata Alam Nasyrah yang terdapat pada ayat pertama, yang berarti: bukankah Kami telah melapangkan.
+
+ayat :
+7
+
+surat :
+فَاِذَا فَرَغْتَ فَانْصَبْۙ
+
+latin :
+fa-idzaa faraghta fanshab
+
+terjemahan :
+Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain),
+

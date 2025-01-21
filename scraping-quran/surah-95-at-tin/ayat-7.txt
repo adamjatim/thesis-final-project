@@ -1,0 +1,30 @@
+no surat :
+95
+
+nama surat :
+At-Tin
+
+nama surat arab :
+التين
+
+arti surat :
+Buah Tin
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Buruuj. Nama At Tiin diambil dari kata At Tiin yang terdapat pada ayat pertama surat ini yang artinya buah Tin.
+
+ayat :
+7
+
+surat :
+فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّيْنِۗ
+
+latin :
+famaa yukadzdzibuka ba'du biddiin
+
+terjemahan :
+Maka apa yang menyebabkan (mereka) mendustakanmu (tentang) hari pembalasan setelah (adanya keterangan-keterangan) itu?
+

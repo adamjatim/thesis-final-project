@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+189
+
+surat :
+۞ هُوَ الَّذِيْ خَلَقَكُمْ مِّنْ نَّفْسٍ وَّاحِدَةٍ وَّجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ اِلَيْهَاۚ فَلَمَّا تَغَشّٰىهَا حَمَلَتْ حَمْلًا خَفِيْفًا فَمَرَّتْ بِهٖ ۚفَلَمَّآ اَثْقَلَتْ دَّعَوَا اللّٰهَ رَبَّهُمَا لَىِٕنْ اٰتَيْتَنَا صَالِحًا لَّنَكُوْنَ
+
+latin :
+huwa ladzii khalaqakum min nafsin waahidatin waja'ala minhaa zawjahaa liyaskuna ilayhaa falammaa taghasysyaahaa hamalat hamlan khafiifan famarrat bihi falammaa atsqalat da'awaa laaha rabbahumaa la-in aataytanaa shaalihan lanakuunanna mina sysyaakiriin
+
+terjemahan :
+Dialah yang menciptakan kamu dari jiwa yang satu (Adam) dan daripadanya Dia menciptakan pasangannya, agar dia merasa senang kepadanya. Maka setelah dicampurinya, (istrinya) mengandung kandungan yang ringan, dan teruslah dia merasa ringan (beberapa waktu). Kemudian ketika dia merasa berat, keduanya (suami istri) bermohon kepada Allah, Tuhan Mereka (seraya berkata), “Jika Engkau memberi kami anak yang saleh, tentulah kami akan selalu bersyukur.”
+

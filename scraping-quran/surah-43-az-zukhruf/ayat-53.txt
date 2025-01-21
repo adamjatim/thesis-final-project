@@ -1,0 +1,30 @@
+no surat :
+43
+
+nama surat :
+Az-Zukhruf
+
+nama surat arab :
+الزخرف
+
+arti surat :
+Perhiasan
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Az Zukhruf terdiri atas 89 ayat, termasuk golongan  surat-surat Makkiyyah, diturunkan sesudah surat Asy Syuura. Dinamai Az Zukhruf (Perhiasan) diambil dari perkataan Az Zukhruf yang terdapat pada ayat 35 surat ini.  Orang-orang musyrik mengukur tinggi rendahnya derajat seseorang tergantung kepada perhiasan dan harta benda yang ia punyai, karena Muhammad s.a.w. adalah seorang anak yatim lagi miskin, ia tidak pantas diangkat Allah sebagai seorang rasul dan nabi.  Pangkat rasul dan nabi harus diberikan kepada orang yang kaya.  Ayat ini menegaskan bahwa harta tidak dapat dijadikan dasar untuk mengukur tinggi rendahnya derajat seseorang, karena harta itu merupakan hiasan kehidupan duniawi, bukan berarti kesenangan akhirat.
+
+ayat :
+53
+
+surat :
+فَلَوْلَٓا اُلْقِيَ عَلَيْهِ اَسْوِرَةٌ مِّنْ ذَهَبٍ اَوْ جَاۤءَ مَعَهُ الْمَلٰۤىِٕكَةُ مُقْتَرِنِيْنَ 
+
+latin :
+falawlaa ulqiya 'alayhi aswiratun min dzahabin aw jaa-a ma'ahu lmalaa-ikatu muqtariniin
+
+terjemahan :
+Maka mengapa dia (Musa) tidak dipakaikan gelang dari emas atau malaikat datang bersama-sama dia untuk mengiringkannya?”
+

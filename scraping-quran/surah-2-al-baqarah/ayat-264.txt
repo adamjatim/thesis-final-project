@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+264
+
+surat :
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لَا تُبْطِلُوْا صَدَقٰتِكُمْ بِالْمَنِّ وَالْاَذٰىۙ  كَالَّذِيْ يُنْفِقُ مَالَهٗ رِئَاۤءَ النَّاسِ وَلَا يُؤْمِنُ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِۗ  فَمَثَلُهٗ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَاَصَابَهٗ وَابِلٌ فَتَرَك
+
+latin :
+yaa ayyuhaa ladziina aamanuu laa tubthiluu shadaqaatikum bilmanni wal-adzaa kalladzii yunfiqu maalahu ri-aa-a nnaasi walaa yu/minu bilaahi walyawmi l-aakhiri famatsaluhu kamatsali shafwaanin 'alayhi turaabun fa-ashaabahu waabilun fatarakahu shaldan laa yaqdiruuna 'alaa syay-in mimmaa kasabuu walaahu laa yahdii lqawma lkaafiriin
+
+terjemahan :
+Wahai orang-orang yang beriman! Janganlah kamu merusak sedekahmu dengan menyebut-nyebutnya dan menyakiti (perasaan penerima), seperti orang yang menginfakkan hartanya karena ria (pamer) kepada manusia dan dia tidak beriman kepada Allah dan hari akhir. Perumpamaannya (orang itu) seperti batu yang licin yang di atasnya ada debu, kemudian batu itu ditimpa hujan lebat, maka tinggallah batu itu licin lagi. Mereka tidak memperoleh sesuatu apa pun dari apa yang mereka kerjakan. Dan Allah tidak memberi petunjuk kepada orang-orang kafir.
+

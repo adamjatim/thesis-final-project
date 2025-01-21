@@ -1,0 +1,30 @@
+no surat :
+18
+
+nama surat :
+Al-Kahf
+
+nama surat arab :
+الكهف
+
+arti surat :
+Goa
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat  ini terdiri atas 110 ayat, termasuk  golongan  surat-surat Makkiyyah. Dinamai Al-Kahfi artinya Gua dan Ashhabul Kahfi yang artinya Penghuni-Penghuni Gua. Kedua nama ini diambil dari cerita yang terdapat dalam surat ini pada ayat 9 sampai dengan 26, tentang beberapa orang pemuda yang tidur dalam gua bertahun-tahun lamanya. Selain cerita tersebut, terdapat pula beberapa buah cerita dalam surat ini, yang kesemuanya mengandung i'tibar dan pelajaran-pelajaran yang amat berguna bagi kehidupan manusia. Banyak hadist-hadist Rasulullah s.a.w. yang menyatakan keutamaan membaca surat ini.
+
+ayat :
+50
+
+surat :
+وَاِذْ قُلْنَا لِلْمَلٰۤىِٕكَةِ اسْجُدُوْا لِاٰدَمَ فَسَجَدُوْٓا اِلَّآ اِبْلِيْسَۗ كَانَ مِنَ الْجِنِّ فَفَسَقَ عَنْ اَمْرِ رَبِّهٖۗ اَفَتَتَّخِذُوْنَهٗ وَذُرِّيَّتَهٗٓ اَوْلِيَاۤءَ مِنْ دُوْنِيْ وَهُمْ لَكُمْ عَدُوٌّۗ بِئْسَ لِلظّٰلِمِيْنَ بَدَلًا 
+
+latin :
+wa-idz qulnaa lilmalaa-ikati usjuduu li-aadama fasajaduu illaa ibliisa kaana mina ljinni fafasaqa 'an amri rabbihi afatattakhidzuunahu wadzurriyyatahu awliyaa-a min duunii wahum lakum 'aduwwun bi/sa lizhzhaalimiina badalaa
+
+terjemahan :
+Dan (ingatlah) ketika Kami berfirman kepada para malaikat, “Sujudlah kamu kepada Adam!” Maka mereka pun sujud kecuali Iblis. Dia adalah dari (golongan) jin, maka dia mendurhakai perintah Tuhannya. Pantaskah kamu menjadikan dia dan keturunannya sebagai pemimpin selain Aku, padahal mereka adalah musuhmu? Sangat buruklah (Iblis itu) sebagai pengganti (Allah) bagi orang yang zalim.
+

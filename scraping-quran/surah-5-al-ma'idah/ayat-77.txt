@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+77
+
+surat :
+قُلْ يٰٓاَهْلَ الْكِتٰبِ لَا تَغْلُوْا فِيْ دِيْنِكُمْ غَيْرَ الْحَقِّ وَلَا تَتَّبِعُوْٓا اَهْوَاۤءَ قَوْمٍ قَدْ ضَلُّوْا مِنْ قَبْلُ وَاَضَلُّوْا كَثِيْرًا وَّضَلُّوْا عَنْ سَوَاۤءِ السَّبِيْلِ ࣖ 
+
+latin :
+qul yaa ahla lkitaabi laa taghluu fii diinikum ghayra lhaqqi walaa tattabi'uu ahwaa-a qawmin qad dhalluu min qablu wa-adhalluu katsiiran wadhalluu 'an sawaa-i ssabiil
+
+terjemahan :
+Katakanlah (Muhammad), “Wahai Ahli Kitab! Janganlah kamu berlebih-lebihan dengan cara yang tidak benar dalam agamamu. Dan janganlah kamu mengikuti keinginan orang-orang yang telah tersesat dahulu dan (telah) menyesatkan banyak (manusia), dan mereka sendiri tersesat dari jalan yang lurus.”
+

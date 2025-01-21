@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+104
+
+surat :
+وَاِذَا قِيْلَ لَهُمْ تَعَالَوْا اِلٰى مَآ اَنْزَلَ اللّٰهُ وَاِلَى الرَّسُوْلِ قَالُوْا حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ اٰبَاۤءَنَا ۗ اَوَلَوْ كَانَ اٰبَاۤؤُهُمْ لَا يَعْلَمُوْنَ شَيْـًٔا وَّلَا يَهْتَدُوْنَ 
+
+latin :
+wa-idzaa qiila lahum ta'aalaw ilaa maa anzala laahu wa-ilaa rrasuuli qaaluu hasbunaa maa wajadnaa 'alayhi aabaa-anaa awa law kaana aabaauhum laa ya'lamuuna syay-an walaa yahtaduun
+
+terjemahan :
+Dan apabila dikatakan kepada mereka, “Marilah (mengikuti) apa yang diturunkan Allah dan (mengikuti) Rasul.” Mereka menjawab, “Cukuplah bagi kami apa yang kami dapati nenek moyang kami (mengerjakannya).” Apakah (mereka akan mengikuti) juga nenek moyang mereka walaupun nenek moyang mereka itu tidak mengetahui apa-apa dan tidak (pula) mendapat petunjuk?
+

@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+109
+
+surat :
+وَدَّ كَثِيْرٌ مِّنْ اَهْلِ الْكِتٰبِ لَوْ يَرُدُّوْنَكُمْ مِّنْۢ بَعْدِ اِيْمَانِكُمْ كُفَّارًاۚ حَسَدًا مِّنْ عِنْدِ اَنْفُسِهِمْ مِّنْۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْحَقُّ ۚ فَاعْفُوْا وَاصْفَحُوْا حَتّٰى يَأْتِيَ اللّٰهُ بِاَمْرِهٖ ۗ اِنَّ اللّٰهَ عَ
+
+latin :
+wadda katsiirun min ahli alkitaabi law yarudduunakum min ba'di iimaanikum kuffaaran hasadan min 'indi anfusihim min ba'di maa tabayyana lahumu alhaqqu fau'fuu waishfahuu hattaa ya/tiya allaahu bi-amrihi inna allaaha 'alaa kulli syay-in qadiirun
+
+terjemahan :
+Banyak di antara Ahli Kitab menginginkan sekiranya mereka dapat mengembalikan kamu setelah kamu beriman, menjadi kafir kembali, karena rasa dengki dalam diri mereka, setelah kebenaran jelas bagi mereka. Maka maafkanlah dan berlapangdadalah, sampai Allah memberikan perintah-Nya. Sungguh, Allah Mahakuasa atas segala sesuatu.
+

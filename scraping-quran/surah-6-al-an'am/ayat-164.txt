@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+164
+
+surat :
+قُلْ اَغَيْرَ اللّٰهِ اَبْغِيْ رَبًّا وَّهُوَ رَبُّ كُلِّ شَيْءٍۗ وَلَا تَكْسِبُ كُلُّ نَفْسٍ اِلَّا عَلَيْهَاۚ وَلَا تَزِرُ وَازِرَةٌ وِّزْرَ اُخْرٰىۚ ثُمَّ اِلٰى رَبِّكُمْ مَّرْجِعُكُمْ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ فِيْهِ تَخْتَلِفُوْنَ 
+
+latin :
+qul aghayra laahi abghii rabban wahuwa rabbu kulli syay-in walaa taksibu kullu nafsin illaa 'alayhaa walaa taziru waaziratun wizra ukhraa tsumma ilaa rabbikum marji'ukum fayunabbi-ukum bimaa kuntum fiihi takhtalifuun
+
+terjemahan :
+Katakanlah (Muhammad), “Apakah (patut) aku mencari tuhan selain Allah, padahal Dialah Tuhan bagi segala sesuatu. Setiap perbuatan dosa seseorang, dirinya sendiri yang bertanggung jawab. Dan seseorang tidak akan memikul beban dosa orang lain. Kemudian kepada Tuhanmulah kamu kembali, dan akan diberitahukan-Nya kepadamu apa yang dahulu kamu perselisihkan.”
+

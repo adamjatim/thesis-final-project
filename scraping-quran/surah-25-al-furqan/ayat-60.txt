@@ -1,0 +1,30 @@
+no surat :
+25
+
+nama surat :
+Al-Furqan
+
+nama surat arab :
+الفرقان
+
+arti surat :
+Pembeda
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 77 ayat, termasuk golongan surat-surat Makkiyah. Dinamai Al Furqaan yang artinya pembeda, diambil dari kata Al Furqaan yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan Al Furqaan dalam ayat ini ialah Al Quran. Al Quran dinamakan Al Furqaan karena dia membedakan antara yang haq dengan yang batil. MAka pada surat ini pun terdapat ayat-ayat yang membedakan antara kebenaran ke-esaan Allah s.w.t. dengan kebatilan kepercayaan syirik.
+
+ayat :
+60
+
+surat :
+وَاِذَا قِيْلَ لَهُمُ اسْجُدُوْا لِلرَّحْمٰنِ قَالُوْا وَمَا الرَّحْمٰنُ اَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُوْرًا ۩ ࣖ
+
+latin :
+wa-idzaa qiila lahumu usjuduu lirrahmaani qaaluu wamaa rrahmaanu anasjudu limaa ta/murunaa wazaadahum nufuuraa
+
+terjemahan :
+Dan apabila dikatakan kepada mereka, “Sujudlah kepada Yang Maha Pengasih”, mereka menjawab, “Siapakah yang Maha Pengasih itu? Apakah kami harus sujud kepada Allah yang engkau (Muhammad) perintahkan kepada kami (bersujud kepada-Nya)?” Dan mereka makin jauh lari (dari kebenaran). 
+

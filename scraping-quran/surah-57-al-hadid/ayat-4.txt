@@ -1,0 +1,30 @@
+no surat :
+57
+
+nama surat :
+Al-Hadid
+
+nama surat arab :
+الحديد
+
+arti surat :
+Besi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hadiid terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Az Zalzalah. Dinamai Al Hadiid (Besi), diambil dari perkataan Al Hadiid yang terdapat pada ayat 25 surat ini.
+
+ayat :
+4
+
+surat :
+هُوَ الَّذِيْ خَلَقَ السَّمٰوٰتِ وَالْاَرْضَ فِيْ سِتَّةِ اَيَّامٍ ثُمَّ اسْتَوٰى عَلَى الْعَرْشِۚ يَعْلَمُ مَا يَلِجُ فِى الْاَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنْزِلُ مِنَ السَّمَاۤءِ وَمَا يَعْرُجُ فِيْهَاۗ وَهُوَ مَعَكُمْ اَيْنَ مَا كُنْتُمْۗ وَاللّ
+
+latin :
+huwa ladzii khalaqa ssamaawaati wal-ardha fii sittati ayyaamin tsumma istawaa 'alaa l'arsyi ya'lamu maa yaliju fii l-ardhi wamaa yakhruju minhaa wamaa yanzilu mina ssamaa-i wamaa ya'ruju fiihaa wahuwa ma'akum ayna maa kuntum walaahu bimaa ta'maluuna bashiir
+
+terjemahan :
+Dialah yang menciptakan langit dan bumi dalam enam masa; kemudian Dia bersemayam di atas ‘Arsy. Dia mengetahui apa yang masuk ke dalam bumi dan apa yang keluar dari dalamnya, apa yang turun dari langit dan apa yang naik ke sana. Dan Dia bersama kamu di mana saja kamu berada. Dan Allah Maha Melihat apa yang kamu kerjakan.
+

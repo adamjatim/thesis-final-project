@@ -1,0 +1,30 @@
+no surat :
+102
+
+nama surat :
+At-Takasur
+
+nama surat arab :
+التكاثر
+
+arti surat :
+Bermegah-Megahan
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat At Takaatsur terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kautsar. Dinamai At Takaatsur (bermegah-megahan) diambil dari perkataan At Takaatsur yang terdapat pada ayat pertama surat ini.
+
+ayat :
+8
+
+surat :
+ثُمَّ لَتُسْـَٔلُنَّ يَوْمَىِٕذٍ عَنِ النَّعِيْمِ ࣖ
+
+latin :
+tsumma latus-alunna yawma-idzin 'ani nna'iim
+
+terjemahan :
+kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu).
+

@@ -1,0 +1,30 @@
+no surat :
+57
+
+nama surat :
+Al-Hadid
+
+nama surat arab :
+الحديد
+
+arti surat :
+Besi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hadiid terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Az Zalzalah. Dinamai Al Hadiid (Besi), diambil dari perkataan Al Hadiid yang terdapat pada ayat 25 surat ini.
+
+ayat :
+22
+
+surat :
+مَآ اَصَابَ مِنْ مُّصِيْبَةٍ فِى الْاَرْضِ وَلَا فِيْٓ اَنْفُسِكُمْ اِلَّا فِيْ كِتٰبٍ مِّنْ قَبْلِ اَنْ نَّبْرَاَهَا ۗاِنَّ ذٰلِكَ عَلَى اللّٰهِ يَسِيْرٌۖ  
+
+latin :
+maa ashaaba min mushiibatin fii l-ardhi walaa fii anfusikum illaa fii kitaabin min qabli an nabra-ahaa inna dzaalika 'alaa laahi yasiir
+
+terjemahan :
+Setiap bencana yang menimpa di bumi dan yang menimpa dirimu sendiri, semuanya telah tertulis dalam Kitab (Lauh Mahfuzh) sebelum Kami mewujudkannya. Sungguh, yang demikian itu mudah bagi Allah. 
+

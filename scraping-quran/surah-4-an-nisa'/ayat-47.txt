@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+47
+
+surat :
+يٰٓاَيُّهَا الَّذِيْنَ اُوْتُوا الْكِتٰبَ اٰمِنُوْا بِمَا نَزَّلْنَا مُصَدِّقًا لِّمَا مَعَكُمْ مِّنْ قَبْلِ اَنْ نَّطْمِسَ وُجُوْهًا فَنَرُدَّهَا عَلٰٓى اَدْبَارِهَآ اَوْ نَلْعَنَهُمْ كَمَا لَعَنَّآ اَصْحٰبَ السَّبْتِ ۗ وَكَانَ اَمْرُ اللّٰهِ مَفْعُوْل
+
+latin :
+yaa ayyuhaa ladziina uutuu lkitaaba aaminuu bimaa nazzalnaa mushaddiqan limaa ma'akum min qabli an nathmisa wujuuhan fanaruddahaa 'alaa adbaarihaa aw nal'anahum kamaa la'annaa ash-haaba ssabti wakaana amru laahi maf'uulaa
+
+terjemahan :
+Wahai orang-orang yang telah diberi Kitab! Berimanlah kamu kepada apa yang telah Kami turunkan (Al-Qur'an) yang membenarkan Kitab yang ada pada kamu, sebelum Kami mengubah wajah-wajah(mu), lalu Kami putar ke belakang atau Kami laknat mereka sebagaimana Kami melaknat orang-orang (yang berbuat maksiat) pada hari Sabat (Sabtu). Dan ketetapan Allah pasti berlaku.
+

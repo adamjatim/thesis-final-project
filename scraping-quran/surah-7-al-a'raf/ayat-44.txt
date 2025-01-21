@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+44
+
+surat :
+وَنَادٰٓى اَصْحٰبُ الْجَنَّةِ اَصْحٰبَ النَّارِ اَنْ قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدْتُّمْ مَّا وَعَدَ رَبُّكُمْ حَقًّا ۗقَالُوْا نَعَمْۚ فَاَذَّنَ مُؤَذِّنٌۢ بَيْنَهُمْ اَنْ لَّعْنَةُ اللّٰهِ عَلَى الظّٰلِمِيْنَ 
+
+latin :
+wanaadaa ash-haabu ljannati ash-haaba nnaari an qad wajadnaa maa wa'adanaa rabbunaa haqqan fahal wajadtum maa wa'ada rabbukum haqqan qaaluu na'am fa-adzdzana mu-adzdzinun baynahum an la'natu laahi 'alaa zhzhaalimiin
+
+terjemahan :
+Dan para penghuni surga menyeru penghuni-penghuni neraka, “Sungguh, kami telah memperoleh apa yang dijanjikan Tuhan kepada kami itu benar. Apakah kamu telah memperoleh apa yang dijanjikan Tuhan kepadamu itu benar?” Mereka menjawab, “Benar.” Kemudian penyeru (malaikat) mengumumkan di antara mereka, “Laknat Allah bagi orang-orang zalim,
+

@@ -1,0 +1,30 @@
+no surat :
+22
+
+nama surat :
+Al-Hajj
+
+nama surat arab :
+الحج
+
+arti surat :
+Haji
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hajj, termasuk golongan surat-surat Madaniyyah, terdiri atas 78 ayat, sedang menurut pendapat sebahagian ahli tafsir termasuk golongan surat-surat Makkiyah. Sebab perbedaan ini ialah karena sebahagian ayat-ayat surat ini ada yang diturunkan di Mekah dan sebahagian lagi diturunkan di Madinah. Dinamai surat ini Al Hajj, karena surat ini mengemukakan hal-hal yang berhubungan dengan ibadat haji, seperti ihram, thawaf, sa'i, wuquf di Arafah, mencukur rambut, syi'ar-syi'ar Allah, faedah-faedah dan hikmah-hikmah disyari'atkannya haji. Ditegaskan pula bahwa ibadat haji itu telah disyari'atkan di masa Nabi Ibrahim a.s., dan Ka'bah didirikan oleh Nabi Ibrahim a.s. bersama puteranya Ismail a.s.Menurut Al Ghaznawi, surat Al Hajj termasuk di antara surat- surat yang ajaib, diturunkan di malam dan di siang hari, dalam musafir dan dalam keadaan tidak musafir, ada ayat-ayat yang diturunkan di Mekah dan ada pula yang diturunkan di Madinah, isinya ada yang berhubungan dengan peperangan dan ada pula yang berhubungan dengan perdamaian, ada ayat-ayatnya yang muhkam dan ada pula yang mutasyabihaat.
+
+ayat :
+25
+
+surat :
+اِنَّ الَّذِيْنَ كَفَرُوْا وَيَصُدُّوْنَ عَنْ سَبِيْلِ اللّٰهِ وَالْمَسْجِدِ الْحَرَامِ الَّذِيْ جَعَلْنٰهُ لِلنَّاسِ سَوَاۤءً ۨالْعَاكِفُ فِيْهِ وَالْبَادِۗ وَمَنْ يُّرِدْ فِيْهِ بِاِلْحَادٍۢ بِظُلْمٍ نُّذِقْهُ مِنْ عَذَابٍ اَلِيْمٍ ࣖ
+
+latin :
+inna ladziina kafaruu wayashudduuna 'an sabiili laahi walmasjidi lharaami ladzii ja'alnaahu linnaasi sawaa-an l'aakifu fiihi walbaadi waman yurid fiihi bi-ilhaadin bizhulmin nudziqhu min 'adzaabin liim
+
+terjemahan :
+Sungguh, orang-orang kafir dan yang menghalangi (manusia) dari jalan Allah dan dari Masjidilharam yang telah Kami jadikan terbuka untuk semua manusia, baik yang bermukim di sana maupun yang datang dari luar dan siapa saja yang bermaksud melakukan kejahatan secara zalim di dalamnya, niscaya akan Kami rasakan kepadanya siksa yang pedih.
+

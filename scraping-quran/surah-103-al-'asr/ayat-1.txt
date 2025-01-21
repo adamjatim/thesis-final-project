@@ -1,0 +1,30 @@
+no surat :
+103
+
+nama surat :
+Al-'Asr
+
+nama surat arab :
+العصر
+
+arti surat :
+Asar
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al 'Ashr terdiri atas 3 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Alam Nasyrah. Dinamai Al 'Ashr (masa) diambil dari perkataan Al 'Ashr yang terdapat pada ayat pertama surat ini.
+
+ayat :
+1
+
+surat :
+وَالْعَصْرِۙ
+
+latin :
+wal'ashr
+
+terjemahan :
+Demi masa,
+

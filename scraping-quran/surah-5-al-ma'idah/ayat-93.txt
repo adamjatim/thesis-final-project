@@ -1,0 +1,30 @@
+no surat :
+5
+
+nama surat :
+Al-Ma'idah
+
+nama surat arab :
+الماۤئدة
+
+arti surat :
+Hidangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.
+
+ayat :
+93
+
+surat :
+لَيْسَ عَلَى الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ جُنَاحٌ فِيْمَا طَعِمُوْٓا اِذَا مَا اتَّقَوْا وَّاٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ ثُمَّ اتَّقَوْا وَّاٰمَنُوْا ثُمَّ اتَّقَوْا وَّاَحْسَنُوْا ۗوَاللّٰهُ يُحِبُّ الْمُحْسِنِيْنَ ࣖ 
+
+latin :
+laysa 'alaa ladziina aamanuu wa'amiluu shshaalihaati junaahun fiimaa tha'imuu idzaa maa ittaqaw waaamanuu wa'amiluu shshaalihaati tsumma ittaqaw waaamanuu tsumma ittaqaw wa-ahsanuu walaahu yuhibbu lmuhsiniin
+
+terjemahan :
+Tidak berdosa bagi orang-orang yang beriman dan mengerjakan kebajikan tentang apa yang mereka makan (dahulu), apabila mereka bertakwa dan beriman, serta mengerjakan kebajikan, kemudian mereka tetap bertakwa dan beriman, selanjutnya mereka (tetap juga) bertakwa dan berbuat kebajikan. Dan Allah menyukai orang-orang yang berbuat kebajikan.
+

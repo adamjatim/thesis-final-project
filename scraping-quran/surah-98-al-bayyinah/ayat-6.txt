@@ -1,0 +1,30 @@
+no surat :
+98
+
+nama surat :
+Al-Bayyinah
+
+nama surat arab :
+البيّنة
+
+arti surat :
+Bukti Nyata
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Bayyinah terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Ath Thalaq. Dinamai Al Bayyinah (bukti yang nyata) diambil dari perkataan Al Bayyinah yang terdapat pada ayat pertama surat ini.
+
+ayat :
+6
+
+surat :
+اِنَّ الَّذِيْنَ كَفَرُوْا مِنْ اَهْلِ الْكِتٰبِ وَالْمُشْرِكِيْنَ فِيْ نَارِ جَهَنَّمَ خٰلِدِيْنَ فِيْهَاۗ اُولٰۤىِٕكَ هُمْ شَرُّ الْبَرِيَّةِۗ
+
+latin :
+inna ladziina kafaruu min ahli lkitaabi walmusyrikiina fii naari jahannama khaalidiina fiihaa ulaa-ika hum syarru lbariyya
+
+terjemahan :
+Sungguh, orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang musyrik (akan masuk) ke neraka Jahanam; mereka kekal di dalamnya selama-lamanya. Mereka itu adalah sejahat-jahat makhluk.
+

@@ -1,0 +1,30 @@
+no surat :
+7
+
+nama surat :
+Al-A'raf
+
+nama surat arab :
+الاعراف
+
+arti surat :
+Tempat Tertinggi
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.
+
+ayat :
+137
+
+surat :
+وَاَوْرَثْنَا الْقَوْمَ الَّذِيْنَ كَانُوْا يُسْتَضْعَفُوْنَ مَشَارِقَ الْاَرْضِ وَمَغَارِبَهَا الَّتِيْ بٰرَكْنَا فِيْهَاۗ وَتَمَّتْ كَلِمَتُ رَبِّكَ الْحُسْنٰى عَلٰى بَنِيْٓ اِسْرَاۤءِيْلَۙ بِمَا صَبَرُوْاۗ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَق
+
+latin :
+wa-awratsnaa lqawma ladziina kaanuu yustadh'afuuna masyaariqa l-ardhi wamaghaaribahaa latii baaraknaa fiihaa watammat kalimatu rabbika lhusnaa 'alaa banii israa-iila bimaa shabaruu wadammarnaa maa kaana yashna'u fir'awnu waqawmuhu wamaa kaanuu ya'risyuun
+
+terjemahan :
+Dan Kami wariskan kepada kaum yang tertindas itu, bumi bagian timur dan bagian baratnya yang telah Kami berkahi. Dan telah sempurnalah firman Tuhanmu yang baik itu (sebagai janji) untuk Bani Israil disebabkan kesabaran mereka. Dan Kami hancurkan apa yang telah dibuat Fir‘aun dan kaumnya dan apa yang telah mereka bangun.
+

@@ -1,0 +1,30 @@
+no surat :
+24
+
+nama surat :
+An-Nur
+
+nama surat arab :
+النّور
+
+arti surat :
+Cahaya
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nuur terdiri atas 64 ayat, dan termasuk golongan surat-surat Madaniyah. Dinamai An Nuur yang berarti Cahaya, diambil dari kata An Nuur yang terdapat pada ayat ke 35. Dalam ayat ini, Allah s.w.t. menjelaskan tentang Nuur Ilahi, yakni Al Quran yang mengandung petunjuk-petunjuk. Petunjuk-petunjuk Allah itu, merupakan cahaya yang terang benderang menerangi alam semesta. Surat ini sebagian besar isinya memuat petunjuk- petunjuk Allah yang berhubungan dengan soal kemasyarakatan dan rumah tangga.
+
+ayat :
+62
+
+surat :
+اِنَّمَا الْمُؤْمِنُوْنَ الَّذِيْنَ اٰمَنُوْا بِاللّٰهِ وَرَسُوْلِهٖ وَاِذَا كَانُوْا مَعَهٗ عَلٰٓى اَمْرٍ جَامِعٍ لَّمْ يَذْهَبُوْا حَتّٰى يَسْتَأْذِنُوْهُۗ اِنَّ الَّذِيْنَ يَسْتَأْذِنُوْنَكَ اُولٰۤىِٕكَ الَّذِيْنَ يُؤْمِنُوْنَ بِاللّٰهِ وَرَسُوْلِهٖۚ ف
+
+latin :
+innamaa lmu/minuuna ladziina aamanuu bilaahi warasuulihi wa-idzaa kaanuu ma'ahu 'alaa amrin jaami'in lam yadzhabuu hattaa yasta/dzinuuhu inna ladziina yasta/dzinuunaka ulaa-ika ladziina yu/minuuna bilaahi warasuulihi fa-idzaa ista/dzanuuka liba'dhi sya/nihim fa/dzan liman syi/ta minhum wastaghfir lahumu laaha inna laaha ghafuurun rahiim
+
+terjemahan :
+(Yang disebut) orang mukmin hanyalah orang yang beriman kepada Allah dan Rasul-Nya (Muhammad), dan apabila mereka berada bersama-sama dengan dia (Muhammad) dalam suatu urusan bersama, mereka tidak meninggalkan (Rasulullah) sebelum meminta izin kepadanya. Sesungguhnya orang-orang yang meminta izin kepadamu (Muhammad), mereka itulah orang-orang yang (benar-benar) beriman kepada Allah dan Rasul-Nya. Maka apabila mereka meminta izin kepadamu karena suatu keperluan, berilah izin kepada siapa yang engkau kehendaki di antara mereka, dan mohonkanlah ampunan untuk mereka kepada Allah. Sungguh, Allah Maha Pengampun, Maha Penyayang.
+

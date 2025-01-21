@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+25
+
+surat :
+وَمِنْهُمْ مَّنْ يَّسْتَمِعُ اِلَيْكَ ۚوَجَعَلْنَا عَلٰى قُلُوْبِهِمْ اَكِنَّةً اَنْ يَّفْقَهُوْهُ وَفِيْٓ اٰذَانِهِمْ وَقْرًا ۗوَاِنْ يَّرَوْا كُلَّ اٰيَةٍ لَّا يُؤْمِنُوْا بِهَا ۗحَتّٰٓى اِذَا جَاۤءُوْكَ يُجَادِلُوْنَكَ يَقُوْلُ الَّذِيْنَ كَفَرُوْٓا اِ
+
+latin :
+waminhum man yastami'u ilayka waja'alnaa 'alaa quluubihim akinnatan an yafqahuuhu wafii aatsaanihim waqran wa-in yaraw kulla aayatin laa yu/minuu bihaa hattaa idzaa jaauuka yujaadiluunaka yaquulu ladziina kafaruu in haadzaa illaa asaathiiru l-awwaliin
+
+terjemahan :
+Dan di antara mereka ada yang mendengarkan bacaanmu (Muhammad), dan Kami telah menjadikan hati mereka tertutup (sehingga mereka tidak) memahaminya, dan telinganya tersumbat. Dan kalaupun mereka melihat segala tanda (kebenaran), mereka tetap tidak mau beriman kepadanya. Sehingga apabila mereka datang kepadamu untuk membantahmu, orang-orang kafir itu berkata, “Ini (Al-Qur'an) tidak lain hanyalah dongengan orang-orang terdahulu.”
+

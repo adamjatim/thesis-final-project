@@ -1,0 +1,30 @@
+no surat :
+89
+
+nama surat :
+Al-Fajr
+
+nama surat arab :
+الفجر
+
+arti surat :
+Fajar
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 30 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Lail. Nama Al Fajr diambil dari kata Al Fajr yang terdapat pada ayat pertama surat ini yang artinya fajar.
+
+ayat :
+22
+
+surat :
+وَّجَآءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّاۚ
+
+latin :
+wajaa-a rabbuka walmalaku shaffan shaffaa
+
+terjemahan :
+dan datanglah Tuhanmu; dan malaikat berbaris-baris,
+

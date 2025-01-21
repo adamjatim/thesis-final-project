@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+20
+
+surat :
+وَاِنْ اَرَدْتُّمُ اسْتِبْدَالَ زَوْجٍ مَّكَانَ زَوْجٍۙ وَّاٰتَيْتُمْ اِحْدٰىهُنَّ قِنْطَارًا فَلَا تَأْخُذُوْا مِنْهُ شَيْـًٔا ۗ اَتَأْخُذُوْنَهٗ بُهْتَانًا وَّاِثْمًا مُّبِيْنًا 
+
+latin :
+wa-in aradtumu istibdaala zawjin makaana zawjin waaataytum ihdaahunna qinthaaran falaa ta/khudzuu minhu syay-an ata/khudzuunahu buhtaanan wa-itsman mubiinaa
+
+terjemahan :
+Dan jika kamu ingin mengganti istrimu dengan istri yang lain, sedang kamu telah memberikan kepada seorang di antara mereka harta yang banyak, maka janganlah kamu mengambil kembali sedikit pun darinya. Apakah kamu akan mengambilnya kembali dengan jalan tuduhan yang dusta dan dengan (menanggung) dosa yang nyata?
+

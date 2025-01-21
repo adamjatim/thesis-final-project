@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+243
+
+surat :
+۞ اَلَمْ تَرَ اِلَى الَّذِيْنَ خَرَجُوْا مِنْ دِيَارِهِمْ وَهُمْ اُلُوْفٌ حَذَرَ الْمَوْتِۖ  فَقَالَ لَهُمُ اللّٰهُ مُوْتُوْا ۗ ثُمَّ اَحْيَاهُمْ ۗ اِنَّ اللّٰهَ لَذُوْ فَضْلٍ عَلَى النَّاسِ وَلٰكِنَّ اَكْثَرَ النَّاسِ لَا يَشْكُرُوْنَ 
+
+latin :
+alam tara ilaa ladziina kharajuu min diyaarihim wahum uluufun hadzara lmawti faqaala lahumu laahu muutuu tsumma ahyaahum inna laaha ladzuu fadhlin 'alaa nnaasi walaakinna aktsara nnaasi laa yasykuruun
+
+terjemahan :
+Tidakkah kamu memperhatikan orang-orang yang keluar dari kampung halamannya, sedang jumlahnya ribuan karena takut mati? Lalu Allah berfirman kepada mereka, “Matilah kamu!” Kemudian Allah menghidupkan mereka. Sesungguhnya Allah memberikan karunia kepada manusia, tetapi kebanyakan manusia tidak bersyukur.
+

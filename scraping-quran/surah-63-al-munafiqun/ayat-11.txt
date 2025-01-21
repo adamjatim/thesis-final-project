@@ -1,0 +1,30 @@
+no surat :
+63
+
+nama surat :
+Al-Munafiqun
+
+nama surat arab :
+المنٰفقون
+
+arti surat :
+Orang-Orang Munafik
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hajj. Surat ini dinamai Al-Munaafiquun  yang artinya orang-orang munafik, karena surat ini mengungkapkan  sifat-sifat orang-orang munafik.
+
+ayat :
+11
+
+surat :
+وَلَنْ يُّؤَخِّرَ اللّٰهُ نَفْسًا اِذَا جَاۤءَ اَجَلُهَاۗ وَاللّٰهُ خَبِيْرٌۢ بِمَا تَعْمَلُوْنَ ࣖ 
+
+latin :
+walan yu-akhkhira laahu nafsan idzaa jaa-a ajaluhaa walaahu khabiirun bimaa ta'maluun
+
+terjemahan :
+Dan Allah tidak akan menunda (kematian) seseorang apabila waktu kematiannya telah datang. Dan Allah Mahateliti apa yang kamu kerjakan.
+

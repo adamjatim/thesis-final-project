@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+18
+
+surat :
+وَلَيْسَتِ التَّوْبَةُ لِلَّذِيْنَ يَعْمَلُوْنَ السَّيِّاٰتِۚ حَتّٰىٓ اِذَا حَضَرَ اَحَدَهُمُ الْمَوْتُ قَالَ اِنِّيْ تُبْتُ الْـٰٔنَ وَلَا الَّذِيْنَ يَمُوْتُوْنَ وَهُمْ كُفَّارٌ ۗ اُولٰۤىِٕكَ اَعْتَدْنَا لَهُمْ عَذَابًا اَلِيْمًا 
+
+latin :
+walaysati ttawbatu lilladziina ya'maluuna ssayyi-aati hattaa idzaa hadhara ahadahumu lmawtu qaala innii tubtu l-aana walaa ladziina yamuutuuna wahum kuffaarun ulaa-ika a'tadnaa lahum 'adzaaban liimaa
+
+terjemahan :
+Dan tobat itu tidaklah (diterima Allah) dari mereka yang melakukan kejahatan hingga apabila datang ajal kepada seseorang di antara mereka, (barulah) dia mengatakan, “Saya benar-benar bertobat sekarang.” Dan tidak (pula diterima tobat) dari orang-orang yang meninggal sedang mereka di dalam kekafiran. Bagi orang-orang itu telah Kami sediakan azab yang pedih.
+

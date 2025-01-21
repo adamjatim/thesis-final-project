@@ -1,0 +1,30 @@
+no surat :
+114
+
+nama surat :
+An-Nas
+
+nama surat arab :
+الناس
+
+arti surat :
+Manusia
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 6 ayat, termasuk golongan surat-surat Makkiyah,  diturunkan sesudah surat Al Falaq. Nama An Naas diambil dari An Naas yang berulang kali disebut dalam surat ini yang artinya manusia.
+
+ayat :
+3
+
+surat :
+اِلٰهِ النَّاسِۙ
+
+latin :
+ilaahi nnaas
+
+terjemahan :
+sembahan manusia,
+

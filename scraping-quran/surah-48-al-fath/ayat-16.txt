@@ -1,0 +1,30 @@
+no surat :
+48
+
+nama surat :
+Al-Fath
+
+nama surat arab :
+الفتح
+
+arti surat :
+Kemenangan
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Fath terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Jum'ah. Dinamakan Al Fath (kemenangan) diambil dari perkataan Fat-han yang terdapat pada ayat pertama surat ini. Sebagian besar dari ayat-ayat surat ini menerangkan hal-hal yang berhubungan dengan kemenangan yang dicapai Nabi Muhammad s.a.w. dalam peperangan-peperangannya. Nabi Muhammad s.a.w. sangat gembira dengan turunnya ayat pertama surat ini. Kegembiraan ini dinyatakan dalam sabda beliau yang diriwayatkan Bukhari; Sesungguhnya telah diturunkan kepadaku satu surat, yang surat itu benar-benar lebih aku cintai dari seluruh apa yang disinari matahari. Kegembiraan Nabi Muhammad s.a.w. itu ialah karena ayat-ayatnya menerangkan tentang kemenangan yang akan diperoleh Muhammad s.a.w. dalam perjuangannya dan tentang kesempurnaan nikmat Allah kepadanya.
+
+ayat :
+16
+
+surat :
+قُلْ لِّلْمُخَلَّفِيْنَ مِنَ الْاَعْرَابِ سَتُدْعَوْنَ اِلٰى قَوْمٍ اُولِيْ بَأْسٍ شَدِيْدٍ تُقَاتِلُوْنَهُمْ اَوْ يُسْلِمُوْنَ ۚ فَاِنْ تُطِيْعُوْا يُؤْتِكُمُ اللّٰهُ اَجْرًا حَسَنًا ۚ وَاِنْ تَتَوَلَّوْا كَمَا تَوَلَّيْتُمْ مِّنْ قَبْلُ يُعَذِّبْكُمْ عَ
+
+latin :
+qul lilmukhallafiina mina l-a'raabi satud'awna ilaa qawmin ulii ba/sin syadiidin tuqaatiluunahum aw yuslimuuna fa-in tuthii'uu yu/tikumu laahu ajran hasanan wa-in tatawallaw kamaa tawallaytum min qablu yu'adzdzibkum 'adzaaban liimaa
+
+terjemahan :
+Katakanlah kepada orang-orang Badui yang tertinggal, “Kamu akan diajak untuk (memerangi) kaum yang mempunyai kekuatan yang besar, kamu harus memerangi mereka kecuali mereka menyerah. Jika kamu patuhi (ajakan itu) Allah akan memberimu pahala yang baik, tetapi jika kamu berpaling seperti yang kamu perbuat sebelumnya, Dia akan mengazab kamu dengan azab yang pedih.” 
+

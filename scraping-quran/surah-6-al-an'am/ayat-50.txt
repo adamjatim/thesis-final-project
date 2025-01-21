@@ -1,0 +1,30 @@
+no surat :
+6
+
+nama surat :
+Al-An'am
+
+nama surat arab :
+الانعام
+
+arti surat :
+Binatang Ternak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.
+
+ayat :
+50
+
+surat :
+قُلْ لَّآ اَقُوْلُ لَكُمْ عِنْدِيْ خَزَاۤىِٕنُ اللّٰهِ وَلَآ اَعْلَمُ الْغَيْبَ وَلَآ اَقُوْلُ لَكُمْ اِنِّيْ مَلَكٌۚ اِنْ اَتَّبِعُ اِلَّا مَا يُوْحٰٓى اِلَيَّۗ  قُلْ هَلْ يَسْتَوِى الْاَعْمٰى وَالْبَصِيْرُۗ اَفَلَا تَتَفَكَّرُوْنَ ࣖ
+
+latin :
+qul laa aquulu lakum 'indii khazaa-inu laahi walaa a'lamu lghayba walaa aquulu lakum innii malakun in attabi'u illaa maa yuuhaa ilayya qul hal yastawii l-a'maa walbashiiru afalaa tatafakkaruun
+
+terjemahan :
+Katakanlah (Muhammad), “Aku tidak mengatakan kepadamu, bahwa perbendaharaan Allah ada padaku, dan aku tidak mengetahui yang gaib dan aku tidak (pula) mengatakan kepadamu bahwa aku malaikat. Aku hanya mengikuti apa yang diwahyukan kepadaku.” Katakanlah, “Apakah sama orang yang buta dengan orang yang melihat? Apakah kamu tidak memikirkan(nya)?”
+

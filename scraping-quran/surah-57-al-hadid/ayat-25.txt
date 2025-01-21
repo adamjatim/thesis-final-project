@@ -1,0 +1,30 @@
+no surat :
+57
+
+nama surat :
+Al-Hadid
+
+nama surat arab :
+الحديد
+
+arti surat :
+Besi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Hadiid terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Az Zalzalah. Dinamai Al Hadiid (Besi), diambil dari perkataan Al Hadiid yang terdapat pada ayat 25 surat ini.
+
+ayat :
+25
+
+surat :
+لَقَدْ اَرْسَلْنَا رُسُلَنَا بِالْبَيِّنٰتِ وَاَنْزَلْنَا مَعَهُمُ الْكِتٰبَ وَالْمِيْزَانَ لِيَقُوْمَ النَّاسُ بِالْقِسْطِۚ وَاَنْزَلْنَا الْحَدِيْدَ فِيْهِ بَأْسٌ شَدِيْدٌ وَّمَنَافِعُ لِلنَّاسِ وَلِيَعْلَمَ اللّٰهُ مَنْ يَّنْصُرُهٗ وَرُسُلَهٗ بِالْغَيْ
+
+latin :
+laqad arsalnaa rusulanaa bilbayyinaati wa-anzalnaa ma'ahumu lkitaaba walmiizaana liyaquuma nnaasu bilqisthi wa-anzalnaa lhadiida fiihi ba/sun syadiidun wamanaafi'u linnaasi waliya'lama laahu man yanshuruhu warusulahu bilghaybi inna laaha qawiyyun 'aziiz
+
+terjemahan :
+Sungguh, Kami telah mengutus rasul-rasul Kami dengan bukti-bukti yang nyata dan kami turunkan bersama mereka kitab dan neraca (keadilan) agar manusia dapat berlaku adil. Dan Kami menciptakan besi yang mempunyai kekuatan, hebat dan banyak manfaat bagi manusia, dan agar Allah mengetahui siapa yang menolong (agama)-Nya dan rasul-rasul-Nya walaupun (Allah) tidak dilihatnya. Sesungguhnya Allah Mahakuat, Mahaperkasa.
+

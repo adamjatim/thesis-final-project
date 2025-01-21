@@ -1,0 +1,30 @@
+no surat :
+3
+
+nama surat :
+Ali 'Imran
+
+nama surat arab :
+اٰل عمران
+
+arti surat :
+Keluarga Imran
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.
+
+ayat :
+140
+
+surat :
+اِنْ يَّمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ مِّثْلُهٗ ۗوَتِلْكَ الْاَيَّامُ نُدَاوِلُهَا بَيْنَ النَّاسِۚ وَلِيَعْلَمَ اللّٰهُ الَّذِيْنَ اٰمَنُوْا وَيَتَّخِذَ مِنْكُمْ شُهَدَاۤءَ ۗوَاللّٰهُ لَا يُحِبُّ الظّٰلِمِيْنَۙ
+
+latin :
+in yamsaskum qarhun faqad massa lqawma qarhun mitsluhu watilka l-ayyaamu nudaawiluhaa bayna nnaasi waliya'lama laahu ladziina aamanuu wayattakhidza minkum syuhadaa-a walaahu laa yuhibbu zhzhaalimiinin yamsaskum qarhun faqad massa lqawma qarhun mitsluhu watilka l-ayyaamu nudaawiluhaa bayna nnaasi waliya'lama laahu ladziina aamanuu wayattakhidza minkum syuhadaa-a walaahu laa yuhibbu zhzhaalimiin
+
+terjemahan :
+Jika kamu (pada Perang Uhud) mendapat luka, maka mereka pun (pada Perang Badar) mendapat luka yang serupa. Dan masa (kejayaan dan kehancuran) itu, Kami pergilirkan di antara manusia (agar mereka mendapat pelajaran), dan agar Allah membedakan orang-orang yang beriman (dengan orang-orang kafir) dan agar sebagian kamu dijadikan-Nya (gugur sebagai) syuhada. Dan Allah tidak menyukai orang-orang zalim,
+

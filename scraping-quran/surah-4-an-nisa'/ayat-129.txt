@@ -1,0 +1,30 @@
+no surat :
+4
+
+nama surat :
+An-Nisa'
+
+nama surat arab :
+النساۤء
+
+arti surat :
+Wanita
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).
+
+ayat :
+129
+
+surat :
+وَلَنْ تَسْتَطِيْعُوْٓا اَنْ تَعْدِلُوْا بَيْنَ النِّسَاۤءِ وَلَوْ حَرَصْتُمْ فَلَا تَمِيْلُوْا كُلَّ الْمَيْلِ فَتَذَرُوْهَا كَالْمُعَلَّقَةِ ۗوَاِنْ تُصْلِحُوْا وَتَتَّقُوْا فَاِنَّ اللّٰهَ كَانَ غَفُوْرًا رَّحِيْمًا
+
+latin :
+walan tastathii'uu an ta'diluu bayna nnisaa-i walaw harashtum falaa tamiiluu kulla lmayli fatadzaruuhaa kalmu'allaqati wa-in tushlihuu watattaquu fa-inna laaha kaana ghafuuran rahiimaa
+
+terjemahan :
+Dan kamu tidak akan dapat berlaku adil di antara istri-istri(mu), walaupun kamu sangat ingin berbuat demikian, karena itu janganlah kamu terlalu cenderung (kepada yang kamu cintai), sehingga kamu biarkan yang lain terkatung-katung. Dan jika kamu mengadakan perbaikan dan memelihara diri (dari kecurangan), maka sungguh, Allah Maha Pengampun, Maha Penyayang.
+

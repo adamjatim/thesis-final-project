@@ -1,0 +1,30 @@
+no surat :
+93
+
+nama surat :
+Ad-Duha
+
+nama surat arab :
+الضحى
+
+arti surat :
+Duha
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat ini terdiri atas 11 ayat, termasuk golongan surat Makiyyah dan diturunkan sesudah surat Al Fajr. Nama Adh Dhuhaa diambil dari kata yang terdapat pada ayat pertama, artinya : waktu matahari sepenggalahan naik.
+
+ayat :
+6
+
+surat :
+اَلَمْ يَجِدْكَ يَتِيْمًا فَاٰوٰىۖ
+
+latin :
+alam yajidka yatiiman faaawaa
+
+terjemahan :
+Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(mu),
+

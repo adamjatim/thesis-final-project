@@ -1,0 +1,30 @@
+no surat :
+50
+
+nama surat :
+Qaf
+
+nama surat arab :
+ق
+
+arti surat :
+Qaf
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Qaaf terdiri atas 45 ayat, termasuk golongan surat-surat Makkiyah diturunkan sesudah surat Al Murssalaat. Dinamai Qaaf karena surat ini dimulai dengan huruf Qaaf. Menurut hadits yang diriwayatkan Imam Muslim, bahwa Rasulullah SAW senang membaca surat ini pada rakaat pertama sembahyang subuh dan pada shalat hari raya. Sedang menurut riwayat Abu Daud, Al Baihaqy dan Ibnu Majah bahwa Rasulullah SAW membaca surat ini pada tiap-tiap membaca Khutbah pada hari Jum'at. Kedua riwayat ini menunjukkan bahwa surat QAAF sering dibaca Nabi Muhammad SAW di tempat-tempat umum, untuk memperingatkan manusia tentang kejadian mereka dan nikmat-nikmat yang diberikan kepadanya, begitu pula tentang hari berbangkit, hari berhisab, syurga, neraka, pahala, dosa, dsb. Surat ini dinamai juga Al Baasiqaat, diambil dari perkataan Al- Baasiqaat yang terdapat pada ayat 10 surat ini.
+
+ayat :
+33
+
+surat :
+مَنْ خَشِيَ الرَّحْمٰنَ بِالْغَيْبِ وَجَاۤءَ بِقَلْبٍ مُّنِيْبٍۙ
+
+latin :
+man khasyiya rrahmaana bilghaybi wajaa-a biqalbin muniib
+
+terjemahan :
+(Yaitu) orang yang takut kepada Allah Yang Maha Pengasih sekalipun tidak kelihatan (olehnya) dan dia datang dengan hati yang bertobat, 
+

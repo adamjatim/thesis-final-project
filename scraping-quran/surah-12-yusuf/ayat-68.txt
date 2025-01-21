@@ -1,0 +1,30 @@
+no surat :
+12
+
+nama surat :
+Yusuf
+
+nama surat arab :
+يوسف
+
+arti surat :
+Yusuf
+
+tempat turun :
+mekah
+
+deskripsi :
+ Surat Yusuf ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum hijrah. Surat ini dinamakan surat Yusuf adalah karena titik berat dari isinya mengenai riwayat Nabi Yusuf a.s.  Riwayat tersebut salah satu di antara cerita-cerita ghaib yang diwahyukan kepada Nabi Muhammad s.a.w. sebagai mukjizat bagi beliau, sedang beliau sebelum diturunkan surat ini tidak mengetahuinya.  Menurut riwayat Al Baihaqi dalam kitab Ad Dalail bahwa segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf a.s. ini, karena sesuai dengan cerita-cerita yang mereka ketahui. Dari cerita Yusuf a.s. ini, Nabi Muhammad s.a.w. mengambil pelajaran-pelajaran yang banyak dan merupakan penghibur terhadap beliau dalam menjalankan tugasnya.
+
+ayat :
+68
+
+surat :
+وَلَمَّا دَخَلُوْا مِنْ حَيْثُ اَمَرَهُمْ اَبُوْهُمْۗ مَا كَانَ يُغْنِيْ عَنْهُمْ مِّنَ اللّٰهِ مِنْ شَيْءٍ اِلَّا حَاجَةً فِيْ نَفْسِ يَعْقُوْبَ قَضٰىهَاۗ وَاِنَّهٗ لَذُوْ عِلْمٍ لِّمَا عَلَّمْنٰهُ وَلٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُوْنَ ࣖ
+
+latin :
+walammaa dakhaluu min haytsu amarahum abuuhum maa kaana yughnii 'anhum mina laahi min syay-in illaa haajatan fii nafsi ya'quuba qadaahaa wa-innahu ladzuu 'ilmin limaa 'allamnaahu walaakinna aktsara nnaasi laa ya'lamuun
+
+terjemahan :
+Dan ketika mereka masuk sesuai dengan perintah ayah mereka, (masuknya mereka itu) tidak dapat menolak sedikit pun keputusan Allah, (tetapi itu) hanya suatu keinginan pada diri Yakub yang telah ditetapkannya. Dan sesungguhnya dia mempunyai pengetahuan, karena Kami telah mengajarkan kepadanya. Tetapi kebanyakan manusia tidak mengetahui.
+

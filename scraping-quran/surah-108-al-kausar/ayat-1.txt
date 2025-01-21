@@ -1,0 +1,30 @@
+no surat :
+108
+
+nama surat :
+Al-Kausar
+
+nama surat arab :
+الكوثر
+
+arti surat :
+Pemberian Yang Banyak
+
+tempat turun :
+mekah
+
+deskripsi :
+Surat Al Kautsar terdiri atas 3 ayat, termasuk golongan surat-surat  Makkiyyah diturunkan sesudah surat Al 'Aadiyaat. Dinamai Al Kautsar (nikmat yang banyak) diambil dari perkataan Al Kautsar yang terdapat pada ayat pertama surat ini.Surat ini sebagai penghibur hati Nabi Muhammad s.a.w.
+
+ayat :
+1
+
+surat :
+اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ
+
+latin :
+innaa a'thaynaaka lkawtsar
+
+terjemahan :
+Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak.
+

@@ -1,0 +1,30 @@
+no surat :
+2
+
+nama surat :
+Al-Baqarah
+
+nama surat arab :
+البقرة
+
+arti surat :
+Sapi
+
+tempat turun :
+madinah
+
+deskripsi :
+Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.
+
+ayat :
+85
+
+surat :
+ثُمَّ اَنْتُمْ هٰٓؤُلَاۤءِ تَقْتُلُوْنَ اَنْفُسَكُمْ وَتُخْرِجُوْنَ فَرِيْقًا مِّنْكُمْ مِّنْ دِيَارِهِمْۖ تَظٰهَرُوْنَ عَلَيْهِمْ بِالْاِثْمِ وَالْعُدْوَانِۗ وَاِنْ يَّأْتُوْكُمْ اُسٰرٰى تُفٰدُوْهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ اِخْرَاجُهُمْ ۗ اَفَتُؤْمِ
+
+latin :
+tsumma antum haaulaa-i taqtuluuna anfusakum watukhrijuuna fariiqan minkum min diyaarihim tazhaaharuuna 'alayhim bil-itsmi wal'udwaani wa-in ya/tuukum usaaraa tufaaduuhum wahuwa muharramun 'alaykum ikhraajuhum afatu/minuuna biba'dhi lkitaabi watakfuruuna biba'dhin famaa jazaau man yaf'alu dzaalika minkum illaa khizyun fii lhayaati ddunyaa wayawma lqiyaamati yuradduuna ilaa asyaddi l'adzaabi wamaa laahu bighaafilin 'ammaa ta'maluun
+
+terjemahan :
+Kemudian kamu (Bani Israil) membunuh dirimu (sesamamu), dan mengusir segolongan dari kamu dari kampung halamannya. Kamu saling membantu (menghadapi) mereka dalam kejahatan dan permusuhan. Dan jika mereka datang kepadamu sebagai tawanan, kamu tebus mereka, padahal kamu dilarang mengusir mereka. Apakah kamu beriman kepada sebagian Kitab (Taurat) dan ingkar kepada sebagian (yang lain)? Maka tidak ada balasan (yang pantas) bagi orang yang berbuat demikian di antara kamu selain kenistaan dalam kehidupan dunia, dan pada hari Kiamat mereka dikembalikan kepada azab yang paling berat. Dan Allah tidak lengah terhadap apa yang kamu kerjakan.
+
