@@ -24,7 +24,7 @@ def generate_json(words, output_filename):
                 "multiple":True, # type: ignore
                 "parentSelectors":["_root"],
                 "regex":"",
-                "selector":"div.result-postag, .article-label a, .one-par-content",
+                "selector":"#search > div.search-result-area > div.note-resultintro > b, div.result-postag, .article-label a, .one-par-content",
                 "type":"SelectorText"
             }
         ]
@@ -38,7 +38,7 @@ def generate_json(words, output_filename):
 
 # Jalankan fungsi
 input_file = "list_1.0.0.txt"  # Nama file yang berisi daftar kata
-output_file = "tesaurus_sitemap.json"  # Nama output JSON
+output_file = "tesaurus_sitemap_001.json"  # Nama output JSON
 
 words = read_words_from_file(input_file)
 generate_json(words, output_file)
